@@ -2,19 +2,19 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: ""
-url: "https://mauphilos.github.io"
+url: "https://ybot.top"
 date_format: "ordinal"
-title: MauPhilos
-subtitle: "记录思考、技术与有趣的互联网"
-description: "欢迎来到 MauPhilos。这是一个记录思考、整理技术、分享工具与网络见闻的个人站点。在这里，你会看到实用的软件资源、折腾笔记、数字生活经验，以及值得收藏的互联网内容。"
-keywords: MauPhilos,个人博客,技术博客,互联网分享,实用工具,软件推荐,折腾笔记,数字生活,网络资源,GitHub Pages
+title: MauR Eclipse
+subtitle: "记录技术、灵感与网络发现"
+description: "欢迎来到 MauR Eclipse。这是一个分享技术笔记、实用工具、网络见闻与数字生活内容的个人站点。在这里，你可以记录折腾过程，整理思考，也可以收藏那些真正有价值的互联网内容。"
+keywords: YBot,ybot.top,个人博客,技术博客,互联网分享,实用工具,软件推荐,折腾笔记,数字生活,GitHub Pages
 timezone: Asia/Shanghai
 encoding: "utf-8"
 
 # 页面左下角显示的年份
 since: 2024
 
-# 源码仓库，请替换成自己的
+# 源码仓库
 repository: mauphilos/mauphilos.github.io
 
 # 对 css 和 js 资源的 cdn 加速配置
@@ -48,7 +48,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: false
-        image_alt: MauPhilos
+        image_alt: YBot
 
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
@@ -63,13 +63,13 @@ compress_html:
   clippings: all
   comments: ["<!--", "-->"]
 
-# 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
+# 代码高亮风格
 highlight_theme: github
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: MauPhilos
+author: YBot
 organization:
 organization_url:
 github_username: mauphilos
@@ -156,11 +156,9 @@ collections:
 # support provider: disqus, gitment, gitalk, utterances, beaudar, giscus
 comments_provider: giscus
 
-# disqus 配置参考：https://disqus.com
 disqus:
     username:
 
-# gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: mauphilos
     repo: mauphilos.github.io-comments
@@ -168,22 +166,18 @@ gitment:
         client_id:
         client_secret:
 
-# gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
     owner: mauphilos
     repo: mauphilos.github.io-comments
     clientID:
     clientSecret:
 
-# utterances 配置参考：https://utteranc.es/
 utterances:
     repo: mauphilos/mauphilos.github.io
 
-# beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
     repo: mauphilos/mauphilos.github.io
 
-# giscus 配置参考：https://giscus.app/zh-CN
 giscus:
     repo: mauphilos/mauphilos.github.io
     repo-id:
@@ -197,9 +191,7 @@ lazy_load_disqus: false
 #      Search      #
 # ---------------- #
 simple_jekyll_search:
-    # 是否支持全文搜索
     fulltext: false
-    # 最多显示多少条搜索结果
     limit: 10
 
 # ---------------- #
