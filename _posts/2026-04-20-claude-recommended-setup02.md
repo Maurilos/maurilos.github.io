@@ -2,8 +2,8 @@
 layout: post
 title: Claude Code Memory 系统底层逻辑全解析：你的“记忆”为什么会失效
 categories: [AI, claude]
-description: some word here
-keywords: keyword1, keyword2
+description: 解析 CLAUDE.md 的底层逻辑、注入机制与最佳实践，帮助你快速理解 Claude 的配置思路。
+keywords: CLAUDE.md, Claude, Anthropic, prompt engineering, best practices
 mermaid: false
 sequence: false
 flow: false
