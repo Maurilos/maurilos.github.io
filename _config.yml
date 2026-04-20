@@ -4,8 +4,8 @@
 baseurl: ""
 url: "https://ybot.top"
 date_format: "ordinal"
-title: YBot Archive - 技术文章、工具笔记与内容留存
-subtitle: "记录技术实践，整理工具经验，留存值得反复查看的网页与内容"
+title: YBot Archive
+subtitle: "技术文章、工具笔记与内容留存"
 description: "关于技术、折腾、阅读与长期留存的一份持续记录。"
 keywords: ybot, ybot.top, 技术博客, 开发笔记, 技术文章, 工具教程, 运维记录, 内容留存, 网页归档, 知识整理
 timezone: Asia/Shanghai
