@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Best 10 AI Tools for Prompt Engineering in 2026 | Agent Skills Hub",
+    "url": "https://agentskillshub.top/best/prompt-engineering/",
+    "quick_pick": {
+      "name": "phoenix",
+      "stars": "9.4k",
+      "tagline": "AI Observability & Evaluation"
+    },
+    "tools": []
+  },
+  {
+    "title": "Best 10 AI Tools for Browser Automation in 2026 | Agent Skills Hub",
+    "url": "https://agentskillshub.top/best/browser-automation/",
+    "quick_pick": {
+      "name": "qaskills",
+      "stars": "102",
+      "tagline": "QA Skills Directory QA Skills is a curated directory of testing-specific skills"
+    },
+    "tools": []
+  },
+  {
+    "title": "Best 10 AI Tools for Workflow Automation in 2026 | Agent Skills Hub",
+    "url": "https://agentskillshub.top/best/workflow-automation/",
+    "quick_pick": {
+      "name": "Claude-Code-Workflow",
+      "stars": "1.8k",
+      "tagline": "JSON-driven multi-agent  cadence-team development framework with   intelligent C"
+    },
+    "tools": []
+  }
+]
