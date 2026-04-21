@@ -1,7 +1,10 @@
 [
   {
-    "title": "Best 10 AI Tools for Prompt Engineering in 2026 | Agent Skills Hub",
+    "title": "Best AI Agent Skills for Prompt Engineering in 2026",
     "url": "https://agentskillshub.top/best/prompt-engineering/",
+    "source_url": "https://agentskillshub.top/best/prompt-engineering/",
+    "slug": "prompt-engineering",
+    "local_url": "/agent-skills/scenario/prompt-engineering/",
     "quick_pick": {
       "name": "phoenix",
       "stars": "9.4k",
@@ -10,8 +13,11 @@
     "tools": []
   },
   {
-    "title": "Best 10 AI Tools for Browser Automation in 2026 | Agent Skills Hub",
+    "title": "Best AI Agent Skills for Browser Automation in 2026",
     "url": "https://agentskillshub.top/best/browser-automation/",
+    "source_url": "https://agentskillshub.top/best/browser-automation/",
+    "slug": "browser-automation",
+    "local_url": "/agent-skills/scenario/browser-automation/",
     "quick_pick": {
       "name": "qaskills",
       "stars": "102",
@@ -20,8 +26,11 @@
     "tools": []
   },
   {
-    "title": "Best 10 AI Tools for Workflow Automation in 2026 | Agent Skills Hub",
+    "title": "Best AI Agent Skills for Workflow Automation in 2026",
     "url": "https://agentskillshub.top/best/workflow-automation/",
+    "source_url": "https://agentskillshub.top/best/workflow-automation/",
+    "slug": "workflow-automation",
+    "local_url": "/agent-skills/scenario/workflow-automation/",
     "quick_pick": {
       "name": "Claude-Code-Workflow",
       "stars": "1.8k",
