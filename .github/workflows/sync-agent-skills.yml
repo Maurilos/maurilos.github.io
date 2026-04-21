@@ -273,7 +273,7 @@ jobs:
               lines.append(f"# {title}")
               lines.append("")
               if source_url:
-                  lines.append(f"原始来源：[点击查看原站]({source_url})")
+
                   lines.append("")
 
               if quick_pick and quick_pick.get("name"):
