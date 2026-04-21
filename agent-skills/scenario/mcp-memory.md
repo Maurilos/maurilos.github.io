@@ -6,7 +6,6 @@ permalink: /agent-skills/scenario/mcp-memory/
 
 # Best AI Agent Skills for MCP Memory & Knowledge in 2026
 
-原始来源：[点击查看原站](https://agentskillshub.top/best/mcp-memory/)
 
 ## Quick Pick
 **memora** · ★ 394 · Give your AI agents persistent memory.
