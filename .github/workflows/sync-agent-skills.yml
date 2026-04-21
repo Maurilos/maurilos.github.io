@@ -36,12 +36,16 @@ jobs:
           import os
           import re
           from datetime import datetime, timezone
-          from urllib.parse import urljoin, urlparse
 
           import requests
           from bs4 import BeautifulSoup
 
           BASE = "https://agentskillshub.top"
+          CURATED_PATHS = [
+              "/best/prompt-engineering/",
+              "/best/browser-automation/",
+              "/best/workflow-automation/",
+          ]
 
           session = requests.Session()
           session.headers.update({
@@ -95,65 +99,24 @@ jobs:
                   "projects_count": projects_count,
                   "scenarios_count": scenarios_count,
                   "refresh_hours": refresh_hours,
-                  "source": BASE
+                  "source": BASE,
               }
-
-          def parse_best_scenarios():
-              soup = soup_of(BASE + "/best/")
-              items = []
-              seen = set()
-
-              for a in soup.select("a[href]"):
-                  href = a.get("href", "").strip()
-                  name = a.get_text(" ", strip=True).replace("→", "").strip()
-                  if not href or not name:
-                      continue
-
-                  full = urljoin(BASE, href)
-                  path = urlparse(full).path.rstrip("/")
-
-                  if not path.startswith("/best"):
-                      continue
-                  if path in ("/best", ""):
-                      continue
-                  if full in seen:
-                      continue
-                  if name in {"GitHub", "Home", "中文", "X"}:
-                      continue
-                  if len(name) < 2:
-                      continue
-
-                  slug = safe_slug(path.strip("/").split("/")[-1])
-
-                  seen.add(full)
-                  items.append({
-                      "name": name,
-                      "url": full,
-                      "source_url": full,
-                      "slug": slug,
-                      "local_url": f"/agent-skills/scenario/{slug}/"
-                  })
-
-              return items
 
           def parse_scenario_page(path: str):
               url = BASE + path
               soup = soup_of(url)
               lines = text_lines(soup)
               text = "\n".join(lines)
-
               slug = safe_slug(path.strip("/").split("/")[-1])
 
               title = None
               h1 = soup.find("h1")
               if h1:
                   title = h1.get_text(" ", strip=True)
-
               if not title:
                   title_tag = soup.find("title")
                   if title_tag:
                       title = title_tag.get_text(" ", strip=True)
-
               if not title:
                   title = slug.replace("-", " ").title()
 
@@ -161,70 +124,61 @@ jobs:
               qp = re.search(
                   r"Quick Pick\s*—\s*If you only pick one, go with\s+(.+?)\s+★\s*([^\s]+)\s*—\s*(.+)",
                   text,
-                  re.I
+                  re.I,
               )
               if qp:
                   quick_pick = {
                       "name": qp.group(1).strip(),
                       "stars": qp.group(2).strip(),
-                      "tagline": qp.group(3).strip()
+                      "tagline": qp.group(3).strip(),
                   }
 
               tools = []
               i = 0
               while i < len(lines):
-                  line = lines[i]
-                  m = re.match(r"^(\d+)\s+(.+?)\s+by\s+(.+)$", line)
-                  if m:
-                      rank, name, author = m.groups()
-                      stars = ""
-                      meta = ""
-                      description = ""
-
-                      j = i + 1
-                      while j < len(lines) and j < i + 10:
-                          nxt = lines[j]
-
-                          if re.match(r"^\d+\s+.+?\s+by\s+.+$", nxt):
-                              break
-                          if nxt.lower().startswith("comparison") or nxt.startswith("## Comparison"):
-                              break
-
-                          if nxt.startswith("★"):
-                              sm = re.match(r"^★\s*([^\s]+)\s*(.*)$", nxt)
-                              if sm:
-                                  stars = sm.group(1).strip()
-                                  meta = sm.group(2).strip()
-                          elif nxt not in {
-                              "View Details → GitHub →",
-                              "View Details →",
-                              "GitHub →"
-                          } and not nxt.startswith("##"):
-                              if not description and len(nxt) > 2:
-                                  description = nxt
-
-                          j += 1
-
-                      tools.append({
-                          "rank": int(rank),
-                          "name": name.strip(),
-                          "author": author.strip(),
-                          "stars": stars,
-                          "meta": meta,
-                          "description": description
-                      })
-                      i = j
+                  m = re.match(r"^(\d+)\s+(.+?)\s+by\s+(.+)$", lines[i])
+                  if not m:
+                      i += 1
                       continue
-                  i += 1
+
+                  rank, name, author = m.groups()
+                  stars = ""
+                  meta = ""
+                  description = ""
+                  j = i + 1
+                  while j < len(lines) and j < i + 10:
+                      nxt = lines[j]
+                      if re.match(r"^\d+\s+.+?\s+by\s+.+$", nxt):
+                          break
+                      if nxt.lower().startswith("comparison") or nxt.startswith("## Comparison"):
+                          break
+                      if nxt.startswith("★"):
+                          sm = re.match(r"^★\s*([^\s]+)\s*(.*)$", nxt)
+                          if sm:
+                              stars = sm.group(1).strip()
+                              meta = sm.group(2).strip()
+                      elif nxt not in {"View Details → GitHub →", "View Details →", "GitHub →"} and not nxt.startswith("##"):
+                          if not description and len(nxt) > 2:
+                              description = nxt
+                      j += 1
+
+                  tools.append({
+                      "rank": int(rank),
+                      "name": name.strip(),
+                      "author": author.strip(),
+                      "stars": stars,
+                      "meta": meta,
+                      "description": description,
+                  })
+                  i = j
 
               return {
                   "title": title,
-                  "url": url,
                   "source_url": url,
                   "slug": slug,
                   "local_url": f"/agent-skills/scenario/{slug}/",
                   "quick_pick": quick_pick,
-                  "tools": tools[:10]
+                  "tools": tools[:10],
               }
 
           def write_json(path: str, data):
@@ -232,57 +186,50 @@ jobs:
               with open(path, "w", encoding="utf-8") as f:
                   json.dump(data, f, ensure_ascii=False, indent=2)
 
-          def write_local_scenario_page(block):
-              slug = block.get("slug")
-              if not slug:
-                  return
-
-              title = block.get("title", slug.replace("-", " ").title())
-              source_url = block.get("source_url", "")
+          def write_local_page(block):
+              slug = block["slug"]
+              title = block["title"]
+              source_url = block["source_url"]
               quick_pick = block.get("quick_pick", {})
               tools = block.get("tools", [])
 
-              lines = []
-              lines.append("---")
-              lines.append("layout: page")
-              lines.append(f'title: "{escape_yaml(title)}"')
-              lines.append(f"permalink: /agent-skills/scenario/{slug}/")
-              lines.append("---")
-              lines.append("")
-              lines.append(f"# {title}")
-              lines.append("")
-              if source_url:
-                  lines.append(f'原始来源：[点击查看原站]({source_url})')
-                  lines.append("")
+              lines = [
+                  "---",
+                  "layout: page",
+                  f'title: "{escape_yaml(title)}"',
+                  f"permalink: /agent-skills/scenario/{slug}/",
+                  "---",
+                  "",
+                  f"# {title}",
+                  "",
+                  f"原始来源：[点击查看原站]({source_url})",
+                  "",
+              ]
 
               if quick_pick and quick_pick.get("name"):
-                  lines.append("## Quick Pick")
-                  qp_line = f'**{quick_pick.get("name", "")}**'
+                  qp = f"**{quick_pick['name']}**"
                   if quick_pick.get("stars"):
-                      qp_line += f' · ★ {quick_pick.get("stars")}'
+                      qp += f" · ★ {quick_pick['stars']}"
                   if quick_pick.get("tagline"):
-                      qp_line += f' · {quick_pick.get("tagline")}'
-                  lines.append(qp_line)
-                  lines.append("")
+                      qp += f" · {quick_pick['tagline']}"
+                  lines += ["## Quick Pick", qp, ""]
 
               if tools:
-                  lines.append("## 工具列表")
-                  lines.append("")
+                  lines += ["## 工具列表", ""]
                   for tool in tools:
-                      line = f'- **{tool.get("name", "")}**'
+                      line = f"- **{tool['name']}**"
                       if tool.get("author"):
-                          line += f' by {tool.get("author")}'
+                          line += f" by {tool['author']}"
                       if tool.get("stars"):
-                          line += f' · ★ {tool.get("stars")}'
+                          line += f" · ★ {tool['stars']}"
                       if tool.get("meta"):
-                          line += f' · {tool.get("meta")}'
+                          line += f" · {tool['meta']}"
                       lines.append(line)
                       if tool.get("description"):
-                          lines.append(f'  - {tool.get("description")}')
+                          lines.append(f"  - {tool['description']}")
                   lines.append("")
               else:
-                  lines.append("暂无工具数据。")
-                  lines.append("")
+                  lines += ["暂无工具数据。", ""]
 
               out_path = os.path.join("agent-skills", "scenario", f"{slug}.md")
               with open(out_path, "w", encoding="utf-8") as f:
@@ -292,62 +239,41 @@ jobs:
               out_dir = os.path.join("agent-skills", "scenario")
               os.makedirs(out_dir, exist_ok=True)
               for filename in os.listdir(out_dir):
-                  if not filename.endswith(".md"):
-                      continue
-                  slug = filename[:-3]
-                  if slug not in valid_slugs:
+                  if filename.endswith(".md") and filename[:-3] not in valid_slugs:
                       os.remove(os.path.join(out_dir, filename))
 
           summary = parse_home_summary()
-          scenarios = parse_best_scenarios()
-
-          curated_paths = [
-              "/best/prompt-engineering/",
-              "/best/browser-automation/",
-              "/best/workflow-automation/"
-          ]
-
           curated = []
           valid_slugs = set()
 
-          for p in curated_paths:
+          for path in CURATED_PATHS:
               try:
-                  block = parse_scenario_page(p)
-                  curated.append(block)
-                  valid_slugs.add(block["slug"])
+                  block = parse_scenario_page(path)
               except Exception as e:
-                  slug = safe_slug(p.strip("/").split("/")[-1])
-                  curated.append({
+                  slug = safe_slug(path.strip("/").split("/")[-1])
+                  block = {
                       "title": slug.replace("-", " ").title(),
-                      "url": BASE + p,
-                      "source_url": BASE + p,
+                      "source_url": BASE + path,
                       "slug": slug,
                       "local_url": f"/agent-skills/scenario/{slug}/",
                       "quick_pick": {},
                       "tools": [],
-                      "error": str(e)
-                  })
-                  valid_slugs.add(slug)
-
-          # 把热门场景里已有的 slug 也加入，后续可扩展更多本地页
-          for item in scenarios:
-              valid_slugs.add(item["slug"])
+                      "error": str(e),
+                  }
+              curated.append(block)
+              valid_slugs.add(block["slug"])
 
           meta = {
               "source": BASE,
-              "updated_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+              "updated_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"),
           }
 
           write_json("_data/agentskills/meta.json", meta)
           write_json("_data/agentskills/summary.json", summary)
-          write_json("_data/agentskills/scenarios.json", scenarios)
           write_json("_data/agentskills/curated.json", curated)
-
           cleanup_old_generated_pages(valid_slugs)
-
           for block in curated:
-              write_local_scenario_page(block)
-
+              write_local_page(block)
           print("Done. JSON and local pages generated.")
           PY
 
