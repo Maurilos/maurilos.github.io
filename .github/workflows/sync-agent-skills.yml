@@ -47,7 +47,7 @@ jobs:
 
           session = requests.Session()
           session.headers.update({
-              "User-Agent": "MauPhilos-AgentSkills-Sync/1.0 (+https://ybot.top)"
+              "User-Agent": "MauPhilos-AgentSkills-Sync/1.1 (+https://ybot.top)"
           })
 
           def fetch_html(url: str, retries: int = 3) -> str:
@@ -73,6 +73,9 @@ jobs:
                   if line:
                       lines.append(line)
               return lines
+
+          def full_text(soup: BeautifulSoup) -> str:
+              return "\n".join(text_lines(soup))
 
           def safe_slug(text: str) -> str:
               slug = text.strip().lower()
@@ -110,7 +113,7 @@ jobs:
                   "projects_count": projects_count,
                   "scenarios_count": scenarios_count,
                   "refresh_hours": refresh_hours,
-                  "source": BASE
+                  "source": BASE,
               }
 
           def parse_best_scenarios():
@@ -132,7 +135,7 @@ jobs:
                       continue
 
                   slug = safe_slug(path.split("/")[-1])
-                  if slug in seen:
+                  if not slug or slug in seen:
                       continue
 
                   seen.add(slug)
@@ -144,105 +147,69 @@ jobs:
 
               return items[:MAX_SCENARIOS]
 
-          def parse_quick_pick(lines):
-              for line in lines:
-                  if not line.startswith("Quick Pick"):
-                      continue
+          def parse_quick_pick(text: str):
+              m = re.search(
+                  r"Quick Pick\s*[—-]\s*If you only pick one,\s*go with\s+(.+?)\s+★\s*([^\s]+)\s*[—-]\s*(.+?)(?=\n##|\n###|$)",
+                  text,
+                  re.S | re.I,
+              )
+              if not m:
+                  return {}
 
-                  m = re.match(
-                      r"^Quick Pick\s*[—-]\s*If you only pick one,\s*go with\s+(.+?)\s+★\s*([^\s]+)\s*[—-]\s*(.+)$",
-                      line
-                  )
-                  if m:
-                      return {
-                          "name": m.group(1).strip(),
-                          "stars": m.group(2).strip(),
-                          "tagline": m.group(3).strip()
-                      }
+              name = " ".join(m.group(1).split())
+              stars = m.group(2).strip()
+              tagline = " ".join(m.group(3).split())
 
-                  # 宽松兜底
-                  m2 = re.search(r"go with\s+(.+?)\s+★\s*([^\s]+)", line, re.I)
-                  if m2:
-                      return {
-                          "name": m2.group(1).strip(),
-                          "stars": m2.group(2).strip(),
-                          "tagline": ""
-                      }
+              return {
+                  "name": name,
+                  "stars": stars,
+                  "tagline": tagline,
+              }
 
-              return {}
-
-          def parse_tools(lines):
+          def parse_tools(text: str):
               tools = []
-              in_tools = False
-              current = None
 
-              def flush_current():
-                  nonlocal current
-                  if current:
-                      current["description"] = current["description"].strip()
-                      tools.append(current)
-                      current = None
+              section = re.search(
+                  r"##\s*Top\s+\d+\s+.+?\s+Tools\s*(.+?)(?=\n##\s*Comparison|\n##\s*Related Categories|\n##\s*Frequently Asked Questions|$)",
+                  text,
+                  re.S | re.I,
+              )
+              if not section:
+                  return tools
 
-              for line in lines:
-                  # 进入工具列表区
-                  if re.search(r"Top\s+\d+\s+.+\s+Tools", line, re.I):
-                      in_tools = True
-                      continue
+              body = section.group(1).strip()
 
-                  if not in_tools:
-                      continue
+              pattern = re.compile(
+                  r"""(?ms)
+                  ^\s*(\d+)\s+(.+?)\s+by\s+(.+?)\n+          # 1 name by author
+                  \s*★\s*([^\s]+)\s+([^\n]+?)\n+            # ★ 97 Python Agent Tool
+                  \s*(.+?)                                   # description
+                  (?=\n+\s*View Details|\n+\s*\d+\s+.+?\s+by\s+.+?$|\Z)
+                  """
+              )
 
-                  # 退出工具列表区
-                  if re.search(
-                      r"^(Comparison|Related Categories|Frequently Asked Questions|Get Weekly AI Tool Picks|Subscribe|Explore All)",
-                      line,
-                      re.I
-                  ):
-                      flush_current()
-                      break
+              for m in pattern.finditer(body):
+                  rank = int(m.group(1))
+                  name = " ".join(m.group(2).split())
+                  author = " ".join(m.group(3).split())
+                  stars = m.group(4).strip()
+                  meta = " ".join(m.group(5).split())
+                  description = " ".join(m.group(6).split())
 
-                  # 新工具块：如 "1 clerkie-cli by BerriAI"
-                  m = re.match(r"^(\d+)\s+(.+?)\s+by\s+(.+)$", line)
-                  if m:
-                      flush_current()
-                      rank, name, author = m.groups()
-                      current = {
-                          "rank": int(rank),
-                          "name": name.strip(),
-                          "author": author.strip(),
-                          "stars": "",
-                          "meta": "",
-                          "description": ""
-                      }
-                      continue
+                  tools.append({
+                      "rank": rank,
+                      "name": name,
+                      "author": author,
+                      "stars": stars,
+                      "meta": meta,
+                      "description": description,
+                  })
 
-                  if current is None:
-                      continue
-
-                  # 星标行：如 "★ 97 Python Agent Tool"
-                  sm = re.match(r"^★\s*([^\s]+)\s*(.*)$", line)
-                  if sm:
-                      current["stars"] = sm.group(1).strip()
-                      current["meta"] = sm.group(2).strip()
-                      continue
-
-                  # 忽略按钮文字
-                  if "View Details" in line or re.fullmatch(r"GitHub\s*→?", line, re.I):
-                      continue
-
-                  # 普通描述
-                  if line:
-                      if current["description"]:
-                          current["description"] += " " + line
-                      else:
-                          current["description"] = line
-
-              flush_current()
               return tools[:10]
 
           def parse_scenario_page(source_url: str):
               soup = soup_of(source_url)
-              lines = text_lines(soup)
+              text = full_text(soup)
 
               slug = safe_slug(urlparse(source_url).path.rstrip("/").split("/")[-1])
 
@@ -257,8 +224,8 @@ jobs:
               if not title:
                   title = slug.replace("-", " ").title()
 
-              quick_pick = parse_quick_pick(lines)
-              tools = parse_tools(lines)
+              quick_pick = parse_quick_pick(text)
+              tools = parse_tools(text)
 
               return {
                   "title": title,
@@ -266,7 +233,7 @@ jobs:
                   "slug": slug,
                   "local_url": f"/agent-skills/scenario/{slug}/",
                   "quick_pick": quick_pick,
-                  "tools": tools
+                  "tools": tools,
               }
 
           def write_json(path: str, data):
@@ -294,33 +261,33 @@ jobs:
               lines.append(f"# {title}")
               lines.append("")
               if source_url:
-                  lines.append(f'原始来源：[点击查看原站]({source_url})')
+                  lines.append(f"原始来源：[点击查看原站]({source_url})")
                   lines.append("")
 
               if quick_pick and quick_pick.get("name"):
-                  lines.append("## Quick Pick")
-                  qp_line = f'**{quick_pick.get("name", "")}**'
+                  qp = f"**{quick_pick.get('name', '')}**"
                   if quick_pick.get("stars"):
-                      qp_line += f' · ★ {quick_pick.get("stars")}'
+                      qp += f" · ★ {quick_pick.get('stars')}"
                   if quick_pick.get("tagline"):
-                      qp_line += f' · {quick_pick.get("tagline")}'
-                  lines.append(qp_line)
+                      qp += f" · {quick_pick.get('tagline')}"
+                  lines.append("## Quick Pick")
+                  lines.append(qp)
                   lines.append("")
 
               if tools:
                   lines.append("## 工具列表")
                   lines.append("")
                   for tool in tools:
-                      line = f'- **{tool.get("name", "")}**'
+                      line = f"- **{tool.get('name', '')}**"
                       if tool.get("author"):
-                          line += f' by {tool.get("author")}'
+                          line += f" by {tool.get('author')}"
                       if tool.get("stars"):
-                          line += f' · ★ {tool.get("stars")}'
+                          line += f" · ★ {tool.get('stars')}"
                       if tool.get("meta"):
-                          line += f' · {tool.get("meta")}'
+                          line += f" · {tool.get('meta')}"
                       lines.append(line)
                       if tool.get("description"):
-                          lines.append(f'  - {tool.get("description")}')
+                          lines.append(f"  - {tool.get('description')}")
                   lines.append("")
               else:
                   lines.append("暂无工具数据。")
@@ -359,13 +326,13 @@ jobs:
                       "local_url": item["local_url"],
                       "quick_pick": {},
                       "tools": [],
-                      "error": str(e)
+                      "error": str(e),
                   })
                   valid_slugs.add(item["slug"])
 
           meta = {
               "source": BASE,
-              "updated_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+              "updated_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"),
           }
 
           write_json("_data/agentskills/meta.json", meta)
