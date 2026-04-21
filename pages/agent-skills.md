@@ -32,7 +32,7 @@ permalink: /agent-skills/
 <ul>
   {% for item in curated %}
     <li>
-      <a href="{{ item.local_url | relative_url }}">{{ item.title }}</a>
+      <a href="{{ item.local_url | relative_url }}" target="_blank" rel="noopener">{{ item.title }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -44,7 +44,7 @@ permalink: /agent-skills/
 
 {% if curated and curated.size > 0 %}
   {% for block in curated %}
-### [{{ block.title }}]({{ block.local_url | relative_url }})
+### <a href="{{ block.local_url | relative_url }}" target="_blank" rel="noopener">{{ block.title }}</a>
 
 {% if block.quick_pick and block.quick_pick.name %}
 <p>
@@ -85,7 +85,7 @@ permalink: /agent-skills/
 
 <p>
   <small>
-    站内页：<a href="{{ block.local_url | relative_url }}">{{ block.local_url }}</a>
+    站内页：<a href="{{ block.local_url | relative_url }}" target="_blank" rel="noopener">{{ block.local_url }}</a>
   </small>
 </p>
 
