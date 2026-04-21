@@ -7,7 +7,6 @@ permalink: /agent-skills/
 # Agent Skills Hub 精选
 
 <p>
-数据来源：
 最近同步：{{ site.data.agentskills.meta.updated_at_utc }}
 </p>
 
@@ -34,7 +33,6 @@ permalink: /agent-skills/
   {% for item in curated %}
     <li>
       <a href="{{ item.local_url | relative_url }}">{{ item.title }}</a>
-      <small style="color:#888;">（来源：<a href="{{ item.source_url }}" target="_blank" rel="noopener">原站</a>）</small>
     </li>
   {% endfor %}
 </ul>
@@ -50,7 +48,12 @@ permalink: /agent-skills/
 
 {% if block.quick_pick and block.quick_pick.name %}
 <p>
-  <strong>Quick Pick：</strong>{{ block.quick_pick.name }}
+  <strong>Quick Pick：</strong>
+  {% if block.quick_pick.github_url %}
+    <a href="{{ block.quick_pick.github_url }}" target="_blank" rel="noopener">{{ block.quick_pick.name }}</a>
+  {% else %}
+    {{ block.quick_pick.name }}
+  {% endif %}
   {% if block.quick_pick.stars %} · ★ {{ block.quick_pick.stars }}{% endif %}
   {% if block.quick_pick.tagline %} · {{ block.quick_pick.tagline }}{% endif %}
 </p>
@@ -60,7 +63,13 @@ permalink: /agent-skills/
 <ol>
   {% for tool in block.tools limit: 10 %}
     <li>
-      <strong>{{ tool.name }}</strong>
+      <strong>
+        {% if tool.github_url %}
+          <a href="{{ tool.github_url }}" target="_blank" rel="noopener">{{ tool.name }}</a>
+        {% else %}
+          {{ tool.name }}
+        {% endif %}
+      </strong>
       {% if tool.author %} by {{ tool.author }}{% endif %}
       {% if tool.stars %} · ★ {{ tool.stars }}{% endif %}
       {% if tool.meta %} · {{ tool.meta }}{% endif %}
@@ -76,8 +85,7 @@ permalink: /agent-skills/
 
 <p>
   <small>
-    站内页：<a href="{{ block.local_url | relative_url }}">{{ block.local_url }}</a>　
-    来源：<a href="{{ block.source_url }}" target="_blank" rel="noopener">原站</a>
+    站内页：<a href="{{ block.local_url | relative_url }}">{{ block.local_url }}</a>
   </small>
 </p>
 
