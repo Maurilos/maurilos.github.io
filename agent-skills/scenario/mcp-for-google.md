@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
 - <a href="https://github.com/sanjay3290/ai-skills" target="_blank" rel="noopener"><strong>ai-skills</strong></a> by sanjay3290 · ★ 209 · Python MCP Server
   - Collection of agent skills for AI coding assistants
-- <a href="https://github.com/klemensgc/modular-context-obsidian-plugin" target="_blank" rel="noopener"><strong>modular-context-obsidian-plugin</strong></a> by klemensgc · ★ 77 · TypeScript MCP Server
+- <a href="https://github.com/klemensgc/modular-context-obsidian-plugin" target="_blank" rel="noopener"><strong>modular-context-obsidian-plugin</strong></a> by klemensgc · ★ 79 · TypeScript MCP Server
   - Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first
 - <a href="https://github.com/xing5/mcp-google-sheets" target="_blank" rel="noopener"><strong>mcp-google-sheets</strong></a> by xing5 · ★ 738 · Python MCP Server
   - This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets.
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - <a href="https://github.com/piotr-agier/google-drive-mcp" target="_blank" rel="noopener"><strong>google-drive-mcp</strong></a> by piotr-agier · ★ 126 · TypeScript MCP Server
   - A Model Context Protocol (MCP) server that provides secure integration with Google Drive, Docs, Sheets, Slides and Calendar. It allows Claude Desktop and other MCP clients to manage files in Google Drive through a standardized interface.
-- <a href="https://github.com/freema/mcp-gsheets" target="_blank" rel="noopener"><strong>mcp-gsheets</strong></a> by freema · ★ 54 · TypeScript MCP Server
+- <a href="https://github.com/freema/mcp-gsheets" target="_blank" rel="noopener"><strong>mcp-gsheets</strong></a> by freema · ★ 57 · TypeScript MCP Server
   - MCP server for Google Sheets - Read, write and manipulate spreadsheets through Claude Desktop

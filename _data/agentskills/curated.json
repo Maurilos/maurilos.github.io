@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "36.5k",
+        "stars": "36.6k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -250,7 +250,7 @@
         "rank": 4,
         "name": "oxideterm",
         "author": "AnalyseDeCircuit",
-        "stars": "589",
+        "stars": "592",
         "meta": "Rust MCP Server",
         "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
         "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
@@ -666,7 +666,7 @@
         "rank": 4,
         "name": "skylos",
         "author": "duriantaco",
-        "stars": "414",
+        "stars": "415",
         "meta": "Python MCP Server",
         "description": "Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.",
         "github_url": "https://github.com/duriantaco/skylos"
@@ -761,7 +761,7 @@
         "rank": 3,
         "name": "modular-context-obsidian-plugin",
         "author": "klemensgc",
-        "stars": "77",
+        "stars": "79",
         "meta": "TypeScript MCP Server",
         "description": "Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first",
         "github_url": "https://github.com/klemensgc/modular-context-obsidian-plugin"
@@ -824,7 +824,7 @@
         "rank": 10,
         "name": "mcp-gsheets",
         "author": "freema",
-        "stars": "54",
+        "stars": "57",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for Google Sheets - Read, write and manipulate spreadsheets through Claude Desktop",
         "github_url": "https://github.com/freema/mcp-gsheets"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "graphify",
         "author": "safishamsi",
-        "stars": "31.4k",
+        "stars": "31.9k",
         "meta": "Python Codex Skill",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
         "github_url": "https://github.com/safishamsi/graphify"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "8.5k",
+        "stars": "8.6k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1023,7 +1023,7 @@
         "rank": 9,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "4.2k",
+        "stars": "4.3k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
