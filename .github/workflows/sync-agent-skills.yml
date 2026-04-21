@@ -54,7 +54,7 @@ jobs:
 
           session = requests.Session()
           session.headers.update({
-              "User-Agent": "MauPhilos-AgentSkills-Sync/2.0 (+https://ybot.top)"
+              "User-Agent": "MauPhilos-AgentSkills-Sync/2.1 (+https://ybot.top)"
           })
 
           def fetch_html(url: str, retries: int = 3) -> str:
@@ -120,7 +120,6 @@ jobs:
                   "projects_count": projects_count,
                   "scenarios_count": scenarios_count,
                   "refresh_hours": refresh_hours,
-                  "source": BASE,
               }
 
           def parse_best_scenarios():
@@ -149,7 +148,7 @@ jobs:
                   items.append({
                       "slug": slug,
                       "source_url": full,
-                      "local_url": f"/agent-skills/scenario/{slug}/",
+                      "local_url": f"/agent-skills/scenario/{slug}/"
                   })
 
               return items[:MAX_SCENARIOS]
@@ -219,101 +218,129 @@ jobs:
 
               return tools[:10]
 
+          def extract_tool_github_links(soup: BeautifulSoup):
+              links = []
+              seen = set()
+              for a in soup.select('a[href]'):
+                  href = (a.get('href') or '').strip()
+                  text = ' '.join(a.get_text(' ', strip=True).split())
+                  if not href or 'github.com' not in href:
+                      continue
+                  if 'ZhuYansen/agent-skills-hub' in href:
+                      continue
+                  if not text.startswith('GitHub'):
+                      continue
+                  if href in seen:
+                      continue
+                  seen.add(href)
+                  links.append(href)
+              return links
+
           def parse_scenario_page(source_url: str):
               soup = soup_of(source_url)
               text = full_text(soup)
 
-              slug = safe_slug(urlparse(source_url).path.rstrip("/").split("/")[-1])
+              slug = safe_slug(urlparse(source_url).path.rstrip('/').split('/')[-1])
 
               title = None
-              h1 = soup.find("h1")
+              h1 = soup.find('h1')
               if h1:
-                  title = h1.get_text(" ", strip=True)
+                  title = h1.get_text(' ', strip=True)
               if not title:
-                  title_tag = soup.find("title")
+                  title_tag = soup.find('title')
                   if title_tag:
-                      title = title_tag.get_text(" ", strip=True)
+                      title = title_tag.get_text(' ', strip=True)
               if not title:
-                  title = slug.replace("-", " ").title()
+                  title = slug.replace('-', ' ').title()
 
               quick_pick = parse_quick_pick(text)
               tools = parse_tools(text)
+              github_links = extract_tool_github_links(soup)
+
+              for i, tool in enumerate(tools):
+                  if i < len(github_links):
+                      tool['github_url'] = github_links[i]
+
+              if quick_pick and tools:
+                  quick_pick['github_url'] = tools[0].get('github_url', '')
 
               return {
-                  "title": title,
-                  "source_url": source_url,
-                  "slug": slug,
-                  "local_url": f"/agent-skills/scenario/{slug}/",
-                  "quick_pick": quick_pick,
-                  "tools": tools,
+                  'title': title,
+                  'source_url': source_url,
+                  'slug': slug,
+                  'local_url': f'/agent-skills/scenario/{slug}/',
+                  'quick_pick': quick_pick,
+                  'tools': tools,
               }
 
           def write_json(path: str, data):
               os.makedirs(os.path.dirname(path), exist_ok=True)
-              with open(path, "w", encoding="utf-8") as f:
+              with open(path, 'w', encoding='utf-8') as f:
                   json.dump(data, f, ensure_ascii=False, indent=2)
 
           def write_local_scenario_page(block):
-              slug = block.get("slug")
+              slug = block.get('slug')
               if not slug:
                   return
 
-              title = block.get("title", slug.replace("-", " ").title())
-              source_url = block.get("source_url", "")
-              quick_pick = block.get("quick_pick", {})
-              tools = block.get("tools", [])
+              title = block.get('title', slug.replace('-', ' ').title())
+              quick_pick = block.get('quick_pick', {})
+              tools = block.get('tools', [])
 
               lines = []
-              lines.append("---")
-              lines.append("layout: page")
+              lines.append('---')
+              lines.append('layout: page')
               lines.append(f'title: "{escape_yaml(title)}"')
-              lines.append(f"permalink: /agent-skills/scenario/{slug}/")
-              lines.append("---")
-              lines.append("")
-              lines.append(f"# {title}")
-              lines.append("")
-              if source_url:
+              lines.append(f'permalink: /agent-skills/scenario/{slug}/')
+              lines.append('---')
+              lines.append('')
+              lines.append(f'# {title}')
+              lines.append('')
 
-                  lines.append("")
-
-              if quick_pick and quick_pick.get("name"):
-                  qp = f"**{quick_pick.get('name', '')}**"
-                  if quick_pick.get("stars"):
+              if quick_pick and quick_pick.get('name'):
+                  lines.append('## Quick Pick')
+                  if quick_pick.get('github_url'):
+                      qp = f"[**{quick_pick.get('name', '')}**]({quick_pick.get('github_url')})"
+                  else:
+                      qp = f"**{quick_pick.get('name', '')}**"
+                  if quick_pick.get('stars'):
                       qp += f" · ★ {quick_pick.get('stars')}"
-                  if quick_pick.get("tagline"):
+                  if quick_pick.get('tagline'):
                       qp += f" · {quick_pick.get('tagline')}"
-                  lines.append("## Quick Pick")
                   lines.append(qp)
-                  lines.append("")
+                  lines.append('')
 
               if tools:
-                  lines.append("## 工具列表")
-                  lines.append("")
+                  lines.append('## 工具列表')
+                  lines.append('')
                   for tool in tools:
-                      line = f"- **{tool.get('name', '')}**"
-                      if tool.get("author"):
+                      if tool.get('github_url'):
+                          line = f"- [**{tool.get('name', '')}**]({tool.get('github_url')})"
+                      else:
+                          line = f"- **{tool.get('name', '')}**"
+                      if tool.get('author'):
                           line += f" by {tool.get('author')}"
-                      if tool.get("stars"):
+                      if tool.get('stars'):
                           line += f" · ★ {tool.get('stars')}"
-                      if tool.get("meta"):
+                      if tool.get('meta'):
                           line += f" · {tool.get('meta')}"
                       lines.append(line)
-                      if tool.get("description"):
+                      if tool.get('description'):
                           lines.append(f"  - {tool.get('description')}")
-                  lines.append("")
+                  lines.append('')
               else:
-                  lines.append("暂无工具数据。")
-                  lines.append("")
+                  lines.append('暂无工具数据。')
+                  lines.append('')
 
-              out_path = os.path.join("agent-skills", "scenario", f"{slug}.md")
-              with open(out_path, "w", encoding="utf-8") as f:
-                  f.write("\n".join(lines))
+              out_path = os.path.join('agent-skills', 'scenario', f'{slug}.md')
+              with open(out_path, 'w', encoding='utf-8') as f:
+                  f.write('\n'.join(lines))
 
           def cleanup_old_generated_pages(valid_slugs):
-              out_dir = os.path.join("agent-skills", "scenario")
+              out_dir = os.path.join('agent-skills', 'scenario')
               os.makedirs(out_dir, exist_ok=True)
               for filename in os.listdir(out_dir):
-                  if not filename.endswith(".md"):
+                  if not filename.endswith('.md'):
                       continue
                   slug = filename[:-3]
                   if slug not in valid_slugs:
@@ -327,37 +354,36 @@ jobs:
 
           for item in scenario_refs:
               try:
-                  block = parse_scenario_page(item["source_url"])
+                  block = parse_scenario_page(item['source_url'])
                   curated.append(block)
-                  valid_slugs.add(block["slug"])
+                  valid_slugs.add(block['slug'])
               except Exception as e:
                   curated.append({
-                      "title": item["slug"].replace("-", " ").title(),
-                      "source_url": item["source_url"],
-                      "slug": item["slug"],
-                      "local_url": item["local_url"],
-                      "quick_pick": {},
-                      "tools": [],
-                      "error": str(e),
+                      'title': item['slug'].replace('-', ' ').title(),
+                      'source_url': item['source_url'],
+                      'slug': item['slug'],
+                      'local_url': item['local_url'],
+                      'quick_pick': {},
+                      'tools': [],
+                      'error': str(e),
                   })
-                  valid_slugs.add(item["slug"])
+                  valid_slugs.add(item['slug'])
 
           meta = {
-              "source": BASE,
-              "updated_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"),
+              'updated_at_utc': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC'),
           }
 
-          write_json("_data/agentskills/meta.json", meta)
-          write_json("_data/agentskills/summary.json", summary)
-          write_json("_data/agentskills/scenarios.json", scenario_refs)
-          write_json("_data/agentskills/curated.json", curated)
+          write_json('_data/agentskills/meta.json', meta)
+          write_json('_data/agentskills/summary.json', summary)
+          write_json('_data/agentskills/scenarios.json', scenario_refs)
+          write_json('_data/agentskills/curated.json', curated)
 
           cleanup_old_generated_pages(valid_slugs)
 
           for block in curated:
               write_local_scenario_page(block)
 
-          print("Done. JSON and local pages generated.")
+          print('Done. JSON and local pages generated.')
           PY
 
       - name: Commit changes
