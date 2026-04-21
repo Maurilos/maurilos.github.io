@@ -4,11 +4,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-database/",
     "slug": "mcp-database",
     "local_url": "/agent-skills/scenario/mcp-database/",
-    "quick_pick": {
-      "name": "mcp-toolbox",
-      "stars": "14.7k",
-      "tagline": "MCP Toolbox for Databases is an open source MCP server for databases."
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -16,11 +12,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-browser/",
     "slug": "mcp-browser",
     "local_url": "/agent-skills/scenario/mcp-browser/",
-    "quick_pick": {
-      "name": "mcp-server-browserbase",
-      "stars": "3.2k",
-      "tagline": "Allow LLMs to control a browser with Browserbase and Stagehand"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -28,11 +20,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-filesystem/",
     "slug": "mcp-filesystem",
     "local_url": "/agent-skills/scenario/mcp-filesystem/",
-    "quick_pick": {
-      "name": "rust-mcp-filesystem",
-      "stars": "138",
-      "tagline": "Blazing-fast, asynchronous MCP server for seamless filesystem operations."
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -40,11 +28,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-api/",
     "slug": "mcp-api",
     "local_url": "/agent-skills/scenario/mcp-api/",
-    "quick_pick": {
-      "name": "reshapr",
-      "stars": "77",
-      "tagline": "The open source, no-code MCP Server for AI-Native API Access"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -52,11 +36,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-memory/",
     "slug": "mcp-memory",
     "local_url": "/agent-skills/scenario/mcp-memory/",
-    "quick_pick": {
-      "name": "memora",
-      "stars": "394",
-      "tagline": "Give your AI agents persistent memory."
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -64,11 +44,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-for-notion/",
     "slug": "mcp-for-notion",
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
-    "quick_pick": {
-      "name": "anyquery",
-      "stars": "1.7k",
-      "tagline": "Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -76,11 +52,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-for-github/",
     "slug": "mcp-for-github",
     "local_url": "/agent-skills/scenario/mcp-for-github/",
-    "quick_pick": {
-      "name": "octocode-mcp",
-      "stars": "794",
-      "tagline": "MCP server for semantic code research and context generation on real-time using"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -88,11 +60,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-for-google/",
     "slug": "mcp-for-google",
     "local_url": "/agent-skills/scenario/mcp-for-google/",
-    "quick_pick": {
-      "name": "google_workspace_mcp",
-      "stars": "2.2k",
-      "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -100,11 +68,7 @@
     "source_url": "https://agentskillshub.top/best/code-review/",
     "slug": "code-review",
     "local_url": "/agent-skills/scenario/code-review/",
-    "quick_pick": {
-      "name": "shippie",
-      "stars": "2.3k",
-      "tagline": "extendable code review and QA agent 🚢"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -112,11 +76,7 @@
     "source_url": "https://agentskillshub.top/best/code-completion/",
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
-    "quick_pick": {
-      "name": "gpt-all-star",
-      "stars": "224",
-      "tagline": "🤖 AI-powered code generation tool for scratch development of web applications w"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -124,11 +84,7 @@
     "source_url": "https://agentskillshub.top/best/test-generation/",
     "slug": "test-generation",
     "local_url": "/agent-skills/scenario/test-generation/",
-    "quick_pick": {
-      "name": "gem-team",
-      "stars": "96",
-      "tagline": "Multi-agent orchestration framework for spec-driven development and automated ve"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -136,11 +92,7 @@
     "source_url": "https://agentskillshub.top/best/debugging/",
     "slug": "debugging",
     "local_url": "/agent-skills/scenario/debugging/",
-    "quick_pick": {
-      "name": "clerkie-cli",
-      "stars": "97",
-      "tagline": "Clerkie-cli is a terminal tool that uses an LLM to help debug and troubleshoot c"
-    },
+    "quick_pick": {},
     "tools": []
   }
 ]

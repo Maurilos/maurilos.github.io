@@ -8,9 +8,4 @@ permalink: /agent-skills/scenario/code-completion/
 
 原始来源：[点击查看原站](https://agentskillshub.top/best/code-completion/)
 
-## Quick Pick
-**gpt-all-star** · ★ 224 · 🤖 AI-powered code generation tool for scratch development of web applications w
-
-## 工具列表
-
 暂无工具数据。

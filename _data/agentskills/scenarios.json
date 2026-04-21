@@ -1,373 +1,62 @@
 [
   {
-    "name": "MCP Database Tools Browse the best MCP server tools for database access, SQL queries, and data mana... 10 tools",
-    "url": "https://agentskillshub.top/best/mcp-database/",
-    "source_url": "https://agentskillshub.top/best/mcp-database/",
     "slug": "mcp-database",
+    "source_url": "https://agentskillshub.top/best/mcp-database/",
     "local_url": "/agent-skills/scenario/mcp-database/"
   },
   {
-    "name": "MCP Browser Automation Explore MCP tools that let AI agents control browsers, navigate pages, and autom... 10 tools",
-    "url": "https://agentskillshub.top/best/mcp-browser/",
-    "source_url": "https://agentskillshub.top/best/mcp-browser/",
     "slug": "mcp-browser",
+    "source_url": "https://agentskillshub.top/best/mcp-browser/",
     "local_url": "/agent-skills/scenario/mcp-browser/"
   },
   {
-    "name": "MCP Filesystem Tools Find MCP server tools for file management, directory operations, and local files... 10 tools",
-    "url": "https://agentskillshub.top/best/mcp-filesystem/",
-    "source_url": "https://agentskillshub.top/best/mcp-filesystem/",
     "slug": "mcp-filesystem",
+    "source_url": "https://agentskillshub.top/best/mcp-filesystem/",
     "local_url": "/agent-skills/scenario/mcp-filesystem/"
   },
   {
-    "name": "MCP API Integration Discover MCP tools that connect AI agents to external APIs, REST endpoints, and ... 10 tools",
-    "url": "https://agentskillshub.top/best/mcp-api/",
-    "source_url": "https://agentskillshub.top/best/mcp-api/",
     "slug": "mcp-api",
+    "source_url": "https://agentskillshub.top/best/mcp-api/",
     "local_url": "/agent-skills/scenario/mcp-api/"
   },
   {
-    "name": "MCP Memory & Knowledge Browse MCP tools for persistent memory, knowledge graphs, and context management... 10 tools",
-    "url": "https://agentskillshub.top/best/mcp-memory/",
-    "source_url": "https://agentskillshub.top/best/mcp-memory/",
     "slug": "mcp-memory",
+    "source_url": "https://agentskillshub.top/best/mcp-memory/",
     "local_url": "/agent-skills/scenario/mcp-memory/"
   },
   {
-    "name": "MCP Tools for Notion Connect AI agents to Notion workspaces — read pages, create databases, manage ta... 10 tools",
-    "url": "https://agentskillshub.top/best/mcp-for-notion/",
-    "source_url": "https://agentskillshub.top/best/mcp-for-notion/",
     "slug": "mcp-for-notion",
+    "source_url": "https://agentskillshub.top/best/mcp-for-notion/",
     "local_url": "/agent-skills/scenario/mcp-for-notion/"
   },
   {
-    "name": "MCP Tools for GitHub AI agent tools that integrate with GitHub — manage repos, issues, PRs, actions, ... 10 tools",
-    "url": "https://agentskillshub.top/best/mcp-for-github/",
-    "source_url": "https://agentskillshub.top/best/mcp-for-github/",
     "slug": "mcp-for-github",
+    "source_url": "https://agentskillshub.top/best/mcp-for-github/",
     "local_url": "/agent-skills/scenario/mcp-for-github/"
   },
   {
-    "name": "MCP Tools for Google Services Connect AI agents to Google Workspace — Gmail, Drive, Calendar, Sheets, and more... 10 tools",
-    "url": "https://agentskillshub.top/best/mcp-for-google/",
-    "source_url": "https://agentskillshub.top/best/mcp-for-google/",
     "slug": "mcp-for-google",
+    "source_url": "https://agentskillshub.top/best/mcp-for-google/",
     "local_url": "/agent-skills/scenario/mcp-for-google/"
   },
   {
-    "name": "Code Review Find the top AI-powered code review tools that help you catch bugs, enforce styl... 10 tools",
-    "url": "https://agentskillshub.top/best/code-review/",
-    "source_url": "https://agentskillshub.top/best/code-review/",
     "slug": "code-review",
+    "source_url": "https://agentskillshub.top/best/code-review/",
     "local_url": "/agent-skills/scenario/code-review/"
   },
   {
-    "name": "Code Completion & Generation Discover AI-powered code completion and generation tools that help you write cod... 10 tools",
-    "url": "https://agentskillshub.top/best/code-completion/",
-    "source_url": "https://agentskillshub.top/best/code-completion/",
     "slug": "code-completion",
+    "source_url": "https://agentskillshub.top/best/code-completion/",
     "local_url": "/agent-skills/scenario/code-completion/"
   },
   {
-    "name": "Test Generation Find AI tools that automatically generate unit tests, integration tests, and tes... 10 tools",
-    "url": "https://agentskillshub.top/best/test-generation/",
-    "source_url": "https://agentskillshub.top/best/test-generation/",
     "slug": "test-generation",
+    "source_url": "https://agentskillshub.top/best/test-generation/",
     "local_url": "/agent-skills/scenario/test-generation/"
   },
   {
-    "name": "Debugging Find AI-powered debugging tools that help identify, diagnose, and fix bugs in yo... 10 tools",
-    "url": "https://agentskillshub.top/best/debugging/",
-    "source_url": "https://agentskillshub.top/best/debugging/",
     "slug": "debugging",
+    "source_url": "https://agentskillshub.top/best/debugging/",
     "local_url": "/agent-skills/scenario/debugging/"
-  },
-  {
-    "name": "Code Refactoring Discover AI tools for automated code refactoring, optimization, and architectura... 10 tools",
-    "url": "https://agentskillshub.top/best/refactoring/",
-    "source_url": "https://agentskillshub.top/best/refactoring/",
-    "slug": "refactoring",
-    "local_url": "/agent-skills/scenario/refactoring/"
-  },
-  {
-    "name": "Git & Version Control Explore AI tools for Git workflow automation, commit message generation, and ver... 10 tools",
-    "url": "https://agentskillshub.top/best/git-tools/",
-    "source_url": "https://agentskillshub.top/best/git-tools/",
-    "slug": "git-tools",
-    "local_url": "/agent-skills/scenario/git-tools/"
-  },
-  {
-    "name": "CLI Tools Discover command-line AI tools and terminal utilities for developers. 10 tools",
-    "url": "https://agentskillshub.top/best/cli-tools/",
-    "source_url": "https://agentskillshub.top/best/cli-tools/",
-    "slug": "cli-tools",
-    "local_url": "/agent-skills/scenario/cli-tools/"
-  },
-  {
-    "name": "AI Code Editors Compare AI-powered code editors and IDE extensions that supercharge your develop... 10 tools",
-    "url": "https://agentskillshub.top/best/ai-code-editor/",
-    "source_url": "https://agentskillshub.top/best/ai-code-editor/",
-    "slug": "ai-code-editor",
-    "local_url": "/agent-skills/scenario/ai-code-editor/"
-  },
-  {
-    "name": "AI Web Development Find AI tools that help build websites and web applications — from UI generation... 10 tools",
-    "url": "https://agentskillshub.top/best/web-development/",
-    "source_url": "https://agentskillshub.top/best/web-development/",
-    "slug": "web-development",
-    "local_url": "/agent-skills/scenario/web-development/"
-  },
-  {
-    "name": "API Testing & Mocking Find AI tools for API testing, endpoint validation, mock servers, and automated ... 10 tools",
-    "url": "https://agentskillshub.top/best/api-testing/",
-    "source_url": "https://agentskillshub.top/best/api-testing/",
-    "slug": "api-testing",
-    "local_url": "/agent-skills/scenario/api-testing/"
-  },
-  {
-    "name": "AI Agent Frameworks Compare the best frameworks for building autonomous AI agents — from single-agen... 10 tools",
-    "url": "https://agentskillshub.top/best/ai-agent-framework/",
-    "source_url": "https://agentskillshub.top/best/ai-agent-framework/",
-    "slug": "ai-agent-framework",
-    "local_url": "/agent-skills/scenario/ai-agent-framework/"
-  },
-  {
-    "name": "Multi-Agent Orchestration Find tools for building and orchestrating multi-agent systems where AI agents co... 10 tools",
-    "url": "https://agentskillshub.top/best/multi-agent/",
-    "source_url": "https://agentskillshub.top/best/multi-agent/",
-    "slug": "multi-agent",
-    "local_url": "/agent-skills/scenario/multi-agent/"
-  },
-  {
-    "name": "Prompt Engineering Find tools for prompt design, testing, optimization, and management for LLM appl... 10 tools",
-    "url": "https://agentskillshub.top/best/prompt-engineering/",
-    "source_url": "https://agentskillshub.top/best/prompt-engineering/",
-    "slug": "prompt-engineering",
-    "local_url": "/agent-skills/scenario/prompt-engineering/"
-  },
-  {
-    "name": "Model Evaluation Discover tools for evaluating, benchmarking, and comparing AI model performance ... 10 tools",
-    "url": "https://agentskillshub.top/best/model-evaluation/",
-    "source_url": "https://agentskillshub.top/best/model-evaluation/",
-    "slug": "model-evaluation",
-    "local_url": "/agent-skills/scenario/model-evaluation/"
-  },
-  {
-    "name": "Local LLM Tools Run AI models locally with privacy and no API costs. Find the best tools for sel... 10 tools",
-    "url": "https://agentskillshub.top/best/local-llm/",
-    "source_url": "https://agentskillshub.top/best/local-llm/",
-    "slug": "local-llm",
-    "local_url": "/agent-skills/scenario/local-llm/"
-  },
-  {
-    "name": "Claude Code Skills Browse the best skills and extensions for Claude Code, Anthropic's AI coding ass... 10 tools",
-    "url": "https://agentskillshub.top/best/claude-code-skills/",
-    "source_url": "https://agentskillshub.top/best/claude-code-skills/",
-    "slug": "claude-code-skills",
-    "local_url": "/agent-skills/scenario/claude-code-skills/"
-  },
-  {
-    "name": "OpenAI Codex Skills Find the best skills and plugins for OpenAI Codex, the AI coding agent. 10 tools",
-    "url": "https://agentskillshub.top/best/codex-skills/",
-    "source_url": "https://agentskillshub.top/best/codex-skills/",
-    "slug": "codex-skills",
-    "local_url": "/agent-skills/scenario/codex-skills/"
-  },
-  {
-    "name": "Security Auditing Find the best AI agent tools for security auditing, vulnerability scanning, and ... 10 tools",
-    "url": "https://agentskillshub.top/best/security-audit/",
-    "source_url": "https://agentskillshub.top/best/security-audit/",
-    "slug": "security-audit",
-    "local_url": "/agent-skills/scenario/security-audit/"
-  },
-  {
-    "name": "Secret Detection Discover tools that detect leaked secrets, API keys, and credentials in your cod... 10 tools",
-    "url": "https://agentskillshub.top/best/secret-detection/",
-    "source_url": "https://agentskillshub.top/best/secret-detection/",
-    "slug": "secret-detection",
-    "local_url": "/agent-skills/scenario/secret-detection/"
-  },
-  {
-    "name": "Authentication & Identity Find AI agent tools for authentication, OAuth, SSO, and identity management. 10 tools",
-    "url": "https://agentskillshub.top/best/authentication/",
-    "source_url": "https://agentskillshub.top/best/authentication/",
-    "slug": "authentication",
-    "local_url": "/agent-skills/scenario/authentication/"
-  },
-  {
-    "name": "Web Scraping Discover the best AI agent skills and MCP tools for web scraping, data extractio... 10 tools",
-    "url": "https://agentskillshub.top/best/web-scraping/",
-    "source_url": "https://agentskillshub.top/best/web-scraping/",
-    "slug": "web-scraping",
-    "local_url": "/agent-skills/scenario/web-scraping/"
-  },
-  {
-    "name": "Semantic Search Discover AI-powered semantic search tools that understand meaning, not just keyw... 10 tools",
-    "url": "https://agentskillshub.top/best/semantic-search/",
-    "source_url": "https://agentskillshub.top/best/semantic-search/",
-    "slug": "semantic-search",
-    "local_url": "/agent-skills/scenario/semantic-search/"
-  },
-  {
-    "name": "Vector Database Find vector database tools and integrations for storing and querying AI embeddin... 10 tools",
-    "url": "https://agentskillshub.top/best/vector-database/",
-    "source_url": "https://agentskillshub.top/best/vector-database/",
-    "slug": "vector-database",
-    "local_url": "/agent-skills/scenario/vector-database/"
-  },
-  {
-    "name": "Data Pipeline Find AI tools for building data pipelines, ETL processes, and data transformatio... 10 tools",
-    "url": "https://agentskillshub.top/best/data-pipeline/",
-    "source_url": "https://agentskillshub.top/best/data-pipeline/",
-    "slug": "data-pipeline",
-    "local_url": "/agent-skills/scenario/data-pipeline/"
-  },
-  {
-    "name": "Document Parsing Discover tools for parsing PDFs, Word documents, spreadsheets, and extracting st... 10 tools",
-    "url": "https://agentskillshub.top/best/document-parsing/",
-    "source_url": "https://agentskillshub.top/best/document-parsing/",
-    "slug": "document-parsing",
-    "local_url": "/agent-skills/scenario/document-parsing/"
-  },
-  {
-    "name": "Data Visualization Explore AI tools for creating charts, dashboards, and visual representations of ... 10 tools",
-    "url": "https://agentskillshub.top/best/data-visualization/",
-    "source_url": "https://agentskillshub.top/best/data-visualization/",
-    "slug": "data-visualization",
-    "local_url": "/agent-skills/scenario/data-visualization/"
-  },
-  {
-    "name": "Knowledge Base & RAG Build AI-powered knowledge bases with retrieval-augmented generation (RAG) — ing... 10 tools",
-    "url": "https://agentskillshub.top/best/knowledge-base/",
-    "source_url": "https://agentskillshub.top/best/knowledge-base/",
-    "slug": "knowledge-base",
-    "local_url": "/agent-skills/scenario/knowledge-base/"
-  },
-  {
-    "name": "Database Migration & Schema Tools AI tools for database schema design, migration management, and data modeling. 10 tools",
-    "url": "https://agentskillshub.top/best/database-migration/",
-    "source_url": "https://agentskillshub.top/best/database-migration/",
-    "slug": "database-migration",
-    "local_url": "/agent-skills/scenario/database-migration/"
-  },
-  {
-    "name": "Content Writing Find AI agent skills for automated content writing, blog generation, copywriting... 10 tools",
-    "url": "https://agentskillshub.top/best/content-writing/",
-    "source_url": "https://agentskillshub.top/best/content-writing/",
-    "slug": "content-writing",
-    "local_url": "/agent-skills/scenario/content-writing/"
-  },
-  {
-    "name": "Translation Explore AI translation tools and agent skills for multilingual content, i18n, an... 10 tools",
-    "url": "https://agentskillshub.top/best/translation/",
-    "source_url": "https://agentskillshub.top/best/translation/",
-    "slug": "translation",
-    "local_url": "/agent-skills/scenario/translation/"
-  },
-  {
-    "name": "Summarization Find AI tools that automatically summarize documents, articles, code, and conver... 10 tools",
-    "url": "https://agentskillshub.top/best/summarization/",
-    "source_url": "https://agentskillshub.top/best/summarization/",
-    "slug": "summarization",
-    "local_url": "/agent-skills/scenario/summarization/"
-  },
-  {
-    "name": "Image Generation Find AI image generation tools that create, edit, and manipulate images programm... 10 tools",
-    "url": "https://agentskillshub.top/best/image-generation/",
-    "source_url": "https://agentskillshub.top/best/image-generation/",
-    "slug": "image-generation",
-    "local_url": "/agent-skills/scenario/image-generation/"
-  },
-  {
-    "name": "Text-to-Speech & Voice Find AI tools for text-to-speech synthesis, voice cloning, speech recognition, a... 10 tools",
-    "url": "https://agentskillshub.top/best/text-to-speech/",
-    "source_url": "https://agentskillshub.top/best/text-to-speech/",
-    "slug": "text-to-speech",
-    "local_url": "/agent-skills/scenario/text-to-speech/"
-  },
-  {
-    "name": "Workflow Automation Find AI tools for automating repetitive workflows, task orchestration, and proce... 10 tools",
-    "url": "https://agentskillshub.top/best/workflow-automation/",
-    "source_url": "https://agentskillshub.top/best/workflow-automation/",
-    "slug": "workflow-automation",
-    "local_url": "/agent-skills/scenario/workflow-automation/"
-  },
-  {
-    "name": "CI/CD & DevOps Browse AI agent tools for continuous integration, deployment automation, and Dev... 10 tools",
-    "url": "https://agentskillshub.top/best/ci-cd/",
-    "source_url": "https://agentskillshub.top/best/ci-cd/",
-    "slug": "ci-cd",
-    "local_url": "/agent-skills/scenario/ci-cd/"
-  },
-  {
-    "name": "Monitoring & Observability Find AI tools for monitoring applications, logs, metrics, and system health with... 10 tools",
-    "url": "https://agentskillshub.top/best/monitoring/",
-    "source_url": "https://agentskillshub.top/best/monitoring/",
-    "slug": "monitoring",
-    "local_url": "/agent-skills/scenario/monitoring/"
-  },
-  {
-    "name": "Container & Docker Tools Find AI tools for Docker container management, Kubernetes orchestration, and clo... 10 tools",
-    "url": "https://agentskillshub.top/best/container-management/",
-    "source_url": "https://agentskillshub.top/best/container-management/",
-    "slug": "container-management",
-    "local_url": "/agent-skills/scenario/container-management/"
-  },
-  {
-    "name": "Browser Automation Explore tools for automated browser testing, web interaction, and UI automation ... 10 tools",
-    "url": "https://agentskillshub.top/best/browser-automation/",
-    "source_url": "https://agentskillshub.top/best/browser-automation/",
-    "slug": "browser-automation",
-    "local_url": "/agent-skills/scenario/browser-automation/"
-  },
-  {
-    "name": "Slack Integration Find AI agent tools that integrate with Slack for notifications, chatbots, and w... 10 tools",
-    "url": "https://agentskillshub.top/best/slack-integration/",
-    "source_url": "https://agentskillshub.top/best/slack-integration/",
-    "slug": "slack-integration",
-    "local_url": "/agent-skills/scenario/slack-integration/"
-  },
-  {
-    "name": "Discord Bot Explore AI-powered Discord bot tools for community management, moderation, and a... 10 tools",
-    "url": "https://agentskillshub.top/best/discord-bot/",
-    "source_url": "https://agentskillshub.top/best/discord-bot/",
-    "slug": "discord-bot",
-    "local_url": "/agent-skills/scenario/discord-bot/"
-  },
-  {
-    "name": "Telegram Bot Find tools for building AI-powered Telegram bots with agent capabilities. 10 tools",
-    "url": "https://agentskillshub.top/best/telegram-bot/",
-    "source_url": "https://agentskillshub.top/best/telegram-bot/",
-    "slug": "telegram-bot",
-    "local_url": "/agent-skills/scenario/telegram-bot/"
-  },
-  {
-    "name": "Email Automation Discover AI tools for email automation, inbox management, and intelligent email ... 10 tools",
-    "url": "https://agentskillshub.top/best/email-automation/",
-    "source_url": "https://agentskillshub.top/best/email-automation/",
-    "slug": "email-automation",
-    "local_url": "/agent-skills/scenario/email-automation/"
-  },
-  {
-    "name": "Social Media Tools Find AI tools for social media management, posting, analytics, and content sched... 10 tools",
-    "url": "https://agentskillshub.top/best/social-media/",
-    "source_url": "https://agentskillshub.top/best/social-media/",
-    "slug": "social-media",
-    "local_url": "/agent-skills/scenario/social-media/"
-  },
-  {
-    "name": "Notification & Alerting Find tools for sending notifications, alerts, and messages across multiple chann... 10 tools",
-    "url": "https://agentskillshub.top/best/notification/",
-    "source_url": "https://agentskillshub.top/best/notification/",
-    "slug": "notification",
-    "local_url": "/agent-skills/scenario/notification/"
-  },
-  {
-    "name": "RSS & Feed Monitoring Discover tools for RSS feed monitoring, news aggregation, and content tracking w... 10 tools",
-    "url": "https://agentskillshub.top/best/rss-monitoring/",
-    "source_url": "https://agentskillshub.top/best/rss-monitoring/",
-    "slug": "rss-monitoring",
-    "local_url": "/agent-skills/scenario/rss-monitoring/"
   }
 ]

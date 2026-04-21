@@ -8,9 +8,4 @@ permalink: /agent-skills/scenario/mcp-for-google/
 
 原始来源：[点击查看原站](https://agentskillshub.top/best/mcp-for-google/)
 
-## Quick Pick
-**google_workspace_mcp** · ★ 2.2k · Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search
-
-## 工具列表
-
 暂无工具数据。
