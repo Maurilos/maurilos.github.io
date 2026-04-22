@@ -35,7 +35,7 @@
         "author": "hyperterse",
         "stars": "80",
         "meta": "Go MCP Server",
-        "description": "The MCP framework. Connect your data to your agents.",
+        "description": "The agentic framework.",
         "github_url": "https://github.com/hyperterse/hyperterse"
       },
       {
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "native-devtools-mcp",
         "author": "sh3ll3x3c",
-        "stars": "68",
+        "stars": "70",
         "meta": "Rust MCP Server",
         "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
         "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
@@ -250,7 +250,7 @@
         "rank": 4,
         "name": "oxideterm",
         "author": "AnalyseDeCircuit",
-        "stars": "592",
+        "stars": "595",
         "meta": "Rust MCP Server",
         "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
         "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
@@ -666,7 +666,7 @@
         "rank": 4,
         "name": "skylos",
         "author": "duriantaco",
-        "stars": "415",
+        "stars": "417",
         "meta": "Python MCP Server",
         "description": "Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.",
         "github_url": "https://github.com/duriantaco/skylos"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "465",
+        "stars": "482",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
@@ -815,7 +815,7 @@
         "rank": 9,
         "name": "google-drive-mcp",
         "author": "piotr-agier",
-        "stars": "126",
+        "stars": "129",
         "meta": "TypeScript MCP Server",
         "description": "A Model Context Protocol (MCP) server that provides secure integration with Google Drive, Docs, Sheets, Slides and Calendar. It allows Claude Desktop and other MCP clients to manage files in Google Drive through a standardized interface.",
         "github_url": "https://github.com/piotr-agier/google-drive-mcp"
@@ -874,9 +874,9 @@
         "rank": 4,
         "name": "maestro-orchestrate",
         "author": "josstei",
-        "stars": "356",
+        "stars": "362",
         "meta": "JavaScript Codex Skill",
-        "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 22 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
+        "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
         "github_url": "https://github.com/josstei/maestro-orchestrate"
       },
       {
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "graphify",
         "author": "safishamsi",
-        "stars": "31.9k",
+        "stars": "32.1k",
         "meta": "Python Codex Skill",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
         "github_url": "https://github.com/safishamsi/graphify"
@@ -1213,16 +1213,16 @@
         "rank": 7,
         "name": "opik-openclaw",
         "author": "comet-ml",
-        "stars": "506",
+        "stars": "541",
         "meta": "TypeScript Codex Skill",
-        "description": "Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.",
+        "description": "🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.",
         "github_url": "https://github.com/comet-ml/opik-openclaw"
       },
       {
         "rank": 8,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "357",
+        "stars": "358",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"

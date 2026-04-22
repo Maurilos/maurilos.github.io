@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - CLI tool for agents to quickly access browser telemetry (DOM, network, console) via Chrome DevTools Protocol.
 - <a href="https://github.com/kontext-dev/browser-use-mcp-server" target="_blank" rel="noopener"><strong>browser-use-mcp-server</strong></a> by kontext-dev · ★ 811 · Python MCP Server
   - Browse the web, directly from Cursor etc.
-- <a href="https://github.com/sh3ll3x3c/native-devtools-mcp" target="_blank" rel="noopener"><strong>native-devtools-mcp</strong></a> by sh3ll3x3c · ★ 68 · Rust MCP Server
+- <a href="https://github.com/sh3ll3x3c/native-devtools-mcp" target="_blank" rel="noopener"><strong>native-devtools-mcp</strong></a> by sh3ll3x3c · ★ 70 · Rust MCP Server
   - MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.
 - <a href="https://github.com/hanzili/hanzi-browse" target="_blank" rel="noopener"><strong>hanzi-browse</strong></a> by hanzili · ★ 151 · JavaScript MCP Server
   - let any ai agent use the local browser
