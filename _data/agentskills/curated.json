@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "mcp-toolbox",
-      "stars": "14.7k",
+      "stars": "14.8k",
       "tagline": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "github_url": "https://github.com/googleapis/mcp-toolbox"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "mcp-toolbox",
         "author": "googleapis",
-        "stars": "14.7k",
+        "stars": "14.8k",
         "meta": "Go MCP Server",
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "github_url": "https://github.com/googleapis/mcp-toolbox"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "native-devtools-mcp",
         "author": "sh3ll3x3c",
-        "stars": "70",
+        "stars": "73",
         "meta": "Rust MCP Server",
         "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
         "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
@@ -250,7 +250,7 @@
         "rank": 4,
         "name": "oxideterm",
         "author": "AnalyseDeCircuit",
-        "stars": "599",
+        "stars": "601",
         "meta": "Rust MCP Server",
         "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
         "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
@@ -286,7 +286,7 @@
         "rank": 8,
         "name": "conduit-mcp",
         "author": "steipete",
-        "stars": "62",
+        "stars": "63",
         "meta": "TypeScript MCP Server",
         "description": "MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.",
         "github_url": "https://github.com/steipete/conduit-mcp"
@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "memex",
         "author": "iamtouchskyer",
-        "stars": "172",
+        "stars": "186",
         "meta": "TypeScript MCP Server",
         "description": "Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.",
         "github_url": "https://github.com/iamtouchskyer/memex"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "3.1k",
+        "stars": "3.2k",
         "meta": "TypeScript MCP Server",
         "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "29.1k",
+        "stars": "29.2k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "476",
+        "stars": "559",
         "meta": "Rust Agent Tool",
         "description": "a terminal UI for local code review",
         "github_url": "https://github.com/agavra/tuicr"
@@ -928,7 +928,7 @@
         "rank": 10,
         "name": "ring",
         "author": "LerianStudio",
-        "stars": "175",
+        "stars": "176",
         "meta": "Python Agent Tool",
         "description": "89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.",
         "github_url": "https://github.com/LerianStudio/ring"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "graphify",
         "author": "safishamsi",
-        "stars": "32.6k",
+        "stars": "33.1k",
         "meta": "Python Codex Skill",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
         "github_url": "https://github.com/safishamsi/graphify"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "8.8k",
+        "stars": "8.9k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1023,7 +1023,7 @@
         "rank": 9,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "4.3k",
+        "stars": "4.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "eval-view",
         "author": "hidai25",
-        "stars": "86",
+        "stars": "91",
         "meta": "Python MCP Server",
         "description": "Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.",
         "github_url": "https://github.com/hidai25/eval-view"
@@ -1213,7 +1213,7 @@
         "rank": 7,
         "name": "opik-openclaw",
         "author": "comet-ml",
-        "stars": "542",
+        "stars": "543",
         "meta": "TypeScript Codex Skill",
         "description": "🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.",
         "github_url": "https://github.com/comet-ml/opik-openclaw"
@@ -1240,7 +1240,7 @@
         "rank": 10,
         "name": "Geargrafx",
         "author": "drhelius",
-        "stars": "202",
+        "stars": "204",
         "meta": "C++ MCP Server",
         "description": "PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Geargrafx"

@@ -23,11 +23,11 @@ permalink: /agent-skills/scenario/debugging/
   - Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 - <a href="https://github.com/miscusi-peek/cheatengine-mcp-bridge" target="_blank" rel="noopener"><strong>cheatengine-mcp-bridge</strong></a> by miscusi-peek · ★ 538 · Lua MCP Server
   - Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.
-- <a href="https://github.com/comet-ml/opik-openclaw" target="_blank" rel="noopener"><strong>opik-openclaw</strong></a> by comet-ml · ★ 542 · TypeScript Codex Skill
+- <a href="https://github.com/comet-ml/opik-openclaw" target="_blank" rel="noopener"><strong>opik-openclaw</strong></a> by comet-ml · ★ 543 · TypeScript Codex Skill
   - 🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.
 - <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 358 · C++ MCP Server
   - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 285 · TypeScript MCP Server
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
-- <a href="https://github.com/drhelius/Geargrafx" target="_blank" rel="noopener"><strong>Geargrafx</strong></a> by drhelius · ★ 202 · C++ MCP Server
+- <a href="https://github.com/drhelius/Geargrafx" target="_blank" rel="noopener"><strong>Geargrafx</strong></a> by drhelius · ★ 204 · C++ MCP Server
   - PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.

@@ -28,5 +28,5 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 - <a href="https://github.com/creativetimofficial/ui" target="_blank" rel="noopener"><strong>ui</strong></a> by creativetimofficial · ★ 11.8k · TypeScript MCP Server
   - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs. Quick Start: You can use the Creative Tim UI CLI directly with npx, or install it globally: ```bash # Use directly (recommended) npx @creative-tim/ui@latest add <component-name> # Or using shadcn cli npx shadcn@latest add https://creative-tim.com/ui/r/all.json ```
-- <a href="https://github.com/holaboss-ai/holaOS" target="_blank" rel="noopener"><strong>holaOS</strong></a> by holaboss-ai · ★ 3.1k · TypeScript MCP Server
+- <a href="https://github.com/holaboss-ai/holaOS" target="_blank" rel="noopener"><strong>holaOS</strong></a> by holaboss-ai · ★ 3.2k · TypeScript MCP Server
   - The agent environment for long-horizon work, continuity, and self-evolution.

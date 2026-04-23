@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 418 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
-- <a href="https://github.com/github/github-mcp-server" target="_blank" rel="noopener"><strong>github-mcp-server</strong></a> by github · ★ 29.1k · Go MCP Server
+- <a href="https://github.com/github/github-mcp-server" target="_blank" rel="noopener"><strong>github-mcp-server</strong></a> by github · ★ 29.2k · Go MCP Server
   - GitHub's official MCP Server
 - <a href="https://github.com/mattzcarey/shippie" target="_blank" rel="noopener"><strong>shippie</strong></a> by mattzcarey · ★ 2.3k · TypeScript MCP Server
   - extendable code review and QA agent 🚢
