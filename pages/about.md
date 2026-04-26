@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About
-description: 博客
-keywords: 网络奇趣站,最新网络科技,实用网络工具,网络娱乐推荐,网络技术趋势,好用软件推荐,数字文化分享,数字时代资讯
+title: 关于 Maurilos
+description: 一个关于技术实践、网络探索、工具分享、生活观察与个人思考的博客。
+keywords: Maurilos, Maurilos, 个人博客, 技术博客, 网络探索, 实用工具, 数字生活, 编程学习, 网站搭建, 生活思考
 comments: false
 menu: 关于
 permalink: /about/
 ---
 
-关于 Mauphilos
+关于 Maurilos
 
-你好，我是 Mauphilos。
+你好，我是 Maurilos
 
 一个对网络世界充满好奇的人，也是在数字时代里慢慢学习、摸索和建立自己系统的普通人。
 
@@ -20,7 +20,7 @@ permalink: /about/
 
 这个博客会记录我的技术实践、网络观察、生活感悟和一些零散但真实的思考。
 
-Mauphilos，不只是一个名字，也是一种持续探索的态度。
+Maurilos，不只是一个名字，也是一种持续探索的态度。
 
 
 
