@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "memex",
         "author": "iamtouchskyer",
-        "stars": "187",
+        "stars": "189",
         "meta": "TypeScript MCP Server",
         "description": "Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.",
         "github_url": "https://github.com/iamtouchskyer/memex"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "maestro-orchestrate",
         "author": "josstei",
-        "stars": "377",
+        "stars": "378",
         "meta": "JavaScript Codex Skill",
         "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
         "github_url": "https://github.com/josstei/maestro-orchestrate"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "10.4k",
+        "stars": "10.5k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "prompt-optimizer",
         "author": "linshenkx",
-        "stars": "27.0k",
+        "stars": "27.2k",
         "meta": "TypeScript Agent Tool",
         "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
         "github_url": "https://github.com/linshenkx/prompt-optimizer"

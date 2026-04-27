@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/code-review/
   - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
 - <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 559 · Rust Agent Tool
   - a terminal UI for local code review
-- <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 377 · JavaScript Codex Skill
+- <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 378 · JavaScript Codex Skill
   - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
 - <a href="https://github.com/Nikita-Filonov/ai-review" target="_blank" rel="noopener"><strong>ai-review</strong></a> by Nikita-Filonov · ★ 362 · Python Agent Tool
   - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
