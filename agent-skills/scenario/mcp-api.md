@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-api/
 # Best AI Agent Skills for MCP API Integration in 2026
 
 ## Quick Pick
-<a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> · ★ 81 · The open source, no-code MCP Server for AI-Native API Access
+<a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> · ★ 84 · The open source, no-code MCP Server for AI-Native API Access
 
 ## 工具列表
 
-- <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> by reshaprio · ★ 81 · Java MCP Server
+- <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> by reshaprio · ★ 84 · Java MCP Server
   - The open source, no-code MCP Server for AI-Native API Access
 - <a href="https://github.com/zaizaizhao/mcp-swagger-server" target="_blank" rel="noopener"><strong>mcp-swagger-server</strong></a> by zaizaizhao · ★ 63 · TypeScript MCP Server
   - MCP Swagger Server 将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式，让 AI 助手能够理解和调用您的 API。

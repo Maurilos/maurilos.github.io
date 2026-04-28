@@ -23,9 +23,9 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - Model Context Protocol (MCP) Server for reading from Google Drive and editing Google Sheets
 - <a href="https://github.com/aaronsb/google-workspace-mcp" target="_blank" rel="noopener"><strong>google-workspace-mcp</strong></a> by aaronsb · ★ 146 · TypeScript MCP Server
   - A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality
-- <a href="https://github.com/a-bonus/google-docs-mcp" target="_blank" rel="noopener"><strong>google-docs-mcp</strong></a> by a-bonus · ★ 489 · TypeScript MCP Server
+- <a href="https://github.com/a-bonus/google-docs-mcp" target="_blank" rel="noopener"><strong>google-docs-mcp</strong></a> by a-bonus · ★ 491 · TypeScript MCP Server
   - The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.
-- <a href="https://github.com/googleworkspace/cli" target="_blank" rel="noopener"><strong>cli</strong></a> by googleworkspace · ★ 25.3k · Rust Agent Tool
+- <a href="https://github.com/googleworkspace/cli" target="_blank" rel="noopener"><strong>cli</strong></a> by googleworkspace · ★ 25.5k · Rust Agent Tool
   - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - <a href="https://github.com/piotr-agier/google-drive-mcp" target="_blank" rel="noopener"><strong>google-drive-mcp</strong></a> by piotr-agier · ★ 129 · TypeScript MCP Server
   - A Model Context Protocol (MCP) server that provides secure integration with Google Drive, Docs, Sheets, Slides and Calendar. It allows Claude Desktop and other MCP clients to manage files in Google Drive through a standardized interface.
