@@ -17,17 +17,17 @@ permalink: /agent-skills/scenario/code-review/
   - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
 - <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 559 · Rust Agent Tool
   - a terminal UI for local code review
-- <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 380 · JavaScript Codex Skill
+- <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 383 · JavaScript Codex Skill
   - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
-- <a href="https://github.com/Nikita-Filonov/ai-review" target="_blank" rel="noopener"><strong>ai-review</strong></a> by Nikita-Filonov · ★ 362 · Python Agent Tool
-  - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
-- <a href="https://github.com/josstei/maestro-gemini" target="_blank" rel="noopener"><strong>maestro-gemini</strong></a> by josstei · ★ 259 · JavaScript Agent Tool
-  - Multi-agent orchestration extension for Gemini CLI — 22 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
-- <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 261 · Python Claude Skill
-  - 19 production-ready Claude Code plugins: git workflows, code review, spec-driven development, architecture patterns, resource optimization, and multi-LLM delegation
-- <a href="https://github.com/alexfazio/plankton" target="_blank" rel="noopener"><strong>plankton</strong></a> by alexfazio · ★ 243 · Shell Agent Tool
-  - Write-time code quality enforcement system for Claude Code. Every file edit triggers automated formatting and linting through fast Rust-based linters and dedicated Claude instances that intelligently fix remaining violations
-- <a href="https://github.com/Nayjest/Gito" target="_blank" rel="noopener"><strong>Gito</strong></a> by Nayjest · ★ 209 · Python Agent Tool
-  - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.
-- <a href="https://github.com/LerianStudio/ring" target="_blank" rel="noopener"><strong>ring</strong></a> by LerianStudio · ★ 177 · Python Agent Tool
-  - 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
+- <a href="https://github.com/tirth8205/code-review-graph" target="_blank" rel="noopener"><strong>code-review-graph</strong></a> by tirth8205 · ★ 12.3k · Python MCP Server
+  - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
+- <a href="https://github.com/ComposioHQ/agent-orchestrator" target="_blank" rel="noopener"><strong>agent-orchestrator</strong></a> by ComposioHQ · ★ 6.6k · TypeScript Codex Skill
+  - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
+- <a href="https://github.com/backnotprop/plannotator" target="_blank" rel="noopener"><strong>plannotator</strong></a> by backnotprop · ★ 4.7k · TypeScript Codex Skill
+  - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- <a href="https://github.com/haydenbleasel/ultracite" target="_blank" rel="noopener"><strong>ultracite</strong></a> by haydenbleasel · ★ 2.9k · TypeScript MCP Server
+  - A highly opinionated, zero-configuration linter and formatter. Quick Start: The interactive setup will guide you through selecting your formatter/linter, framework, editor, and AI agents. It can also offer to install the reusa... ```sh npx ultracite init ```
+- <a href="https://github.com/jnMetaCode/superpowers-zh" target="_blank" rel="noopener"><strong>superpowers-zh</strong></a> by jnMetaCode · ★ 1.6k · Shell MCP Server
+  - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
+- <a href="https://github.com/agent-sh/agentsys" target="_blank" rel="noopener"><strong>agentsys</strong></a> by agent-sh · ★ 761 · JavaScript Claude Skill
+  - AI writes code. This automates everything else · 19 plugins, 47 agents, and 40 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.

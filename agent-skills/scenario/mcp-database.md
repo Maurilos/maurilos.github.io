@@ -15,8 +15,6 @@ permalink: /agent-skills/scenario/mcp-database/
   - MCP Toolbox for Databases is an open source MCP server for databases.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 2.6k · TypeScript MCP Server
   - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
-- <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 80 · Go MCP Server
-  - The agentic server framework.
 - <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 1.2k · TypeScript MCP Server
   - A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
 - <a href="https://github.com/debba/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by debba · ★ 1.2k · TypeScript MCP Server
@@ -27,7 +25,9 @@ permalink: /agent-skills/scenario/mcp-database/
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - <a href="https://github.com/mindsdb/mindsdb" target="_blank" rel="noopener"><strong>mindsdb</strong></a> by mindsdb · ★ 39.1k · Python MCP Server
   - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
-- <a href="https://github.com/call518/MCP-PostgreSQL-Ops" target="_blank" rel="noopener"><strong>MCP-PostgreSQL-Ops</strong></a> by call518 · ★ 147 · Python MCP Server
-  - 🔍Professional MCP server for PostgreSQL operations & monitoring: 30+ extension-independent tools for performance analysis, table bloat detection, autovacuum monitoring, schema introspection, and database management. Supports PostgreSQL 12+.
 - <a href="https://github.com/runekaagaard/mcp-alchemy" target="_blank" rel="noopener"><strong>mcp-alchemy</strong></a> by runekaagaard · ★ 395 · Python MCP Server
   - A MCP (model context protocol) server that gives the LLM access to and knowledge about relational databases like SQLite, Postgresql, MySQL & MariaDB, Oracle, and MS-SQL.
+- <a href="https://github.com/xpf0000/FlyEnv" target="_blank" rel="noopener"><strong>FlyEnv</strong></a> by xpf0000 · ★ 2.7k · TypeScript Codex Skill
+  - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Hermes Agent/OpenClaw/n8n/Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...
+- <a href="https://github.com/Dataojitori/nocturne_memory" target="_blank" rel="noopener"><strong>nocturne_memory</strong></a> by Dataojitori · ★ 982 · Python MCP Server
+  - A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents. Say goodbye to Vector RAG and amnesia. Empower your AI with persistent, graph-like structured memory across any model, session, or tool. Drop-in replacement for OpenClaw.

@@ -7,14 +7,10 @@ permalink: /agent-skills/scenario/test-generation/
 # Best AI Agent Skills for Test Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> · ★ 101 · Self-Learning Multi-agent orchestration framework for spec-driven development an
+<a href="https://github.com/linshenkx/prompt-optimizer" target="_blank" rel="noopener"><strong>prompt-optimizer</strong></a> · ★ 27.2k · An AI prompt optimizer for writing better prompts and getting better AI results.
 
 ## 工具列表
 
-- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 101 · Agent Tool
-  - Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.
-- <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 97 · Python MCP Server
-  - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/linshenkx/prompt-optimizer" target="_blank" rel="noopener"><strong>prompt-optimizer</strong></a> by linshenkx · ★ 27.2k · TypeScript Agent Tool
   - An AI prompt optimizer for writing better prompts and getting better AI results.
 - <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 20.7k · TypeScript LLM Plugin
@@ -29,5 +25,9 @@ permalink: /agent-skills/scenario/test-generation/
   - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
 - <a href="https://github.com/antiwork/shortest" target="_blank" rel="noopener"><strong>shortest</strong></a> by antiwork · ★ 5.5k · TypeScript Agent Tool
   - QA via natural language AI tests
+- <a href="https://github.com/HKUDS/Vibe-Trading" target="_blank" rel="noopener"><strong>Vibe-Trading</strong></a> by HKUDS · ★ 3.5k · Python MCP Server
+  - "Vibe-Trading: Your Personal Trading Agent"
 - <a href="https://github.com/httprunner/httprunner" target="_blank" rel="noopener"><strong>httprunner</strong></a> by httprunner · ★ 4.3k · Go MCP Server
   - HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+- <a href="https://github.com/hegelai/prompttools" target="_blank" rel="noopener"><strong>prompttools</strong></a> by hegelai · ★ 3.0k · Python Agent Tool
+  - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).

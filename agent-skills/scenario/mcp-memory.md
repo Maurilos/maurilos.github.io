@@ -13,21 +13,21 @@ permalink: /agent-skills/scenario/mcp-memory/
 
 - <a href="https://github.com/agentic-box/memora" target="_blank" rel="noopener"><strong>memora</strong></a> by agentic-box · ★ 394 · Python MCP Server
   - Give your AI agents persistent memory.
-- <a href="https://github.com/ArchieIndian/openclaw-superpowers" target="_blank" rel="noopener"><strong>openclaw-superpowers</strong></a> by ArchieIndian · ★ 55 · Python MCP Server
-  - 44 plug-and-play skills for OpenClaw — self-modifying AI agent with cron scheduling, security guardrails, persistent memory, knowledge graphs, and MCP health monitoring. Your agent teaches itself new behaviors during conversation.
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 810 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
-- <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 103 · Python MCP Server
-  - Persistent memory for AI coding agents
-- <a href="https://github.com/Filippo-Venturini/ctxvault" target="_blank" rel="noopener"><strong>ctxvault</strong></a> by Filippo-Venturini · ★ 51 · Python MCP Server
-  - Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.
-- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 272 · TypeScript MCP Server
-  - Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.
 - <a href="https://github.com/aiming-lab/SimpleMem" target="_blank" rel="noopener"><strong>SimpleMem</strong></a> by aiming-lab · ★ 3.2k · Python MCP Server
   - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
-- <a href="https://github.com/iamtouchskyer/memex" target="_blank" rel="noopener"><strong>memex</strong></a> by iamtouchskyer · ★ 189 · TypeScript MCP Server
-  - Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
-- <a href="https://github.com/yantrikos/yantrikdb-server" target="_blank" rel="noopener"><strong>yantrikdb-server</strong></a> by yantrikos · ★ 133 · Python MCP Server
-  - Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.
-- <a href="https://github.com/smixs/agent-second-brain" target="_blank" rel="noopener"><strong>agent-second-brain</strong></a> by smixs · ★ 161 · Python Agent Tool
-  - Send voice notes to Telegram → get organized knowledge base, tasks in Todoist, and daily reports. Persistent memory with Ebbinghaus decay, vault health scoring, knowledge graph. Runs on Claude Code + OpenClaw. 5/mo.
+- <a href="https://github.com/FlowElement-ai/m_flow" target="_blank" rel="noopener"><strong>m_flow</strong></a> by FlowElement-ai · ★ 1.1k · Python MCP Server
+  - A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.
+- <a href="https://github.com/christopherkarani/Wax" target="_blank" rel="noopener"><strong>Wax</strong></a> by christopherkarani · ★ 720 · Swift MCP Server
+  - Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift
+- <a href="https://github.com/mnemox-ai/tradememory-protocol" target="_blank" rel="noopener"><strong>tradememory-protocol</strong></a> by mnemox-ai · ★ 567 · Python MCP Server
+  - Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, SHA-256 tamper detection, 17 MCP tools.
+- <a href="https://github.com/vitali87/code-graph-rag" target="_blank" rel="noopener"><strong>code-graph-rag</strong></a> by vitali87 · ★ 2.3k · Python MCP Server
+  - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+- <a href="https://github.com/GeminiLight/MindOS" target="_blank" rel="noopener"><strong>MindOS</strong></a> by GeminiLight · ★ 541 · TypeScript MCP Server
+  - MindOS is a Human-AI Collaborative Mind System, where human thinks and agents act. Globally sync your mind for all agents: transparent, controllable, and evolving symbiotically.
+- <a href="https://github.com/tirth8205/code-review-graph" target="_blank" rel="noopener"><strong>code-review-graph</strong></a> by tirth8205 · ★ 12.3k · Python MCP Server
+  - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
+- <a href="https://github.com/maxritter/pilot-shell" target="_blank" rel="noopener"><strong>pilot-shell</strong></a> by maxritter · ★ 1.7k · TypeScript MCP Server
+  - The Claude Code engineering platform: spec-driven planning, enforced TDD, persistent memory, and quality hooks. Make Claude Code production-ready.
