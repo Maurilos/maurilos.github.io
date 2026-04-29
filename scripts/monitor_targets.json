@@ -1,0 +1,24 @@
+{
+  "defaults": {
+    "currency": "USD",
+    "billing": "annually",
+    "min_annual_usd": 0.01,
+    "max_annual_usd": 10.99,
+    "ignore_annual_usd_at_or_above": 15.0,
+    "notify_on_error": true,
+    "notify_recovery": true,
+    "user_agent": "Mozilla/5.0 (compatible; RackNerdDealMonitor/1.0; +https://github.com/Maurilos/maurilos.github.io)"
+  },
+  "targets": [
+    {
+      "id": "racknerd-special-promos",
+      "name": "RackNerd Special Promos",
+      "url": "https://my.racknerd.com/index.php?rp=/store/special-promos",
+      "enabled": true,
+      "max_annual_usd": 10.99,
+      "ignore_annual_usd_at_or_above": 15.0,
+      "include_keywords": [],
+      "exclude_keywords": []
+    }
+  ]
+}
