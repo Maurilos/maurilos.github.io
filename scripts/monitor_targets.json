@@ -3,8 +3,8 @@
     "currency": "USD",
     "billing": "annually",
     "min_annual_usd": 0.01,
-    "max_annual_usd": 10.99,
-    "ignore_annual_usd_at_or_above": 15.0,
+    "max_annual_usd": 15,
+    "ignore_annual_usd_at_or_above": 15.1,
     "notify_on_error": true,
     "notify_recovery": true,
     "user_agent": "Mozilla/5.0 (compatible; RackNerdDealMonitor/1.0; +https://github.com/Maurilos/maurilos.github.io)"
