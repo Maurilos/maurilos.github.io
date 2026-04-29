@@ -3,8 +3,8 @@ name: RackNerd Deal Monitor
 on:
   workflow_dispatch:
   schedule:
-    # GitHub Actions cron uses UTC. This checks every 30 minutes.
-    - cron: "*/30 * * * *"
+    # Runs 3 times per day, every 8 hours. GitHub cron uses UTC.
+    - cron: "0 1,9,17 * * *"
 
 permissions:
   contents: write
