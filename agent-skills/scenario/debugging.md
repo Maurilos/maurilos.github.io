@@ -25,9 +25,9 @@ permalink: /agent-skills/scenario/debugging/
   - Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.
 - <a href="https://github.com/comet-ml/opik-openclaw" target="_blank" rel="noopener"><strong>opik-openclaw</strong></a> by comet-ml · ★ 561 · TypeScript Codex Skill
   - 🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.
+- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 362 · C++ MCP Server
+  - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 312 · TypeScript MCP Server
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
-- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 361 · C++ MCP Server
-  - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
-- <a href="https://github.com/drhelius/Geargrafx" target="_blank" rel="noopener"><strong>Geargrafx</strong></a> by drhelius · ★ 209 · C++ MCP Server
+- <a href="https://github.com/drhelius/Geargrafx" target="_blank" rel="noopener"><strong>Geargrafx</strong></a> by drhelius · ★ 210 · C++ MCP Server
   - PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.

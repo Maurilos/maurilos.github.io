@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI, Product Hunt. MCP server. 290+ stars.
 - <a href="https://github.com/SPThole/CoexistAI" target="_blank" rel="noopener"><strong>CoexistAI</strong></a> by SPThole · ★ 446 · Jupyter Notebook MCP Server
   - CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions.
-- <a href="https://github.com/proxy-intell/facebook-ads-library-mcp" target="_blank" rel="noopener"><strong>facebook-ads-library-mcp</strong></a> by proxy-intell · ★ 198 · Python MCP Server
-  - MCP Server for Facebook ADs Library - Get instant answers from FB's ad library
+- <a href="https://github.com/zaxbysauce/opencode-swarm" target="_blank" rel="noopener"><strong>opencode-swarm</strong></a> by zaxbysauce · ★ 273 · TypeScript MCP Server
+  - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.

@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "37.7k",
+        "stars": "37.8k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "ctxvault",
         "author": "Filippo-Venturini",
-        "stars": "51",
+        "stars": "52",
         "meta": "Python MCP Server",
         "description": "Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.",
         "github_url": "https://github.com/Filippo-Venturini/ctxvault"
@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "memex",
         "author": "iamtouchskyer",
-        "stars": "191",
+        "stars": "192",
         "meta": "TypeScript MCP Server",
         "description": "Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.",
         "github_url": "https://github.com/iamtouchskyer/memex"
@@ -512,7 +512,7 @@
         "rank": 10,
         "name": "dreamgraph",
         "author": "mmethodz",
-        "stars": "55",
+        "stars": "62",
         "meta": "TypeScript MCP Server",
         "description": "DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.",
         "github_url": "https://github.com/mmethodz/dreamgraph"
@@ -718,12 +718,12 @@
       },
       {
         "rank": 10,
-        "name": "facebook-ads-library-mcp",
-        "author": "proxy-intell",
-        "stars": "198",
-        "meta": "Python MCP Server",
-        "description": "MCP Server for Facebook ADs Library - Get instant answers from FB's ad library",
-        "github_url": "https://github.com/proxy-intell/facebook-ads-library-mcp"
+        "name": "opencode-swarm",
+        "author": "zaxbysauce",
+        "stars": "273",
+        "meta": "TypeScript MCP Server",
+        "description": "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
+        "github_url": "https://github.com/zaxbysauce/opencode-swarm"
       }
     ]
   },
@@ -734,7 +734,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-google/",
     "quick_pick": {
       "name": "google_workspace_mcp",
-      "stars": "2.2k",
+      "stars": "2.3k",
       "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search",
       "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
     },
@@ -743,7 +743,7 @@
         "rank": 1,
         "name": "google_workspace_mcp",
         "author": "taylorwilsdon",
-        "stars": "2.2k",
+        "stars": "2.3k",
         "meta": "Python MCP Server",
         "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool",
         "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "sdd-pilot",
         "author": "attilaszasz",
-        "stars": "60",
+        "stars": "67",
         "meta": "JavaScript Codex Skill",
         "description": "Replace chaotic AI code generation with a disciplined, spec-driven workflow. SDD Pilot enforces structured development phases and quality gates, leveraging AI agents to conduct online research for best practices and plan your architecture before a single line of code is written.",
         "github_url": "https://github.com/attilaszasz/sdd-pilot"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "graphify",
         "author": "safishamsi",
-        "stars": "38.6k",
+        "stars": "38.9k",
         "meta": "Python Codex Skill",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
         "github_url": "https://github.com/safishamsi/graphify"
@@ -996,16 +996,16 @@
         "rank": 6,
         "name": "ai-guide",
         "author": "liyupi",
-        "stars": "12.2k",
+        "stars": "12.8k",
         "meta": "JavaScript MCP Server",
-        "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站",
+        "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站",
         "github_url": "https://github.com/liyupi/ai-guide"
       },
       {
         "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "11.3k",
+        "stars": "11.4k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "5.5k",
+        "stars": "7.1k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "Vibe-Trading",
         "author": "HKUDS",
-        "stars": "3.7k",
+        "stars": "3.9k",
         "meta": "Python MCP Server",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "github_url": "https://github.com/HKUDS/Vibe-Trading"
@@ -1220,6 +1220,15 @@
       },
       {
         "rank": 8,
+        "name": "Gearsystem",
+        "author": "drhelius",
+        "stars": "362",
+        "meta": "C++ MCP Server",
+        "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
+        "github_url": "https://github.com/drhelius/Gearsystem"
+      },
+      {
+        "rank": 9,
         "name": "DebugMCP",
         "author": "microsoft",
         "stars": "312",
@@ -1228,19 +1237,10 @@
         "github_url": "https://github.com/microsoft/DebugMCP"
       },
       {
-        "rank": 9,
-        "name": "Gearsystem",
-        "author": "drhelius",
-        "stars": "361",
-        "meta": "C++ MCP Server",
-        "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
-        "github_url": "https://github.com/drhelius/Gearsystem"
-      },
-      {
         "rank": 10,
         "name": "Geargrafx",
         "author": "drhelius",
-        "stars": "209",
+        "stars": "210",
         "meta": "C++ MCP Server",
         "description": "PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Geargrafx"
