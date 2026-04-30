@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "3.4k",
+        "stars": "3.5k",
         "meta": "TypeScript MCP Server",
         "description": "An Open Agent Computer for ANY digital work.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode-mcp",
-      "stars": "795",
+      "stars": "802",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode-mcp"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode-mcp",
         "author": "bgauryy",
-        "stars": "795",
+        "stars": "802",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode-mcp"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "maestro-orchestrate",
         "author": "josstei",
-        "stars": "384",
+        "stars": "387",
         "meta": "JavaScript Codex Skill",
         "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
         "github_url": "https://github.com/josstei/maestro-orchestrate"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "graphify",
         "author": "safishamsi",
-        "stars": "38.3k",
+        "stars": "38.6k",
         "meta": "Python Codex Skill",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
         "github_url": "https://github.com/safishamsi/graphify"
@@ -1005,13 +1005,22 @@
         "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "11.1k",
+        "stars": "11.3k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
       },
       {
         "rank": 8,
+        "name": "open-design NEW",
+        "author": "nexu-io",
+        "stars": "5.5k",
+        "meta": "TypeScript Codex Skill",
+        "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+        "github_url": "https://github.com/nexu-io/open-design"
+      },
+      {
+        "rank": 9,
         "name": "codecompanion.nvim",
         "author": "olimorris",
         "stars": "6.5k",
@@ -1020,22 +1029,13 @@
         "github_url": "https://github.com/olimorris/codecompanion.nvim"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "5.0k",
+        "stars": "5.1k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
-      },
-      {
-        "rank": 10,
-        "name": "open-design NEW",
-        "author": "nexu-io",
-        "stars": "4.3k",
-        "meta": "TypeScript Codex Skill",
-        "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
-        "github_url": "https://github.com/nexu-io/open-design"
       }
     ]
   },
