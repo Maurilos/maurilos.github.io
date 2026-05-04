@@ -42,7 +42,7 @@
         "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "1.2k",
+        "stars": "1.3k",
         "meta": "TypeScript MCP Server",
         "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "37.9k",
+        "stars": "38.0k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -144,6 +144,15 @@
       },
       {
         "rank": 4,
+        "name": "stagehand",
+        "author": "browserbase",
+        "stars": "22.4k",
+        "meta": "TypeScript LLM Plugin",
+        "description": "The SDK For Browser Agents",
+        "github_url": "https://github.com/browserbase/stagehand"
+      },
+      {
+        "rank": 5,
         "name": "bluebox",
         "author": "VectorlyApp",
         "stars": "191",
@@ -152,7 +161,7 @@
         "github_url": "https://github.com/VectorlyApp/bluebox"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "nanobrowser",
         "author": "nanobrowser",
         "stars": "12.4k",
@@ -161,7 +170,7 @@
         "github_url": "https://github.com/nanobrowser/nanobrowser"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "glance",
         "author": "DebugBase",
         "stars": "142",
@@ -170,7 +179,7 @@
         "github_url": "https://github.com/DebugBase/glance"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "browser-debugger-cli",
         "author": "szymdzum",
         "stars": "124",
@@ -179,7 +188,7 @@
         "github_url": "https://github.com/szymdzum/browser-debugger-cli"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "browser-use-mcp-server",
         "author": "kontext-dev",
         "stars": "811",
@@ -188,22 +197,13 @@
         "github_url": "https://github.com/kontext-dev/browser-use-mcp-server"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "native-devtools-mcp",
         "author": "sh3ll3x3c",
         "stars": "77",
         "meta": "Rust MCP Server",
         "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
         "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
-      },
-      {
-        "rank": 10,
-        "name": "hanzi-browse",
-        "author": "hanzili",
-        "stars": "155",
-        "meta": "JavaScript MCP Server",
-        "description": "let any ai agent use the local browser",
-        "github_url": "https://github.com/hanzili/hanzi-browse"
       }
     ]
   },
@@ -512,7 +512,7 @@
         "rank": 10,
         "name": "dreamgraph",
         "author": "mmethodz",
-        "stars": "78",
+        "stars": "79",
         "meta": "TypeScript MCP Server",
         "description": "DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.",
         "github_url": "https://github.com/mmethodz/dreamgraph"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "4.5k",
+        "stars": "4.6k",
         "meta": "TypeScript MCP Server",
         "description": "An Open Agent Computer for ANY digital work.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "491",
+        "stars": "501",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "19.4k",
+        "stars": "21.0k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "12.3k",
+        "stars": "12.4k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1032,9 +1032,9 @@
         "rank": 10,
         "name": "9router",
         "author": "decolua",
-        "stars": "3.6k",
+        "stars": "3.7k",
         "meta": "JavaScript Codex Skill",
-        "description": "Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models",
+        "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
       }
     ]
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "Vibe-Trading",
         "author": "HKUDS",
-        "stars": "4.7k",
+        "stars": "4.8k",
         "meta": "Python MCP Server",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "github_url": "https://github.com/HKUDS/Vibe-Trading"

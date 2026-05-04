@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/mcp-database/
   - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 80 · Go MCP Server
   - The agentic server framework.
-- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 1.2k · TypeScript MCP Server
+- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 1.3k · TypeScript MCP Server
   - A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
 - <a href="https://github.com/debba/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by debba · ★ 1.2k · TypeScript MCP Server
   - A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
