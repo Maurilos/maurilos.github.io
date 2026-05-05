@@ -60,7 +60,7 @@
         "rank": 6,
         "name": "phpMyFAQ",
         "author": "thorsten",
-        "stars": "616",
+        "stars": "617",
         "meta": "PHP MCP Server",
         "description": "phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases",
         "github_url": "https://github.com/thorsten/phpMyFAQ"
@@ -525,14 +525,23 @@
     "slug": "mcp-for-notion",
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
     "quick_pick": {
-      "name": "anyquery",
-      "stars": "1.7k",
-      "tagline": "Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude",
-      "github_url": "https://github.com/julien040/anyquery"
+      "name": "mcp-notion-server",
+      "stars": "884",
+      "tagline": "A Model Context Protocol server for connecting Notion to MCP-compatible clients",
+      "github_url": "https://github.com/suekou/mcp-notion-server"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "mcp-notion-server",
+        "author": "suekou",
+        "stars": "884",
+        "meta": "TypeScript MCP Server",
+        "description": "A Model Context Protocol server for connecting Notion to MCP-compatible clients",
+        "github_url": "https://github.com/suekou/mcp-notion-server"
+      },
+      {
+        "rank": 2,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
@@ -541,7 +550,7 @@
         "github_url": "https://github.com/julien040/anyquery"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "notion_mcp",
         "author": "danhilse",
         "stars": "206",
@@ -550,7 +559,7 @@
         "github_url": "https://github.com/danhilse/notion_mcp"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "notion-mcp-server",
         "author": "awkoy",
         "stars": "147",
@@ -559,22 +568,13 @@
         "github_url": "https://github.com/awkoy/notion-mcp-server"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "notion-mcp-server",
         "author": "makenotion",
         "stars": "4.1k",
         "meta": "TypeScript MCP Server",
         "description": "Official Notion MCP Server",
         "github_url": "https://github.com/makenotion/notion-mcp-server"
-      },
-      {
-        "rank": 5,
-        "name": "mcp-notion-server",
-        "author": "suekou",
-        "stars": "863",
-        "meta": "TypeScript MCP Server",
-        "description": "",
-        "github_url": "https://github.com/suekou/mcp-notion-server"
       },
       {
         "rank": 6,
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "23.9k",
+        "stars": "24.5k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1032,7 +1032,7 @@
         "rank": 10,
         "name": "9router",
         "author": "decolua",
-        "stars": "3.7k",
+        "stars": "3.8k",
         "meta": "JavaScript Codex Skill",
         "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"

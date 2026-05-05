@@ -7,10 +7,12 @@ permalink: /agent-skills/scenario/mcp-for-notion/
 # Best AI Agent Skills for MCP Tools for Notion in 2026
 
 ## Quick Pick
-<a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> · ★ 1.7k · Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude
+<a href="https://github.com/suekou/mcp-notion-server" target="_blank" rel="noopener"><strong>mcp-notion-server</strong></a> · ★ 884 · A Model Context Protocol server for connecting Notion to MCP-compatible clients
 
 ## 工具列表
 
+- <a href="https://github.com/suekou/mcp-notion-server" target="_blank" rel="noopener"><strong>mcp-notion-server</strong></a> by suekou · ★ 884 · TypeScript MCP Server
+  - A Model Context Protocol server for connecting Notion to MCP-compatible clients
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - <a href="https://github.com/danhilse/notion_mcp" target="_blank" rel="noopener"><strong>notion_mcp</strong></a> by danhilse · ★ 206 · Python MCP Server
@@ -19,7 +21,6 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - **Notion MCP Server** is a Model Context Protocol (MCP) server implementation that enables AI assistants to interact with Notion's API. This production-ready server provides a complete set of tools.
 - <a href="https://github.com/makenotion/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by makenotion · ★ 4.1k · TypeScript MCP Server
   - Official Notion MCP Server
-- <a href="https://github.com/suekou/mcp-notion-server" target="_blank" rel="noopener"><strong>mcp-notion-server</strong></a> by suekou · ★ 863 · TypeScript MCP Server
 - <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 67 · TypeScript MCP Server
   - Open source RAG tool for AI document search - connect GitHub, Notion, Google Drive and ask questions with cited answers. Self-hosted with Ollama/OpenAI/Claude.
 - <a href="https://github.com/alibaba/page-agent" target="_blank" rel="noopener"><strong>page-agent</strong></a> by alibaba · ★ 17.4k · TypeScript MCP Server
