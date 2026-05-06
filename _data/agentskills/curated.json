@@ -60,7 +60,7 @@
         "rank": 6,
         "name": "phpMyFAQ",
         "author": "thorsten",
-        "stars": "617",
+        "stars": "616",
         "meta": "PHP MCP Server",
         "description": "phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases",
         "github_url": "https://github.com/thorsten/phpMyFAQ"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "38.1k",
+        "stars": "38.2k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -465,15 +465,24 @@
       },
       {
         "rank": 5,
+        "name": "MemOS",
+        "author": "MemTensor",
+        "stars": "8.9k",
+        "meta": "TypeScript MCP Server",
+        "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
+        "github_url": "https://github.com/MemTensor/MemOS"
+      },
+      {
+        "rank": 6,
         "name": "swarmvault",
         "author": "swarmclawai",
-        "stars": "378",
+        "stars": "379",
         "meta": "TypeScript MCP Server",
         "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
         "github_url": "https://github.com/swarmclawai/swarmvault"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "ctxvault",
         "author": "Filippo-Venturini",
         "stars": "52",
@@ -482,7 +491,7 @@
         "github_url": "https://github.com/Filippo-Venturini/ctxvault"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "SimpleMem",
         "author": "aiming-lab",
         "stars": "3.2k",
@@ -491,7 +500,7 @@
         "github_url": "https://github.com/aiming-lab/SimpleMem"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "memex",
         "author": "iamtouchskyer",
         "stars": "194",
@@ -500,22 +509,13 @@
         "github_url": "https://github.com/iamtouchskyer/memex"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "yantrikdb-server",
         "author": "yantrikos",
-        "stars": "137",
+        "stars": "139",
         "meta": "Rust MCP Server",
         "description": "Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.",
         "github_url": "https://github.com/yantrikos/yantrikdb-server"
-      },
-      {
-        "rank": 10,
-        "name": "dreamgraph",
-        "author": "mmethodz",
-        "stars": "79",
-        "meta": "TypeScript MCP Server",
-        "description": "DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.",
-        "github_url": "https://github.com/mmethodz/dreamgraph"
       }
     ]
   },
@@ -761,7 +761,7 @@
         "rank": 3,
         "name": "modular-context-obsidian-plugin",
         "author": "klemensgc",
-        "stars": "84",
+        "stars": "86",
         "meta": "TypeScript MCP Server",
         "description": "Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first",
         "github_url": "https://github.com/klemensgc/modular-context-obsidian-plugin"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "607",
+        "stars": "615",
         "meta": "Rust Agent Tool",
         "description": "a terminal UI for local code review",
         "github_url": "https://github.com/agavra/tuicr"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "26.8k",
+        "stars": "29.0k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "12.8k",
+        "stars": "13.4k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1023,7 +1023,7 @@
         "rank": 9,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "5.4k",
+        "stars": "5.5k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1046,8 +1046,8 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "gem-team",
-      "stars": "104",
-      "tagline": "Self-Learning Multi-agent orchestration framework for spec-driven development an",
+      "stars": "105",
+      "tagline": "Self-Learning Multi-agent orchestration harness for spec-driven development and",
       "github_url": "https://github.com/mubaidr/gem-team"
     },
     "tools": [
@@ -1055,9 +1055,9 @@
         "rank": 1,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "104",
+        "stars": "105",
         "meta": "Agent Tool",
-        "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
+        "description": "Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
       },
       {
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "Vibe-Trading",
         "author": "HKUDS",
-        "stars": "5.1k",
+        "stars": "5.2k",
         "meta": "Python MCP Server",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "github_url": "https://github.com/HKUDS/Vibe-Trading"

@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-database/
   - A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
 - <a href="https://github.com/debba/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by debba · ★ 1.2k · TypeScript MCP Server
   - A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
-- <a href="https://github.com/thorsten/phpMyFAQ" target="_blank" rel="noopener"><strong>phpMyFAQ</strong></a> by thorsten · ★ 617 · PHP MCP Server
+- <a href="https://github.com/thorsten/phpMyFAQ" target="_blank" rel="noopener"><strong>phpMyFAQ</strong></a> by thorsten · ★ 616 · PHP MCP Server
   - phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP

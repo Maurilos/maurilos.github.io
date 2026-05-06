@@ -7,12 +7,12 @@ permalink: /agent-skills/scenario/test-generation/
 # Best AI Agent Skills for Test Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> · ★ 104 · Self-Learning Multi-agent orchestration framework for spec-driven development an
+<a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> · ★ 105 · Self-Learning Multi-agent orchestration harness for spec-driven development and
 
 ## 工具列表
 
-- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 104 · Agent Tool
-  - Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.
+- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 105 · Agent Tool
+  - Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.
 - <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 97 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/smixs/skill-conductor" target="_blank" rel="noopener"><strong>skill-conductor</strong></a> by smixs · ★ 73 · Python Codex Skill
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/test-generation/
   - The most powerful Android RPA agent framework, next generation of mobile automation robots.
 - <a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank" rel="noopener"><strong>Anthropic-Cybersecurity-Skills</strong></a> by mukul975 · ★ 5.7k · Python MCP Server
   - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
-- <a href="https://github.com/HKUDS/Vibe-Trading" target="_blank" rel="noopener"><strong>Vibe-Trading</strong></a> by HKUDS · ★ 5.1k · Python MCP Server
+- <a href="https://github.com/HKUDS/Vibe-Trading" target="_blank" rel="noopener"><strong>Vibe-Trading</strong></a> by HKUDS · ★ 5.2k · Python MCP Server
   - "Vibe-Trading: Your Personal Trading Agent"
