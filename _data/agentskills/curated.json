@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "38.2k",
+        "stars": "38.3k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -512,7 +512,7 @@
         "rank": 10,
         "name": "yantrikdb-server",
         "author": "yantrikos",
-        "stars": "139",
+        "stars": "140",
         "meta": "Rust MCP Server",
         "description": "Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.",
         "github_url": "https://github.com/yantrikos/yantrikdb-server"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "4.8k",
+        "stars": "4.9k",
         "meta": "TypeScript MCP Server",
         "description": "An Open Agent Computer for ANY digital work.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
@@ -892,7 +892,7 @@
         "rank": 6,
         "name": "claude-night-market",
         "author": "athola",
-        "stars": "269",
+        "stars": "273",
         "meta": "Python Claude Skill",
         "description": "19 production-ready Claude Code plugins: git workflows, code review, spec-driven development, architecture patterns, resource optimization, and multi-LLM delegation",
         "github_url": "https://github.com/athola/claude-night-market"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "29.0k",
+        "stars": "30.0k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "13.4k",
+        "stars": "13.5k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1082,7 +1082,7 @@
         "rank": 4,
         "name": "prompt-optimizer",
         "author": "linshenkx",
-        "stars": "28.1k",
+        "stars": "28.2k",
         "meta": "TypeScript Agent Tool",
         "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
         "github_url": "https://github.com/linshenkx/prompt-optimizer"
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "Vibe-Trading",
         "author": "HKUDS",
-        "stars": "5.2k",
+        "stars": "5.3k",
         "meta": "Python MCP Server",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "github_url": "https://github.com/HKUDS/Vibe-Trading"

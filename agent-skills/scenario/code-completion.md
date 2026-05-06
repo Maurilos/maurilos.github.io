@@ -19,9 +19,9 @@ permalink: /agent-skills/scenario/code-completion/
   - Replace chaotic AI code generation with a disciplined, spec-driven workflow. SDD Pilot enforces structured development phases and quality gates, leveraging AI agents to conduct online research for best practices and plan your architecture before a single line of code is written.
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
-- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design NEW</strong></a> by nexu-io · ★ 29.0k · TypeScript Codex Skill
+- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design NEW</strong></a> by nexu-io · ★ 30.0k · TypeScript Codex Skill
   - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
-- <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 13.4k · TypeScript MCP Server
+- <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 13.5k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 - <a href="https://github.com/liyupi/ai-guide" target="_blank" rel="noopener"><strong>ai-guide</strong></a> by liyupi · ★ 12.8k · JavaScript MCP Server
   - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站

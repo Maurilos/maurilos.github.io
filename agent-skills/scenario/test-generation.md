@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/test-generation/
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/smixs/skill-conductor" target="_blank" rel="noopener"><strong>skill-conductor</strong></a> by smixs · ★ 73 · Python Codex Skill
   - Architecture-first skill lifecycle for AI agents. 5 modes: CREATE → EVAL → EDIT → REVIEW → PACKAGE. Integrates Anthropic's eval engine (grader/comparator/analyzer agents, blind A/B, benchmarks) with architecture patterns, TDD baseline, and 5-axis scoring. Not just testing - full design-to-distribution.
-- <a href="https://github.com/linshenkx/prompt-optimizer" target="_blank" rel="noopener"><strong>prompt-optimizer</strong></a> by linshenkx · ★ 28.1k · TypeScript Agent Tool
+- <a href="https://github.com/linshenkx/prompt-optimizer" target="_blank" rel="noopener"><strong>prompt-optimizer</strong></a> by linshenkx · ★ 28.2k · TypeScript Agent Tool
   - An AI prompt optimizer for writing better prompts and getting better AI results.
 - <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 20.9k · TypeScript LLM Plugin
   - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/test-generation/
   - The most powerful Android RPA agent framework, next generation of mobile automation robots.
 - <a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills" target="_blank" rel="noopener"><strong>Anthropic-Cybersecurity-Skills</strong></a> by mukul975 · ★ 5.7k · Python MCP Server
   - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
-- <a href="https://github.com/HKUDS/Vibe-Trading" target="_blank" rel="noopener"><strong>Vibe-Trading</strong></a> by HKUDS · ★ 5.2k · Python MCP Server
+- <a href="https://github.com/HKUDS/Vibe-Trading" target="_blank" rel="noopener"><strong>Vibe-Trading</strong></a> by HKUDS · ★ 5.3k · Python MCP Server
   - "Vibe-Trading: Your Personal Trading Agent"
