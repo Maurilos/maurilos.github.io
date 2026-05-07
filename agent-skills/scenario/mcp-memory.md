@@ -13,8 +13,6 @@ permalink: /agent-skills/scenario/mcp-memory/
 
 - <a href="https://github.com/agentic-box/memora" target="_blank" rel="noopener"><strong>memora</strong></a> by agentic-box · ★ 397 · Python MCP Server
   - Give your AI agents persistent memory.
-- <a href="https://github.com/ArchieIndian/openclaw-superpowers" target="_blank" rel="noopener"><strong>openclaw-superpowers</strong></a> by ArchieIndian · ★ 58 · Python MCP Server
-  - 44 plug-and-play skills for OpenClaw — self-modifying AI agent with cron scheduling, security guardrails, persistent memory, knowledge graphs, and MCP health monitoring. Your agent teaches itself new behaviors during conversation.
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 810 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
 - <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 110 · Python MCP Server
@@ -31,3 +29,5 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 - <a href="https://github.com/yantrikos/yantrikdb-server" target="_blank" rel="noopener"><strong>yantrikdb-server</strong></a> by yantrikos · ★ 140 · Rust MCP Server
   - Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.
+- <a href="https://github.com/mmethodz/dreamgraph" target="_blank" rel="noopener"><strong>dreamgraph</strong></a> by mmethodz · ★ 80 · TypeScript MCP Server
+  - DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.
