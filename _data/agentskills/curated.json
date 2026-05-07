@@ -720,7 +720,7 @@
         "rank": 10,
         "name": "opencode-swarm",
         "author": "zaxbysauce",
-        "stars": "301",
+        "stars": "304",
         "meta": "TypeScript MCP Server",
         "description": "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
         "github_url": "https://github.com/zaxbysauce/opencode-swarm"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "615",
+        "stars": "617",
         "meta": "Rust Agent Tool",
         "description": "a terminal UI for local code review",
         "github_url": "https://github.com/agavra/tuicr"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "embeddedskills",
         "author": "zhinkgit",
-        "stars": "121",
+        "stars": "163",
         "meta": "Python Claude Skill",
         "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
         "github_url": "https://github.com/zhinkgit/embeddedskills"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "30.0k",
+        "stars": "30.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "13.5k",
+        "stars": "13.6k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1193,6 +1193,15 @@
       },
       {
         "rank": 5,
+        "name": "cheatengine-mcp-bridge",
+        "author": "miscusi-peek",
+        "stars": "637",
+        "meta": "Lua MCP Server",
+        "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
+        "github_url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge"
+      },
+      {
+        "rank": 6,
         "name": "golf",
         "author": "golf-mcp",
         "stars": "813",
@@ -1201,19 +1210,10 @@
         "github_url": "https://github.com/golf-mcp/golf"
       },
       {
-        "rank": 6,
-        "name": "cheatengine-mcp-bridge",
-        "author": "miscusi-peek",
-        "stars": "587",
-        "meta": "Lua MCP Server",
-        "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
-        "github_url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge"
-      },
-      {
         "rank": 7,
         "name": "opik-openclaw",
         "author": "comet-ml",
-        "stars": "575",
+        "stars": "589",
         "meta": "TypeScript Codex Skill",
         "description": "🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.",
         "github_url": "https://github.com/comet-ml/opik-openclaw"
