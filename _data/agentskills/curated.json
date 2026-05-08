@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "38.3k",
+        "stars": "38.4k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -512,7 +512,7 @@
         "rank": 10,
         "name": "dreamgraph",
         "author": "mmethodz",
-        "stars": "80",
+        "stars": "81",
         "meta": "TypeScript MCP Server",
         "description": "DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.",
         "github_url": "https://github.com/mmethodz/dreamgraph"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "4.9k",
+        "stars": "5.2k",
         "meta": "TypeScript MCP Server",
         "description": "An Open Agent Computer for ANY digital work.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode-mcp",
-      "stars": "804",
+      "stars": "809",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode-mcp"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode-mcp",
         "author": "bgauryy",
-        "stars": "804",
+        "stars": "809",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode-mcp"
@@ -720,7 +720,7 @@
         "rank": 10,
         "name": "opencode-swarm",
         "author": "zaxbysauce",
-        "stars": "304",
+        "stars": "308",
         "meta": "TypeScript MCP Server",
         "description": "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
         "github_url": "https://github.com/zaxbysauce/opencode-swarm"
@@ -806,7 +806,7 @@
         "rank": 8,
         "name": "cli",
         "author": "googleworkspace",
-        "stars": "25.8k",
+        "stars": "25.9k",
         "meta": "Rust Agent Tool",
         "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
         "github_url": "https://github.com/googleworkspace/cli"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "617",
+        "stars": "628",
         "meta": "Rust Agent Tool",
         "description": "a terminal UI for local code review",
         "github_url": "https://github.com/agavra/tuicr"
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "ai-review",
         "author": "Nikita-Filonov",
-        "stars": "362",
+        "stars": "406",
         "meta": "Python Agent Tool",
         "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
         "github_url": "https://github.com/Nikita-Filonov/ai-review"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "30.4k",
+        "stars": "32.2k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "13.6k",
+        "stars": "13.8k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "5.5k",
+        "stars": "5.7k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -996,13 +996,22 @@
         "rank": 6,
         "name": "9router",
         "author": "decolua",
-        "stars": "3.8k",
+        "stars": "4.3k",
         "meta": "JavaScript Codex Skill",
         "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
       },
       {
         "rank": 7,
+        "name": "OpenMontage",
+        "author": "calesthio",
+        "stars": "3.5k",
+        "meta": "Python Agent Tool",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "github_url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "rank": 8,
         "name": "claude-octopus",
         "author": "nyldn",
         "stars": "3.3k",
@@ -1011,31 +1020,22 @@
         "github_url": "https://github.com/nyldn/claude-octopus"
       },
       {
-        "rank": 8,
-        "name": "OpenMontage",
-        "author": "calesthio",
-        "stars": "3.2k",
-        "meta": "Python Agent Tool",
-        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-        "github_url": "https://github.com/calesthio/OpenMontage"
+        "rank": 9,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "2.2k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "agent-skills",
         "author": "tech-leads-club",
         "stars": "2.2k",
         "meta": "TypeScript Agent Tool",
         "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
         "github_url": "https://github.com/tech-leads-club/agent-skills"
-      },
-      {
-        "rank": 10,
-        "name": "clawd-on-desk",
-        "author": "rullerzhou-afk",
-        "stars": "2.1k",
-        "meta": "JavaScript Codex Skill",
-        "description": "A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.",
-        "github_url": "https://github.com/rullerzhou-afk/clawd-on-desk"
       }
     ]
   },
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "gem-team",
-      "stars": "105",
+      "stars": "106",
       "tagline": "Self-Learning Multi-agent orchestration harness for spec-driven development and",
       "github_url": "https://github.com/mubaidr/gem-team"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "105",
+        "stars": "106",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1082,7 +1082,7 @@
         "rank": 4,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "20.9k",
+        "stars": "21.0k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1118,7 +1118,7 @@
         "rank": 8,
         "name": "web-quality-skills",
         "author": "addyosmani",
-        "stars": "1.8k",
+        "stars": "1.9k",
         "meta": "Shell Claude Skill",
         "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
         "github_url": "https://github.com/addyosmani/web-quality-skills"
@@ -1184,21 +1184,21 @@
       },
       {
         "rank": 4,
+        "name": "DebugMCP",
+        "author": "microsoft",
+        "stars": "330",
+        "meta": "TypeScript MCP Server",
+        "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
+        "github_url": "https://github.com/microsoft/DebugMCP"
+      },
+      {
+        "rank": 5,
         "name": "Gearsystem",
         "author": "drhelius",
         "stars": "364",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"
-      },
-      {
-        "rank": 5,
-        "name": "DebugMCP",
-        "author": "microsoft",
-        "stars": "326",
-        "meta": "TypeScript MCP Server",
-        "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
-        "github_url": "https://github.com/microsoft/DebugMCP"
       },
       {
         "rank": 6,
@@ -1222,7 +1222,7 @@
         "rank": 8,
         "name": "embeddedskills",
         "author": "zhinkgit",
-        "stars": "163",
+        "stars": "167",
         "meta": "Python Claude Skill",
         "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
         "github_url": "https://github.com/zhinkgit/embeddedskills"

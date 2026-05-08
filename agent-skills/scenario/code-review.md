@@ -15,11 +15,11 @@ permalink: /agent-skills/scenario/code-review/
   - extendable code review and QA agent 🚢
 - <a href="https://github.com/qdhenry/Claude-Command-Suite" target="_blank" rel="noopener"><strong>Claude-Command-Suite</strong></a> by qdhenry · ★ 978 · Shell Claude Skill
   - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
-- <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 617 · Rust Agent Tool
+- <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 628 · Rust Agent Tool
   - a terminal UI for local code review
 - <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 388 · JavaScript Codex Skill
   - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
-- <a href="https://github.com/Nikita-Filonov/ai-review" target="_blank" rel="noopener"><strong>ai-review</strong></a> by Nikita-Filonov · ★ 362 · Python Agent Tool
+- <a href="https://github.com/Nikita-Filonov/ai-review" target="_blank" rel="noopener"><strong>ai-review</strong></a> by Nikita-Filonov · ★ 406 · Python Agent Tool
   - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
 - <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 273 · Python Claude Skill
   - 19 production-ready Claude Code plugins: git workflows, code review, spec-driven development, architecture patterns, resource optimization, and multi-LLM delegation
