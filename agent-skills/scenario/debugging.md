@@ -25,9 +25,9 @@ permalink: /agent-skills/scenario/debugging/
   - Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.
 - <a href="https://github.com/traceloop/opentelemetry-mcp-server" target="_blank" rel="noopener"><strong>opentelemetry-mcp-server</strong></a> by traceloop · ★ 184 · Python MCP Server
   - Unified MCP server for querying OpenTelemetry traces across multiple backends (Jaeger, Tempo, Traceloop, etc.), enabling AI agents to analyze distributed traces for automated debugging and observability.
-- <a href="https://github.com/zhinkgit/embeddedskills" target="_blank" rel="noopener"><strong>embeddedskills</strong></a> by zhinkgit · ★ 167 · Python Claude Skill
+- <a href="https://github.com/zhinkgit/embeddedskills" target="_blank" rel="noopener"><strong>embeddedskills</strong></a> by zhinkgit · ★ 170 · Python Claude Skill
   - An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.
-- <a href="https://github.com/ricardoquesada/regenerator2000" target="_blank" rel="noopener"><strong>regenerator2000</strong></a> by ricardoquesada · ★ 157 · Rust MCP Server
+- <a href="https://github.com/ricardoquesada/regenerator2000" target="_blank" rel="noopener"><strong>regenerator2000</strong></a> by ricardoquesada · ★ 158 · Rust MCP Server
   - An interactive disassembler for the CPU 6502, focused mostly on Commodore 8-bit computers. Features a TUI with modern features like x-ref, undo/redo, arrows, keyboard-driven, mcp server, VICE debugger and more!
 - <a href="https://github.com/szymdzum/browser-debugger-cli" target="_blank" rel="noopener"><strong>browser-debugger-cli</strong></a> by szymdzum · ★ 124 · TypeScript MCP Server
   - CLI tool for agents to quickly access browser telemetry (DOM, network, console) via Chrome DevTools Protocol.

@@ -13,9 +13,9 @@ permalink: /agent-skills/scenario/code-completion/
 
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
-- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design NEW</strong></a> by nexu-io · ★ 32.2k · TypeScript Codex Skill
+- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design NEW</strong></a> by nexu-io · ★ 33.0k · TypeScript Codex Skill
   - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
-- <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 13.8k · TypeScript MCP Server
+- <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 13.9k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 - <a href="https://github.com/olimorris/codecompanion.nvim" target="_blank" rel="noopener"><strong>codecompanion.nvim</strong></a> by olimorris · ★ 6.5k · Lua Agent Tool
   - ✨ AI Coding, Vim Style
