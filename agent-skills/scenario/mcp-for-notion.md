@@ -25,9 +25,9 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - Open source RAG tool for AI document search - connect GitHub, Notion, Google Drive and ask questions with cited answers. Self-hosted with Ollama/OpenAI/Claude.
 - <a href="https://github.com/alibaba/page-agent" target="_blank" rel="noopener"><strong>page-agent</strong></a> by alibaba · ★ 17.4k · TypeScript MCP Server
   - JavaScript in-page GUI agent. Control web interfaces with natural language.
-- <a href="https://github.com/casdoor/casdoor" target="_blank" rel="noopener"><strong>casdoor</strong></a> by casdoor · ★ 13.5k · Go MCP Server
+- <a href="https://github.com/casdoor/casdoor" target="_blank" rel="noopener"><strong>casdoor</strong></a> by casdoor · ★ 13.6k · Go MCP Server
   - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 - <a href="https://github.com/creativetimofficial/ui" target="_blank" rel="noopener"><strong>ui</strong></a> by creativetimofficial · ★ 11.8k · TypeScript MCP Server
   - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs. Quick Start: You can use the Creative Tim UI CLI directly with npx, or install it globally: ```bash # Use directly (recommended) npx @creative-tim/ui@latest add <component-name> # Or using shadcn cli npx shadcn@latest add https://creative-tim.com/ui/r/all.json ```
-- <a href="https://github.com/holaboss-ai/holaOS" target="_blank" rel="noopener"><strong>holaOS</strong></a> by holaboss-ai · ★ 5.3k · TypeScript MCP Server
+- <a href="https://github.com/holaboss-ai/holaOS" target="_blank" rel="noopener"><strong>holaOS</strong></a> by holaboss-ai · ★ 5.4k · TypeScript MCP Server
   - An Open Agent Computer for ANY digital work.

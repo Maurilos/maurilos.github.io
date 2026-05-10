@@ -7,17 +7,17 @@ permalink: /agent-skills/scenario/test-generation/
 # Best AI Agent Skills for Test Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> · ★ 106 · Self-Learning Multi-agent orchestration harness for spec-driven development and
+<a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> · ★ 107 · Self-Learning Multi-agent orchestration harness for spec-driven development and
 
 ## 工具列表
 
-- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 106 · Agent Tool
+- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 107 · Agent Tool
   - Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.
 - <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 97 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/smixs/skill-conductor" target="_blank" rel="noopener"><strong>skill-conductor</strong></a> by smixs · ★ 73 · Python Codex Skill
   - Architecture-first skill lifecycle for AI agents. 5 modes: CREATE → EVAL → EDIT → REVIEW → PACKAGE. Integrates Anthropic's eval engine (grader/comparator/analyzer agents, blind A/B, benchmarks) with architecture patterns, TDD baseline, and 5-axis scoring. Not just testing - full design-to-distribution.
-- <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 21.0k · TypeScript LLM Plugin
+- <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 21.1k · TypeScript LLM Plugin
   - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
 - <a href="https://github.com/antiwork/shortest" target="_blank" rel="noopener"><strong>shortest</strong></a> by antiwork · ★ 5.5k · TypeScript Agent Tool
   - QA via natural language AI tests

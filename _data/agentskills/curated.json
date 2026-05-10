@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "mcp-toolbox",
-      "stars": "15.0k",
+      "stars": "15.1k",
       "tagline": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "github_url": "https://github.com/googleapis/mcp-toolbox"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "mcp-toolbox",
         "author": "googleapis",
-        "stars": "15.0k",
+        "stars": "15.1k",
         "meta": "Go MCP Server",
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "github_url": "https://github.com/googleapis/mcp-toolbox"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "38.5k",
+        "stars": "38.8k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "omega-memory",
         "author": "omega-memory",
-        "stars": "110",
+        "stars": "131",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "swarmvault",
         "author": "swarmclawai",
-        "stars": "379",
+        "stars": "424",
         "meta": "TypeScript MCP Server",
         "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
         "github_url": "https://github.com/swarmclawai/swarmvault"
@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "memex",
         "author": "iamtouchskyer",
-        "stars": "194",
+        "stars": "196",
         "meta": "TypeScript MCP Server",
         "description": "Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.",
         "github_url": "https://github.com/iamtouchskyer/memex"
@@ -598,7 +598,7 @@
         "rank": 8,
         "name": "casdoor",
         "author": "casdoor",
-        "stars": "13.5k",
+        "stars": "13.6k",
         "meta": "Go MCP Server",
         "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
         "github_url": "https://github.com/casdoor/casdoor"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "5.3k",
+        "stars": "5.4k",
         "meta": "TypeScript MCP Server",
         "description": "An Open Agent Computer for ANY digital work.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "29.5k",
+        "stars": "29.6k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -720,7 +720,7 @@
         "rank": 10,
         "name": "opencode-swarm",
         "author": "zaxbysauce",
-        "stars": "308",
+        "stars": "310",
         "meta": "TypeScript MCP Server",
         "description": "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
         "github_url": "https://github.com/zaxbysauce/opencode-swarm"
@@ -806,7 +806,7 @@
         "rank": 8,
         "name": "cli",
         "author": "googleworkspace",
-        "stars": "25.9k",
+        "stars": "26.0k",
         "meta": "Rust Agent Tool",
         "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
         "github_url": "https://github.com/googleworkspace/cli"
@@ -865,13 +865,22 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "628",
+        "stars": "640",
         "meta": "Rust Agent Tool",
         "description": "a terminal UI for local code review",
         "github_url": "https://github.com/agavra/tuicr"
       },
       {
         "rank": 4,
+        "name": "code-review-skill",
+        "author": "awesome-skills",
+        "stars": "438",
+        "meta": "Python Claude Skill",
+        "description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
+        "github_url": "https://github.com/awesome-skills/code-review-skill"
+      },
+      {
+        "rank": 5,
         "name": "maestro-orchestrate",
         "author": "josstei",
         "stars": "388",
@@ -880,7 +889,7 @@
         "github_url": "https://github.com/josstei/maestro-orchestrate"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "ai-review",
         "author": "Nikita-Filonov",
         "stars": "406",
@@ -889,7 +898,7 @@
         "github_url": "https://github.com/Nikita-Filonov/ai-review"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "claude-night-market",
         "author": "athola",
         "stars": "273",
@@ -898,7 +907,7 @@
         "github_url": "https://github.com/athola/claude-night-market"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "maestro-gemini",
         "author": "josstei",
         "stars": "259",
@@ -907,7 +916,7 @@
         "github_url": "https://github.com/josstei/maestro-gemini"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "plankton",
         "author": "alexfazio",
         "stars": "243",
@@ -916,22 +925,13 @@
         "github_url": "https://github.com/alexfazio/plankton"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Gito",
         "author": "Nayjest",
         "stars": "216",
         "meta": "Python Agent Tool",
         "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
         "github_url": "https://github.com/Nayjest/Gito"
-      },
-      {
-        "rank": 10,
-        "name": "ring",
-        "author": "LerianStudio",
-        "stars": "182",
-        "meta": "Python Agent Tool",
-        "description": "89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.",
-        "github_url": "https://github.com/LerianStudio/ring"
       }
     ]
   },
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "33.0k",
+        "stars": "35.3k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,37 +969,37 @@
         "rank": 3,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "13.9k",
+        "stars": "14.2k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
       },
       {
         "rank": 4,
+        "name": "9router",
+        "author": "decolua",
+        "stars": "6.5k",
+        "meta": "JavaScript Codex Skill",
+        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+        "github_url": "https://github.com/decolua/9router"
+      },
+      {
+        "rank": 5,
         "name": "codecompanion.nvim",
         "author": "olimorris",
-        "stars": "6.5k",
+        "stars": "6.6k",
         "meta": "Lua Agent Tool",
         "description": "✨ AI Coding, Vim Style",
         "github_url": "https://github.com/olimorris/codecompanion.nvim"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "5.7k",
+        "stars": "5.8k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
-      },
-      {
-        "rank": 6,
-        "name": "9router",
-        "author": "decolua",
-        "stars": "4.3k",
-        "meta": "JavaScript Codex Skill",
-        "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-        "github_url": "https://github.com/decolua/9router"
       },
       {
         "rank": 7,
@@ -1012,6 +1012,15 @@
       },
       {
         "rank": 8,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "3.4k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
+      },
+      {
+        "rank": 9,
         "name": "claude-octopus",
         "author": "nyldn",
         "stars": "3.3k",
@@ -1020,22 +1029,13 @@
         "github_url": "https://github.com/nyldn/claude-octopus"
       },
       {
-        "rank": 9,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "2.2k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
-      },
-      {
         "rank": 10,
-        "name": "agent-skills",
-        "author": "tech-leads-club",
-        "stars": "2.2k",
-        "meta": "TypeScript Agent Tool",
-        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-        "github_url": "https://github.com/tech-leads-club/agent-skills"
+        "name": "superpowers-zh",
+        "author": "jnMetaCode",
+        "stars": "2.4k",
+        "meta": "Shell MCP Server",
+        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
+        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
       }
     ]
   },
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "gem-team",
-      "stars": "106",
+      "stars": "107",
       "tagline": "Self-Learning Multi-agent orchestration harness for spec-driven development and",
       "github_url": "https://github.com/mubaidr/gem-team"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "106",
+        "stars": "107",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1082,7 +1082,7 @@
         "rank": 4,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "21.0k",
+        "stars": "21.1k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1186,7 +1186,7 @@
         "rank": 4,
         "name": "DebugMCP",
         "author": "microsoft",
-        "stars": "330",
+        "stars": "332",
         "meta": "TypeScript MCP Server",
         "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
         "github_url": "https://github.com/microsoft/DebugMCP"
