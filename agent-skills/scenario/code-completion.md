@@ -13,16 +13,16 @@ permalink: /agent-skills/scenario/code-completion/
 
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
-- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design NEW</strong></a> by nexu-io · ★ 35.3k · TypeScript Codex Skill
+- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design NEW</strong></a> by nexu-io · ★ 35.9k · TypeScript Codex Skill
   - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 - <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 14.2k · TypeScript MCP Server
-  - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
-- <a href="https://github.com/decolua/9router" target="_blank" rel="noopener"><strong>9router</strong></a> by decolua · ★ 6.5k · JavaScript Codex Skill
+  - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+- <a href="https://github.com/decolua/9router" target="_blank" rel="noopener"><strong>9router</strong></a> by decolua · ★ 7.1k · JavaScript Codex Skill
   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-- <a href="https://github.com/olimorris/codecompanion.nvim" target="_blank" rel="noopener"><strong>codecompanion.nvim</strong></a> by olimorris · ★ 6.6k · Lua Agent Tool
-  - ✨ AI Coding, Vim Style
 - <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 5.8k · TypeScript Codex Skill
   - Orchestrate coding agents remotely from your phone, desktop and CLI
+- <a href="https://github.com/olimorris/codecompanion.nvim" target="_blank" rel="noopener"><strong>codecompanion.nvim</strong></a> by olimorris · ★ 6.6k · Lua Agent Tool
+  - ✨ AI Coding, Vim Style
 - <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 3.5k · Python Agent Tool
   - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - <a href="https://github.com/rohitg00/agentmemory" target="_blank" rel="noopener"><strong>agentmemory</strong></a> by rohitg00 · ★ 3.4k · TypeScript Codex Skill
