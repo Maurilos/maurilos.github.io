@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/mcp-api/
   - MCP Swagger Server 将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式，让 AI 助手能够理解和调用您的 API。
 - <a href="https://github.com/Lap-Platform/LAP" target="_blank" rel="noopener"><strong>LAP</strong></a> by Lap-Platform · ★ 212 · Python MCP Server
   - Your agents are guessing at APIs. Give them the actual Agent-Native spec. 1500+ API's Ready To-Use skills, Compile any API spec into a lean, agent-native format. 10× smaller. OpenAPI, GraphQL, AsyncAPI, Protobuf, Postman.
-- <a href="https://github.com/holon-run/uxc" target="_blank" rel="noopener"><strong>uxc</strong></a> by holon-run · ★ 104 · Rust MCP Server
+- <a href="https://github.com/holon-run/uxc" target="_blank" rel="noopener"><strong>uxc</strong></a> by holon-run · ★ 108 · Rust MCP Server
   - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
 - <a href="https://github.com/spectral-mcp/spectral" target="_blank" rel="noopener"><strong>spectral</strong></a> by spectral-mcp · ★ 80 · Python MCP Server
   - Browse any app normally. Spectral captures the traffic, understands what each API call does, and generates MCP tools that AI agents can call directly.
