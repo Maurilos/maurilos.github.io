@@ -7,15 +7,15 @@ permalink: /agent-skills/scenario/mcp-for-github/
 # Best AI Agent Skills for MCP Tools for GitHub in 2026
 
 ## Quick Pick
-<a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> · ★ 815 · MCP server for semantic code research and context generation on real-time using
+<a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> · ★ 814 · MCP server for semantic code research and context generation on real-time using
 
 ## 工具列表
 
-- <a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> by bgauryy · ★ 815 · TypeScript MCP Server
+- <a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> by bgauryy · ★ 814 · TypeScript MCP Server
   - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
 - <a href="https://github.com/AndrewAltimit/template-repo" target="_blank" rel="noopener"><strong>template-repo</strong></a> by AndrewAltimit · ★ 127 · Rust MCP Server
   - Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers
-- <a href="https://github.com/yusufkaraaslan/Skill_Seekers" target="_blank" rel="noopener"><strong>Skill_Seekers</strong></a> by yusufkaraaslan · ★ 13.3k · Python MCP Server
+- <a href="https://github.com/yusufkaraaslan/Skill_Seekers" target="_blank" rel="noopener"><strong>Skill_Seekers</strong></a> by yusufkaraaslan · ★ 13.5k · Python MCP Server
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 418 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI, Product Hunt. MCP server. 290+ stars.
 - <a href="https://github.com/SPThole/CoexistAI" target="_blank" rel="noopener"><strong>CoexistAI</strong></a> by SPThole · ★ 446 · Jupyter Notebook MCP Server
   - CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions.
-- <a href="https://github.com/zaxbysauce/opencode-swarm" target="_blank" rel="noopener"><strong>opencode-swarm</strong></a> by zaxbysauce · ★ 314 · TypeScript MCP Server
+- <a href="https://github.com/zaxbysauce/opencode-swarm" target="_blank" rel="noopener"><strong>opencode-swarm</strong></a> by zaxbysauce · ★ 320 · TypeScript MCP Server
   - Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.

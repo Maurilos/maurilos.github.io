@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/debugging/
   - Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.
 - <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 336 · TypeScript MCP Server
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
-- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 364 · C++ MCP Server
+- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 367 · C++ MCP Server
   - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - <a href="https://github.com/codexstar69/bug-hunter" target="_blank" rel="noopener"><strong>bug-hunter</strong></a> by codexstar69 · ★ 209 · JavaScript Claude Skill
   - Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.

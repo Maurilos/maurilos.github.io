@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/mcp-database/
   - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 80 · Go MCP Server
   - The agentic server framework.
-- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 1.4k · TypeScript MCP Server
+- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 1.7k · TypeScript MCP Server
   - A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
 - <a href="https://github.com/debba/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by debba · ★ 1.2k · TypeScript MCP Server
   - A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-database/
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - <a href="https://github.com/mindsdb/mindsdb" target="_blank" rel="noopener"><strong>mindsdb</strong></a> by mindsdb · ★ 39.1k · Python MCP Server
   - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- <a href="https://github.com/mindsdb/minds-platform" target="_blank" rel="noopener"><strong>minds-platform</strong></a> by mindsdb · ★ 39.2k · Python MCP Server
+  - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - <a href="https://github.com/runekaagaard/mcp-alchemy" target="_blank" rel="noopener"><strong>mcp-alchemy</strong></a> by runekaagaard · ★ 395 · Python MCP Server
   - A MCP (model context protocol) server that gives the LLM access to and knowledge about relational databases like SQLite, Postgresql, MySQL & MariaDB, Oracle, and MS-SQL.
-- <a href="https://github.com/call518/MCP-PostgreSQL-Ops" target="_blank" rel="noopener"><strong>MCP-PostgreSQL-Ops</strong></a> by call518 · ★ 148 · Python MCP Server
-  - 🐘 Give AI assistants full PostgreSQL DBA superpowers — 30+ tools for performance analysis, bloat detection, lock/deadlock monitoring, autovacuum & schema inspection. No extensions required. PG 12-18.
