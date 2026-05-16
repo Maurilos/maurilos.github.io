@@ -13,12 +13,14 @@ permalink: /agent-skills/scenario/mcp-browser/
 
 - <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.3k · TypeScript MCP Server
   - Allow LLMs to control a browser with Browserbase and Stagehand
-- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 39.6k · TypeScript MCP Server
+- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 39.8k · TypeScript MCP Server
   - Chrome DevTools for coding agents
 - <a href="https://github.com/civyk-official/civyk-winwright" target="_blank" rel="noopener"><strong>civyk-winwright</strong></a> by civyk-official · ★ 50 · PowerShell MCP Server
   - Playwright-style MCP server for Windows desktop, system, and browser automation. 59 tools for WPF, WinForms, Win32, Chrome/Edge via Model Context Protocol.
 - <a href="https://github.com/VectorlyApp/bluebox" target="_blank" rel="noopener"><strong>bluebox</strong></a> by VectorlyApp · ★ 191 · Python MCP Server
   - Index the world's undocumented APIs
+- <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 80 · JavaScript MCP Server
+  - 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.
 - <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 62 · TypeScript MCP Server
   - Command-grade software access for AI agents. 235+ websites, desktop apps, MCP servers, and external CLIs as one searchable, self-repairing CLI catalog. YAML adapters, structured error envelopes, ~80 tokens per call.
 - <a href="https://github.com/DebugBase/glance" target="_blank" rel="noopener"><strong>glance</strong></a> by DebugBase · ★ 142 · TypeScript MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Browse the web, directly from Cursor etc.
 - <a href="https://github.com/sh3ll3x3c/native-devtools-mcp" target="_blank" rel="noopener"><strong>native-devtools-mcp</strong></a> by sh3ll3x3c · ★ 77 · Rust MCP Server
   - MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.
-- <a href="https://github.com/hanzili/hanzi-browse" target="_blank" rel="noopener"><strong>hanzi-browse</strong></a> by hanzili · ★ 155 · JavaScript MCP Server
-  - let any ai agent use the local browser

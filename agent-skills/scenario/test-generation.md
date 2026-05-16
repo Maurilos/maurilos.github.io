@@ -7,13 +7,15 @@ permalink: /agent-skills/scenario/test-generation/
 # Best AI Agent Skills for Test Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> · ★ 114 · Self-Learning Multi-agent orchestration harness for spec-driven development and
+<a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> · ★ 138 · Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
 
 ## 工具列表
 
-- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 114 · Agent Tool
+- <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 138 · Rust Codex Skill
+  - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
+- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 117 · Agent Tool
   - Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.
-- <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 102 · Python MCP Server
+- <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 104 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/smixs/skill-conductor" target="_blank" rel="noopener"><strong>skill-conductor</strong></a> by smixs · ★ 73 · Python Codex Skill
   - Architecture-first skill lifecycle for AI agents. 5 modes: CREATE → EVAL → EDIT → REVIEW → PACKAGE. Integrates Anthropic's eval engine (grader/comparator/analyzer agents, blind A/B, benchmarks) with architecture patterns, TDD baseline, and 5-axis scoring. Not just testing - full design-to-distribution.
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/test-generation/
   - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
 - <a href="https://github.com/callstackincubator/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstackincubator · ★ 2.1k · TypeScript MCP Server
   - CLI to control iOS and Android devices for AI agents
-- <a href="https://github.com/antonbabenko/terraform-skill" target="_blank" rel="noopener"><strong>terraform-skill</strong></a> by antonbabenko · ★ 1.6k · Claude Skill
-  - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns

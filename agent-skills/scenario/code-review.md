@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/code-review/
   - extendable code review and QA agent 🚢
 - <a href="https://github.com/qdhenry/Claude-Command-Suite" target="_blank" rel="noopener"><strong>Claude-Command-Suite</strong></a> by qdhenry · ★ 978 · Shell Claude Skill
   - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
-- <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 795 · Rust Agent Tool
+- <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 812 · Rust Agent Tool
   - a code review TUI with vim keybindings
 - <a href="https://github.com/awesome-skills/code-review-skill" target="_blank" rel="noopener"><strong>code-review-skill</strong></a> by awesome-skills · ★ 438 · Python Claude Skill
   - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/code-review/
   - 19 production-ready Claude Code plugins: git workflows, code review, spec-driven development, architecture patterns, resource optimization, and multi-LLM delegation
 - <a href="https://github.com/josstei/maestro-gemini" target="_blank" rel="noopener"><strong>maestro-gemini</strong></a> by josstei · ★ 259 · JavaScript Agent Tool
   - Multi-agent orchestration extension for Gemini CLI — 22 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
+- <a href="https://github.com/Nayjest/Gito" target="_blank" rel="noopener"><strong>Gito</strong></a> by Nayjest · ★ 233 · Python Agent Tool
+  - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.
 - <a href="https://github.com/alexfazio/plankton" target="_blank" rel="noopener"><strong>plankton</strong></a> by alexfazio · ★ 243 · Shell Agent Tool
   - Write-time code quality enforcement system for Claude Code. Every file edit triggers automated formatting and linting through fast Rust-based linters and dedicated Claude instances that intelligently fix remaining violations
-- <a href="https://github.com/Nayjest/Gito" target="_blank" rel="noopener"><strong>Gito</strong></a> by Nayjest · ★ 216 · Python Agent Tool
-  - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.

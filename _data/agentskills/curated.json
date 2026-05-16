@@ -42,7 +42,7 @@
         "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "1.7k",
+        "stars": "1.8k",
         "meta": "TypeScript MCP Server",
         "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "39.6k",
+        "stars": "39.8k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -153,6 +153,15 @@
       },
       {
         "rank": 5,
+        "name": "open-browser-use",
+        "author": "iFurySt",
+        "stars": "80",
+        "meta": "JavaScript MCP Server",
+        "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
+        "github_url": "https://github.com/iFurySt/open-browser-use"
+      },
+      {
+        "rank": 6,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
         "stars": "62",
@@ -161,7 +170,7 @@
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "glance",
         "author": "DebugBase",
         "stars": "142",
@@ -170,7 +179,7 @@
         "github_url": "https://github.com/DebugBase/glance"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "browser-debugger-cli",
         "author": "szymdzum",
         "stars": "124",
@@ -179,7 +188,7 @@
         "github_url": "https://github.com/szymdzum/browser-debugger-cli"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "browser-use-mcp-server",
         "author": "kontext-dev",
         "stars": "811",
@@ -188,22 +197,13 @@
         "github_url": "https://github.com/kontext-dev/browser-use-mcp-server"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "native-devtools-mcp",
         "author": "sh3ll3x3c",
         "stars": "77",
         "meta": "Rust MCP Server",
         "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
         "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
-      },
-      {
-        "rank": 10,
-        "name": "hanzi-browse",
-        "author": "hanzili",
-        "stars": "155",
-        "meta": "JavaScript MCP Server",
-        "description": "let any ai agent use the local browser",
-        "github_url": "https://github.com/hanzili/hanzi-browse"
       }
     ]
   },
@@ -397,21 +397,21 @@
       },
       {
         "rank": 9,
+        "name": "sourcey",
+        "author": "sourcey",
+        "stars": "1.3k",
+        "meta": "TypeScript MCP Server",
+        "description": "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.",
+        "github_url": "https://github.com/sourcey/sourcey"
+      },
+      {
+        "rank": 10,
         "name": "open-trading-api",
         "author": "koreainvestment",
         "stars": "1.1k",
         "meta": "Python MCP Server",
         "description": "Korea Investment & Securities Open API Github",
         "github_url": "https://github.com/koreainvestment/open-trading-api"
-      },
-      {
-        "rank": 10,
-        "name": "openapi",
-        "author": "samchon",
-        "stars": "123",
-        "meta": "TypeScript MCP Server",
-        "description": "OpenAPI definitions, converters and LLM function calling schema composer.",
-        "github_url": "https://github.com/samchon/openapi"
       }
     ]
   },
@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "memex",
         "author": "iamtouchskyer",
-        "stars": "199",
+        "stars": "201",
         "meta": "TypeScript MCP Server",
         "description": "Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.",
         "github_url": "https://github.com/iamtouchskyer/memex"
@@ -512,7 +512,7 @@
         "rank": 10,
         "name": "dreamgraph",
         "author": "mmethodz",
-        "stars": "81",
+        "stars": "82",
         "meta": "TypeScript MCP Server",
         "description": "DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.",
         "github_url": "https://github.com/mmethodz/dreamgraph"
@@ -526,7 +526,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
     "quick_pick": {
       "name": "mcp-notion-server",
-      "stars": "884",
+      "stars": "892",
       "tagline": "A Model Context Protocol server for connecting Notion to MCP-compatible clients",
       "github_url": "https://github.com/suekou/mcp-notion-server"
     },
@@ -535,9 +535,9 @@
         "rank": 1,
         "name": "mcp-notion-server",
         "author": "suekou",
-        "stars": "884",
+        "stars": "892",
         "meta": "TypeScript MCP Server",
-        "description": "A Model Context Protocol server for connecting Notion to MCP-compatible clients",
+        "description": "A Model Context Protocol server for connecting Notion to MCP-compatible clients Quick Start: Add this server to an MCP host such as Claude Desktop: Restart your MCP host after saving the configuration. ```json { \"mcpServers\": { \"notion\": { \"command\": \"npx\", \"args\": [\"-y\", \"@suekou/mcp-notion-server\"], \"env\": { \"NOTION_API_TOKEN\": \"your-integration-token\" } } } } ```",
         "github_url": "https://github.com/suekou/mcp-notion-server"
       },
       {
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "29.8k",
+        "stars": "29.9k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -720,7 +720,7 @@
         "rank": 10,
         "name": "opencode-swarm",
         "author": "zaxbysauce",
-        "stars": "320",
+        "stars": "323",
         "meta": "TypeScript MCP Server",
         "description": "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
         "github_url": "https://github.com/zaxbysauce/opencode-swarm"
@@ -804,30 +804,30 @@
       },
       {
         "rank": 8,
+        "name": "notebooklm-wiki-pipeline NEW",
+        "author": "capitalparser",
+        "stars": "63",
+        "meta": "MCP Server",
+        "description": "Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context",
+        "github_url": "https://github.com/capitalparser/notebooklm-wiki-pipeline"
+      },
+      {
+        "rank": 9,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "505",
+        "stars": "533",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "cli",
         "author": "googleworkspace",
         "stars": "26.1k",
         "meta": "Rust Agent Tool",
         "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
         "github_url": "https://github.com/googleworkspace/cli"
-      },
-      {
-        "rank": 10,
-        "name": "google-drive-mcp",
-        "author": "piotr-agier",
-        "stars": "129",
-        "meta": "TypeScript MCP Server",
-        "description": "A Model Context Protocol (MCP) server that provides secure integration with Google Drive, Docs, Sheets, Slides and Calendar. It allows Claude Desktop and other MCP clients to manage files in Google Drive through a standardized interface.",
-        "github_url": "https://github.com/piotr-agier/google-drive-mcp"
       }
     ]
   },
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "795",
+        "stars": "812",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -917,21 +917,21 @@
       },
       {
         "rank": 9,
+        "name": "Gito",
+        "author": "Nayjest",
+        "stars": "233",
+        "meta": "Python Agent Tool",
+        "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
+        "github_url": "https://github.com/Nayjest/Gito"
+      },
+      {
+        "rank": 10,
         "name": "plankton",
         "author": "alexfazio",
         "stars": "243",
         "meta": "Shell Agent Tool",
         "description": "Write-time code quality enforcement system for Claude Code. Every file edit triggers automated formatting and linting through fast Rust-based linters and dedicated Claude instances that intelligently fix remaining violations",
         "github_url": "https://github.com/alexfazio/plankton"
-      },
-      {
-        "rank": 10,
-        "name": "Gito",
-        "author": "Nayjest",
-        "stars": "216",
-        "meta": "Python Agent Tool",
-        "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
-        "github_url": "https://github.com/Nayjest/Gito"
       }
     ]
   },
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "40.4k",
+      "stars": "42.3k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "40.4k",
+        "stars": "42.3k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "14.7k",
+        "stars": "14.9k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "9router",
         "author": "decolua",
-        "stars": "10.1k",
+        "stars": "10.8k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "9.0k",
+        "stars": "10.1k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "6.1k",
+        "stars": "6.2k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1045,32 +1045,41 @@
     "slug": "test-generation",
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
-      "name": "gem-team",
-      "stars": "114",
-      "tagline": "Self-Learning Multi-agent orchestration harness for spec-driven development and",
-      "github_url": "https://github.com/mubaidr/gem-team"
+      "name": "facts",
+      "stars": "138",
+      "tagline": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
+      "github_url": "https://github.com/av/facts"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "facts",
+        "author": "av",
+        "stars": "138",
+        "meta": "Rust Codex Skill",
+        "description": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
+        "github_url": "https://github.com/av/facts"
+      },
+      {
+        "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "114",
+        "stars": "117",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "eval-view",
         "author": "hidai25",
-        "stars": "102",
+        "stars": "104",
         "meta": "Python MCP Server",
         "description": "Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.",
         "github_url": "https://github.com/hidai25/eval-view"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "skill-conductor",
         "author": "smixs",
         "stars": "73",
@@ -1079,7 +1088,7 @@
         "github_url": "https://github.com/smixs/skill-conductor"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "promptfoo",
         "author": "promptfoo",
         "stars": "21.3k",
@@ -1088,7 +1097,7 @@
         "github_url": "https://github.com/promptfoo/promptfoo"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "shortest",
         "author": "antiwork",
         "stars": "5.5k",
@@ -1097,7 +1106,7 @@
         "github_url": "https://github.com/antiwork/shortest"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "httprunner",
         "author": "httprunner",
         "stars": "4.3k",
@@ -1106,7 +1115,7 @@
         "github_url": "https://github.com/httprunner/httprunner"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "prompttools",
         "author": "hegelai",
         "stars": "3.0k",
@@ -1115,7 +1124,7 @@
         "github_url": "https://github.com/hegelai/prompttools"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "web-quality-skills",
         "author": "addyosmani",
         "stars": "1.9k",
@@ -1124,22 +1133,13 @@
         "github_url": "https://github.com/addyosmani/web-quality-skills"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "agent-device",
         "author": "callstackincubator",
         "stars": "2.1k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstackincubator/agent-device"
-      },
-      {
-        "rank": 10,
-        "name": "terraform-skill",
-        "author": "antonbabenko",
-        "stars": "1.6k",
-        "meta": "Claude Skill",
-        "description": "Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns",
-        "github_url": "https://github.com/antonbabenko/terraform-skill"
       }
     ]
   },

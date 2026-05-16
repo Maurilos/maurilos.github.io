@@ -25,9 +25,9 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.
 - <a href="https://github.com/aiming-lab/SimpleMem" target="_blank" rel="noopener"><strong>SimpleMem</strong></a> by aiming-lab · ★ 3.2k · Python MCP Server
   - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
-- <a href="https://github.com/iamtouchskyer/memex" target="_blank" rel="noopener"><strong>memex</strong></a> by iamtouchskyer · ★ 199 · TypeScript MCP Server
+- <a href="https://github.com/iamtouchskyer/memex" target="_blank" rel="noopener"><strong>memex</strong></a> by iamtouchskyer · ★ 201 · TypeScript MCP Server
   - Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 - <a href="https://github.com/yantrikos/yantrikdb-server" target="_blank" rel="noopener"><strong>yantrikdb-server</strong></a> by yantrikos · ★ 143 · Rust MCP Server
   - Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.
-- <a href="https://github.com/mmethodz/dreamgraph" target="_blank" rel="noopener"><strong>dreamgraph</strong></a> by mmethodz · ★ 81 · TypeScript MCP Server
+- <a href="https://github.com/mmethodz/dreamgraph" target="_blank" rel="noopener"><strong>dreamgraph</strong></a> by mmethodz · ★ 82 · TypeScript MCP Server
   - DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.
