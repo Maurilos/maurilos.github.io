@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/test-generation/
   - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - <a href="https://github.com/addyosmani/web-quality-skills" target="_blank" rel="noopener"><strong>web-quality-skills</strong></a> by addyosmani · ★ 1.9k · Shell Claude Skill
   - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
-- <a href="https://github.com/antonbabenko/terraform-skill" target="_blank" rel="noopener"><strong>terraform-skill</strong></a> by antonbabenko · ★ 1.8k · Claude Skill
-  - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
+- <a href="https://github.com/callstackincubator/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstackincubator · ★ 2.1k · TypeScript MCP Server
+  - CLI to control iOS and Android devices for AI agents
