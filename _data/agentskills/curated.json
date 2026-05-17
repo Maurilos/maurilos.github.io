@@ -720,7 +720,7 @@
         "rank": 10,
         "name": "opencode-swarm",
         "author": "zaxbysauce",
-        "stars": "324",
+        "stars": "326",
         "meta": "TypeScript MCP Server",
         "description": "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
         "github_url": "https://github.com/zaxbysauce/opencode-swarm"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "812",
+        "stars": "820",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "42.9k",
+      "stars": "43.4k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "42.9k",
+        "stars": "43.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "14.9k",
+        "stars": "15.0k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "9router",
         "author": "decolua",
-        "stars": "11.2k",
+        "stars": "11.4k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "10.3k",
+        "stars": "11.0k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
