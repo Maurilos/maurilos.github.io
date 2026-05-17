@@ -503,7 +503,7 @@
         "rank": 9,
         "name": "yantrikdb-server",
         "author": "yantrikos",
-        "stars": "143",
+        "stars": "144",
         "meta": "Rust MCP Server",
         "description": "Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.",
         "github_url": "https://github.com/yantrikos/yantrikdb-server"
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode-mcp",
-      "stars": "814",
+      "stars": "832",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode-mcp"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode-mcp",
         "author": "bgauryy",
-        "stars": "814",
+        "stars": "832",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode-mcp"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "42.3k",
+      "stars": "42.5k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "42.3k",
+        "stars": "42.5k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -976,21 +976,21 @@
       },
       {
         "rank": 4,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "10.3k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
+      },
+      {
+        "rank": 5,
         "name": "9router",
         "author": "decolua",
         "stars": "10.8k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
-      },
-      {
-        "rank": 5,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "10.1k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
         "rank": 6,
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "facts",
-      "stars": "138",
+      "stars": "148",
       "tagline": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
       "github_url": "https://github.com/av/facts"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "facts",
         "author": "av",
-        "stars": "138",
+        "stars": "148",
         "meta": "Rust Codex Skill",
         "description": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
         "github_url": "https://github.com/av/facts"
@@ -1134,12 +1134,12 @@
       },
       {
         "rank": 10,
-        "name": "agent-device",
-        "author": "callstackincubator",
-        "stars": "2.1k",
-        "meta": "TypeScript MCP Server",
-        "description": "CLI to control iOS and Android devices for AI agents",
-        "github_url": "https://github.com/callstackincubator/agent-device"
+        "name": "terraform-skill",
+        "author": "antonbabenko",
+        "stars": "1.8k",
+        "meta": "Claude Skill",
+        "description": "Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns",
+        "github_url": "https://github.com/antonbabenko/terraform-skill"
       }
     ]
   },
