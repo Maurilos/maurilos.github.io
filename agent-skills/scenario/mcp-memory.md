@@ -19,6 +19,8 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Persistent memory for AI coding agents
 - <a href="https://github.com/MemTensor/MemOS" target="_blank" rel="noopener"><strong>MemOS</strong></a> by MemTensor · ★ 9.2k · TypeScript MCP Server
   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
+- <a href="https://github.com/alibaizhanov/mengram" target="_blank" rel="noopener"><strong>mengram</strong></a> by alibaizhanov · ★ 167 · Python MCP Server
+  - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
 - <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 424 · TypeScript MCP Server
   - The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.
 - <a href="https://github.com/Filippo-Venturini/ctxvault" target="_blank" rel="noopener"><strong>ctxvault</strong></a> by Filippo-Venturini · ★ 52 · Python MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 - <a href="https://github.com/yantrikos/yantrikdb-server" target="_blank" rel="noopener"><strong>yantrikdb-server</strong></a> by yantrikos · ★ 144 · Rust MCP Server
   - Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.
-- <a href="https://github.com/mmethodz/dreamgraph" target="_blank" rel="noopener"><strong>dreamgraph</strong></a> by mmethodz · ★ 82 · TypeScript MCP Server
-  - DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.

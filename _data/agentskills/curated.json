@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "mcp-toolbox",
-      "stars": "15.2k",
+      "stars": "15.3k",
       "tagline": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "github_url": "https://github.com/googleapis/mcp-toolbox"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "mcp-toolbox",
         "author": "googleapis",
-        "stars": "15.2k",
+        "stars": "15.3k",
         "meta": "Go MCP Server",
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "github_url": "https://github.com/googleapis/mcp-toolbox"
@@ -42,7 +42,7 @@
         "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "1.8k",
+        "stars": "2.0k",
         "meta": "TypeScript MCP Server",
         "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -164,7 +164,7 @@
         "rank": 6,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "62",
+        "stars": "90",
         "meta": "TypeScript MCP Server",
         "description": "Command-grade software access for AI agents. 235+ websites, desktop apps, MCP servers, and external CLIs as one searchable, self-repairing CLI catalog. YAML adapters, structured error envelopes, ~80 tokens per call.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -214,7 +214,7 @@
     "local_url": "/agent-skills/scenario/mcp-filesystem/",
     "quick_pick": {
       "name": "rust-mcp-filesystem",
-      "stars": "149",
+      "stars": "150",
       "tagline": "Blazing-fast, asynchronous MCP server for seamless filesystem operations.",
       "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
     },
@@ -223,7 +223,7 @@
         "rank": 1,
         "name": "rust-mcp-filesystem",
         "author": "rust-mcp-stack",
-        "stars": "149",
+        "stars": "150",
         "meta": "Rust MCP Server",
         "description": "Blazing-fast, asynchronous MCP server for seamless filesystem operations.",
         "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
@@ -318,7 +318,7 @@
     "local_url": "/agent-skills/scenario/mcp-api/",
     "quick_pick": {
       "name": "reshapr",
-      "stars": "92",
+      "stars": "93",
       "tagline": "The open source, no-code MCP Server for AI-Native API Access",
       "github_url": "https://github.com/reshaprio/reshapr"
     },
@@ -327,7 +327,7 @@
         "rank": 1,
         "name": "reshapr",
         "author": "reshaprio",
-        "stars": "92",
+        "stars": "93",
         "meta": "Java MCP Server",
         "description": "The open source, no-code MCP Server for AI-Native API Access",
         "github_url": "https://github.com/reshaprio/reshapr"
@@ -465,6 +465,15 @@
       },
       {
         "rank": 5,
+        "name": "mengram",
+        "author": "alibaizhanov",
+        "stars": "167",
+        "meta": "Python MCP Server",
+        "description": "Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.",
+        "github_url": "https://github.com/alibaizhanov/mengram"
+      },
+      {
+        "rank": 6,
         "name": "swarmvault",
         "author": "swarmclawai",
         "stars": "424",
@@ -473,7 +482,7 @@
         "github_url": "https://github.com/swarmclawai/swarmvault"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "ctxvault",
         "author": "Filippo-Venturini",
         "stars": "52",
@@ -482,7 +491,7 @@
         "github_url": "https://github.com/Filippo-Venturini/ctxvault"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "SimpleMem",
         "author": "aiming-lab",
         "stars": "3.2k",
@@ -491,7 +500,7 @@
         "github_url": "https://github.com/aiming-lab/SimpleMem"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "memex",
         "author": "iamtouchskyer",
         "stars": "201",
@@ -500,22 +509,13 @@
         "github_url": "https://github.com/iamtouchskyer/memex"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "yantrikdb-server",
         "author": "yantrikos",
         "stars": "144",
         "meta": "Rust MCP Server",
         "description": "Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.",
         "github_url": "https://github.com/yantrikos/yantrikdb-server"
-      },
-      {
-        "rank": 10,
-        "name": "dreamgraph",
-        "author": "mmethodz",
-        "stars": "82",
-        "meta": "TypeScript MCP Server",
-        "description": "DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.",
-        "github_url": "https://github.com/mmethodz/dreamgraph"
       }
     ]
   },
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode-mcp",
-      "stars": "833",
+      "stars": "835",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode-mcp"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode-mcp",
         "author": "bgauryy",
-        "stars": "833",
+        "stars": "835",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode-mcp"
@@ -815,7 +815,7 @@
         "rank": 9,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "533",
+        "stars": "537",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "820",
+        "stars": "822",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -881,6 +881,15 @@
       },
       {
         "rank": 5,
+        "name": "ai-review",
+        "author": "Nikita-Filonov",
+        "stars": "430",
+        "meta": "Python Agent Tool",
+        "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
+        "github_url": "https://github.com/Nikita-Filonov/ai-review"
+      },
+      {
+        "rank": 6,
         "name": "maestro-orchestrate",
         "author": "josstei",
         "stars": "388",
@@ -889,21 +898,12 @@
         "github_url": "https://github.com/josstei/maestro-orchestrate"
       },
       {
-        "rank": 6,
-        "name": "ai-review",
-        "author": "Nikita-Filonov",
-        "stars": "406",
-        "meta": "Python Agent Tool",
-        "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
-        "github_url": "https://github.com/Nikita-Filonov/ai-review"
-      },
-      {
         "rank": 7,
         "name": "claude-night-market",
         "author": "athola",
         "stars": "279",
         "meta": "Python Claude Skill",
-        "description": "19 production-ready Claude Code plugins: git workflows, code review, spec-driven development, architecture patterns, resource optimization, and multi-LLM delegation",
+        "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
         "github_url": "https://github.com/athola/claude-night-market"
       },
       {
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "44.2k",
+      "stars": "44.8k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "44.2k",
+        "stars": "44.8k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,28 +969,28 @@
         "rank": 3,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "15.0k",
+        "stars": "15.1k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
       },
       {
         "rank": 4,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "11.8k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
-      },
-      {
-        "rank": 5,
         "name": "9router",
         "author": "decolua",
-        "stars": "11.9k",
+        "stars": "12.1k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
+      },
+      {
+        "rank": 5,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "12.2k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
         "rank": 6,
@@ -1021,21 +1021,21 @@
       },
       {
         "rank": 9,
+        "name": "superpowers-zh",
+        "author": "jnMetaCode",
+        "stars": "3.4k",
+        "meta": "Shell MCP Server",
+        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
+        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
+      },
+      {
+        "rank": 10,
         "name": "claude-octopus",
         "author": "nyldn",
         "stars": "3.3k",
         "meta": "Shell Codex Skill",
         "description": "Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding task.",
         "github_url": "https://github.com/nyldn/claude-octopus"
-      },
-      {
-        "rank": 10,
-        "name": "superpowers-zh",
-        "author": "jnMetaCode",
-        "stars": "3.1k",
-        "meta": "Shell MCP Server",
-        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
-        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
       }
     ]
   },
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "facts",
-      "stars": "148",
+      "stars": "151",
       "tagline": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
       "github_url": "https://github.com/av/facts"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "facts",
         "author": "av",
-        "stars": "148",
+        "stars": "151",
         "meta": "Rust Codex Skill",
         "description": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
         "github_url": "https://github.com/av/facts"
@@ -1091,7 +1091,7 @@
         "rank": 5,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "21.3k",
+        "stars": "21.4k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
