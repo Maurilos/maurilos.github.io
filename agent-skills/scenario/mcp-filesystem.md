@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-filesystem/
 # Best AI Agent Skills for MCP Filesystem Tools in 2026
 
 ## Quick Pick
-<a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> · ★ 138 · Blazing-fast, asynchronous MCP server for seamless filesystem operations.
+<a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> · ★ 149 · Blazing-fast, asynchronous MCP server for seamless filesystem operations.
 
 ## 工具列表
 
-- <a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> by rust-mcp-stack · ★ 138 · Rust MCP Server
+- <a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> by rust-mcp-stack · ★ 149 · Rust MCP Server
   - Blazing-fast, asynchronous MCP server for seamless filesystem operations.
 - <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 6.0k · TypeScript MCP Server
   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities

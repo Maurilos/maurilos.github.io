@@ -214,7 +214,7 @@
     "local_url": "/agent-skills/scenario/mcp-filesystem/",
     "quick_pick": {
       "name": "rust-mcp-filesystem",
-      "stars": "138",
+      "stars": "149",
       "tagline": "Blazing-fast, asynchronous MCP server for seamless filesystem operations.",
       "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
     },
@@ -223,7 +223,7 @@
         "rank": 1,
         "name": "rust-mcp-filesystem",
         "author": "rust-mcp-stack",
-        "stars": "138",
+        "stars": "149",
         "meta": "Rust MCP Server",
         "description": "Blazing-fast, asynchronous MCP server for seamless filesystem operations.",
         "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
-        "stars": "13.5k",
+        "stars": "13.6k",
         "meta": "Python MCP Server",
         "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "43.4k",
+      "stars": "43.6k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "43.4k",
+        "stars": "43.6k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1093,7 +1093,7 @@
         "author": "promptfoo",
         "stars": "21.3k",
         "meta": "TypeScript LLM Plugin",
-        "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
+        "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
       },
       {
