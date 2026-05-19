@@ -42,7 +42,7 @@
         "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "2.0k",
+        "stars": "2.1k",
         "meta": "TypeScript MCP Server",
         "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "omega-memory",
         "author": "omega-memory",
-        "stars": "135",
+        "stars": "141",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "822",
+        "stars": "824",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "45.1k",
+      "stars": "45.8k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "45.1k",
+        "stars": "45.8k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "6.3k",
+        "stars": "6.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1030,12 +1030,12 @@
       },
       {
         "rank": 10,
-        "name": "claude-octopus",
-        "author": "nyldn",
-        "stars": "3.3k",
-        "meta": "Shell Codex Skill",
-        "description": "Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding task.",
-        "github_url": "https://github.com/nyldn/claude-octopus"
+        "name": "html-anything NEW",
+        "author": "nexu-io",
+        "stars": "3.6k",
+        "meta": "HTML Claude Skill",
+        "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+        "github_url": "https://github.com/nexu-io/html-anything"
       }
     ]
   },
