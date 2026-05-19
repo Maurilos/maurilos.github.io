@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/debugging/
 # Best AI Agent Skills for Debugging in 2026
 
 ## Quick Pick
-<a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> · ★ 1.9k · Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps
+<a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> · ★ 2.0k · Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps
 
 ## 工具列表
 
-- <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 1.9k · TypeScript MCP Server
+- <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 2.0k · TypeScript MCP Server
   - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
 - <a href="https://github.com/drhelius/Gearboy" target="_blank" rel="noopener"><strong>Gearboy</strong></a> by drhelius · ★ 1.1k · C++ MCP Server
   - Game Boy / Game Boy Color / Super Game Boy emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/debugging/
   - An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.
 - <a href="https://github.com/ricardoquesada/regenerator2000" target="_blank" rel="noopener"><strong>regenerator2000</strong></a> by ricardoquesada · ★ 158 · Rust MCP Server
   - An interactive disassembler for the CPU 6502, focused mostly on Commodore 8-bit computers. Features a TUI with modern features like x-ref, undo/redo, arrows, keyboard-driven, mcp server, VICE debugger and more!
-- <a href="https://github.com/szymdzum/browser-debugger-cli" target="_blank" rel="noopener"><strong>browser-debugger-cli</strong></a> by szymdzum · ★ 124 · TypeScript MCP Server
-  - CLI tool for agents to quickly access browser telemetry (DOM, network, console) via Chrome DevTools Protocol.
+- <a href="https://github.com/SetsunaYukiOvO/x64dbg-mcp" target="_blank" rel="noopener"><strong>x64dbg-mcp</strong></a> by SetsunaYukiOvO · ★ 129 · C++ MCP Server
+  - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE;Develop with cursor/windsurf

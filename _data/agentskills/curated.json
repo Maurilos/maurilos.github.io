@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "39.9k",
+        "stars": "40.0k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -153,21 +153,21 @@
       },
       {
         "rank": 5,
+        "name": "Uni-CLI",
+        "author": "olo-dot-io",
+        "stars": "139",
+        "meta": "TypeScript MCP Server",
+        "description": "Command-grade software access for AI agents. 235+ websites, desktop apps, MCP servers, and external CLIs as one searchable, self-repairing CLI catalog. YAML adapters, structured error envelopes, ~80 tokens per call.",
+        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
+      },
+      {
+        "rank": 6,
         "name": "open-browser-use",
         "author": "iFurySt",
         "stars": "87",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
-      },
-      {
-        "rank": 6,
-        "name": "Uni-CLI",
-        "author": "olo-dot-io",
-        "stars": "90",
-        "meta": "TypeScript MCP Server",
-        "description": "Command-grade software access for AI agents. 235+ websites, desktop apps, MCP servers, and external CLIs as one searchable, self-repairing CLI catalog. YAML adapters, structured error envelopes, ~80 tokens per call.",
-        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       },
       {
         "rank": 7,
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "swarmvault",
         "author": "swarmclawai",
-        "stars": "424",
+        "stars": "469",
         "meta": "TypeScript MCP Server",
         "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
         "github_url": "https://github.com/swarmclawai/swarmvault"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "5.6k",
+        "stars": "5.7k",
         "meta": "TypeScript MCP Server",
         "description": "Turn repeat work into running AI work-streams.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
@@ -815,7 +815,7 @@
         "rank": 9,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "537",
+        "stars": "538",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "45.8k",
+      "stars": "46.4k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "45.8k",
+        "stars": "46.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "15.1k",
+        "stars": "15.2k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "12.9k",
+        "stars": "13.9k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -1012,6 +1012,15 @@
       },
       {
         "rank": 8,
+        "name": "html-anything NEW",
+        "author": "nexu-io",
+        "stars": "3.8k",
+        "meta": "HTML Claude Skill",
+        "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+        "github_url": "https://github.com/nexu-io/html-anything"
+      },
+      {
+        "rank": 9,
         "name": "OpenMontage",
         "author": "calesthio",
         "stars": "3.5k",
@@ -1020,22 +1029,13 @@
         "github_url": "https://github.com/calesthio/OpenMontage"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "superpowers-zh",
         "author": "jnMetaCode",
         "stars": "3.4k",
         "meta": "Shell MCP Server",
         "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
         "github_url": "https://github.com/jnMetaCode/superpowers-zh"
-      },
-      {
-        "rank": 10,
-        "name": "html-anything NEW",
-        "author": "nexu-io",
-        "stars": "3.6k",
-        "meta": "HTML Claude Skill",
-        "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-        "github_url": "https://github.com/nexu-io/html-anything"
       }
     ]
   },
@@ -1150,7 +1150,7 @@
     "local_url": "/agent-skills/scenario/debugging/",
     "quick_pick": {
       "name": "inspector",
-      "stars": "1.9k",
+      "stars": "2.0k",
       "tagline": "Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps",
       "github_url": "https://github.com/MCPJam/inspector"
     },
@@ -1159,7 +1159,7 @@
         "rank": 1,
         "name": "inspector",
         "author": "MCPJam",
-        "stars": "1.9k",
+        "stars": "2.0k",
         "meta": "TypeScript MCP Server",
         "description": "Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.",
         "github_url": "https://github.com/MCPJam/inspector"
@@ -1238,12 +1238,12 @@
       },
       {
         "rank": 10,
-        "name": "browser-debugger-cli",
-        "author": "szymdzum",
-        "stars": "124",
-        "meta": "TypeScript MCP Server",
-        "description": "CLI tool for agents to quickly access browser telemetry (DOM, network, console) via Chrome DevTools Protocol.",
-        "github_url": "https://github.com/szymdzum/browser-debugger-cli"
+        "name": "x64dbg-mcp",
+        "author": "SetsunaYukiOvO",
+        "stars": "129",
+        "meta": "C++ MCP Server",
+        "description": "MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE;Develop with cursor/windsurf",
+        "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
       }
     ]
   }
