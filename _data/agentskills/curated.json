@@ -422,7 +422,7 @@
     "local_url": "/agent-skills/scenario/mcp-memory/",
     "quick_pick": {
       "name": "memora",
-      "stars": "397",
+      "stars": "405",
       "tagline": "Give your AI agents persistent memory.",
       "github_url": "https://github.com/agentic-box/memora"
     },
@@ -431,7 +431,7 @@
         "rank": 1,
         "name": "memora",
         "author": "agentic-box",
-        "stars": "397",
+        "stars": "405",
         "meta": "Python MCP Server",
         "description": "Give your AI agents persistent memory.",
         "github_url": "https://github.com/agentic-box/memora"
@@ -512,7 +512,7 @@
         "rank": 10,
         "name": "yantrikdb-server",
         "author": "yantrikos",
-        "stars": "144",
+        "stars": "145",
         "meta": "Rust MCP Server",
         "description": "Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.",
         "github_url": "https://github.com/yantrikos/yantrikdb-server"
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode-mcp",
-      "stars": "835",
+      "stars": "838",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode-mcp"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode-mcp",
         "author": "bgauryy",
-        "stars": "835",
+        "stars": "838",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode-mcp"
@@ -673,15 +673,24 @@
       },
       {
         "rank": 5,
+        "name": "aguara",
+        "author": "garagon",
+        "stars": "78",
+        "meta": "Go MCP Server",
+        "description": "Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.",
+        "github_url": "https://github.com/garagon/aguara"
+      },
+      {
+        "rank": 6,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "29.9k",
+        "stars": "30.0k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "shippie",
         "author": "mattzcarey",
         "stars": "2.3k",
@@ -690,7 +699,7 @@
         "github_url": "https://github.com/mattzcarey/shippie"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
@@ -699,7 +708,7 @@
         "github_url": "https://github.com/julien040/anyquery"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "idea-reality-mcp",
         "author": "mnemox-ai",
         "stars": "600",
@@ -708,22 +717,13 @@
         "github_url": "https://github.com/mnemox-ai/idea-reality-mcp"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "CoexistAI",
         "author": "SPThole",
         "stars": "446",
         "meta": "Jupyter Notebook MCP Server",
         "description": "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions.",
         "github_url": "https://github.com/SPThole/CoexistAI"
-      },
-      {
-        "rank": 10,
-        "name": "opencode-swarm",
-        "author": "zaxbysauce",
-        "stars": "328",
-        "meta": "TypeScript MCP Server",
-        "description": "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
-        "github_url": "https://github.com/zaxbysauce/opencode-swarm"
       }
     ]
   },
@@ -901,7 +901,7 @@
         "rank": 7,
         "name": "claude-night-market",
         "author": "athola",
-        "stars": "279",
+        "stars": "285",
         "meta": "Python Claude Skill",
         "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
         "github_url": "https://github.com/athola/claude-night-market"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "44.8k",
+      "stars": "45.1k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "44.8k",
+        "stars": "45.1k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -976,21 +976,21 @@
       },
       {
         "rank": 4,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "12.9k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
+      },
+      {
+        "rank": 5,
         "name": "9router",
         "author": "decolua",
         "stars": "12.1k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
-      },
-      {
-        "rank": 5,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "12.2k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
         "rank": 6,
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "eval-view",
         "author": "hidai25",
-        "stars": "104",
+        "stars": "105",
         "meta": "Python MCP Server",
         "description": "Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.",
         "github_url": "https://github.com/hidai25/eval-view"
