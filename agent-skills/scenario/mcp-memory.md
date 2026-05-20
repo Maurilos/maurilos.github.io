@@ -21,13 +21,13 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - <a href="https://github.com/alibaizhanov/mengram" target="_blank" rel="noopener"><strong>mengram</strong></a> by alibaizhanov · ★ 167 · Python MCP Server
   - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
-- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 469 · TypeScript MCP Server
+- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 473 · TypeScript MCP Server
   - The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.
 - <a href="https://github.com/Filippo-Venturini/ctxvault" target="_blank" rel="noopener"><strong>ctxvault</strong></a> by Filippo-Venturini · ★ 52 · Python MCP Server
   - Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.
 - <a href="https://github.com/aiming-lab/SimpleMem" target="_blank" rel="noopener"><strong>SimpleMem</strong></a> by aiming-lab · ★ 3.2k · Python MCP Server
   - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
-- <a href="https://github.com/iamtouchskyer/memex" target="_blank" rel="noopener"><strong>memex</strong></a> by iamtouchskyer · ★ 201 · TypeScript MCP Server
+- <a href="https://github.com/iamtouchskyer/memex" target="_blank" rel="noopener"><strong>memex</strong></a> by iamtouchskyer · ★ 192 · TypeScript MCP Server
   - Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 - <a href="https://github.com/yantrikos/yantrikdb-server" target="_blank" rel="noopener"><strong>yantrikdb-server</strong></a> by yantrikos · ★ 146 · Rust MCP Server
   - Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.
