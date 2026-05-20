@@ -13,8 +13,8 @@ permalink: /agent-skills/scenario/test-generation/
 
 - <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 151 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
-- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 117 · Agent Tool
-  - Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.
+- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 122 · Agent Tool
+  - Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.
 - <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 105 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/smixs/skill-conductor" target="_blank" rel="noopener"><strong>skill-conductor</strong></a> by smixs · ★ 73 · Python Codex Skill
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/test-generation/
   - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - <a href="https://github.com/addyosmani/web-quality-skills" target="_blank" rel="noopener"><strong>web-quality-skills</strong></a> by addyosmani · ★ 1.9k · Shell Claude Skill
   - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
-- <a href="https://github.com/callstackincubator/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstackincubator · ★ 2.1k · TypeScript MCP Server
+- <a href="https://github.com/callstackincubator/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstackincubator · ★ 2.2k · TypeScript MCP Server
   - CLI to control iOS and Android devices for AI agents
