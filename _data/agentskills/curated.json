@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "40.2k",
+        "stars": "40.4k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -144,21 +144,21 @@
       },
       {
         "rank": 4,
+        "name": "Uni-CLI",
+        "author": "olo-dot-io",
+        "stars": "185",
+        "meta": "TypeScript MCP Server",
+        "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
+        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
+      },
+      {
+        "rank": 5,
         "name": "bluebox",
         "author": "VectorlyApp",
         "stars": "191",
         "meta": "Python MCP Server",
         "description": "Index the world's undocumented APIs",
         "github_url": "https://github.com/VectorlyApp/bluebox"
-      },
-      {
-        "rank": 5,
-        "name": "Uni-CLI",
-        "author": "olo-dot-io",
-        "stars": "139",
-        "meta": "TypeScript MCP Server",
-        "description": "Command-grade software access for AI agents. 235+ websites, desktop apps, MCP servers, and external CLIs as one searchable, self-repairing CLI catalog. YAML adapters, structured error envelopes, ~80 tokens per call.",
-        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       },
       {
         "rank": 6,
@@ -189,21 +189,21 @@
       },
       {
         "rank": 9,
+        "name": "reverse-api-engineer",
+        "author": "kalil0321",
+        "stars": "731",
+        "meta": "Python MCP Server",
+        "description": "The agent that turns websites into APIs!",
+        "github_url": "https://github.com/kalil0321/reverse-api-engineer"
+      },
+      {
+        "rank": 10,
         "name": "browser-use-mcp-server",
         "author": "kontext-dev",
         "stars": "811",
         "meta": "Python MCP Server",
         "description": "Browse the web, directly from Cursor etc.",
         "github_url": "https://github.com/kontext-dev/browser-use-mcp-server"
-      },
-      {
-        "rank": 10,
-        "name": "native-devtools-mcp",
-        "author": "sh3ll3x3c",
-        "stars": "77",
-        "meta": "Rust MCP Server",
-        "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
-        "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
       }
     ]
   },
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "mengram",
         "author": "alibaizhanov",
-        "stars": "167",
+        "stars": "169",
         "meta": "Python MCP Server",
         "description": "Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.",
         "github_url": "https://github.com/alibaizhanov/mengram"
@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "SimpleMem",
         "author": "aiming-lab",
-        "stars": "3.2k",
+        "stars": "3.3k",
         "meta": "Python MCP Server",
         "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
         "github_url": "https://github.com/aiming-lab/SimpleMem"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "5.7k",
+        "stars": "5.6k",
         "meta": "TypeScript MCP Server",
         "description": "Turn repeat work into running AI work-streams.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "831",
+        "stars": "834",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,8 +942,8 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "48.4k",
-      "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
+      "stars": "48.7k",
+      "tagline": "🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 bra",
       "github_url": "https://github.com/nexu-io/open-design"
     },
     "tools": [
@@ -951,9 +951,9 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "48.4k",
+        "stars": "48.7k",
         "meta": "TypeScript Codex Skill",
-        "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+        "description": "🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
       },
       {
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "15.1k",
+        "stars": "15.7k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -1032,7 +1032,7 @@
         "rank": 10,
         "name": "html-anything NEW",
         "author": "nexu-io",
-        "stars": "3.8k",
+        "stars": "4.5k",
         "meta": "HTML Claude Skill",
         "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
         "github_url": "https://github.com/nexu-io/html-anything"
@@ -1091,7 +1091,7 @@
         "rank": 5,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "21.4k",
+        "stars": "21.5k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1100,7 +1100,7 @@
         "rank": 6,
         "name": "shortest",
         "author": "antiwork",
-        "stars": "5.5k",
+        "stars": "5.6k",
         "meta": "TypeScript Agent Tool",
         "description": "QA via natural language AI tests",
         "github_url": "https://github.com/antiwork/shortest"

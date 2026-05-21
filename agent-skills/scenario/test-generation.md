@@ -19,9 +19,9 @@ permalink: /agent-skills/scenario/test-generation/
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/smixs/skill-conductor" target="_blank" rel="noopener"><strong>skill-conductor</strong></a> by smixs · ★ 73 · Python Codex Skill
   - Architecture-first skill lifecycle for AI agents. 5 modes: CREATE → EVAL → EDIT → REVIEW → PACKAGE. Integrates Anthropic's eval engine (grader/comparator/analyzer agents, blind A/B, benchmarks) with architecture patterns, TDD baseline, and 5-axis scoring. Not just testing - full design-to-distribution.
-- <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 21.4k · TypeScript LLM Plugin
+- <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 21.5k · TypeScript LLM Plugin
   - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
-- <a href="https://github.com/antiwork/shortest" target="_blank" rel="noopener"><strong>shortest</strong></a> by antiwork · ★ 5.5k · TypeScript Agent Tool
+- <a href="https://github.com/antiwork/shortest" target="_blank" rel="noopener"><strong>shortest</strong></a> by antiwork · ★ 5.6k · TypeScript Agent Tool
   - QA via natural language AI tests
 - <a href="https://github.com/httprunner/httprunner" target="_blank" rel="noopener"><strong>httprunner</strong></a> by httprunner · ★ 4.3k · Go MCP Server
   - HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
