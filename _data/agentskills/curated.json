@@ -60,7 +60,7 @@
         "rank": 6,
         "name": "phpMyFAQ",
         "author": "thorsten",
-        "stars": "616",
+        "stars": "617",
         "meta": "PHP MCP Server",
         "description": "phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases",
         "github_url": "https://github.com/thorsten/phpMyFAQ"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "828",
+        "stars": "831",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -901,7 +901,7 @@
         "rank": 7,
         "name": "claude-night-market",
         "author": "athola",
-        "stars": "285",
+        "stars": "288",
         "meta": "Python Claude Skill",
         "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
         "github_url": "https://github.com/athola/claude-night-market"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "47.7k",
+      "stars": "47.9k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "47.7k",
+        "stars": "47.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "14.9k",
+        "stars": "15.1k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -1021,21 +1021,21 @@
       },
       {
         "rank": 9,
+        "name": "superpowers-zh",
+        "author": "jnMetaCode",
+        "stars": "3.6k",
+        "meta": "Shell MCP Server",
+        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
+        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
+      },
+      {
+        "rank": 10,
         "name": "OpenMontage",
         "author": "calesthio",
         "stars": "3.5k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
-      },
-      {
-        "rank": 10,
-        "name": "superpowers-zh",
-        "author": "jnMetaCode",
-        "stars": "3.4k",
-        "meta": "Shell MCP Server",
-        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
-        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
       }
     ]
   },
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "123",
+        "stars": "124",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
