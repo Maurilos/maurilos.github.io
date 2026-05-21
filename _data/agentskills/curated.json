@@ -318,7 +318,7 @@
     "local_url": "/agent-skills/scenario/mcp-api/",
     "quick_pick": {
       "name": "reshapr",
-      "stars": "93",
+      "stars": "95",
       "tagline": "The open source, no-code MCP Server for AI-Native API Access",
       "github_url": "https://github.com/reshaprio/reshapr"
     },
@@ -327,7 +327,7 @@
         "rank": 1,
         "name": "reshapr",
         "author": "reshaprio",
-        "stars": "93",
+        "stars": "95",
         "meta": "Java MCP Server",
         "description": "The open source, no-code MCP Server for AI-Native API Access",
         "github_url": "https://github.com/reshaprio/reshapr"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "MemOS",
         "author": "MemTensor",
-        "stars": "9.2k",
+        "stars": "9.3k",
         "meta": "TypeScript MCP Server",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
         "github_url": "https://github.com/MemTensor/MemOS"
@@ -503,7 +503,7 @@
         "rank": 9,
         "name": "memex",
         "author": "iamtouchskyer",
-        "stars": "192",
+        "stars": "190",
         "meta": "TypeScript MCP Server",
         "description": "Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.",
         "github_url": "https://github.com/iamtouchskyer/memex"
@@ -571,7 +571,7 @@
         "rank": 5,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "69",
+        "stars": "70",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "aguara",
         "author": "garagon",
-        "stars": "78",
+        "stars": "81",
         "meta": "Go MCP Server",
         "description": "Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.",
         "github_url": "https://github.com/garagon/aguara"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "69",
+        "stars": "70",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "47.9k",
+      "stars": "48.4k",
       "tagline": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "47.9k",
+        "stars": "48.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "15.2k",
+        "stars": "15.3k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "9router",
         "author": "decolua",
-        "stars": "12.1k",
+        "stars": "13.0k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "6.4k",
+        "stars": "6.5k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1012,30 +1012,30 @@
       },
       {
         "rank": 8,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "5.1k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      },
+      {
+        "rank": 9,
+        "name": "agent-skills",
+        "author": "tech-leads-club",
+        "stars": "4.4k",
+        "meta": "TypeScript Agent Tool",
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "github_url": "https://github.com/tech-leads-club/agent-skills"
+      },
+      {
+        "rank": 10,
         "name": "html-anything NEW",
         "author": "nexu-io",
         "stars": "3.8k",
         "meta": "HTML Claude Skill",
         "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
         "github_url": "https://github.com/nexu-io/html-anything"
-      },
-      {
-        "rank": 9,
-        "name": "superpowers-zh",
-        "author": "jnMetaCode",
-        "stars": "3.6k",
-        "meta": "Shell MCP Server",
-        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
-        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
-      },
-      {
-        "rank": 10,
-        "name": "OpenMontage",
-        "author": "calesthio",
-        "stars": "3.5k",
-        "meta": "Python Agent Tool",
-        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-        "github_url": "https://github.com/calesthio/OpenMontage"
       }
     ]
   },

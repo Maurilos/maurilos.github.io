@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - <a href="https://github.com/awkoy/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by awkoy · ★ 147 · TypeScript MCP Server
   - **Notion MCP Server** is a Model Context Protocol (MCP) server implementation that enables AI assistants to interact with Notion's API. This production-ready server provides a complete set of tools.
-- <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 69 · TypeScript MCP Server
+- <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 70 · TypeScript MCP Server
   - Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.
 - <a href="https://github.com/makenotion/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by makenotion · ★ 4.1k · TypeScript MCP Server
   - Official Notion MCP Server
