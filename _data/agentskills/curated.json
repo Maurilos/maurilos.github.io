@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "40.4k",
+        "stars": "40.5k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "reverse-api-engineer",
         "author": "kalil0321",
-        "stars": "731",
+        "stars": "734",
         "meta": "Python MCP Server",
         "description": "The agent that turns websites into APIs!",
         "github_url": "https://github.com/kalil0321/reverse-api-engineer"
@@ -551,6 +551,15 @@
       },
       {
         "rank": 3,
+        "name": "Claude-Skills",
+        "author": "borghei",
+        "stars": "169",
+        "meta": "HTML MCP Server",
+        "description": "282 AI skills across 15 domains — the most complete PM operating system (discovery → delivery → career, with Jira / Linear / Notion / Confluence), plus engineering, marketing, C-level, compliance, and 7 vertical advisors. 67 cs-* agents, 700+ Python tools. Works with Claude Code, Codex, Cursor, Gemini, Copilot, Windsurf, Cline, Aider, and Goose.",
+        "github_url": "https://github.com/borghei/Claude-Skills"
+      },
+      {
+        "rank": 4,
         "name": "notion_mcp",
         "author": "danhilse",
         "stars": "206",
@@ -559,7 +568,7 @@
         "github_url": "https://github.com/danhilse/notion_mcp"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "notion-mcp-server",
         "author": "awkoy",
         "stars": "147",
@@ -568,7 +577,7 @@
         "github_url": "https://github.com/awkoy/notion-mcp-server"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "OpenDocuments",
         "author": "joungminsung",
         "stars": "70",
@@ -577,7 +586,7 @@
         "github_url": "https://github.com/joungminsung/OpenDocuments"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "notion-mcp-server",
         "author": "makenotion",
         "stars": "4.1k",
@@ -586,7 +595,7 @@
         "github_url": "https://github.com/makenotion/notion-mcp-server"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "page-agent",
         "author": "alibaba",
         "stars": "17.7k",
@@ -595,7 +604,7 @@
         "github_url": "https://github.com/alibaba/page-agent"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "casdoor",
         "author": "casdoor",
         "stars": "13.6k",
@@ -604,22 +613,13 @@
         "github_url": "https://github.com/casdoor/casdoor"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "ui",
         "author": "creativetimofficial",
         "stars": "11.8k",
         "meta": "TypeScript MCP Server",
         "description": "Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs. Quick Start: You can use the Creative Tim UI CLI directly with npx, or install it globally: ```bash # Use directly (recommended) npx @creative-tim/ui@latest add <component-name> # Or using shadcn cli npx shadcn@latest add https://creative-tim.com/ui/r/all.json ```",
         "github_url": "https://github.com/creativetimofficial/ui"
-      },
-      {
-        "rank": 10,
-        "name": "holaOS",
-        "author": "holaboss-ai",
-        "stars": "5.6k",
-        "meta": "TypeScript MCP Server",
-        "description": "Turn repeat work into running AI work-streams.",
-        "github_url": "https://github.com/holaboss-ai/holaOS"
       }
     ]
   },
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
-        "stars": "13.6k",
+        "stars": "13.7k",
         "meta": "Python MCP Server",
         "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "834",
+        "stars": "839",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "48.7k",
+      "stars": "48.9k",
       "tagline": "🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 bra",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "48.7k",
+        "stars": "48.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "124",
+        "stars": "126",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"

@@ -15,6 +15,8 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - A Model Context Protocol server for connecting Notion to MCP-compatible clients Quick Start: Add this server to an MCP host such as Claude Desktop: Restart your MCP host after saving the configuration. ```json { "mcpServers": { "notion": { "command": "npx", "args": ["-y", "@suekou/mcp-notion-server"], "env": { "NOTION_API_TOKEN": "your-integration-token" } } } } ```
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- <a href="https://github.com/borghei/Claude-Skills" target="_blank" rel="noopener"><strong>Claude-Skills</strong></a> by borghei · ★ 169 · HTML MCP Server
+  - 282 AI skills across 15 domains — the most complete PM operating system (discovery → delivery → career, with Jira / Linear / Notion / Confluence), plus engineering, marketing, C-level, compliance, and 7 vertical advisors. 67 cs-* agents, 700+ Python tools. Works with Claude Code, Codex, Cursor, Gemini, Copilot, Windsurf, Cline, Aider, and Goose.
 - <a href="https://github.com/danhilse/notion_mcp" target="_blank" rel="noopener"><strong>notion_mcp</strong></a> by danhilse · ★ 206 · Python MCP Server
   - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - <a href="https://github.com/awkoy/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by awkoy · ★ 147 · TypeScript MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 - <a href="https://github.com/creativetimofficial/ui" target="_blank" rel="noopener"><strong>ui</strong></a> by creativetimofficial · ★ 11.8k · TypeScript MCP Server
   - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs. Quick Start: You can use the Creative Tim UI CLI directly with npx, or install it globally: ```bash # Use directly (recommended) npx @creative-tim/ui@latest add <component-name> # Or using shadcn cli npx shadcn@latest add https://creative-tim.com/ui/r/all.json ```
-- <a href="https://github.com/holaboss-ai/holaOS" target="_blank" rel="noopener"><strong>holaOS</strong></a> by holaboss-ai · ★ 5.6k · TypeScript MCP Server
-  - Turn repeat work into running AI work-streams.
