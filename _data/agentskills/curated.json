@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "40.5k",
+        "stars": "40.7k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -164,7 +164,7 @@
         "rank": 6,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "87",
+        "stars": "104",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -786,6 +786,15 @@
       },
       {
         "rank": 6,
+        "name": "seerai",
+        "author": "dralkh",
+        "stars": "52",
+        "meta": "TypeScript MCP Server",
+        "description": "Zotero AI plugin, research framework, assistant, workspaces, cloud, google drive, with MCP, agent capabilities, OCR, table extraction, semantic scholar, and firecrawl/tavily web search",
+        "github_url": "https://github.com/dralkh/seerai"
+      },
+      {
+        "rank": 7,
         "name": "google-workspace-mcp",
         "author": "aaronsb",
         "stars": "149",
@@ -794,7 +803,7 @@
         "github_url": "https://github.com/aaronsb/google-workspace-mcp"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "OpenDocuments",
         "author": "joungminsung",
         "stars": "70",
@@ -803,7 +812,7 @@
         "github_url": "https://github.com/joungminsung/OpenDocuments"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "notebooklm-wiki-pipeline NEW",
         "author": "capitalparser",
         "stars": "63",
@@ -812,22 +821,13 @@
         "github_url": "https://github.com/capitalparser/notebooklm-wiki-pipeline"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "google-docs-mcp",
         "author": "a-bonus",
         "stars": "538",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
-      },
-      {
-        "rank": 10,
-        "name": "cli",
-        "author": "googleworkspace",
-        "stars": "26.1k",
-        "meta": "Rust Agent Tool",
-        "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-        "github_url": "https://github.com/googleworkspace/cli"
       }
     ]
   },
@@ -942,8 +942,8 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "48.9k",
-      "tagline": "🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 bra",
+      "stars": "49.3k",
+      "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
     "tools": [
@@ -951,9 +951,9 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "48.9k",
+        "stars": "49.3k",
         "meta": "TypeScript Codex Skill",
-        "description": "🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+        "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
       },
       {

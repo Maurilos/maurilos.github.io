@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-browser/
 
 - <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.3k · TypeScript MCP Server
   - Allow LLMs to control a browser with Browserbase and Stagehand
-- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 40.5k · TypeScript MCP Server
+- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 40.7k · TypeScript MCP Server
   - Chrome DevTools for coding agents
 - <a href="https://github.com/civyk-official/civyk-winwright" target="_blank" rel="noopener"><strong>civyk-winwright</strong></a> by civyk-official · ★ 50 · PowerShell MCP Server
   - Playwright-style MCP server for Windows desktop, system, and browser automation. 59 tools for WPF, WinForms, Win32, Chrome/Edge via Model Context Protocol.
@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.
 - <a href="https://github.com/VectorlyApp/bluebox" target="_blank" rel="noopener"><strong>bluebox</strong></a> by VectorlyApp · ★ 191 · Python MCP Server
   - Index the world's undocumented APIs
-- <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 87 · JavaScript MCP Server
+- <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 104 · JavaScript MCP Server
   - 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.
 - <a href="https://github.com/DebugBase/glance" target="_blank" rel="noopener"><strong>glance</strong></a> by DebugBase · ★ 142 · TypeScript MCP Server
   - AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.
