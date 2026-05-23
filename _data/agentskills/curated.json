@@ -146,7 +146,7 @@
         "rank": 4,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "185",
+        "stars": "188",
         "meta": "TypeScript MCP Server",
         "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -189,21 +189,21 @@
       },
       {
         "rank": 9,
-        "name": "reverse-api-engineer",
-        "author": "kalil0321",
-        "stars": "734",
-        "meta": "Python MCP Server",
-        "description": "The agent that turns websites into APIs!",
-        "github_url": "https://github.com/kalil0321/reverse-api-engineer"
-      },
-      {
-        "rank": 10,
         "name": "browser-use-mcp-server",
         "author": "kontext-dev",
         "stars": "811",
         "meta": "Python MCP Server",
         "description": "Browse the web, directly from Cursor etc.",
         "github_url": "https://github.com/kontext-dev/browser-use-mcp-server"
+      },
+      {
+        "rank": 10,
+        "name": "native-devtools-mcp",
+        "author": "sh3ll3x3c",
+        "stars": "77",
+        "meta": "Rust MCP Server",
+        "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
+        "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
       }
     ]
   },
@@ -318,7 +318,7 @@
     "local_url": "/agent-skills/scenario/mcp-api/",
     "quick_pick": {
       "name": "reshapr",
-      "stars": "95",
+      "stars": "97",
       "tagline": "The open source, no-code MCP Server for AI-Native API Access",
       "github_url": "https://github.com/reshaprio/reshapr"
     },
@@ -327,7 +327,7 @@
         "rank": 1,
         "name": "reshapr",
         "author": "reshaprio",
-        "stars": "95",
+        "stars": "97",
         "meta": "Java MCP Server",
         "description": "The open source, no-code MCP Server for AI-Native API Access",
         "github_url": "https://github.com/reshaprio/reshapr"
@@ -542,6 +542,15 @@
       },
       {
         "rank": 2,
+        "name": "macro",
+        "author": "macro-inc",
+        "stars": "179",
+        "meta": "TypeScript MCP Server",
+        "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
+        "github_url": "https://github.com/macro-inc/macro"
+      },
+      {
+        "rank": 3,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
@@ -550,16 +559,16 @@
         "github_url": "https://github.com/julien040/anyquery"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Claude-Skills",
         "author": "borghei",
         "stars": "169",
         "meta": "HTML MCP Server",
-        "description": "282 AI skills across 15 domains — the most complete PM operating system (discovery → delivery → career, with Jira / Linear / Notion / Confluence), plus engineering, marketing, C-level, compliance, and 7 vertical advisors. 67 cs-* agents, 700+ Python tools. Works with Claude Code, Codex, Cursor, Gemini, Copilot, Windsurf, Cline, Aider, and Goose.",
+        "description": "294 AI skills across 15 domains. Project Management is the deepest (54 skills with worked examples, red-flag libraries, eval harness, MCP tools — Jira / Linear / Notion / Productboard / Confluence). Plus engineering, marketing, C-level, compliance, and 7 vertical advisors. 67 expert agents, 720+ Python tools. Works with 11 AI assistants.",
         "github_url": "https://github.com/borghei/Claude-Skills"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "notion_mcp",
         "author": "danhilse",
         "stars": "206",
@@ -568,7 +577,7 @@
         "github_url": "https://github.com/danhilse/notion_mcp"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "notion-mcp-server",
         "author": "awkoy",
         "stars": "147",
@@ -577,7 +586,7 @@
         "github_url": "https://github.com/awkoy/notion-mcp-server"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "OpenDocuments",
         "author": "joungminsung",
         "stars": "70",
@@ -586,7 +595,7 @@
         "github_url": "https://github.com/joungminsung/OpenDocuments"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "notion-mcp-server",
         "author": "makenotion",
         "stars": "4.1k",
@@ -595,7 +604,7 @@
         "github_url": "https://github.com/makenotion/notion-mcp-server"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "page-agent",
         "author": "alibaba",
         "stars": "17.7k",
@@ -604,22 +613,13 @@
         "github_url": "https://github.com/alibaba/page-agent"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "casdoor",
         "author": "casdoor",
-        "stars": "13.6k",
+        "stars": "13.7k",
         "meta": "Go MCP Server",
         "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
         "github_url": "https://github.com/casdoor/casdoor"
-      },
-      {
-        "rank": 10,
-        "name": "ui",
-        "author": "creativetimofficial",
-        "stars": "11.8k",
-        "meta": "TypeScript MCP Server",
-        "description": "Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs. Quick Start: You can use the Creative Tim UI CLI directly with npx, or install it globally: ```bash # Use directly (recommended) npx @creative-tim/ui@latest add <component-name> # Or using shadcn cli npx shadcn@latest add https://creative-tim.com/ui/r/all.json ```",
-        "github_url": "https://github.com/creativetimofficial/ui"
       }
     ]
   },
@@ -684,7 +684,7 @@
         "rank": 6,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "30.0k",
+        "stars": "30.1k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -824,7 +824,7 @@
         "rank": 10,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "538",
+        "stars": "542",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "839",
+        "stars": "844",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "49.3k",
+      "stars": "49.9k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "49.3k",
+        "stars": "49.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "15.3k",
+        "stars": "15.4k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "15.7k",
+        "stars": "16.4k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -996,9 +996,9 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "6.5k",
+        "stars": "6.6k",
         "meta": "TypeScript Codex Skill",
-        "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
+        "description": "Coding agents from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
       },
       {
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "5.1k",
+        "stars": "5.2k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "126",
+        "stars": "125",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1195,7 +1195,7 @@
         "rank": 5,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "367",
+        "stars": "369",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"

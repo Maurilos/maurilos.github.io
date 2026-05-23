@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Chrome DevTools for coding agents
 - <a href="https://github.com/civyk-official/civyk-winwright" target="_blank" rel="noopener"><strong>civyk-winwright</strong></a> by civyk-official · ★ 50 · PowerShell MCP Server
   - Playwright-style MCP server for Windows desktop, system, and browser automation. 59 tools for WPF, WinForms, Win32, Chrome/Edge via Model Context Protocol.
-- <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 185 · TypeScript MCP Server
+- <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 188 · TypeScript MCP Server
   - Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.
 - <a href="https://github.com/VectorlyApp/bluebox" target="_blank" rel="noopener"><strong>bluebox</strong></a> by VectorlyApp · ★ 191 · Python MCP Server
   - Index the world's undocumented APIs
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.
 - <a href="https://github.com/szymdzum/browser-debugger-cli" target="_blank" rel="noopener"><strong>browser-debugger-cli</strong></a> by szymdzum · ★ 124 · TypeScript MCP Server
   - CLI tool for agents to quickly access browser telemetry (DOM, network, console) via Chrome DevTools Protocol.
-- <a href="https://github.com/kalil0321/reverse-api-engineer" target="_blank" rel="noopener"><strong>reverse-api-engineer</strong></a> by kalil0321 · ★ 734 · Python MCP Server
-  - The agent that turns websites into APIs!
 - <a href="https://github.com/kontext-dev/browser-use-mcp-server" target="_blank" rel="noopener"><strong>browser-use-mcp-server</strong></a> by kontext-dev · ★ 811 · Python MCP Server
   - Browse the web, directly from Cursor etc.
+- <a href="https://github.com/sh3ll3x3c/native-devtools-mcp" target="_blank" rel="noopener"><strong>native-devtools-mcp</strong></a> by sh3ll3x3c · ★ 77 · Rust MCP Server
+  - MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.
