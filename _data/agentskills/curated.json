@@ -60,7 +60,7 @@
         "rank": 6,
         "name": "phpMyFAQ",
         "author": "thorsten",
-        "stars": "617",
+        "stars": "618",
         "meta": "PHP MCP Server",
         "description": "phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases",
         "github_url": "https://github.com/thorsten/phpMyFAQ"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "40.7k",
+        "stars": "41.3k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -230,6 +230,15 @@
       },
       {
         "rank": 2,
+        "name": "fast-filesystem-mcp",
+        "author": "efforthye",
+        "stars": "54",
+        "meta": "TypeScript MCP Server",
+        "description": "A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.",
+        "github_url": "https://github.com/efforthye/fast-filesystem-mcp"
+      },
+      {
+        "rank": 3,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
         "stars": "6.0k",
@@ -238,7 +247,7 @@
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "oxideterm",
         "author": "AnalyseDeCircuit",
         "stars": "629",
@@ -247,7 +256,7 @@
         "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "mcp-filesystem-server",
         "author": "mark3labs",
         "stars": "613",
@@ -256,7 +265,7 @@
         "github_url": "https://github.com/mark3labs/mcp-filesystem-server"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "BloodHound-MCP-AI",
         "author": "MorDavid",
         "stars": "340",
@@ -265,7 +274,7 @@
         "github_url": "https://github.com/MorDavid/BloodHound-MCP-AI"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
         "stars": "98",
@@ -274,7 +283,7 @@
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "MCP-Workspace-Server",
         "author": "answerlink",
         "stars": "122",
@@ -283,7 +292,7 @@
         "github_url": "https://github.com/answerlink/MCP-Workspace-Server"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "conduit-mcp",
         "author": "steipete",
         "stars": "65",
@@ -292,22 +301,13 @@
         "github_url": "https://github.com/steipete/conduit-mcp"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Awesome-MCP-ZH",
         "author": "yzfly",
         "stars": "6.7k",
         "meta": "MCP Server",
         "description": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
         "github_url": "https://github.com/yzfly/Awesome-MCP-ZH"
-      },
-      {
-        "rank": 10,
-        "name": "mcpso",
-        "author": "chatmcp",
-        "stars": "2.0k",
-        "meta": "TypeScript MCP Server",
-        "description": "directory for Awesome MCP Servers",
-        "github_url": "https://github.com/chatmcp/mcpso"
       }
     ]
   },
@@ -318,7 +318,7 @@
     "local_url": "/agent-skills/scenario/mcp-api/",
     "quick_pick": {
       "name": "reshapr",
-      "stars": "97",
+      "stars": "98",
       "tagline": "The open source, no-code MCP Server for AI-Native API Access",
       "github_url": "https://github.com/reshaprio/reshapr"
     },
@@ -327,7 +327,7 @@
         "rank": 1,
         "name": "reshapr",
         "author": "reshaprio",
-        "stars": "97",
+        "stars": "98",
         "meta": "Java MCP Server",
         "description": "The open source, no-code MCP Server for AI-Native API Access",
         "github_url": "https://github.com/reshaprio/reshapr"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "MemOS",
         "author": "MemTensor",
-        "stars": "9.3k",
+        "stars": "9.4k",
         "meta": "TypeScript MCP Server",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
         "github_url": "https://github.com/MemTensor/MemOS"
@@ -510,12 +510,12 @@
       },
       {
         "rank": 10,
-        "name": "yantrikdb-server",
-        "author": "yantrikos",
-        "stars": "146",
-        "meta": "Rust MCP Server",
-        "description": "Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.",
-        "github_url": "https://github.com/yantrikos/yantrikdb-server"
+        "name": "OpenLore",
+        "author": "clay-good",
+        "stars": "136",
+        "meta": "TypeScript MCP Server",
+        "description": "openlore provides persistent architectural memory for AI coding agents by turning codebases into queryable knowledge graphs featuring static analysis, living specs, automated drift detection, and graph-native MCP tools to eliminate context decay and drastically slash orientation token costs.",
+        "github_url": "https://github.com/clay-good/OpenLore"
       }
     ]
   },
@@ -629,14 +629,23 @@
     "slug": "mcp-for-github",
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
-      "name": "octocode-mcp",
-      "stars": "838",
+      "name": "octocode",
+      "stars": "845",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
-      "github_url": "https://github.com/bgauryy/octocode-mcp"
+      "github_url": "https://github.com/bgauryy/octocode"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "octocode",
+        "author": "bgauryy",
+        "stars": "845",
+        "meta": "TypeScript MCP Server",
+        "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
+        "github_url": "https://github.com/bgauryy/octocode"
+      },
+      {
+        "rank": 2,
         "name": "octocode-mcp",
         "author": "bgauryy",
         "stars": "838",
@@ -645,7 +654,7 @@
         "github_url": "https://github.com/bgauryy/octocode-mcp"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "template-repo",
         "author": "AndrewAltimit",
         "stars": "127",
@@ -654,7 +663,7 @@
         "github_url": "https://github.com/AndrewAltimit/template-repo"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
         "stars": "13.7k",
@@ -663,7 +672,7 @@
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "skylos",
         "author": "duriantaco",
         "stars": "418",
@@ -672,7 +681,7 @@
         "github_url": "https://github.com/duriantaco/skylos"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "aguara",
         "author": "garagon",
         "stars": "81",
@@ -681,7 +690,7 @@
         "github_url": "https://github.com/garagon/aguara"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "github-mcp-server",
         "author": "github",
         "stars": "30.1k",
@@ -690,7 +699,7 @@
         "github_url": "https://github.com/github/github-mcp-server"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "shippie",
         "author": "mattzcarey",
         "stars": "2.3k",
@@ -699,7 +708,7 @@
         "github_url": "https://github.com/mattzcarey/shippie"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
@@ -708,22 +717,13 @@
         "github_url": "https://github.com/julien040/anyquery"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "idea-reality-mcp",
         "author": "mnemox-ai",
         "stars": "600",
         "meta": "Python MCP Server",
         "description": "Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI, Product Hunt. MCP server. 290+ stars.",
         "github_url": "https://github.com/mnemox-ai/idea-reality-mcp"
-      },
-      {
-        "rank": 10,
-        "name": "CoexistAI",
-        "author": "SPThole",
-        "stars": "446",
-        "meta": "Jupyter Notebook MCP Server",
-        "description": "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions.",
-        "github_url": "https://github.com/SPThole/CoexistAI"
       }
     ]
   },
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "844",
+        "stars": "847",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "49.9k",
+      "stars": "50.6k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "49.9k",
+        "stars": "50.6k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -967,15 +967,6 @@
       },
       {
         "rank": 3,
-        "name": "context-mode",
-        "author": "mksglu",
-        "stars": "15.4k",
-        "meta": "TypeScript MCP Server",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
-        "github_url": "https://github.com/mksglu/context-mode"
-      },
-      {
-        "rank": 4,
         "name": "agentmemory",
         "author": "rohitg00",
         "stars": "16.4k",
@@ -984,10 +975,19 @@
         "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
+        "rank": 4,
+        "name": "context-mode",
+        "author": "mksglu",
+        "stars": "15.5k",
+        "meta": "TypeScript MCP Server",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
+        "github_url": "https://github.com/mksglu/context-mode"
+      },
+      {
         "rank": 5,
         "name": "9router",
         "author": "decolua",
-        "stars": "13.0k",
+        "stars": "13.7k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "facts",
-      "stars": "151",
+      "stars": "173",
       "tagline": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
       "github_url": "https://github.com/av/facts"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "facts",
         "author": "av",
-        "stars": "151",
+        "stars": "173",
         "meta": "Rust Codex Skill",
         "description": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
         "github_url": "https://github.com/av/facts"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "125",
+        "stars": "126",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"

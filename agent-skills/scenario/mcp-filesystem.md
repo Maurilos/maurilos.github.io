@@ -13,6 +13,8 @@ permalink: /agent-skills/scenario/mcp-filesystem/
 
 - <a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> by rust-mcp-stack · ★ 150 · Rust MCP Server
   - Blazing-fast, asynchronous MCP server for seamless filesystem operations.
+- <a href="https://github.com/efforthye/fast-filesystem-mcp" target="_blank" rel="noopener"><strong>fast-filesystem-mcp</strong></a> by efforthye · ★ 54 · TypeScript MCP Server
+  - A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.
 - <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 6.0k · TypeScript MCP Server
   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - <a href="https://github.com/AnalyseDeCircuit/oxideterm" target="_blank" rel="noopener"><strong>oxideterm</strong></a> by AnalyseDeCircuit · ★ 629 · Rust MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.
 - <a href="https://github.com/yzfly/Awesome-MCP-ZH" target="_blank" rel="noopener"><strong>Awesome-MCP-ZH</strong></a> by yzfly · ★ 6.7k · MCP Server
   - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
-- <a href="https://github.com/chatmcp/mcpso" target="_blank" rel="noopener"><strong>mcpso</strong></a> by chatmcp · ★ 2.0k · TypeScript MCP Server
-  - directory for Awesome MCP Servers

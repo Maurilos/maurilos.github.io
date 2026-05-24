@@ -7,10 +7,12 @@ permalink: /agent-skills/scenario/mcp-for-github/
 # Best AI Agent Skills for MCP Tools for GitHub in 2026
 
 ## Quick Pick
-<a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> · ★ 838 · MCP server for semantic code research and context generation on real-time using
+<a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> · ★ 845 · MCP server for semantic code research and context generation on real-time using
 
 ## 工具列表
 
+- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 845 · TypeScript MCP Server
+  - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
 - <a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> by bgauryy · ★ 838 · TypeScript MCP Server
   - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
 - <a href="https://github.com/AndrewAltimit/template-repo" target="_blank" rel="noopener"><strong>template-repo</strong></a> by AndrewAltimit · ★ 127 · Rust MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - <a href="https://github.com/mnemox-ai/idea-reality-mcp" target="_blank" rel="noopener"><strong>idea-reality-mcp</strong></a> by mnemox-ai · ★ 600 · Python MCP Server
   - Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI, Product Hunt. MCP server. 290+ stars.
-- <a href="https://github.com/SPThole/CoexistAI" target="_blank" rel="noopener"><strong>CoexistAI</strong></a> by SPThole · ★ 446 · Jupyter Notebook MCP Server
-  - CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools—all with simple MCP tool calls or API calls or Python functions.
