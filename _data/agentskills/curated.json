@@ -76,6 +76,15 @@
       },
       {
         "rank": 8,
+        "name": "Clauge",
+        "author": "ansxuman",
+        "stars": "260",
+        "meta": "Svelte Codex Skill",
+        "description": "One window. Every dev tool.",
+        "github_url": "https://github.com/ansxuman/Clauge"
+      },
+      {
+        "rank": 9,
         "name": "mindsdb",
         "author": "mindsdb",
         "stars": "39.1k",
@@ -84,22 +93,13 @@
         "github_url": "https://github.com/mindsdb/mindsdb"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "minds-platform",
         "author": "mindsdb",
         "stars": "39.2k",
         "meta": "Python MCP Server",
         "description": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.",
         "github_url": "https://github.com/mindsdb/minds-platform"
-      },
-      {
-        "rank": 10,
-        "name": "mcp-alchemy",
-        "author": "runekaagaard",
-        "stars": "395",
-        "meta": "Python MCP Server",
-        "description": "A MCP (model context protocol) server that gives the LLM access to and knowledge about relational databases like SQLite, Postgresql, MySQL & MariaDB, Oracle, and MS-SQL.",
-        "github_url": "https://github.com/runekaagaard/mcp-alchemy"
       }
     ]
   },
@@ -503,7 +503,7 @@
         "rank": 9,
         "name": "memex",
         "author": "iamtouchskyer",
-        "stars": "190",
+        "stars": "191",
         "meta": "TypeScript MCP Server",
         "description": "Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.",
         "github_url": "https://github.com/iamtouchskyer/memex"
@@ -544,7 +544,7 @@
         "rank": 2,
         "name": "macro",
         "author": "macro-inc",
-        "stars": "179",
+        "stars": "180",
         "meta": "TypeScript MCP Server",
         "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
         "github_url": "https://github.com/macro-inc/macro"
@@ -589,7 +589,7 @@
         "rank": 7,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "70",
+        "stars": "71",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
@@ -806,7 +806,7 @@
         "rank": 8,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "70",
+        "stars": "71",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
@@ -815,8 +815,8 @@
         "rank": 9,
         "name": "notebooklm-wiki-pipeline",
         "author": "capitalparser",
-        "stars": "63",
-        "meta": "MCP Server",
+        "stars": "64",
+        "meta": "Python MCP Server",
         "description": "Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context",
         "github_url": "https://github.com/capitalparser/notebooklm-wiki-pipeline"
       },
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "51.6k",
+      "stars": "51.9k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "51.6k",
+        "stars": "51.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "17.6k",
+        "stars": "17.7k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "15.6k",
+        "stars": "15.7k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "127",
+        "stars": "128",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "agent-device",
         "author": "callstackincubator",
-        "stars": "2.2k",
+        "stars": "2.3k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstackincubator/agent-device"
@@ -1204,7 +1204,7 @@
         "rank": 6,
         "name": "embeddedskills",
         "author": "zhinkgit",
-        "stars": "269",
+        "stars": "271",
         "meta": "Python Claude Skill",
         "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
         "github_url": "https://github.com/zhinkgit/embeddedskills"

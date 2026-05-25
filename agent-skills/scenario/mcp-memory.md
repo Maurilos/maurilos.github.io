@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.
 - <a href="https://github.com/aiming-lab/SimpleMem" target="_blank" rel="noopener"><strong>SimpleMem</strong></a> by aiming-lab · ★ 3.3k · Python MCP Server
   - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
-- <a href="https://github.com/iamtouchskyer/memex" target="_blank" rel="noopener"><strong>memex</strong></a> by iamtouchskyer · ★ 190 · TypeScript MCP Server
+- <a href="https://github.com/iamtouchskyer/memex" target="_blank" rel="noopener"><strong>memex</strong></a> by iamtouchskyer · ★ 191 · TypeScript MCP Server
   - Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 - <a href="https://github.com/clay-good/OpenLore" target="_blank" rel="noopener"><strong>OpenLore</strong></a> by clay-good · ★ 136 · TypeScript MCP Server
   - openlore provides persistent architectural memory for AI coding agents by turning codebases into queryable knowledge graphs featuring static analysis, living specs, automated drift detection, and graph-native MCP tools to eliminate context decay and drastically slash orientation token costs.
