@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Chrome DevTools for coding agents
 - <a href="https://github.com/civyk-official/civyk-winwright" target="_blank" rel="noopener"><strong>civyk-winwright</strong></a> by civyk-official · ★ 50 · PowerShell MCP Server
   - Playwright-style MCP server for Windows desktop, system, and browser automation. 59 tools for WPF, WinForms, Win32, Chrome/Edge via Model Context Protocol.
-- <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 188 · TypeScript MCP Server
+- <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 189 · TypeScript MCP Server
   - Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.
 - <a href="https://github.com/VectorlyApp/bluebox" target="_blank" rel="noopener"><strong>bluebox</strong></a> by VectorlyApp · ★ 191 · Python MCP Server
   - Index the world's undocumented APIs

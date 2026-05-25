@@ -146,7 +146,7 @@
         "rank": 4,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "188",
+        "stars": "189",
         "meta": "TypeScript MCP Server",
         "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "847",
+        "stars": "849",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "50.9k",
+      "stars": "51.3k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "50.9k",
+        "stars": "51.3k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "15.5k",
+        "stars": "15.6k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "5.2k",
+        "stars": "5.3k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "126",
+        "stars": "127",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1091,7 +1091,7 @@
         "rank": 5,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "21.5k",
+        "stars": "21.6k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1151,7 +1151,7 @@
     "quick_pick": {
       "name": "inspector",
       "stars": "2.0k",
-      "tagline": "Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps",
+      "tagline": "Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP app",
       "github_url": "https://github.com/MCPJam/inspector"
     },
     "tools": [
@@ -1161,7 +1161,7 @@
         "author": "MCPJam",
         "stars": "2.0k",
         "meta": "TypeScript MCP Server",
-        "description": "Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.",
+        "description": "Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.",
         "github_url": "https://github.com/MCPJam/inspector"
       },
       {
@@ -1184,21 +1184,21 @@
       },
       {
         "rank": 4,
-        "name": "DebugMCP",
-        "author": "microsoft",
-        "stars": "336",
-        "meta": "TypeScript MCP Server",
-        "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
-        "github_url": "https://github.com/microsoft/DebugMCP"
-      },
-      {
-        "rank": 5,
         "name": "Gearsystem",
         "author": "drhelius",
         "stars": "369",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"
+      },
+      {
+        "rank": 5,
+        "name": "DebugMCP",
+        "author": "microsoft",
+        "stars": "358",
+        "meta": "TypeScript MCP Server",
+        "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
+        "github_url": "https://github.com/microsoft/DebugMCP"
       },
       {
         "rank": 6,
