@@ -42,7 +42,7 @@
         "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "2.1k",
+        "stars": "2.2k",
         "meta": "TypeScript MCP Server",
         "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "omega-memory",
         "author": "omega-memory",
-        "stars": "141",
+        "stars": "147",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "51.3k",
+      "stars": "51.6k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "51.3k",
+        "stars": "51.6k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "16.4k",
+        "stars": "17.6k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "6.6k",
+        "stars": "6.7k",
         "meta": "TypeScript Codex Skill",
         "description": "Coding agents from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1030,7 +1030,7 @@
       },
       {
         "rank": 10,
-        "name": "html-anything NEW",
+        "name": "html-anything",
         "author": "nexu-io",
         "stars": "4.5k",
         "meta": "HTML Claude Skill",
@@ -1202,6 +1202,15 @@
       },
       {
         "rank": 6,
+        "name": "embeddedskills",
+        "author": "zhinkgit",
+        "stars": "269",
+        "meta": "Python Claude Skill",
+        "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
+        "github_url": "https://github.com/zhinkgit/embeddedskills"
+      },
+      {
+        "rank": 7,
         "name": "bug-hunter",
         "author": "codexstar69",
         "stars": "209",
@@ -1210,22 +1219,13 @@
         "github_url": "https://github.com/codexstar69/bug-hunter"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "opentelemetry-mcp-server",
         "author": "traceloop",
         "stars": "184",
         "meta": "Python MCP Server",
         "description": "Unified MCP server for querying OpenTelemetry traces across multiple backends (Jaeger, Tempo, Traceloop, etc.), enabling AI agents to analyze distributed traces for automated debugging and observability.",
         "github_url": "https://github.com/traceloop/opentelemetry-mcp-server"
-      },
-      {
-        "rank": 8,
-        "name": "embeddedskills",
-        "author": "zhinkgit",
-        "stars": "170",
-        "meta": "Python Claude Skill",
-        "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
-        "github_url": "https://github.com/zhinkgit/embeddedskills"
       },
       {
         "rank": 9,
@@ -1240,7 +1240,7 @@
         "rank": 10,
         "name": "x64dbg-mcp",
         "author": "SetsunaYukiOvO",
-        "stars": "129",
+        "stars": "147",
         "meta": "C++ MCP Server",
         "description": "MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE;Develop with cursor/windsurf",
         "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
