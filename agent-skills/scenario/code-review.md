@@ -13,12 +13,12 @@ permalink: /agent-skills/scenario/code-review/
 
 - <a href="https://github.com/mattzcarey/shippie" target="_blank" rel="noopener"><strong>shippie</strong></a> by mattzcarey · ★ 2.3k · TypeScript MCP Server
   - extendable code review and QA agent 🚢
+- <a href="https://github.com/awesome-skills/code-review-skill" target="_blank" rel="noopener"><strong>code-review-skill</strong></a> by awesome-skills · ★ 698 · HTML Claude Skill
+  - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - <a href="https://github.com/qdhenry/Claude-Command-Suite" target="_blank" rel="noopener"><strong>Claude-Command-Suite</strong></a> by qdhenry · ★ 978 · Shell Claude Skill
   - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
-- <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 854 · Rust Agent Tool
+- <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 856 · Rust Agent Tool
   - a code review TUI with vim keybindings
-- <a href="https://github.com/awesome-skills/code-review-skill" target="_blank" rel="noopener"><strong>code-review-skill</strong></a> by awesome-skills · ★ 438 · Python Claude Skill
-  - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - <a href="https://github.com/Nikita-Filonov/ai-review" target="_blank" rel="noopener"><strong>ai-review</strong></a> by Nikita-Filonov · ★ 430 · Python Agent Tool
   - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
 - <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 388 · JavaScript Codex Skill
