@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "Clauge",
         "author": "ansxuman",
-        "stars": "260",
+        "stars": "350",
         "meta": "Svelte Codex Skill",
         "description": "One window. Every dev tool.",
         "github_url": "https://github.com/ansxuman/Clauge"
@@ -146,7 +146,7 @@
         "rank": 4,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "189",
+        "stars": "190",
         "meta": "TypeScript MCP Server",
         "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "30.1k",
+        "stars": "30.2k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "849",
+        "stars": "854",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "51.9k",
+      "stars": "52.1k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "51.9k",
+        "stars": "52.1k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "17.7k",
+        "stars": "17.8k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
