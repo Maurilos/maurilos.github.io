@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "41.9k",
+        "stars": "42.0k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -525,14 +525,23 @@
     "slug": "mcp-for-notion",
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
     "quick_pick": {
-      "name": "mcp-notion-server",
-      "stars": "892",
-      "tagline": "A Model Context Protocol server for connecting Notion to MCP-compatible clients",
-      "github_url": "https://github.com/suekou/mcp-notion-server"
+      "name": "notion-mcp-server",
+      "stars": "151",
+      "tagline": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent",
+      "github_url": "https://github.com/awkoy/notion-mcp-server"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "notion-mcp-server",
+        "author": "awkoy",
+        "stars": "151",
+        "meta": "TypeScript MCP Server",
+        "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.",
+        "github_url": "https://github.com/awkoy/notion-mcp-server"
+      },
+      {
+        "rank": 2,
         "name": "mcp-notion-server",
         "author": "suekou",
         "stars": "892",
@@ -541,7 +550,7 @@
         "github_url": "https://github.com/suekou/mcp-notion-server"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "macro",
         "author": "macro-inc",
         "stars": "180",
@@ -550,7 +559,7 @@
         "github_url": "https://github.com/macro-inc/macro"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
@@ -559,7 +568,7 @@
         "github_url": "https://github.com/julien040/anyquery"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Claude-Skills",
         "author": "borghei",
         "stars": "169",
@@ -568,7 +577,7 @@
         "github_url": "https://github.com/borghei/Claude-Skills"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "notion_mcp",
         "author": "danhilse",
         "stars": "206",
@@ -577,19 +586,10 @@
         "github_url": "https://github.com/danhilse/notion_mcp"
       },
       {
-        "rank": 6,
-        "name": "notion-mcp-server",
-        "author": "awkoy",
-        "stars": "147",
-        "meta": "TypeScript MCP Server",
-        "description": "**Notion MCP Server** is a Model Context Protocol (MCP) server implementation that enables AI assistants to interact with Notion's API. This production-ready server provides a complete set of tools.",
-        "github_url": "https://github.com/awkoy/notion-mcp-server"
-      },
-      {
         "rank": 7,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "71",
+        "stars": "72",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
@@ -806,7 +806,7 @@
         "rank": 8,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "71",
+        "stars": "72",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "53.3k",
+      "stars": "53.7k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "53.3k",
+        "stars": "53.7k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "18.2k",
+        "stars": "18.5k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "eval-view",
         "author": "hidai25",
-        "stars": "108",
+        "stars": "111",
         "meta": "Python MCP Server",
         "description": "Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.",
         "github_url": "https://github.com/hidai25/eval-view"
@@ -1091,7 +1091,7 @@
         "rank": 5,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "21.6k",
+        "stars": "21.7k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1125,21 +1125,21 @@
       },
       {
         "rank": 9,
-        "name": "web-quality-skills",
-        "author": "addyosmani",
-        "stars": "1.9k",
-        "meta": "Shell Claude Skill",
-        "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
-        "github_url": "https://github.com/addyosmani/web-quality-skills"
-      },
-      {
-        "rank": 10,
         "name": "agent-device",
         "author": "callstackincubator",
         "stars": "2.3k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstackincubator/agent-device"
+      },
+      {
+        "rank": 10,
+        "name": "web-quality-skills",
+        "author": "addyosmani",
+        "stars": "1.9k",
+        "meta": "Shell Claude Skill",
+        "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+        "github_url": "https://github.com/addyosmani/web-quality-skills"
       }
     ]
   },
