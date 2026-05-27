@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "mcp-toolbox",
-      "stars": "15.3k",
+      "stars": "15.4k",
       "tagline": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "github_url": "https://github.com/googleapis/mcp-toolbox"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "mcp-toolbox",
         "author": "googleapis",
-        "stars": "15.3k",
+        "stars": "15.4k",
         "meta": "Go MCP Server",
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "github_url": "https://github.com/googleapis/mcp-toolbox"
@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "Clauge",
         "author": "ansxuman",
-        "stars": "519",
+        "stars": "550",
         "meta": "Svelte Codex Skill",
         "description": "One window. Every dev tool.",
         "github_url": "https://github.com/ansxuman/Clauge"
@@ -422,7 +422,7 @@
     "local_url": "/agent-skills/scenario/mcp-memory/",
     "quick_pick": {
       "name": "memora",
-      "stars": "405",
+      "stars": "406",
       "tagline": "Give your AI agents persistent memory.",
       "github_url": "https://github.com/agentic-box/memora"
     },
@@ -431,7 +431,7 @@
         "rank": 1,
         "name": "memora",
         "author": "agentic-box",
-        "stars": "405",
+        "stars": "406",
         "meta": "Python MCP Server",
         "description": "Give your AI agents persistent memory.",
         "github_url": "https://github.com/agentic-box/memora"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "858",
+        "stars": "860",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "53.0k",
+      "stars": "53.3k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "53.0k",
+        "stars": "53.3k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "15.7k",
+        "stars": "15.8k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"

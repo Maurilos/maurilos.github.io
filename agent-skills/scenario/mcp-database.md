@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-database/
 # Best AI Agent Skills for MCP Database Tools in 2026
 
 ## Quick Pick
-<a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> · ★ 15.3k · MCP Toolbox for Databases is an open source MCP server for databases.
+<a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> · ★ 15.4k · MCP Toolbox for Databases is an open source MCP server for databases.
 
 ## 工具列表
 
-- <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 15.3k · Go MCP Server
+- <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 15.4k · Go MCP Server
   - MCP Toolbox for Databases is an open source MCP server for databases.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 2.6k · TypeScript MCP Server
   - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
@@ -25,7 +25,7 @@ permalink: /agent-skills/scenario/mcp-database/
   - phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- <a href="https://github.com/ansxuman/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ansxuman · ★ 519 · Svelte Codex Skill
+- <a href="https://github.com/ansxuman/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ansxuman · ★ 550 · Svelte Codex Skill
   - One window. Every dev tool.
 - <a href="https://github.com/mindsdb/mindsdb" target="_blank" rel="noopener"><strong>mindsdb</strong></a> by mindsdb · ★ 39.1k · Python MCP Server
   - AI Data Vault - A query engine for AI Agents to securely query data from any datasource

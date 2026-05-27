@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-memory/
 # Best AI Agent Skills for MCP Memory & Knowledge in 2026
 
 ## Quick Pick
-<a href="https://github.com/agentic-box/memora" target="_blank" rel="noopener"><strong>memora</strong></a> · ★ 405 · Give your AI agents persistent memory.
+<a href="https://github.com/agentic-box/memora" target="_blank" rel="noopener"><strong>memora</strong></a> · ★ 406 · Give your AI agents persistent memory.
 
 ## 工具列表
 
-- <a href="https://github.com/agentic-box/memora" target="_blank" rel="noopener"><strong>memora</strong></a> by agentic-box · ★ 405 · Python MCP Server
+- <a href="https://github.com/agentic-box/memora" target="_blank" rel="noopener"><strong>memora</strong></a> by agentic-box · ★ 406 · Python MCP Server
   - Give your AI agents persistent memory.
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 810 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
