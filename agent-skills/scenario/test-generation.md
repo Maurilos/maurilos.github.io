@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/test-generation/
   - HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
 - <a href="https://github.com/hegelai/prompttools" target="_blank" rel="noopener"><strong>prompttools</strong></a> by hegelai · ★ 3.0k · Python Agent Tool
   - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
-- <a href="https://github.com/addyosmani/web-quality-skills" target="_blank" rel="noopener"><strong>web-quality-skills</strong></a> by addyosmani · ★ 1.9k · Shell Claude Skill
-  - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
 - <a href="https://github.com/callstackincubator/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstackincubator · ★ 2.3k · TypeScript MCP Server
   - CLI to control iOS and Android devices for AI agents
+- <a href="https://github.com/addyosmani/web-quality-skills" target="_blank" rel="noopener"><strong>web-quality-skills</strong></a> by addyosmani · ★ 1.9k · Shell Claude Skill
+  - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
