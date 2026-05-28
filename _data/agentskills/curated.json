@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "Clauge",
         "author": "ansxuman",
-        "stars": "550",
+        "stars": "596",
         "meta": "Svelte Codex Skill",
         "description": "One window. Every dev tool.",
         "github_url": "https://github.com/ansxuman/Clauge"
@@ -571,9 +571,9 @@
         "rank": 5,
         "name": "Claude-Skills",
         "author": "borghei",
-        "stars": "169",
+        "stars": "194",
         "meta": "HTML MCP Server",
-        "description": "294 AI skills across 15 domains. Project Management is the deepest (54 skills with worked examples, red-flag libraries, eval harness, MCP tools — Jira / Linear / Notion / Productboard / Confluence). Plus engineering, marketing, C-level, compliance, and 7 vertical advisors. 67 expert agents, 720+ Python tools. Works with 11 AI assistants.",
+        "description": "338 AI skills across 16 domains. PM is the deepest (66 skills — discovery, execution, strategy frameworks, GTM, Jira/Linear/Notion). Plus engineering, marketing, C-level (CAIO/CDO/CCO/GC/VPE), compliance + audit-prep, new research/ domain, vertical advisors. 74 expert agents, 784+ stdlib Python tools. 11 AI assistants.",
         "github_url": "https://github.com/borghei/Claude-Skills"
       },
       {
@@ -598,7 +598,7 @@
         "rank": 8,
         "name": "notion-mcp-server",
         "author": "makenotion",
-        "stars": "4.1k",
+        "stars": "4.4k",
         "meta": "TypeScript MCP Server",
         "description": "Official Notion MCP Server",
         "github_url": "https://github.com/makenotion/notion-mcp-server"
@@ -824,7 +824,7 @@
         "rank": 10,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "542",
+        "stars": "549",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "53.7k",
+      "stars": "53.9k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "53.7k",
+        "stars": "53.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "18.5k",
+        "stars": "18.7k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -1125,21 +1125,21 @@
       },
       {
         "rank": 9,
-        "name": "agent-device",
-        "author": "callstackincubator",
-        "stars": "2.3k",
-        "meta": "TypeScript MCP Server",
-        "description": "CLI to control iOS and Android devices for AI agents",
-        "github_url": "https://github.com/callstackincubator/agent-device"
-      },
-      {
-        "rank": 10,
         "name": "web-quality-skills",
         "author": "addyosmani",
         "stars": "1.9k",
         "meta": "Shell Claude Skill",
         "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
         "github_url": "https://github.com/addyosmani/web-quality-skills"
+      },
+      {
+        "rank": 10,
+        "name": "agent-device",
+        "author": "callstackincubator",
+        "stars": "2.3k",
+        "meta": "TypeScript MCP Server",
+        "description": "CLI to control iOS and Android devices for AI agents",
+        "github_url": "https://github.com/callstackincubator/agent-device"
       }
     ]
   },
