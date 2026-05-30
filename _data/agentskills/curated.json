@@ -241,7 +241,7 @@
         "rank": 3,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
-        "stars": "6.0k",
+        "stars": "6.1k",
         "meta": "TypeScript MCP Server",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -304,7 +304,7 @@
         "rank": 10,
         "name": "Awesome-MCP-ZH",
         "author": "yzfly",
-        "stars": "6.7k",
+        "stars": "7.2k",
         "meta": "MCP Server",
         "description": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
         "github_url": "https://github.com/yzfly/Awesome-MCP-ZH"
@@ -440,7 +440,7 @@
         "rank": 2,
         "name": "mcp-knowledge-graph",
         "author": "shaneholloman",
-        "stars": "810",
+        "stars": "863",
         "meta": "JavaScript MCP Server",
         "description": "MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development",
         "github_url": "https://github.com/shaneholloman/mcp-knowledge-graph"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "MemOS",
         "author": "MemTensor",
-        "stars": "9.4k",
+        "stars": "9.5k",
         "meta": "TypeScript MCP Server",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
         "github_url": "https://github.com/MemTensor/MemOS"
@@ -666,7 +666,7 @@
         "rank": 4,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
-        "stars": "13.7k",
+        "stars": "13.8k",
         "meta": "Python MCP Server",
         "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "30.2k",
+        "stars": "30.3k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -734,7 +734,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-google/",
     "quick_pick": {
       "name": "google_workspace_mcp",
-      "stars": "2.4k",
+      "stars": "2.5k",
       "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search",
       "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
     },
@@ -743,7 +743,7 @@
         "rank": 1,
         "name": "google_workspace_mcp",
         "author": "taylorwilsdon",
-        "stars": "2.4k",
+        "stars": "2.5k",
         "meta": "Python MCP Server",
         "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool",
         "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
@@ -824,7 +824,7 @@
         "rank": 10,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "549",
+        "stars": "552",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "code-review-skill",
         "author": "awesome-skills",
-        "stars": "698",
+        "stars": "775",
         "meta": "HTML Claude Skill",
         "description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
         "github_url": "https://github.com/awesome-skills/code-review-skill"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "863",
+        "stars": "867",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -901,7 +901,7 @@
         "rank": 7,
         "name": "open-code-review NEW",
         "author": "alibaba",
-        "stars": "299",
+        "stars": "372",
         "meta": "Go Agent Tool",
         "description": "Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "54.8k",
+      "stars": "55.3k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "54.8k",
+        "stars": "55.3k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "19.2k",
+        "stars": "19.6k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "15.9k",
+        "stars": "16.0k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "9router",
         "author": "decolua",
-        "stars": "14.5k",
+        "stars": "15.0k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -1012,6 +1012,15 @@
       },
       {
         "rank": 8,
+        "name": "html-anything",
+        "author": "nexu-io",
+        "stars": "5.3k",
+        "meta": "HTML Claude Skill",
+        "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+        "github_url": "https://github.com/nexu-io/html-anything"
+      },
+      {
+        "rank": 9,
         "name": "OmniRoute",
         "author": "diegosouzapw",
         "stars": "5.5k",
@@ -1020,22 +1029,13 @@
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "agent-skills",
         "author": "tech-leads-club",
         "stars": "4.4k",
         "meta": "TypeScript Agent Tool",
         "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
         "github_url": "https://github.com/tech-leads-club/agent-skills"
-      },
-      {
-        "rank": 10,
-        "name": "html-anything",
-        "author": "nexu-io",
-        "stars": "4.5k",
-        "meta": "HTML Claude Skill",
-        "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-        "github_url": "https://github.com/nexu-io/html-anything"
       }
     ]
   },
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "130",
+        "stars": "132",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1186,7 +1186,7 @@
         "rank": 4,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "369",
+        "stars": "371",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"

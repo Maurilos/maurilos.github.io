@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-for-google/
 # Best AI Agent Skills for MCP Tools for Google Services in 2026
 
 ## Quick Pick
-<a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> · ★ 2.4k · Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search
+<a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> · ★ 2.5k · Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search
 
 ## 工具列表
 
-- <a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> by taylorwilsdon · ★ 2.4k · Python MCP Server
+- <a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> by taylorwilsdon · ★ 2.5k · Python MCP Server
   - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
 - <a href="https://github.com/sanjay3290/ai-skills" target="_blank" rel="noopener"><strong>ai-skills</strong></a> by sanjay3290 · ★ 209 · Python MCP Server
   - Collection of agent skills for AI coding assistants
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.
 - <a href="https://github.com/capitalparser/notebooklm-wiki-pipeline" target="_blank" rel="noopener"><strong>notebooklm-wiki-pipeline</strong></a> by capitalparser · ★ 64 · Python MCP Server
   - Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context
-- <a href="https://github.com/a-bonus/google-docs-mcp" target="_blank" rel="noopener"><strong>google-docs-mcp</strong></a> by a-bonus · ★ 549 · TypeScript MCP Server
+- <a href="https://github.com/a-bonus/google-docs-mcp" target="_blank" rel="noopener"><strong>google-docs-mcp</strong></a> by a-bonus · ★ 552 · TypeScript MCP Server
   - The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.

@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - Blazing-fast, asynchronous MCP server for seamless filesystem operations.
 - <a href="https://github.com/efforthye/fast-filesystem-mcp" target="_blank" rel="noopener"><strong>fast-filesystem-mcp</strong></a> by efforthye · ★ 54 · TypeScript MCP Server
   - A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.
-- <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 6.0k · TypeScript MCP Server
+- <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 6.1k · TypeScript MCP Server
   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - <a href="https://github.com/AnalyseDeCircuit/oxideterm" target="_blank" rel="noopener"><strong>oxideterm</strong></a> by AnalyseDeCircuit · ★ 629 · Rust MCP Server
   - All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - 🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio. 文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用
 - <a href="https://github.com/steipete/conduit-mcp" target="_blank" rel="noopener"><strong>conduit-mcp</strong></a> by steipete · ★ 65 · TypeScript MCP Server
   - MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.
-- <a href="https://github.com/yzfly/Awesome-MCP-ZH" target="_blank" rel="noopener"><strong>Awesome-MCP-ZH</strong></a> by yzfly · ★ 6.7k · MCP Server
+- <a href="https://github.com/yzfly/Awesome-MCP-ZH" target="_blank" rel="noopener"><strong>Awesome-MCP-ZH</strong></a> by yzfly · ★ 7.2k · MCP Server
   - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
