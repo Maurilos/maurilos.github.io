@@ -13,11 +13,11 @@ permalink: /agent-skills/scenario/debugging/
 
 - <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 2.0k · TypeScript MCP Server
   - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
-- <a href="https://github.com/drhelius/Gearboy" target="_blank" rel="noopener"><strong>Gearboy</strong></a> by drhelius · ★ 1.1k · C++ MCP Server
+- <a href="https://github.com/drhelius/Gearboy" target="_blank" rel="noopener"><strong>Gearboy</strong></a> by drhelius · ★ 1.2k · C++ MCP Server
   - Game Boy / Game Boy Color / Super Game Boy emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - <a href="https://github.com/miscusi-peek/cheatengine-mcp-bridge" target="_blank" rel="noopener"><strong>cheatengine-mcp-bridge</strong></a> by miscusi-peek · ★ 760 · Lua MCP Server
   - Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.
-- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 371 · C++ MCP Server
+- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 370 · C++ MCP Server
   - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 358 · TypeScript MCP Server
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
