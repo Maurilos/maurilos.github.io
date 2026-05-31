@@ -189,21 +189,21 @@
       },
       {
         "rank": 9,
+        "name": "native-devtools-mcp",
+        "author": "sh3ll3x3c",
+        "stars": "106",
+        "meta": "Rust MCP Server",
+        "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
+        "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
+      },
+      {
+        "rank": 10,
         "name": "browser-use-mcp-server",
         "author": "kontext-dev",
         "stars": "811",
         "meta": "Python MCP Server",
         "description": "Browse the web, directly from Cursor etc.",
         "github_url": "https://github.com/kontext-dev/browser-use-mcp-server"
-      },
-      {
-        "rank": 10,
-        "name": "native-devtools-mcp",
-        "author": "sh3ll3x3c",
-        "stars": "77",
-        "meta": "Rust MCP Server",
-        "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
-        "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
       }
     ]
   },
@@ -804,6 +804,15 @@
       },
       {
         "rank": 8,
+        "name": "ggsrun",
+        "author": "tanaikech",
+        "stars": "163",
+        "meta": "Go MCP Server",
+        "description": "A high-performance concurrent Google Drive CLI and native Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) dynamically, recursive upload/download, and manage Drive infrastructure.",
+        "github_url": "https://github.com/tanaikech/ggsrun"
+      },
+      {
+        "rank": 9,
         "name": "OpenDocuments",
         "author": "joungminsung",
         "stars": "72",
@@ -812,22 +821,13 @@
         "github_url": "https://github.com/joungminsung/OpenDocuments"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "notebooklm-wiki-pipeline",
         "author": "capitalparser",
         "stars": "64",
         "meta": "Python MCP Server",
         "description": "Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context",
         "github_url": "https://github.com/capitalparser/notebooklm-wiki-pipeline"
-      },
-      {
-        "rank": 10,
-        "name": "google-docs-mcp",
-        "author": "a-bonus",
-        "stars": "552",
-        "meta": "TypeScript MCP Server",
-        "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
-        "github_url": "https://github.com/a-bonus/google-docs-mcp"
       }
     ]
   },
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "55.9k",
+      "stars": "56.1k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "55.9k",
+        "stars": "56.1k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "16.0k",
+        "stars": "16.1k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "9router",
         "author": "decolua",
-        "stars": "15.0k",
+        "stars": "15.3k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "agent-device",
         "author": "callstackincubator",
-        "stars": "2.3k",
+        "stars": "2.4k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstackincubator/agent-device"
