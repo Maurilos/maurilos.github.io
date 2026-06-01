@@ -19,13 +19,13 @@ permalink: /agent-skills/scenario/code-review/
   - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
 - <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 867 · Rust Agent Tool
   - a code review TUI with vim keybindings
-- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review NEW</strong></a> by alibaba · ★ 460 · Go Agent Tool
+- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review NEW</strong></a> by alibaba · ★ 570 · Go Agent Tool
   - Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - <a href="https://github.com/Nikita-Filonov/ai-review" target="_blank" rel="noopener"><strong>ai-review</strong></a> by Nikita-Filonov · ★ 430 · Python Agent Tool
   - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
 - <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 388 · JavaScript Codex Skill
   - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
-- <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 294 · Python Claude Skill
+- <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 296 · Python Claude Skill
   - 23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.
 - <a href="https://github.com/josstei/maestro-gemini" target="_blank" rel="noopener"><strong>maestro-gemini</strong></a> by josstei · ★ 259 · JavaScript Agent Tool
   - Multi-agent orchestration extension for Gemini CLI — 22 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
