@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "42.3k",
+        "stars": "42.5k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -155,7 +155,7 @@
         "rank": 5,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "144",
+        "stars": "145",
         "meta": "TypeScript MCP Server",
         "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "code-review-skill",
         "author": "awesome-skills",
-        "stars": "798",
+        "stars": "841",
         "meta": "HTML Claude Skill",
         "description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
         "github_url": "https://github.com/awesome-skills/code-review-skill"
@@ -881,9 +881,9 @@
       },
       {
         "rank": 5,
-        "name": "open-code-review NEW",
+        "name": "open-code-review",
         "author": "alibaba",
-        "stars": "570",
+        "stars": "721",
         "meta": "Go Agent Tool",
         "description": "Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "56.3k",
+      "stars": "56.7k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "56.3k",
+        "stars": "56.7k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "7.0k",
+        "stars": "7.1k",
         "meta": "TypeScript Codex Skill",
         "description": "Coding agents from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"

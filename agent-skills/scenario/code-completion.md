@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/code-completion/
 # Best AI Agent Skills for Code Completion & Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> · ★ 56.3k · 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡
+<a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> · ★ 56.7k · 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡
 
 ## 工具列表
 
-- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> by nexu-io · ★ 56.3k · TypeScript Codex Skill
+- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> by nexu-io · ★ 56.7k · TypeScript Codex Skill
   - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/code-completion/
   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 - <a href="https://github.com/decolua/9router" target="_blank" rel="noopener"><strong>9router</strong></a> by decolua · ★ 15.3k · JavaScript Codex Skill
   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-- <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 7.0k · TypeScript Codex Skill
+- <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 7.1k · TypeScript Codex Skill
   - Coding agents from your phone, desktop and CLI
 - <a href="https://github.com/olimorris/codecompanion.nvim" target="_blank" rel="noopener"><strong>codecompanion.nvim</strong></a> by olimorris · ★ 6.6k · Lua Agent Tool
   - ✨ AI Coding, Vim Style
