@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/debugging/
   - Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.
 - <a href="https://github.com/traceloop/opentelemetry-mcp-server" target="_blank" rel="noopener"><strong>opentelemetry-mcp-server</strong></a> by traceloop · ★ 184 · Python MCP Server
   - Unified MCP server for querying OpenTelemetry traces across multiple backends (Jaeger, Tempo, Traceloop, etc.), enabling AI agents to analyze distributed traces for automated debugging and observability.
-- <a href="https://github.com/ricardoquesada/regenerator2000" target="_blank" rel="noopener"><strong>regenerator2000</strong></a> by ricardoquesada · ★ 158 · Rust MCP Server
+- <a href="https://github.com/ricardoquesada/regenerator2000" target="_blank" rel="noopener"><strong>regenerator2000</strong></a> by ricardoquesada · ★ 159 · Rust MCP Server
   - An interactive disassembler for the CPU 6502, focused on Commodore 8-bit computers. Features a TUI with modern features like x-ref, undo/redo, flow arrows, keyboard-driven, MCP server for auto analysis, VICE debugger and more!
 - <a href="https://github.com/SetsunaYukiOvO/x64dbg-mcp" target="_blank" rel="noopener"><strong>x64dbg-mcp</strong></a> by SetsunaYukiOvO · ★ 147 · C++ MCP Server
   - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE;Develop with cursor/windsurf

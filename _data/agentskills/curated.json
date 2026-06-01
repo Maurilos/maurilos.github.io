@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "mengram",
         "author": "alibaizhanov",
-        "stars": "169",
+        "stars": "172",
         "meta": "Python MCP Server",
         "description": "Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.",
         "github_url": "https://github.com/alibaizhanov/mengram"
@@ -788,7 +788,7 @@
         "rank": 6,
         "name": "seerai",
         "author": "dralkh",
-        "stars": "52",
+        "stars": "55",
         "meta": "TypeScript MCP Server",
         "description": "Zotero AI plugin, research framework, assistant, workspaces, cloud, google drive, with MCP, agent capabilities, OCR, table extraction, semantic scholar, and firecrawl/tavily web search",
         "github_url": "https://github.com/dralkh/seerai"
@@ -863,6 +863,15 @@
       },
       {
         "rank": 3,
+        "name": "open-code-review",
+        "author": "alibaba",
+        "stars": "823",
+        "meta": "Go Agent Tool",
+        "description": "Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "github_url": "https://github.com/alibaba/open-code-review"
+      },
+      {
+        "rank": 4,
         "name": "Claude-Command-Suite",
         "author": "qdhenry",
         "stars": "978",
@@ -871,22 +880,13 @@
         "github_url": "https://github.com/qdhenry/Claude-Command-Suite"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "tuicr",
         "author": "agavra",
         "stars": "867",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
-      },
-      {
-        "rank": 5,
-        "name": "open-code-review",
-        "author": "alibaba",
-        "stars": "721",
-        "meta": "Go Agent Tool",
-        "description": "Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "github_url": "https://github.com/alibaba/open-code-review"
       },
       {
         "rank": 6,
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "56.7k",
+      "stars": "56.9k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "56.7k",
+        "stars": "56.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "16.1k",
+        "stars": "16.2k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "132",
+        "stars": "133",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1231,7 +1231,7 @@
         "rank": 9,
         "name": "regenerator2000",
         "author": "ricardoquesada",
-        "stars": "158",
+        "stars": "159",
         "meta": "Rust MCP Server",
         "description": "An interactive disassembler for the CPU 6502, focused on Commodore 8-bit computers. Features a TUI with modern features like x-ref, undo/redo, flow arrows, keyboard-driven, MCP server for auto analysis, VICE debugger and more!",
         "github_url": "https://github.com/ricardoquesada/regenerator2000"
