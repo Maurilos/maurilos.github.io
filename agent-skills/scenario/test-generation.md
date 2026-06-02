@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/test-generation/
 # Best AI Agent Skills for Test Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> · ★ 173 · Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
+<a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> · ★ 180 · Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
 
 ## 工具列表
 
-- <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 173 · Rust Codex Skill
+- <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 180 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
 - <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 133 · Agent Tool
   - Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.

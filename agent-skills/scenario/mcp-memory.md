@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Your AI has amnesia. Persistent memory and cognitive context for AI. 25 MCP tools. 12ms recall.
 - <a href="https://github.com/alibaizhanov/mengram" target="_blank" rel="noopener"><strong>mengram</strong></a> by alibaizhanov · ★ 172 · Python MCP Server
   - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
-- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 473 · TypeScript MCP Server
+- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 513 · TypeScript MCP Server
   - The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.
 - <a href="https://github.com/Filippo-Venturini/ctxvault" target="_blank" rel="noopener"><strong>ctxvault</strong></a> by Filippo-Venturini · ★ 52 · Python MCP Server
   - Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.
