@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "42.5k",
+        "stars": "42.6k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "30.3k",
+        "stars": "30.4k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -854,21 +854,21 @@
       },
       {
         "rank": 2,
+        "name": "open-code-review",
+        "author": "alibaba",
+        "stars": "963",
+        "meta": "Go Agent Tool",
+        "description": "Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "github_url": "https://github.com/alibaba/open-code-review"
+      },
+      {
+        "rank": 3,
         "name": "code-review-skill",
         "author": "awesome-skills",
         "stars": "841",
         "meta": "HTML Claude Skill",
         "description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
         "github_url": "https://github.com/awesome-skills/code-review-skill"
-      },
-      {
-        "rank": 3,
-        "name": "open-code-review",
-        "author": "alibaba",
-        "stars": "823",
-        "meta": "Go Agent Tool",
-        "description": "Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "github_url": "https://github.com/alibaba/open-code-review"
       },
       {
         "rank": 4,
@@ -908,6 +908,15 @@
       },
       {
         "rank": 8,
+        "name": "Gito",
+        "author": "Nayjest",
+        "stars": "364",
+        "meta": "Python Agent Tool",
+        "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
+        "github_url": "https://github.com/Nayjest/Gito"
+      },
+      {
+        "rank": 9,
         "name": "claude-night-market",
         "author": "athola",
         "stars": "296",
@@ -916,22 +925,13 @@
         "github_url": "https://github.com/athola/claude-night-market"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "maestro-gemini",
         "author": "josstei",
         "stars": "259",
         "meta": "JavaScript Agent Tool",
         "description": "Multi-agent orchestration extension for Gemini CLI — 22 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
         "github_url": "https://github.com/josstei/maestro-gemini"
-      },
-      {
-        "rank": 10,
-        "name": "Gito",
-        "author": "Nayjest",
-        "stars": "233",
-        "meta": "Python Agent Tool",
-        "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
-        "github_url": "https://github.com/Nayjest/Gito"
       }
     ]
   },
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "56.9k",
+      "stars": "57.3k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "56.9k",
+        "stars": "57.3k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "20.5k",
+        "stars": "20.6k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -1003,21 +1003,21 @@
       },
       {
         "rank": 7,
+        "name": "html-anything",
+        "author": "nexu-io",
+        "stars": "5.8k",
+        "meta": "HTML Claude Skill",
+        "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+        "github_url": "https://github.com/nexu-io/html-anything"
+      },
+      {
+        "rank": 8,
         "name": "codecompanion.nvim",
         "author": "olimorris",
         "stars": "6.6k",
         "meta": "Lua Agent Tool",
         "description": "✨ AI Coding, Vim Style",
         "github_url": "https://github.com/olimorris/codecompanion.nvim"
-      },
-      {
-        "rank": 8,
-        "name": "html-anything",
-        "author": "nexu-io",
-        "stars": "5.3k",
-        "meta": "HTML Claude Skill",
-        "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-        "github_url": "https://github.com/nexu-io/html-anything"
       },
       {
         "rank": 9,
