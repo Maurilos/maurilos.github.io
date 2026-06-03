@@ -629,29 +629,29 @@
     "slug": "mcp-for-github",
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
-      "name": "octocode",
-      "stars": "845",
+      "name": "octocode-mcp",
+      "stars": "838",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
-      "github_url": "https://github.com/bgauryy/octocode"
+      "github_url": "https://github.com/bgauryy/octocode-mcp"
     },
     "tools": [
       {
         "rank": 1,
-        "name": "octocode",
-        "author": "bgauryy",
-        "stars": "845",
-        "meta": "TypeScript MCP Server",
-        "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
-        "github_url": "https://github.com/bgauryy/octocode"
-      },
-      {
-        "rank": 2,
         "name": "octocode-mcp",
         "author": "bgauryy",
         "stars": "838",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode-mcp"
+      },
+      {
+        "rank": 2,
+        "name": "octocode",
+        "author": "bgauryy",
+        "stars": "854",
+        "meta": "TypeScript MCP Server",
+        "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
+        "github_url": "https://github.com/bgauryy/octocode"
       },
       {
         "rank": 3,
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "877",
+        "stars": "878",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "57.9k",
+      "stars": "58.1k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "57.9k",
+        "stars": "58.1k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "7.5k",
+        "stars": "7.6k",
         "meta": "TypeScript Codex Skill",
         "description": "Coding agents from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "facts",
-      "stars": "180",
+      "stars": "181",
       "tagline": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
       "github_url": "https://github.com/av/facts"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "facts",
         "author": "av",
-        "stars": "180",
+        "stars": "181",
         "meta": "Rust Codex Skill",
         "description": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
         "github_url": "https://github.com/av/facts"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "133",
+        "stars": "138",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1116,6 +1116,15 @@
       },
       {
         "rank": 8,
+        "name": "agent-device",
+        "author": "callstack",
+        "stars": "2.4k",
+        "meta": "TypeScript MCP Server",
+        "description": "CLI to control iOS and Android devices for AI agents",
+        "github_url": "https://github.com/callstack/agent-device"
+      },
+      {
+        "rank": 9,
         "name": "prompttools",
         "author": "hegelai",
         "stars": "3.0k",
@@ -1124,22 +1133,13 @@
         "github_url": "https://github.com/hegelai/prompttools"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "terraform-skill",
         "author": "antonbabenko",
-        "stars": "1.9k",
+        "stars": "2.0k",
         "meta": "Claude Skill",
         "description": "Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns",
         "github_url": "https://github.com/antonbabenko/terraform-skill"
-      },
-      {
-        "rank": 10,
-        "name": "agent-device",
-        "author": "callstackincubator",
-        "stars": "2.4k",
-        "meta": "TypeScript MCP Server",
-        "description": "CLI to control iOS and Android devices for AI agents",
-        "github_url": "https://github.com/callstackincubator/agent-device"
       }
     ]
   },

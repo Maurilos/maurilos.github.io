@@ -7,13 +7,13 @@ permalink: /agent-skills/scenario/test-generation/
 # Best AI Agent Skills for Test Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> · ★ 180 · Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
+<a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> · ★ 181 · Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
 
 ## 工具列表
 
-- <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 180 · Rust Codex Skill
+- <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 181 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
-- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 133 · Agent Tool
+- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 138 · Agent Tool
   - Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.
 - <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 111 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
@@ -25,9 +25,9 @@ permalink: /agent-skills/scenario/test-generation/
   - QA via natural language AI tests
 - <a href="https://github.com/httprunner/httprunner" target="_blank" rel="noopener"><strong>httprunner</strong></a> by httprunner · ★ 4.3k · Go MCP Server
   - HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+- <a href="https://github.com/callstack/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstack · ★ 2.4k · TypeScript MCP Server
+  - CLI to control iOS and Android devices for AI agents
 - <a href="https://github.com/hegelai/prompttools" target="_blank" rel="noopener"><strong>prompttools</strong></a> by hegelai · ★ 3.0k · Python Agent Tool
   - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
-- <a href="https://github.com/antonbabenko/terraform-skill" target="_blank" rel="noopener"><strong>terraform-skill</strong></a> by antonbabenko · ★ 1.9k · Claude Skill
+- <a href="https://github.com/antonbabenko/terraform-skill" target="_blank" rel="noopener"><strong>terraform-skill</strong></a> by antonbabenko · ★ 2.0k · Claude Skill
   - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
-- <a href="https://github.com/callstackincubator/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstackincubator · ★ 2.4k · TypeScript MCP Server
-  - CLI to control iOS and Android devices for AI agents
