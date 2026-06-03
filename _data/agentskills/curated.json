@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "mcp-toolbox",
-      "stars": "15.4k",
+      "stars": "15.5k",
       "tagline": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "github_url": "https://github.com/googleapis/mcp-toolbox"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "mcp-toolbox",
         "author": "googleapis",
-        "stars": "15.4k",
+        "stars": "15.5k",
         "meta": "Go MCP Server",
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "github_url": "https://github.com/googleapis/mcp-toolbox"
@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "Clauge",
         "author": "ansxuman",
-        "stars": "596",
+        "stars": "712",
         "meta": "Svelte Codex Skill",
         "description": "One window. Every dev tool.",
         "github_url": "https://github.com/ansxuman/Clauge"
@@ -171,6 +171,15 @@
       },
       {
         "rank": 7,
+        "name": "obscura",
+        "author": "h4ckf0r0day",
+        "stars": "14.1k",
+        "meta": "Rust Agent Tool",
+        "description": "The headless browser for AI agents and web scraping",
+        "github_url": "https://github.com/h4ckf0r0day/obscura"
+      },
+      {
+        "rank": 8,
         "name": "glance",
         "author": "DebugBase",
         "stars": "142",
@@ -179,7 +188,7 @@
         "github_url": "https://github.com/DebugBase/glance"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "browser-debugger-cli",
         "author": "szymdzum",
         "stars": "124",
@@ -188,22 +197,13 @@
         "github_url": "https://github.com/szymdzum/browser-debugger-cli"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "native-devtools-mcp",
         "author": "sh3ll3x3c",
         "stars": "107",
         "meta": "Rust MCP Server",
         "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
         "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
-      },
-      {
-        "rank": 10,
-        "name": "browser-use-mcp-server",
-        "author": "kontext-dev",
-        "stars": "811",
-        "meta": "Python MCP Server",
-        "description": "Browse the web, directly from Cursor etc.",
-        "github_url": "https://github.com/kontext-dev/browser-use-mcp-server"
       }
     ]
   },
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "876",
+        "stars": "877",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -919,7 +919,7 @@
         "rank": 9,
         "name": "claude-night-market",
         "author": "athola",
-        "stars": "296",
+        "stars": "300",
         "meta": "Python Claude Skill",
         "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
         "github_url": "https://github.com/athola/claude-night-market"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "57.5k",
+      "stars": "57.6k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "57.5k",
+        "stars": "57.6k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "20.7k",
+        "stars": "20.8k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
