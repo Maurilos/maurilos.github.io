@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/code-review/
 
 - <a href="https://github.com/mattzcarey/shippie" target="_blank" rel="noopener"><strong>shippie</strong></a> by mattzcarey · ★ 2.3k · TypeScript MCP Server
   - extendable code review and QA agent 🚢
-- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 1.0k · Go Agent Tool
+- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 1.1k · Go Agent Tool
   - Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - <a href="https://github.com/awesome-skills/code-review-skill" target="_blank" rel="noopener"><strong>code-review-skill</strong></a> by awesome-skills · ★ 841 · HTML Claude Skill
   - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
