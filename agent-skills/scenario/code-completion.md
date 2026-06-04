@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/code-completion/
   - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
-- <a href="https://github.com/rohitg00/agentmemory" target="_blank" rel="noopener"><strong>agentmemory</strong></a> by rohitg00 · ★ 20.9k · TypeScript Codex Skill
+- <a href="https://github.com/rohitg00/agentmemory" target="_blank" rel="noopener"><strong>agentmemory</strong></a> by rohitg00 · ★ 21.0k · TypeScript Codex Skill
   - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 16.3k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms

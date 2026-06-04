@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "Clauge",
         "author": "ansxuman",
-        "stars": "715",
+        "stars": "718",
         "meta": "Svelte Codex Skill",
         "description": "One window. Every dev tool.",
         "github_url": "https://github.com/ansxuman/Clauge"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "20.9k",
+        "stars": "21.0k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "eval-view",
         "author": "hidai25",
-        "stars": "111",
+        "stars": "112",
         "meta": "Python MCP Server",
         "description": "Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.",
         "github_url": "https://github.com/hidai25/eval-view"
