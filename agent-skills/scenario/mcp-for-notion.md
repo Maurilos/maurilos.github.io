@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - Official Notion MCP Server
 - <a href="https://github.com/alibaba/page-agent" target="_blank" rel="noopener"><strong>page-agent</strong></a> by alibaba · ★ 18.4k · TypeScript MCP Server
   - JavaScript in-page GUI agent. Control web interfaces with natural language.
-- <a href="https://github.com/casdoor/casdoor" target="_blank" rel="noopener"><strong>casdoor</strong></a> by casdoor · ★ 13.7k · Go MCP Server
+- <a href="https://github.com/casdoor/casdoor" target="_blank" rel="noopener"><strong>casdoor</strong></a> by casdoor · ★ 13.8k · Go MCP Server
   - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD

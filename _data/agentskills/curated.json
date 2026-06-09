@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "Clauge",
         "author": "ansxuman",
-        "stars": "729",
+        "stars": "730",
         "meta": "Svelte Codex Skill",
         "description": "One window. Every dev tool.",
         "github_url": "https://github.com/ansxuman/Clauge"
@@ -128,22 +128,13 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "43.1k",
+        "stars": "43.2k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
       },
       {
         "rank": 3,
-        "name": "civyk-winwright",
-        "author": "civyk-official",
-        "stars": "50",
-        "meta": "PowerShell MCP Server",
-        "description": "Playwright-style MCP server for Windows desktop, system, and browser automation. 59 tools for WPF, WinForms, Win32, Chrome/Edge via Model Context Protocol.",
-        "github_url": "https://github.com/civyk-official/civyk-winwright"
-      },
-      {
-        "rank": 4,
         "name": "bluebox",
         "author": "VectorlyApp",
         "stars": "191",
@@ -152,7 +143,7 @@
         "github_url": "https://github.com/VectorlyApp/bluebox"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
         "stars": "145",
@@ -161,7 +152,7 @@
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "open-browser-use",
         "author": "iFurySt",
         "stars": "104",
@@ -170,7 +161,7 @@
         "github_url": "https://github.com/iFurySt/open-browser-use"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "coral",
         "author": "noelschwarz",
         "stars": "59",
@@ -179,16 +170,16 @@
         "github_url": "https://github.com/noelschwarz/coral"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "14.6k",
+        "stars": "14.8k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "glance",
         "author": "DebugBase",
         "stars": "142",
@@ -197,13 +188,22 @@
         "github_url": "https://github.com/DebugBase/glance"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "browser-debugger-cli",
         "author": "szymdzum",
         "stars": "124",
         "meta": "TypeScript MCP Server",
         "description": "CLI tool for agents to quickly access browser telemetry (DOM, network, console) via Chrome DevTools Protocol.",
         "github_url": "https://github.com/szymdzum/browser-debugger-cli"
+      },
+      {
+        "rank": 10,
+        "name": "native-devtools-mcp",
+        "author": "sh3ll3x3c",
+        "stars": "107",
+        "meta": "Rust MCP Server",
+        "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
+        "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
       }
     ]
   },
@@ -318,7 +318,7 @@
     "local_url": "/agent-skills/scenario/mcp-api/",
     "quick_pick": {
       "name": "reshapr",
-      "stars": "103",
+      "stars": "104",
       "tagline": "The open source, no-code MCP Server for AI-Native API Access",
       "github_url": "https://github.com/reshaprio/reshapr"
     },
@@ -327,7 +327,7 @@
         "rank": 1,
         "name": "reshapr",
         "author": "reshaprio",
-        "stars": "103",
+        "stars": "104",
         "meta": "Java MCP Server",
         "description": "The open source, no-code MCP Server for AI-Native API Access",
         "github_url": "https://github.com/reshaprio/reshapr"
@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "omega-memory",
         "author": "omega-memory",
-        "stars": "147",
+        "stars": "156",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "casdoor",
         "author": "casdoor",
-        "stars": "13.7k",
+        "stars": "13.8k",
         "meta": "Go MCP Server",
         "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
         "github_url": "https://github.com/casdoor/casdoor"
@@ -838,7 +838,7 @@
     "local_url": "/agent-skills/scenario/code-review/",
     "quick_pick": {
       "name": "open-code-review",
-      "stars": "5.4k",
+      "stars": "5.7k",
       "tagline": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code",
       "github_url": "https://github.com/alibaba/open-code-review"
     },
@@ -847,7 +847,7 @@
         "rank": 1,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "5.4k",
+        "stars": "5.7k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "61.7k",
+      "stars": "62.3k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "61.7k",
+        "stars": "62.3k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "21.9k",
+        "stars": "22.1k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "16.7k",
+        "stars": "16.8k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "138",
+        "stars": "151",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
