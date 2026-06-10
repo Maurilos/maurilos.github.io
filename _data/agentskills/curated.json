@@ -295,7 +295,7 @@
         "rank": 9,
         "name": "conduit-mcp",
         "author": "steipete",
-        "stars": "66",
+        "stars": "67",
         "meta": "TypeScript MCP Server",
         "description": "MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.",
         "github_url": "https://github.com/steipete/conduit-mcp"
@@ -761,7 +761,7 @@
         "rank": 3,
         "name": "modular-context-obsidian-plugin",
         "author": "klemensgc",
-        "stars": "86",
+        "stars": "88",
         "meta": "TypeScript MCP Server",
         "description": "Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first",
         "github_url": "https://github.com/klemensgc/modular-context-obsidian-plugin"
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "894",
+        "stars": "895",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "62.3k",
+      "stars": "62.4k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "62.3k",
+        "stars": "62.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "8.1k",
+        "stars": "8.2k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "151",
+        "stars": "152",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1100,7 +1100,7 @@
         "rank": 6,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "22.0k",
+        "stars": "22.1k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1127,7 +1127,7 @@
         "rank": 9,
         "name": "agent-device",
         "author": "callstack",
-        "stars": "2.6k",
+        "stars": "2.7k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstack/agent-device"
@@ -1168,7 +1168,7 @@
         "rank": 2,
         "name": "Gearboy",
         "author": "drhelius",
-        "stars": "1.1k",
+        "stars": "1.2k",
         "meta": "C++ MCP Server",
         "description": "Game Boy / Game Boy Color / Super Game Boy emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearboy"
@@ -1204,7 +1204,7 @@
         "rank": 6,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "370",
+        "stars": "371",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"
