@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/test-generation/
 
 - <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 181 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
-- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 182 · Python MCP Server
+- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 183 · Python MCP Server
   - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
 - <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 152 · Agent Tool
   - Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.
