@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/code-review/
   - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - <a href="https://github.com/qdhenry/Claude-Command-Suite" target="_blank" rel="noopener"><strong>Claude-Command-Suite</strong></a> by qdhenry · ★ 978 · Shell Claude Skill
   - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
-- <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 895 · Rust Agent Tool
+- <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 898 · Rust Agent Tool
   - a code review TUI with vim keybindings
 - <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 432 · JavaScript Codex Skill
   - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools

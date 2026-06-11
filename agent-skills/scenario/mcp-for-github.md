@@ -21,6 +21,8 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 418 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
+- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering NEW</strong></a> by cobusgreyling · ★ 88 · JavaScript MCP Server
+  - Practical reference and patterns for loop engineering, designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)
 - <a href="https://github.com/garagon/aguara" target="_blank" rel="noopener"><strong>aguara</strong></a> by garagon · ★ 81 · Go MCP Server
   - Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.
 - <a href="https://github.com/github/github-mcp-server" target="_blank" rel="noopener"><strong>github-mcp-server</strong></a> by github · ★ 30.6k · Go MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - extendable code review and QA agent 🚢
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- <a href="https://github.com/mnemox-ai/idea-reality-mcp" target="_blank" rel="noopener"><strong>idea-reality-mcp</strong></a> by mnemox-ai · ★ 600 · Python MCP Server
-  - Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI, Product Hunt. MCP server. 290+ stars.
