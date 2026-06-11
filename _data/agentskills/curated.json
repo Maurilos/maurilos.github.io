@@ -31,21 +31,21 @@
       },
       {
         "rank": 3,
+        "name": "tabularis",
+        "author": "TabularisDB",
+        "stars": "2.4k",
+        "meta": "TypeScript MCP Server",
+        "description": "Open-source database client for PostgreSQL, MySQL/MariaDB and SQLite with SQL notebooks, visual EXPLAIN, AI and MCP built in. Hackable with plugins.",
+        "github_url": "https://github.com/TabularisDB/tabularis"
+      },
+      {
+        "rank": 4,
         "name": "hyperterse",
         "author": "hyperterse",
         "stars": "80",
         "meta": "Go MCP Server",
         "description": "The agentic server framework.",
         "github_url": "https://github.com/hyperterse/hyperterse"
-      },
-      {
-        "rank": 4,
-        "name": "tabularis",
-        "author": "TabularisDB",
-        "stars": "2.4k",
-        "meta": "TypeScript MCP Server",
-        "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-        "github_url": "https://github.com/TabularisDB/tabularis"
       },
       {
         "rank": 5,
@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "Clauge",
         "author": "ansxuman",
-        "stars": "730",
+        "stars": "733",
         "meta": "Svelte Codex Skill",
         "description": "One window. Every dev tool.",
         "github_url": "https://github.com/ansxuman/Clauge"
@@ -135,6 +135,15 @@
       },
       {
         "rank": 3,
+        "name": "docker-stealthy-auto-browse",
+        "author": "psyb0t",
+        "stars": "52",
+        "meta": "Shell MCP Server",
+        "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
+        "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
+      },
+      {
+        "rank": 4,
         "name": "bluebox",
         "author": "VectorlyApp",
         "stars": "191",
@@ -143,7 +152,7 @@
         "github_url": "https://github.com/VectorlyApp/bluebox"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
         "stars": "146",
@@ -152,7 +161,7 @@
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "open-browser-use",
         "author": "iFurySt",
         "stars": "104",
@@ -161,7 +170,7 @@
         "github_url": "https://github.com/iFurySt/open-browser-use"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "coral",
         "author": "noelschwarz",
         "stars": "59",
@@ -170,16 +179,16 @@
         "github_url": "https://github.com/noelschwarz/coral"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "15.2k",
+        "stars": "15.4k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "glance",
         "author": "DebugBase",
         "stars": "142",
@@ -188,22 +197,13 @@
         "github_url": "https://github.com/DebugBase/glance"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "browser-debugger-cli",
         "author": "szymdzum",
         "stars": "124",
         "meta": "TypeScript MCP Server",
         "description": "CLI tool for agents to quickly access browser telemetry (DOM, network, console) via Chrome DevTools Protocol.",
         "github_url": "https://github.com/szymdzum/browser-debugger-cli"
-      },
-      {
-        "rank": 10,
-        "name": "native-devtools-mcp",
-        "author": "sh3ll3x3c",
-        "stars": "107",
-        "meta": "Rust MCP Server",
-        "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
-        "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
       }
     ]
   },
@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "omega-memory",
         "author": "omega-memory",
-        "stars": "156",
+        "stars": "158",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "MemOS",
         "author": "MemTensor",
-        "stars": "9.7k",
+        "stars": "9.8k",
         "meta": "TypeScript MCP Server",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
         "github_url": "https://github.com/MemTensor/MemOS"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "YourMemory",
         "author": "sachitrafa",
-        "stars": "244",
+        "stars": "245",
         "meta": "Python MCP Server",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.",
         "github_url": "https://github.com/sachitrafa/YourMemory"
@@ -607,7 +607,7 @@
         "rank": 9,
         "name": "page-agent",
         "author": "alibaba",
-        "stars": "18.4k",
+        "stars": "18.5k",
         "meta": "TypeScript MCP Server",
         "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
         "github_url": "https://github.com/alibaba/page-agent"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "62.8k",
+      "stars": "63.2k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "62.8k",
+        "stars": "63.2k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "22.2k",
+        "stars": "22.3k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "8.2k",
+        "stars": "8.3k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1012,21 +1012,21 @@
       },
       {
         "rank": 8,
-        "name": "codecompanion.nvim",
-        "author": "olimorris",
-        "stars": "6.7k",
-        "meta": "Lua Agent Tool",
-        "description": "✨ AI Coding, Vim Style",
-        "github_url": "https://github.com/olimorris/codecompanion.nvim"
-      },
-      {
-        "rank": 9,
         "name": "OmniRoute",
         "author": "diegosouzapw",
         "stars": "6.0k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      },
+      {
+        "rank": 9,
+        "name": "codecompanion.nvim",
+        "author": "olimorris",
+        "stars": "6.7k",
+        "meta": "Lua Agent Tool",
+        "description": "✨ AI Coding, Vim Style",
+        "github_url": "https://github.com/olimorris/codecompanion.nvim"
       },
       {
         "rank": 10,
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "152",
+        "stars": "153",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
