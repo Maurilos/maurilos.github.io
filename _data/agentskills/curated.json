@@ -182,7 +182,7 @@
         "rank": 8,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "15.4k",
+        "stars": "15.5k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -295,7 +295,7 @@
         "rank": 9,
         "name": "conduit-mcp",
         "author": "steipete",
-        "stars": "67",
+        "stars": "68",
         "meta": "TypeScript MCP Server",
         "description": "MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.",
         "github_url": "https://github.com/steipete/conduit-mcp"
@@ -666,7 +666,7 @@
         "rank": 4,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
-        "stars": "14.0k",
+        "stars": "14.1k",
         "meta": "Python MCP Server",
         "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
@@ -684,7 +684,7 @@
         "rank": 6,
         "name": "loop-engineering NEW",
         "author": "cobusgreyling",
-        "stars": "88",
+        "stars": "92",
         "meta": "JavaScript MCP Server",
         "description": "Practical reference and patterns for loop engineering, designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "63.4k",
+      "stars": "63.5k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "63.4k",
+        "stars": "63.5k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "17.1k",
+        "stars": "17.2k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1030,12 +1030,12 @@
       },
       {
         "rank": 10,
-        "name": "superpowers-zh",
-        "author": "jnMetaCode",
-        "stars": "4.5k",
-        "meta": "Shell MCP Server",
-        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
-        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
+        "name": "agent-skills",
+        "author": "tech-leads-club",
+        "stars": "4.6k",
+        "meta": "TypeScript Agent Tool",
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "github_url": "https://github.com/tech-leads-club/agent-skills"
       }
     ]
   },
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "154",
+        "stars": "155",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
