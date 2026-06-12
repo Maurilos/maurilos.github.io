@@ -25,7 +25,7 @@ permalink: /agent-skills/scenario/mcp-database/
   - phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- <a href="https://github.com/ansxuman/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ansxuman · ★ 733 · Svelte Codex Skill
+- <a href="https://github.com/ansxuman/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ansxuman · ★ 735 · Svelte Codex Skill
   - One window. Every dev tool.
 - <a href="https://github.com/mindsdb/mindsdb" target="_blank" rel="noopener"><strong>mindsdb</strong></a> by mindsdb · ★ 39.1k · Python MCP Server
   - AI Data Vault - A query engine for AI Agents to securely query data from any datasource

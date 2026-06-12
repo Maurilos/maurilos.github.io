@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 418 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
-- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering NEW</strong></a> by cobusgreyling · ★ 92 · JavaScript MCP Server
+- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering NEW</strong></a> by cobusgreyling · ★ 107 · JavaScript MCP Server
   - Practical reference and patterns for loop engineering, designing systems that prompt and orchestrate AI coding agents (inspired by Addy Osmani and Boris Cherny / Anthropic)
 - <a href="https://github.com/garagon/aguara" target="_blank" rel="noopener"><strong>aguara</strong></a> by garagon · ★ 81 · Go MCP Server
   - Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.
