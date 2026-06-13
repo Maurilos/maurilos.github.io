@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
 - <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 160 · Python MCP Server
   - Persistent memory for AI coding agents
-- <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 106 · Python MCP Server
+- <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 107 · Python MCP Server
   - Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 - <a href="https://github.com/MemTensor/MemOS" target="_blank" rel="noopener"><strong>MemOS</strong></a> by MemTensor · ★ 9.8k · TypeScript MCP Server
   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
 - <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 541 · TypeScript MCP Server
   - The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.
-- <a href="https://github.com/Filippo-Venturini/ctxvault" target="_blank" rel="noopener"><strong>ctxvault</strong></a> by Filippo-Venturini · ★ 52 · Python MCP Server
-  - Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.
+- <a href="https://github.com/aouicher/graphmind" target="_blank" rel="noopener"><strong>graphmind</strong></a> by aouicher · ★ 50 · Rust MCP Server
+  - Local-first code intelligence for AI assistants. Turns your codebase into a knowledge graph your AI can query, navigate, and remember. 25 MCP tools.

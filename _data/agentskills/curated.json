@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "Clauge",
         "author": "ansxuman",
-        "stars": "735",
+        "stars": "736",
         "meta": "Svelte Codex Skill",
         "description": "One window. Every dev tool.",
         "github_url": "https://github.com/ansxuman/Clauge"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "106",
+        "stars": "107",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -510,12 +510,12 @@
       },
       {
         "rank": 10,
-        "name": "ctxvault",
-        "author": "Filippo-Venturini",
-        "stars": "52",
-        "meta": "Python MCP Server",
-        "description": "Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.",
-        "github_url": "https://github.com/Filippo-Venturini/ctxvault"
+        "name": "graphmind",
+        "author": "aouicher",
+        "stars": "50",
+        "meta": "Rust MCP Server",
+        "description": "Local-first code intelligence for AI assistants. Turns your codebase into a knowledge graph your AI can query, navigate, and remember. 25 MCP tools.",
+        "github_url": "https://github.com/aouicher/graphmind"
       }
     ]
   },
@@ -734,7 +734,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-google/",
     "quick_pick": {
       "name": "google_workspace_mcp",
-      "stars": "2.6k",
+      "stars": "2.7k",
       "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search",
       "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
     },
@@ -743,7 +743,7 @@
         "rank": 1,
         "name": "google_workspace_mcp",
         "author": "taylorwilsdon",
-        "stars": "2.6k",
+        "stars": "2.7k",
         "meta": "Python MCP Server",
         "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool",
         "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "63.9k",
+      "stars": "64.0k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "63.9k",
+        "stars": "64.0k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "8.4k",
+        "stars": "8.5k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1030,12 +1030,12 @@
       },
       {
         "rank": 10,
-        "name": "agent-skills",
-        "author": "tech-leads-club",
-        "stars": "4.6k",
-        "meta": "TypeScript Agent Tool",
-        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-        "github_url": "https://github.com/tech-leads-club/agent-skills"
+        "name": "superpowers-zh",
+        "author": "jnMetaCode",
+        "stars": "5.3k",
+        "meta": "Shell MCP Server",
+        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
+        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
       }
     ]
   },
@@ -1204,7 +1204,7 @@
         "rank": 6,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "371",
+        "stars": "373",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"
