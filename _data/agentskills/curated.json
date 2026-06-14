@@ -77,6 +77,15 @@
       {
         "rank": 8,
         "name": "Clauge",
+        "author": "ClaugeHQ",
+        "stars": "737",
+        "meta": "Svelte Codex Skill",
+        "description": "One window. Every dev tool.",
+        "github_url": "https://github.com/ClaugeHQ/Clauge"
+      },
+      {
+        "rank": 9,
+        "name": "Clauge",
         "author": "ansxuman",
         "stars": "736",
         "meta": "Svelte Codex Skill",
@@ -84,22 +93,13 @@
         "github_url": "https://github.com/ansxuman/Clauge"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "mindsdb",
         "author": "mindsdb",
         "stars": "39.1k",
         "meta": "Python MCP Server",
         "description": "AI Data Vault - A query engine for AI Agents to securely query data from any datasource",
         "github_url": "https://github.com/mindsdb/mindsdb"
-      },
-      {
-        "rank": 10,
-        "name": "minds-platform",
-        "author": "mindsdb",
-        "stars": "39.2k",
-        "meta": "Python MCP Server",
-        "description": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.",
-        "github_url": "https://github.com/mindsdb/minds-platform"
       }
     ]
   },
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "109",
+        "stars": "110",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "64.3k",
+      "stars": "64.4k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "64.3k",
+        "stars": "64.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "17.3k",
+        "stars": "17.4k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
