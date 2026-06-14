@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - 🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio. 文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用
 - <a href="https://github.com/steipete/conduit-mcp" target="_blank" rel="noopener"><strong>conduit-mcp</strong></a> by steipete · ★ 68 · TypeScript MCP Server
   - MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.
-- <a href="https://github.com/yzfly/Awesome-MCP-ZH" target="_blank" rel="noopener"><strong>Awesome-MCP-ZH</strong></a> by yzfly · ★ 7.2k · MCP Server
+- <a href="https://github.com/yzfly/Awesome-MCP-ZH" target="_blank" rel="noopener"><strong>Awesome-MCP-ZH</strong></a> by yzfly · ★ 7.3k · MCP Server
   - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients

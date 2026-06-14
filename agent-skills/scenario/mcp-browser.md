@@ -25,7 +25,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.
 - <a href="https://github.com/noelschwarz/coral" target="_blank" rel="noopener"><strong>coral</strong></a> by noelschwarz · ★ 59 · Python MCP Server
   - Coral is an open-source, local-first session bridge that lets AI agents borrow a user's already-authenticated browser sessions on a per-site, per-action, fully audited basis.
-- <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 15.6k · Rust Agent Tool
+- <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 15.7k · Rust Agent Tool
   - The headless browser for AI agents and web scraping
 - <a href="https://github.com/DebugBase/glance" target="_blank" rel="noopener"><strong>glance</strong></a> by DebugBase · ★ 142 · TypeScript MCP Server
   - AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.
