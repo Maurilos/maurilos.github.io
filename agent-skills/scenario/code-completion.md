@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/code-completion/
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - <a href="https://github.com/rohitg00/agentmemory" target="_blank" rel="noopener"><strong>agentmemory</strong></a> by rohitg00 · ★ 22.4k · TypeScript Codex Skill
   - #1 Persistent memory for AI coding agents based on real-world benchmarks
-- <a href="https://github.com/OthmanAdi/planning-with-files" target="_blank" rel="noopener"><strong>planning-with-files</strong></a> by OthmanAdi · ★ 23.2k · Python Claude Skill
+- <a href="https://github.com/OthmanAdi/planning-with-files" target="_blank" rel="noopener"><strong>planning-with-files</strong></a> by OthmanAdi · ★ 23.3k · Python Claude Skill
   - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
 - <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 17.4k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/code-completion/
   - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 - <a href="https://github.com/olimorris/codecompanion.nvim" target="_blank" rel="noopener"><strong>codecompanion.nvim</strong></a> by olimorris · ★ 6.7k · Lua Agent Tool
   - ✨ AI Coding, Vim Style
-- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 6.1k · TypeScript MCP Server
+- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 6.2k · TypeScript MCP Server
   - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
