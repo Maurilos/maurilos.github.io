@@ -155,7 +155,7 @@
         "rank": 5,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "146",
+        "stars": "147",
         "meta": "TypeScript MCP Server",
         "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "116",
+        "stars": "117",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -684,7 +684,7 @@
         "rank": 6,
         "name": "loop-engineering NEW",
         "author": "cobusgreyling",
-        "stars": "118",
+        "stars": "250",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -890,21 +890,21 @@
       },
       {
         "rank": 6,
+        "name": "ai-review",
+        "author": "Nikita-Filonov",
+        "stars": "476",
+        "meta": "Python Agent Tool",
+        "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
+        "github_url": "https://github.com/Nikita-Filonov/ai-review"
+      },
+      {
+        "rank": 7,
         "name": "maestro-orchestrate",
         "author": "josstei",
         "stars": "432",
         "meta": "JavaScript Codex Skill",
         "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
         "github_url": "https://github.com/josstei/maestro-orchestrate"
-      },
-      {
-        "rank": 7,
-        "name": "ai-review",
-        "author": "Nikita-Filonov",
-        "stars": "430",
-        "meta": "Python Agent Tool",
-        "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
-        "github_url": "https://github.com/Nikita-Filonov/ai-review"
       },
       {
         "rank": 8,
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "65.1k",
+      "stars": "65.4k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "65.1k",
+        "stars": "65.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "9router",
         "author": "decolua",
-        "stars": "17.4k",
+        "stars": "17.6k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -1005,13 +1005,22 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "8.6k",
+        "stars": "8.7k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
       },
       {
         "rank": 8,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "6.3k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      },
+      {
+        "rank": 9,
         "name": "html-anything",
         "author": "nexu-io",
         "stars": "5.8k",
@@ -1020,22 +1029,13 @@
         "github_url": "https://github.com/nexu-io/html-anything"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "codecompanion.nvim",
         "author": "olimorris",
         "stars": "6.7k",
         "meta": "Lua Agent Tool",
         "description": "✨ AI Coding, Vim Style",
         "github_url": "https://github.com/olimorris/codecompanion.nvim"
-      },
-      {
-        "rank": 10,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "6.2k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
       }
     ]
   },
@@ -1045,29 +1045,29 @@
     "slug": "test-generation",
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
-      "name": "facts",
-      "stars": "181",
-      "tagline": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
-      "github_url": "https://github.com/av/facts"
+      "name": "jumpstarter",
+      "stars": "185",
+      "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
+      "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "jumpstarter",
+        "author": "jumpstarter-dev",
+        "stars": "185",
+        "meta": "Python MCP Server",
+        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
+        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
+      },
+      {
+        "rank": 2,
         "name": "facts",
         "author": "av",
         "stars": "181",
         "meta": "Rust Codex Skill",
         "description": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
         "github_url": "https://github.com/av/facts"
-      },
-      {
-        "rank": 2,
-        "name": "jumpstarter",
-        "author": "jumpstarter-dev",
-        "stars": "184",
-        "meta": "Python MCP Server",
-        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
-        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
       },
       {
         "rank": 3,

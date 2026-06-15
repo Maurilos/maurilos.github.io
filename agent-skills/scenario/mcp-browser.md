@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.
 - <a href="https://github.com/VectorlyApp/bluebox" target="_blank" rel="noopener"><strong>bluebox</strong></a> by VectorlyApp · ★ 191 · Python MCP Server
   - Index the world's undocumented APIs
-- <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 146 · TypeScript MCP Server
+- <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 147 · TypeScript MCP Server
   - Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.
 - <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 104 · JavaScript MCP Server
   - 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.
