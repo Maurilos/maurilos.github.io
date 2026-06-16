@@ -33,7 +33,7 @@
         "rank": 3,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "2.4k",
+        "stars": "2.5k",
         "meta": "TypeScript MCP Server",
         "description": "Open-source database client for PostgreSQL, MySQL/MariaDB and SQLite with SQL notebooks, visual EXPLAIN, AI and MCP built in. Hackable with plugins.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "43.7k",
+        "stars": "43.8k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "117",
+        "stars": "120",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -684,7 +684,7 @@
         "rank": 6,
         "name": "loop-engineering NEW",
         "author": "cobusgreyling",
-        "stars": "250",
+        "stars": "308",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -838,7 +838,7 @@
     "local_url": "/agent-skills/scenario/code-review/",
     "quick_pick": {
       "name": "open-code-review",
-      "stars": "7.3k",
+      "stars": "7.4k",
       "tagline": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code",
       "github_url": "https://github.com/alibaba/open-code-review"
     },
@@ -847,7 +847,7 @@
         "rank": 1,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "7.3k",
+        "stars": "7.4k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -872,21 +872,21 @@
       },
       {
         "rank": 4,
+        "name": "tuicr",
+        "author": "agavra",
+        "stars": "908",
+        "meta": "Rust Agent Tool",
+        "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
+        "github_url": "https://github.com/agavra/tuicr"
+      },
+      {
+        "rank": 5,
         "name": "Claude-Command-Suite",
         "author": "qdhenry",
         "stars": "978",
         "meta": "Shell Claude Skill",
         "description": "Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.",
         "github_url": "https://github.com/qdhenry/Claude-Command-Suite"
-      },
-      {
-        "rank": 5,
-        "name": "tuicr",
-        "author": "agavra",
-        "stars": "898",
-        "meta": "Rust Agent Tool",
-        "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
-        "github_url": "https://github.com/agavra/tuicr"
       },
       {
         "rank": 6,
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "65.7k",
+      "stars": "65.9k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "65.7k",
+        "stars": "65.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "17.5k",
+        "stars": "17.6k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1012,21 +1012,21 @@
       },
       {
         "rank": 8,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "6.3k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
-      },
-      {
-        "rank": 9,
         "name": "html-anything",
         "author": "nexu-io",
-        "stars": "5.8k",
+        "stars": "6.9k",
         "meta": "HTML Claude Skill",
         "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
         "github_url": "https://github.com/nexu-io/html-anything"
+      },
+      {
+        "rank": 9,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "6.4k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 10,
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "jumpstarter",
-      "stars": "185",
+      "stars": "186",
       "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
       "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "185",
+        "stars": "186",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1186,7 +1186,7 @@
         "rank": 4,
         "name": "DebugMCP",
         "author": "microsoft",
-        "stars": "377",
+        "stars": "378",
         "meta": "TypeScript MCP Server",
         "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
         "github_url": "https://github.com/microsoft/DebugMCP"

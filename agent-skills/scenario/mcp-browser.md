@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-browser/
 
 - <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.3k · TypeScript MCP Server
   - Allow LLMs to control a browser with Browserbase and Stagehand
-- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 43.7k · TypeScript MCP Server
+- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 43.8k · TypeScript MCP Server
   - Chrome DevTools for coding agents
 - <a href="https://github.com/psyb0t/docker-stealthy-auto-browse" target="_blank" rel="noopener"><strong>docker-stealthy-auto-browse</strong></a> by psyb0t · ★ 52 · Shell MCP Server
   - Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.

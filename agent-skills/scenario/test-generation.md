@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/test-generation/
 # Best AI Agent Skills for Test Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> · ★ 185 · Hardware testing for the software world. Real or virtual, local or remote, human
+<a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> · ★ 186 · Hardware testing for the software world. Real or virtual, local or remote, human
 
 ## 工具列表
 
-- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 185 · Python MCP Server
+- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 186 · Python MCP Server
   - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
 - <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 181 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
