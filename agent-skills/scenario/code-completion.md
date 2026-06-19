@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/code-completion/
 # Best AI Agent Skills for Code Completion & Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> · ★ 67.3k · 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡
+<a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> · ★ 67.4k · 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡
 
 ## 工具列表
 
-- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> by nexu-io · ★ 67.3k · TypeScript Codex Skill
+- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> by nexu-io · ★ 67.4k · TypeScript Codex Skill
   - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
