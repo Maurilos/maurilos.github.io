@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "43.9k",
+        "stars": "44.0k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -153,21 +153,21 @@
       },
       {
         "rank": 5,
-        "name": "Uni-CLI",
-        "author": "olo-dot-io",
-        "stars": "147",
-        "meta": "TypeScript MCP Server",
-        "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
-        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
-      },
-      {
-        "rank": 6,
         "name": "open-browser-use",
         "author": "iFurySt",
         "stars": "104",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
+      },
+      {
+        "rank": 6,
+        "name": "Uni-CLI",
+        "author": "olo-dot-io",
+        "stars": "87",
+        "meta": "TypeScript MCP Server",
+        "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
+        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       },
       {
         "rank": 7,
@@ -614,12 +614,12 @@
       },
       {
         "rank": 10,
-        "name": "page-agent",
-        "author": "alibaba",
-        "stars": "18.6k",
+        "name": "better-design",
+        "author": "marvkr",
+        "stars": "147",
         "meta": "TypeScript MCP Server",
-        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "github_url": "https://github.com/alibaba/page-agent"
+        "description": "🎨 Open-source design MCP server + shadcn/ui registry — AI design systems for Claude Code, Cursor, Codex, GitHub Copilot & any MCP client. 31 brand-grade themes (Linear, Stripe, Vercel, Notion, Apple, Supabase, Figma…) + design tokens, UI principles & WCAG rules. Install any component with one command.",
+        "github_url": "https://github.com/marvkr/better-design"
       }
     ]
   },
@@ -788,7 +788,7 @@
         "rank": 6,
         "name": "seerai",
         "author": "dralkh",
-        "stars": "55",
+        "stars": "56",
         "meta": "TypeScript MCP Server",
         "description": "Zotero AI plugin, research framework, assistant, workspaces, cloud, google drive, with MCP, agent capabilities, OCR, table extraction, semantic scholar, and firecrawl/tavily web search",
         "github_url": "https://github.com/dralkh/seerai"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "910",
+        "stars": "916",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "67.4k",
+      "stars": "67.6k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "67.4k",
+        "stars": "67.6k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "17.7k",
+        "stars": "17.8k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "9router",
         "author": "decolua",
-        "stars": "17.9k",
+        "stars": "18.0k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
