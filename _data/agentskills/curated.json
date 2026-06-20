@@ -718,12 +718,12 @@
       },
       {
         "rank": 10,
-        "name": "anyquery",
-        "author": "julien040",
-        "stars": "1.7k",
-        "meta": "Go MCP Server",
-        "description": "Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP",
-        "github_url": "https://github.com/julien040/anyquery"
+        "name": "agents-shipgate",
+        "author": "ThreeMoonsLab",
+        "stars": "51",
+        "meta": "Python MCP Server",
+        "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
+        "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
       }
     ]
   },
@@ -808,7 +808,7 @@
         "author": "tanaikech",
         "stars": "167",
         "meta": "Go MCP Server",
-        "description": "High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents (v5.3.2). Natively execute Apps Script (GAS) dynamically, automate conflict policies, recursive transfer, and manage Drive infrastructure.",
+        "description": "High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Apps Script (GAS) dynamically, automate conflict policies, recursive transfer, and manage Drive infrastructure.",
         "github_url": "https://github.com/tanaikech/ggsrun"
       },
       {
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "67.9k",
+      "stars": "68.0k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "67.9k",
+        "stars": "68.0k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1186,7 +1186,7 @@
         "rank": 4,
         "name": "DebugMCP",
         "author": "microsoft",
-        "stars": "378",
+        "stars": "390",
         "meta": "TypeScript MCP Server",
         "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
         "github_url": "https://github.com/microsoft/DebugMCP"

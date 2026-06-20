@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.
 - <a href="https://github.com/github/github-mcp-server" target="_blank" rel="noopener"><strong>github-mcp-server</strong></a> by github · ★ 30.8k · Go MCP Server
   - GitHub's official MCP Server
-- <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
-  - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- <a href="https://github.com/ThreeMoonsLab/agents-shipgate" target="_blank" rel="noopener"><strong>agents-shipgate</strong></a> by ThreeMoonsLab · ★ 51 · Python MCP Server
+  - The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.
