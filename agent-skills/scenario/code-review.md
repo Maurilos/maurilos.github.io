@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/code-review/
 # Best AI Agent Skills for Code Review in 2026
 
 ## Quick Pick
-<a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> · ★ 8.1k · Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code
+<a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> · ★ 8.2k · Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code
 
 ## 工具列表
 
-- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 8.1k · Go Agent Tool
+- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 8.2k · Go Agent Tool
   - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - <a href="https://github.com/mattzcarey/shippie" target="_blank" rel="noopener"><strong>shippie</strong></a> by mattzcarey · ★ 2.3k · TypeScript MCP Server
   - extendable code review and QA agent 🚢
