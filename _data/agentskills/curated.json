@@ -700,6 +700,15 @@
       },
       {
         "rank": 8,
+        "name": "agents-shipgate",
+        "author": "ThreeMoonsLab",
+        "stars": "67",
+        "meta": "Python MCP Server",
+        "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
+        "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
+      },
+      {
+        "rank": 9,
         "name": "human",
         "author": "gethuman-sh",
         "stars": "51",
@@ -708,22 +717,13 @@
         "github_url": "https://github.com/gethuman-sh/human"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "github-mcp-server",
         "author": "github",
         "stars": "30.8k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
-      },
-      {
-        "rank": 10,
-        "name": "agents-shipgate",
-        "author": "ThreeMoonsLab",
-        "stars": "51",
-        "meta": "Python MCP Server",
-        "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
-        "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
       }
     ]
   },
@@ -838,7 +838,7 @@
     "local_url": "/agent-skills/scenario/code-review/",
     "quick_pick": {
       "name": "open-code-review",
-      "stars": "7.9k",
+      "stars": "8.1k",
       "tagline": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code",
       "github_url": "https://github.com/alibaba/open-code-review"
     },
@@ -847,7 +847,7 @@
         "rank": 1,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "7.9k",
+        "stars": "8.1k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "68.2k",
+      "stars": "68.4k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "68.2k",
+        "stars": "68.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "17.8k",
+        "stars": "17.9k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1222,7 +1222,7 @@
         "rank": 8,
         "name": "opentelemetry-mcp-server",
         "author": "traceloop",
-        "stars": "184",
+        "stars": "192",
         "meta": "Python MCP Server",
         "description": "Unified MCP server for querying OpenTelemetry traces across multiple backends (Jaeger, Tempo, Traceloop, etc.), enabling AI agents to analyze distributed traces for automated debugging and observability.",
         "github_url": "https://github.com/traceloop/opentelemetry-mcp-server"
