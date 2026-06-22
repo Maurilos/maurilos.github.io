@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
 
 - <a href="https://github.com/awkoy/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by awkoy · ★ 157 · TypeScript MCP Server
   - Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.
-- <a href="https://github.com/suekou/mcp-notion-server" target="_blank" rel="noopener"><strong>mcp-notion-server</strong></a> by suekou · ★ 898 · TypeScript MCP Server
+- <a href="https://github.com/suekou/mcp-notion-server" target="_blank" rel="noopener"><strong>mcp-notion-server</strong></a> by suekou · ★ 906 · TypeScript MCP Server
   - A Model Context Protocol server for connecting Notion to MCP-compatible clients Quick Start: Add this server to an MCP host such as Claude Desktop: Restart your MCP host after saving the configuration. ```json { "mcpServers": { "notion": { "command": "npx", "args": ["-y", "@suekou/mcp-notion-server"], "env": { "NOTION_API_TOKEN": "your-integration-token" } } } } ```
 - <a href="https://github.com/macro-inc/macro" target="_blank" rel="noopener"><strong>macro</strong></a> by macro-inc · ★ 180 · TypeScript MCP Server
   - Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.

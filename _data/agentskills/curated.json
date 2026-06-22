@@ -33,7 +33,7 @@
         "rank": 3,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "3.2k",
+        "stars": "3.3k",
         "meta": "TypeScript MCP Server",
         "description": "Open-source database client for PostgreSQL, MySQL/MariaDB and SQLite with SQL notebooks, visual EXPLAIN, AI and MCP built in. Hackable with plugins.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "44.1k",
+        "stars": "44.2k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "16.0k",
+        "stars": "16.1k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -406,12 +406,12 @@
       },
       {
         "rank": 10,
-        "name": "sourcey",
-        "author": "sourcey",
-        "stars": "1.3k",
-        "meta": "TypeScript MCP Server",
-        "description": "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.",
-        "github_url": "https://github.com/sourcey/sourcey"
+        "name": "open-trading-api",
+        "author": "koreainvestment",
+        "stars": "1.5k",
+        "meta": "Python MCP Server",
+        "description": "Korea Investment & Securities Open API Github",
+        "github_url": "https://github.com/koreainvestment/open-trading-api"
       }
     ]
   },
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "MemOS",
         "author": "MemTensor",
-        "stars": "9.9k",
+        "stars": "10.0k",
         "meta": "TypeScript MCP Server",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
         "github_url": "https://github.com/MemTensor/MemOS"
@@ -544,7 +544,7 @@
         "rank": 2,
         "name": "mcp-notion-server",
         "author": "suekou",
-        "stars": "898",
+        "stars": "906",
         "meta": "TypeScript MCP Server",
         "description": "A Model Context Protocol server for connecting Notion to MCP-compatible clients Quick Start: Add this server to an MCP host such as Claude Desktop: Restart your MCP host after saving the configuration. ```json { \"mcpServers\": { \"notion\": { \"command\": \"npx\", \"args\": [\"-y\", \"@suekou/mcp-notion-server\"], \"env\": { \"NOTION_API_TOKEN\": \"your-integration-token\" } } } } ```",
         "github_url": "https://github.com/suekou/mcp-notion-server"
@@ -702,7 +702,7 @@
         "rank": 8,
         "name": "agents-shipgate",
         "author": "ThreeMoonsLab",
-        "stars": "73",
+        "stars": "76",
         "meta": "Python MCP Server",
         "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
         "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
@@ -720,7 +720,7 @@
         "rank": 10,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "30.8k",
+        "stars": "30.9k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -838,7 +838,7 @@
     "local_url": "/agent-skills/scenario/code-review/",
     "quick_pick": {
       "name": "open-code-review",
-      "stars": "8.2k",
+      "stars": "8.4k",
       "tagline": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code",
       "github_url": "https://github.com/alibaba/open-code-review"
     },
@@ -847,7 +847,7 @@
         "rank": 1,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "8.2k",
+        "stars": "8.4k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "68.6k",
+      "stars": "68.9k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "68.6k",
+        "stars": "68.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "22.9k",
+        "stars": "23.7k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "jumpstarter",
-      "stars": "188",
+      "stars": "189",
       "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
       "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "188",
+        "stars": "189",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"

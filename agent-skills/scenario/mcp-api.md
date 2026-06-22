@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-api/
   - Self-Hosted API Management for Builders
 - <a href="https://github.com/kubb-labs/kubb" target="_blank" rel="noopener"><strong>kubb</strong></a> by kubb-labs · ★ 1.7k · TypeScript MCP Server
   - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine. Quick Start: ```bash bun add kubb # or pnpm add kubb # or npm install kubb ```
-- <a href="https://github.com/sourcey/sourcey" target="_blank" rel="noopener"><strong>sourcey</strong></a> by sourcey · ★ 1.3k · TypeScript MCP Server
-  - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
+- <a href="https://github.com/koreainvestment/open-trading-api" target="_blank" rel="noopener"><strong>open-trading-api</strong></a> by koreainvestment · ★ 1.5k · Python MCP Server
+  - Korea Investment & Securities Open API Github

@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Persistent memory for AI coding agents
 - <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 131 · Python MCP Server
   - Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
-- <a href="https://github.com/MemTensor/MemOS" target="_blank" rel="noopener"><strong>MemOS</strong></a> by MemTensor · ★ 9.9k · TypeScript MCP Server
+- <a href="https://github.com/MemTensor/MemOS" target="_blank" rel="noopener"><strong>MemOS</strong></a> by MemTensor · ★ 10.0k · TypeScript MCP Server
   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - <a href="https://github.com/mordechaipotash/brain-mcp" target="_blank" rel="noopener"><strong>brain-mcp</strong></a> by mordechaipotash · ★ 53 · Python MCP Server
   - Your AI has amnesia. Persistent memory and cognitive context for AI. 25 MCP tools. 12ms recall.
