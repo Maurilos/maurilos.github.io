@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-for-notion/
 # Best AI Agent Skills for MCP Tools for Notion in 2026
 
 ## Quick Pick
-<a href="https://github.com/awkoy/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> · ★ 156 · Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent
+<a href="https://github.com/awkoy/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> · ★ 157 · Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent
 
 ## 工具列表
 
-- <a href="https://github.com/awkoy/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by awkoy · ★ 156 · TypeScript MCP Server
+- <a href="https://github.com/awkoy/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by awkoy · ★ 157 · TypeScript MCP Server
   - Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.
 - <a href="https://github.com/suekou/mcp-notion-server" target="_blank" rel="noopener"><strong>mcp-notion-server</strong></a> by suekou · ★ 898 · TypeScript MCP Server
   - A Model Context Protocol server for connecting Notion to MCP-compatible clients Quick Start: Add this server to an MCP host such as Claude Desktop: Restart your MCP host after saving the configuration. ```json { "mcpServers": { "notion": { "command": "npx", "args": ["-y", "@suekou/mcp-notion-server"], "env": { "NOTION_API_TOKEN": "your-integration-token" } } } } ```

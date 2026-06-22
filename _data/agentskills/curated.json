@@ -49,6 +49,24 @@
       },
       {
         "rank": 5,
+        "name": "Clauge",
+        "author": "ClaugeHQ",
+        "stars": "787",
+        "meta": "Svelte Codex Skill",
+        "description": "The AI-powered super-app for developers.",
+        "github_url": "https://github.com/ClaugeHQ/Clauge"
+      },
+      {
+        "rank": 6,
+        "name": "Clauge",
+        "author": "ansxuman",
+        "stars": "736",
+        "meta": "Svelte Codex Skill",
+        "description": "One window. Every dev tool.",
+        "github_url": "https://github.com/ansxuman/Clauge"
+      },
+      {
+        "rank": 7,
         "name": "tabularis",
         "author": "debba",
         "stars": "1.2k",
@@ -57,7 +75,7 @@
         "github_url": "https://github.com/debba/tabularis"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "name": "phpMyFAQ",
         "author": "thorsten",
         "stars": "619",
@@ -66,31 +84,13 @@
         "github_url": "https://github.com/thorsten/phpMyFAQ"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
         "meta": "Go MCP Server",
         "description": "Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP",
         "github_url": "https://github.com/julien040/anyquery"
-      },
-      {
-        "rank": 8,
-        "name": "Clauge",
-        "author": "ClaugeHQ",
-        "stars": "781",
-        "meta": "Svelte Codex Skill",
-        "description": "The AI-powered super-app for developers.",
-        "github_url": "https://github.com/ClaugeHQ/Clauge"
-      },
-      {
-        "rank": 9,
-        "name": "Clauge",
-        "author": "ansxuman",
-        "stars": "736",
-        "meta": "Svelte Codex Skill",
-        "description": "One window. Every dev tool.",
-        "github_url": "https://github.com/ansxuman/Clauge"
       },
       {
         "rank": 10,
@@ -135,51 +135,6 @@
       },
       {
         "rank": 3,
-        "name": "docker-stealthy-auto-browse",
-        "author": "psyb0t",
-        "stars": "56",
-        "meta": "Shell MCP Server",
-        "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
-        "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
-      },
-      {
-        "rank": 4,
-        "name": "bluebox",
-        "author": "VectorlyApp",
-        "stars": "191",
-        "meta": "Python MCP Server",
-        "description": "Index the world's undocumented APIs",
-        "github_url": "https://github.com/VectorlyApp/bluebox"
-      },
-      {
-        "rank": 5,
-        "name": "open-browser-use",
-        "author": "iFurySt",
-        "stars": "104",
-        "meta": "JavaScript MCP Server",
-        "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
-        "github_url": "https://github.com/iFurySt/open-browser-use"
-      },
-      {
-        "rank": 6,
-        "name": "Uni-CLI",
-        "author": "olo-dot-io",
-        "stars": "87",
-        "meta": "TypeScript MCP Server",
-        "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
-        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
-      },
-      {
-        "rank": 7,
-        "name": "coral",
-        "author": "noelschwarz",
-        "stars": "59",
-        "meta": "Python MCP Server",
-        "description": "Coral is an open-source, local-first session bridge that lets AI agents borrow a user's already-authenticated browser sessions on a per-site, per-action, fully audited basis.",
-        "github_url": "https://github.com/noelschwarz/coral"
-      },
-      {
-        "rank": 8,
         "name": "obscura",
         "author": "h4ckf0r0day",
         "stars": "16.0k",
@@ -188,22 +143,67 @@
         "github_url": "https://github.com/h4ckf0r0day/obscura"
       },
       {
+        "rank": 4,
+        "name": "docker-stealthy-auto-browse",
+        "author": "psyb0t",
+        "stars": "56",
+        "meta": "Shell MCP Server",
+        "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
+        "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
+      },
+      {
+        "rank": 5,
+        "name": "stagehand",
+        "author": "browserbase",
+        "stars": "23.2k",
+        "meta": "TypeScript LLM Plugin",
+        "description": "The SDK For Browser Agents",
+        "github_url": "https://github.com/browserbase/stagehand"
+      },
+      {
+        "rank": 6,
+        "name": "bluebox",
+        "author": "VectorlyApp",
+        "stars": "191",
+        "meta": "Python MCP Server",
+        "description": "Index the world's undocumented APIs",
+        "github_url": "https://github.com/VectorlyApp/bluebox"
+      },
+      {
+        "rank": 7,
+        "name": "nanobrowser",
+        "author": "nanobrowser",
+        "stars": "12.4k",
+        "meta": "TypeScript Agent Tool",
+        "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+        "github_url": "https://github.com/nanobrowser/nanobrowser"
+      },
+      {
+        "rank": 8,
+        "name": "open-browser-use",
+        "author": "iFurySt",
+        "stars": "104",
+        "meta": "JavaScript MCP Server",
+        "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
+        "github_url": "https://github.com/iFurySt/open-browser-use"
+      },
+      {
         "rank": 9,
-        "name": "glance",
-        "author": "DebugBase",
-        "stars": "142",
+        "name": "Uni-CLI",
+        "author": "olo-dot-io",
+        "stars": "87",
         "meta": "TypeScript MCP Server",
-        "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test — all from your terminal.",
-        "github_url": "https://github.com/DebugBase/glance"
+        "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
+        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       },
       {
         "rank": 10,
-        "name": "browser-debugger-cli",
-        "author": "szymdzum",
-        "stars": "124",
-        "meta": "TypeScript MCP Server",
-        "description": "CLI tool for agents to quickly access browser telemetry (DOM, network, console) via Chrome DevTools Protocol.",
-        "github_url": "https://github.com/szymdzum/browser-debugger-cli"
+        "name": "coral",
+        "author": "noelschwarz",
+        "stars": "59",
+        "meta": "Python MCP Server",
+        "description": "Coral is an open-source, local-first session bridge that lets AI agents borrow a user's already-authenticated browser sessions on a per-site, per-action, fully audited basis.",
+        "github_url": "https://github.com/noelschwarz/coral"
       }
     ]
   },
@@ -370,6 +370,15 @@
       },
       {
         "rank": 6,
+        "name": "openapi-to-cli",
+        "author": "EvilFreelancer",
+        "stars": "240",
+        "meta": "TypeScript Codex Skill",
+        "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.",
+        "github_url": "https://github.com/EvilFreelancer/openapi-to-cli"
+      },
+      {
+        "rank": 7,
         "name": "mcp2cli",
         "author": "knowsuchagency",
         "stars": "2.2k",
@@ -378,7 +387,7 @@
         "github_url": "https://github.com/knowsuchagency/mcp2cli"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "fusio",
         "author": "apioo",
         "stars": "2.1k",
@@ -387,7 +396,7 @@
         "github_url": "https://github.com/apioo/fusio"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "kubb",
         "author": "kubb-labs",
         "stars": "1.7k",
@@ -396,22 +405,13 @@
         "github_url": "https://github.com/kubb-labs/kubb"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "sourcey",
         "author": "sourcey",
         "stars": "1.3k",
         "meta": "TypeScript MCP Server",
         "description": "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.",
         "github_url": "https://github.com/sourcey/sourcey"
-      },
-      {
-        "rank": 10,
-        "name": "open-trading-api",
-        "author": "koreainvestment",
-        "stars": "1.1k",
-        "meta": "Python MCP Server",
-        "description": "Korea Investment & Securities Open API Github",
-        "github_url": "https://github.com/koreainvestment/open-trading-api"
       }
     ]
   },
@@ -526,7 +526,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
     "quick_pick": {
       "name": "notion-mcp-server",
-      "stars": "156",
+      "stars": "157",
       "tagline": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent",
       "github_url": "https://github.com/awkoy/notion-mcp-server"
     },
@@ -535,7 +535,7 @@
         "rank": 1,
         "name": "notion-mcp-server",
         "author": "awkoy",
-        "stars": "156",
+        "stars": "157",
         "meta": "TypeScript MCP Server",
         "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.",
         "github_url": "https://github.com/awkoy/notion-mcp-server"
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode",
-      "stars": "865",
+      "stars": "867",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "865",
+        "stars": "867",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -702,7 +702,7 @@
         "rank": 8,
         "name": "agents-shipgate",
         "author": "ThreeMoonsLab",
-        "stars": "67",
+        "stars": "73",
         "meta": "Python MCP Server",
         "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
         "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "68.5k",
+      "stars": "68.6k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "68.5k",
+        "stars": "68.6k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -989,7 +989,7 @@
         "author": "mksglu",
         "stars": "17.9k",
         "meta": "TypeScript MCP Server",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 17 platforms",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
       },
       {
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "8.9k",
+        "stars": "9.0k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1193,21 +1193,21 @@
       },
       {
         "rank": 5,
+        "name": "Gearsystem",
+        "author": "drhelius",
+        "stars": "375",
+        "meta": "C++ MCP Server",
+        "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
+        "github_url": "https://github.com/drhelius/Gearsystem"
+      },
+      {
+        "rank": 6,
         "name": "embeddedskills",
         "author": "zhinkgit",
         "stars": "340",
         "meta": "Python Claude Skill",
         "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
         "github_url": "https://github.com/zhinkgit/embeddedskills"
-      },
-      {
-        "rank": 6,
-        "name": "Gearsystem",
-        "author": "drhelius",
-        "stars": "374",
-        "meta": "C++ MCP Server",
-        "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
-        "github_url": "https://github.com/drhelius/Gearsystem"
       },
       {
         "rank": 7,
@@ -1231,7 +1231,7 @@
         "rank": 9,
         "name": "regenerator2000",
         "author": "ricardoquesada",
-        "stars": "159",
+        "stars": "161",
         "meta": "Rust MCP Server",
         "description": "An interactive disassembler for the CPU 6502, focused on Commodore 8-bit computers. Features a TUI with modern features like x-ref, undo/redo, flow arrows, keyboard-driven, MCP server for auto analysis, VICE debugger and more!",
         "github_url": "https://github.com/ricardoquesada/regenerator2000"

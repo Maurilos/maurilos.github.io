@@ -21,6 +21,8 @@ permalink: /agent-skills/scenario/mcp-api/
   - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
 - <a href="https://github.com/spectral-mcp/spectral" target="_blank" rel="noopener"><strong>spectral</strong></a> by spectral-mcp · ★ 80 · Python MCP Server
   - Browse any app normally. Spectral captures the traffic, understands what each API call does, and generates MCP tools that AI agents can call directly.
+- <a href="https://github.com/EvilFreelancer/openapi-to-cli" target="_blank" rel="noopener"><strong>openapi-to-cli</strong></a> by EvilFreelancer · ★ 240 · TypeScript Codex Skill
+  - Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.
 - <a href="https://github.com/knowsuchagency/mcp2cli" target="_blank" rel="noopener"><strong>mcp2cli</strong></a> by knowsuchagency · ★ 2.2k · Python MCP Server
   - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen Quick Start: ```bash # Run directly without installing uvx mcp2cli --help # Or install globally uv tool install mcp2cli ```
 - <a href="https://github.com/apioo/fusio" target="_blank" rel="noopener"><strong>fusio</strong></a> by apioo · ★ 2.1k · PHP MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-api/
   - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine. Quick Start: ```bash bun add kubb # or pnpm add kubb # or npm install kubb ```
 - <a href="https://github.com/sourcey/sourcey" target="_blank" rel="noopener"><strong>sourcey</strong></a> by sourcey · ★ 1.3k · TypeScript MCP Server
   - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
-- <a href="https://github.com/koreainvestment/open-trading-api" target="_blank" rel="noopener"><strong>open-trading-api</strong></a> by koreainvestment · ★ 1.1k · Python MCP Server
-  - Korea Investment & Securities Open API Github
