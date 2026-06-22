@@ -571,7 +571,7 @@
         "rank": 5,
         "name": "Claude-Skills",
         "author": "borghei",
-        "stars": "277",
+        "stars": "295",
         "meta": "HTML MCP Server",
         "description": "338 AI skills across 16 domains. PM is the deepest (66 skills - discovery, execution, strategy frameworks, GTM, Jira/Linear/Notion). Plus engineering, marketing, C-level (CAIO/CDO/CCO/GC/VPE), compliance + audit-prep, new research/ domain, vertical advisors. 74 expert agents, 784+ stdlib Python tools. 11 AI assistants.",
         "github_url": "https://github.com/borghei/Claude-Skills"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering NEW",
         "author": "cobusgreyling",
-        "stars": "420",
+        "stars": "670",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -786,15 +786,6 @@
       },
       {
         "rank": 6,
-        "name": "seerai",
-        "author": "dralkh",
-        "stars": "56",
-        "meta": "TypeScript MCP Server",
-        "description": "Zotero AI plugin, research framework, assistant, workspaces, cloud, google drive, with MCP, agent capabilities, OCR, table extraction, semantic scholar, and firecrawl/tavily web search",
-        "github_url": "https://github.com/dralkh/seerai"
-      },
-      {
-        "rank": 7,
         "name": "google-workspace-mcp",
         "author": "aaronsb",
         "stars": "149",
@@ -803,7 +794,7 @@
         "github_url": "https://github.com/aaronsb/google-workspace-mcp"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "ggsrun",
         "author": "tanaikech",
         "stars": "167",
@@ -812,7 +803,7 @@
         "github_url": "https://github.com/tanaikech/ggsrun"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "OpenDocuments",
         "author": "joungminsung",
         "stars": "72",
@@ -821,13 +812,22 @@
         "github_url": "https://github.com/joungminsung/OpenDocuments"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "notebooklm-wiki-pipeline",
         "author": "capitalparser",
         "stars": "64",
         "meta": "Python MCP Server",
         "description": "Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context",
         "github_url": "https://github.com/capitalparser/notebooklm-wiki-pipeline"
+      },
+      {
+        "rank": 10,
+        "name": "google-docs-mcp",
+        "author": "a-bonus",
+        "stars": "563",
+        "meta": "TypeScript MCP Server",
+        "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
+        "github_url": "https://github.com/a-bonus/google-docs-mcp"
       }
     ]
   },
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "shippie",
         "author": "mattzcarey",
-        "stars": "2.3k",
+        "stars": "2.4k",
         "meta": "TypeScript MCP Server",
         "description": "extendable code review and QA agent 🚢",
         "github_url": "https://github.com/mattzcarey/shippie"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "946",
+        "stars": "972",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "68.9k",
+      "stars": "69.1k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "68.9k",
+        "stars": "69.1k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "171",
+        "stars": "172",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1100,7 +1100,7 @@
         "rank": 6,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "22.4k",
+        "stars": "22.5k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1195,7 +1195,7 @@
         "rank": 5,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "375",
+        "stars": "376",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"

@@ -21,8 +21,6 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets.
 - <a href="https://github.com/isaacphi/mcp-gdrive" target="_blank" rel="noopener"><strong>mcp-gdrive</strong></a> by isaacphi · ★ 270 · TypeScript MCP Server
   - Model Context Protocol (MCP) Server for reading from Google Drive and editing Google Sheets
-- <a href="https://github.com/dralkh/seerai" target="_blank" rel="noopener"><strong>seerai</strong></a> by dralkh · ★ 56 · TypeScript MCP Server
-  - Zotero AI plugin, research framework, assistant, workspaces, cloud, google drive, with MCP, agent capabilities, OCR, table extraction, semantic scholar, and firecrawl/tavily web search
 - <a href="https://github.com/aaronsb/google-workspace-mcp" target="_blank" rel="noopener"><strong>google-workspace-mcp</strong></a> by aaronsb · ★ 149 · TypeScript MCP Server
   - A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality
 - <a href="https://github.com/tanaikech/ggsrun" target="_blank" rel="noopener"><strong>ggsrun</strong></a> by tanaikech · ★ 167 · Go MCP Server
@@ -31,3 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.
 - <a href="https://github.com/capitalparser/notebooklm-wiki-pipeline" target="_blank" rel="noopener"><strong>notebooklm-wiki-pipeline</strong></a> by capitalparser · ★ 64 · Python MCP Server
   - Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context
+- <a href="https://github.com/a-bonus/google-docs-mcp" target="_blank" rel="noopener"><strong>google-docs-mcp</strong></a> by a-bonus · ★ 563 · TypeScript MCP Server
+  - The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.
