@@ -406,12 +406,12 @@
       },
       {
         "rank": 10,
-        "name": "open-trading-api",
-        "author": "koreainvestment",
-        "stars": "1.5k",
-        "meta": "Python MCP Server",
-        "description": "Korea Investment & Securities Open API Github",
-        "github_url": "https://github.com/koreainvestment/open-trading-api"
+        "name": "sourcey",
+        "author": "sourcey",
+        "stars": "1.3k",
+        "meta": "TypeScript MCP Server",
+        "description": "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.",
+        "github_url": "https://github.com/sourcey/sourcey"
       }
     ]
   },
@@ -598,7 +598,7 @@
         "rank": 8,
         "name": "human",
         "author": "gethuman-sh",
-        "stars": "51",
+        "stars": "54",
         "meta": "Go MCP Server",
         "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
         "github_url": "https://github.com/gethuman-sh/human"
@@ -607,7 +607,7 @@
         "rank": 9,
         "name": "notion-mcp-server",
         "author": "makenotion",
-        "stars": "4.4k",
+        "stars": "4.5k",
         "meta": "TypeScript MCP Server",
         "description": "Official Notion MCP Server",
         "github_url": "https://github.com/makenotion/notion-mcp-server"
@@ -702,7 +702,7 @@
         "rank": 8,
         "name": "agents-shipgate",
         "author": "ThreeMoonsLab",
-        "stars": "76",
+        "stars": "89",
         "meta": "Python MCP Server",
         "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
         "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
@@ -711,7 +711,7 @@
         "rank": 9,
         "name": "human",
         "author": "gethuman-sh",
-        "stars": "51",
+        "stars": "54",
         "meta": "Go MCP Server",
         "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
         "github_url": "https://github.com/gethuman-sh/human"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "972",
+        "stars": "975",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "69.1k",
+      "stars": "69.2k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "69.1k",
+        "stars": "69.2k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1003,6 +1003,15 @@
       },
       {
         "rank": 7,
+        "name": "OpenMontage",
+        "author": "calesthio",
+        "stars": "12.0k",
+        "meta": "Python Agent Tool",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "github_url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
         "stars": "9.0k",
@@ -1011,7 +1020,7 @@
         "github_url": "https://github.com/getpaseo/paseo"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "html-anything",
         "author": "nexu-io",
         "stars": "6.9k",
@@ -1020,22 +1029,13 @@
         "github_url": "https://github.com/nexu-io/html-anything"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "OmniRoute",
         "author": "diegosouzapw",
         "stars": "6.7k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
-      },
-      {
-        "rank": 10,
-        "name": "codecompanion.nvim",
-        "author": "olimorris",
-        "stars": "6.7k",
-        "meta": "Lua Agent Tool",
-        "description": "✨ AI Coding, Vim Style",
-        "github_url": "https://github.com/olimorris/codecompanion.nvim"
       }
     ]
   },

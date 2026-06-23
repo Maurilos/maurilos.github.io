@@ -25,9 +25,9 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 72 · TypeScript MCP Server
   - Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.
-- <a href="https://github.com/gethuman-sh/human" target="_blank" rel="noopener"><strong>human</strong></a> by gethuman-sh · ★ 51 · Go MCP Server
+- <a href="https://github.com/gethuman-sh/human" target="_blank" rel="noopener"><strong>human</strong></a> by gethuman-sh · ★ 54 · Go MCP Server
   - The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.
-- <a href="https://github.com/makenotion/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by makenotion · ★ 4.4k · TypeScript MCP Server
+- <a href="https://github.com/makenotion/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by makenotion · ★ 4.5k · TypeScript MCP Server
   - Official Notion MCP Server
 - <a href="https://github.com/marvkr/better-design" target="_blank" rel="noopener"><strong>better-design</strong></a> by marvkr · ★ 147 · TypeScript MCP Server
   - 🎨 Open-source design MCP server + shadcn/ui registry — AI design systems for Claude Code, Cursor, Codex, GitHub Copilot & any MCP client. 31 brand-grade themes (Linear, Stripe, Vercel, Notion, Apple, Supabase, Figma…) + design tokens, UI principles & WCAG rules. Install any component with one command.
