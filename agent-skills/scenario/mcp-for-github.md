@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers
 - <a href="https://github.com/yusufkaraaslan/Skill_Seekers" target="_blank" rel="noopener"><strong>Skill_Seekers</strong></a> by yusufkaraaslan · ★ 14.1k · Python MCP Server
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering</strong></a> by cobusgreyling · ★ 670 · JavaScript MCP Server
+- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering</strong></a> by cobusgreyling · ★ 743 · JavaScript MCP Server
   - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 418 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
