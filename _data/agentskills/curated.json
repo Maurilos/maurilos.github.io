@@ -406,12 +406,12 @@
       },
       {
         "rank": 10,
-        "name": "sourcey",
-        "author": "sourcey",
-        "stars": "1.3k",
-        "meta": "TypeScript MCP Server",
-        "description": "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.",
-        "github_url": "https://github.com/sourcey/sourcey"
+        "name": "open-trading-api",
+        "author": "koreainvestment",
+        "stars": "1.5k",
+        "meta": "Python MCP Server",
+        "description": "Korea Investment & Securities Open API Github",
+        "github_url": "https://github.com/koreainvestment/open-trading-api"
       }
     ]
   },
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "agents-shipgate",
         "author": "ThreeMoonsLab",
-        "stars": "101",
+        "stars": "105",
         "meta": "Python MCP Server",
         "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
         "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
@@ -838,7 +838,7 @@
     "local_url": "/agent-skills/scenario/code-review/",
     "quick_pick": {
       "name": "open-code-review",
-      "stars": "8.6k",
+      "stars": "9.0k",
       "tagline": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code",
       "github_url": "https://github.com/alibaba/open-code-review"
     },
@@ -847,7 +847,7 @@
         "rank": 1,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "8.6k",
+        "stars": "9.0k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "70.0k",
+      "stars": "70.3k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "70.0k",
+        "stars": "70.3k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "9.1k",
+        "stars": "9.2k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1238,12 +1238,12 @@
       },
       {
         "rank": 10,
-        "name": "x64dbg-mcp",
-        "author": "SetsunaYukiOvO",
-        "stars": "147",
-        "meta": "C++ MCP Server",
-        "description": "MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE;Develop with cursor/windsurf",
-        "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
+        "name": "embedded-debugger-mcp",
+        "author": "Adancurusul",
+        "stars": "114",
+        "meta": "Rust MCP Server",
+        "description": "A Model Context Protocol server for embedded debugging with probe-rs - supports ARM Cortex-M, RISC-V debugging via J-Link, ST-Link, and more",
+        "github_url": "https://github.com/Adancurusul/embedded-debugger-mcp"
       }
     ]
   }
