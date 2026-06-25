@@ -7,15 +7,17 @@ permalink: /agent-skills/scenario/mcp-memory/
 # Best AI Agent Skills for MCP Memory & Knowledge in 2026
 
 ## Quick Pick
-<a href="https://github.com/agentic-box/memora" target="_blank" rel="noopener"><strong>memora</strong></a> · ★ 407 · Give your AI agents persistent memory.
+<a href="https://github.com/iikarus/Dragon-Brain" target="_blank" rel="noopener"><strong>Dragon-Brain</strong></a> · ★ 50 · Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context
 
 ## 工具列表
 
+- <a href="https://github.com/iikarus/Dragon-Brain" target="_blank" rel="noopener"><strong>Dragon-Brain</strong></a> by iikarus · ★ 50 · Python MCP Server
+  - Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context Protocol). Knowledge graph (FalkorDB) + vector search (Qdrant) + CUDA GPU embeddings. Works with Claude, Gemini CLI, Cursor, Windsurf, VS Code Copilot. 30 tools, 1121 tests.
 - <a href="https://github.com/agentic-box/memora" target="_blank" rel="noopener"><strong>memora</strong></a> by agentic-box · ★ 407 · Python MCP Server
   - Give your AI agents persistent memory.
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 863 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
-- <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 138 · Python MCP Server
+- <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 140 · Python MCP Server
   - Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 - <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 160 · Python MCP Server
   - Persistent memory for AI coding agents
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
 - <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 541 · TypeScript MCP Server
   - The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.
-- <a href="https://github.com/aouicher/graphmind" target="_blank" rel="noopener"><strong>graphmind</strong></a> by aouicher · ★ 50 · Rust MCP Server
-  - Local-first code intelligence for AI assistants. Turns your codebase into a knowledge graph your AI can query, navigate, and remember. 25 MCP tools.

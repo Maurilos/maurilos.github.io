@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/code-completion/
 # Best AI Agent Skills for Code Completion & Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> · ★ 70.5k · 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡
+<a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> · ★ 70.7k · 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡
 
 ## 工具列表
 
-- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> by nexu-io · ★ 70.5k · TypeScript Codex Skill
+- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design</strong></a> by nexu-io · ★ 70.7k · TypeScript Codex Skill
   - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
@@ -19,10 +19,10 @@ permalink: /agent-skills/scenario/code-completion/
   - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - <a href="https://github.com/OthmanAdi/planning-with-files" target="_blank" rel="noopener"><strong>planning-with-files</strong></a> by OthmanAdi · ★ 23.4k · Python Claude Skill
   - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
+- <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 19.4k · Python Agent Tool
+  - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 18.1k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-- <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 18.5k · Python Agent Tool
-  - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - <a href="https://github.com/decolua/9router" target="_blank" rel="noopener"><strong>9router</strong></a> by decolua · ★ 18.1k · JavaScript Codex Skill
   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 9.2k · TypeScript Codex Skill
