@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "44.4k",
+        "stars": "44.5k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "YourMemory",
         "author": "sachitrafa",
-        "stars": "246",
+        "stars": "247",
         "meta": "Python MCP Server",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.",
         "github_url": "https://github.com/sachitrafa/YourMemory"
@@ -838,7 +838,7 @@
     "local_url": "/agent-skills/scenario/code-review/",
     "quick_pick": {
       "name": "open-code-review",
-      "stars": "9.3k",
+      "stars": "9.4k",
       "tagline": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code",
       "github_url": "https://github.com/alibaba/open-code-review"
     },
@@ -847,7 +847,7 @@
         "rank": 1,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "9.3k",
+        "stars": "9.4k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "71.2k",
+      "stars": "71.4k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "71.2k",
+        "stars": "71.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -994,21 +994,21 @@
       },
       {
         "rank": 6,
+        "name": "9router",
+        "author": "decolua",
+        "stars": "18.5k",
+        "meta": "JavaScript Codex Skill",
+        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+        "github_url": "https://github.com/decolua/9router"
+      },
+      {
+        "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
         "stars": "18.2k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
-      },
-      {
-        "rank": 7,
-        "name": "9router",
-        "author": "decolua",
-        "stars": "18.1k",
-        "meta": "JavaScript Codex Skill",
-        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-        "github_url": "https://github.com/decolua/9router"
       },
       {
         "rank": 8,
@@ -1062,21 +1062,21 @@
       },
       {
         "rank": 2,
+        "name": "gem-team",
+        "author": "mubaidr",
+        "stars": "173",
+        "meta": "Agent Tool",
+        "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification. With smarter tool calling and leaner context.",
+        "github_url": "https://github.com/mubaidr/gem-team"
+      },
+      {
+        "rank": 3,
         "name": "facts",
         "author": "av",
         "stars": "181",
         "meta": "Rust Codex Skill",
         "description": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
         "github_url": "https://github.com/av/facts"
-      },
-      {
-        "rank": 3,
-        "name": "gem-team",
-        "author": "mubaidr",
-        "stars": "172",
-        "meta": "Agent Tool",
-        "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
-        "github_url": "https://github.com/mubaidr/gem-team"
       },
       {
         "rank": 4,
@@ -1109,7 +1109,7 @@
         "rank": 7,
         "name": "reverse-skill",
         "author": "zhaoxuya520",
-        "stars": "6.3k",
+        "stars": "6.4k",
         "meta": "PowerShell Agent Tool",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
         "github_url": "https://github.com/zhaoxuya520/reverse-skill"
