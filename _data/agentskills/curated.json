@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "71.0k",
+      "stars": "71.2k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "71.0k",
+        "stars": "71.2k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -976,21 +976,21 @@
       },
       {
         "rank": 4,
+        "name": "OpenMontage",
+        "author": "calesthio",
+        "stars": "22.1k",
+        "meta": "Python Agent Tool",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "github_url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "rank": 5,
         "name": "planning-with-files",
         "author": "OthmanAdi",
         "stars": "23.4k",
         "meta": "Python Claude Skill",
         "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
         "github_url": "https://github.com/OthmanAdi/planning-with-files"
-      },
-      {
-        "rank": 5,
-        "name": "OpenMontage",
-        "author": "calesthio",
-        "stars": "19.4k",
-        "meta": "Python Agent Tool",
-        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-        "github_url": "https://github.com/calesthio/OpenMontage"
       },
       {
         "rank": 6,
