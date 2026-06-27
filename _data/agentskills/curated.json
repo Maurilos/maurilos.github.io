@@ -456,21 +456,21 @@
       },
       {
         "rank": 4,
+        "name": "omega-memory",
+        "author": "omega-memory",
+        "stars": "170",
+        "meta": "Python MCP Server",
+        "description": "Persistent memory for AI coding agents",
+        "github_url": "https://github.com/omega-memory/omega-memory"
+      },
+      {
+        "rank": 5,
         "name": "caura-memclaw",
         "author": "caura-ai",
         "stars": "145",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
-      },
-      {
-        "rank": 5,
-        "name": "omega-memory",
-        "author": "omega-memory",
-        "stars": "160",
-        "meta": "Python MCP Server",
-        "description": "Persistent memory for AI coding agents",
-        "github_url": "https://github.com/omega-memory/omega-memory"
       },
       {
         "rank": 6,
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "2.4k",
+        "stars": "2.8k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -799,7 +799,7 @@
         "author": "tanaikech",
         "stars": "167",
         "meta": "Go MCP Server",
-        "description": "High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Apps Script (GAS) dynamically, automate conflict policies, recursive transfer, and manage Drive infrastructure.",
+        "description": "High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, and manage Drive infrastructure.",
         "github_url": "https://github.com/tanaikech/ggsrun"
       },
       {
@@ -919,7 +919,7 @@
         "rank": 9,
         "name": "claude-night-market",
         "author": "athola",
-        "stars": "310",
+        "stars": "317",
         "meta": "Python Claude Skill",
         "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
         "github_url": "https://github.com/athola/claude-night-market"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "71.7k",
+      "stars": "71.8k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "71.7k",
+        "stars": "71.8k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
