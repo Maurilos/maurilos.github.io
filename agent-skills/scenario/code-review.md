@@ -7,10 +7,12 @@ permalink: /agent-skills/scenario/code-review/
 # Best AI Agent Skills for Code Review in 2026
 
 ## Quick Pick
-<a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> · ★ 9.4k · Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code
+<a href="https://github.com/hyhmrright/brooks-lint" target="_blank" rel="noopener"><strong>brooks-lint</strong></a> · ★ 1.2k · AI code reviews grounded in 12 classic engineering books — decay risk diagnostic
 
 ## 工具列表
 
+- <a href="https://github.com/hyhmrright/brooks-lint" target="_blank" rel="noopener"><strong>brooks-lint</strong></a> by hyhmrright · ★ 1.2k · JavaScript Codex Skill
+  - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
 - <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 9.4k · Go Agent Tool
   - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - <a href="https://github.com/mattzcarey/shippie" target="_blank" rel="noopener"><strong>shippie</strong></a> by mattzcarey · ★ 2.4k · TypeScript MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/code-review/
   - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.
 - <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 317 · Python Claude Skill
   - 23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.
-- <a href="https://github.com/spencermarx/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by spencermarx · ★ 251 · TypeScript Claude Skill
-  - AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in discourse.

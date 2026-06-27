@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "87",
+        "stars": "88",
         "meta": "TypeScript MCP Server",
         "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "2.8k",
+        "stars": "3.0k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -837,14 +837,23 @@
     "slug": "code-review",
     "local_url": "/agent-skills/scenario/code-review/",
     "quick_pick": {
-      "name": "open-code-review",
-      "stars": "9.4k",
-      "tagline": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code",
-      "github_url": "https://github.com/alibaba/open-code-review"
+      "name": "brooks-lint",
+      "stars": "1.2k",
+      "tagline": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostic",
+      "github_url": "https://github.com/hyhmrright/brooks-lint"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "brooks-lint",
+        "author": "hyhmrright",
+        "stars": "1.2k",
+        "meta": "JavaScript Codex Skill",
+        "description": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
+        "github_url": "https://github.com/hyhmrright/brooks-lint"
+      },
+      {
+        "rank": 2,
         "name": "open-code-review",
         "author": "alibaba",
         "stars": "9.4k",
@@ -853,7 +862,7 @@
         "github_url": "https://github.com/alibaba/open-code-review"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "shippie",
         "author": "mattzcarey",
         "stars": "2.4k",
@@ -862,7 +871,7 @@
         "github_url": "https://github.com/mattzcarey/shippie"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "code-review-skill",
         "author": "awesome-skills",
         "stars": "1.2k",
@@ -871,7 +880,7 @@
         "github_url": "https://github.com/awesome-skills/code-review-skill"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "tuicr",
         "author": "agavra",
         "stars": "994",
@@ -880,7 +889,7 @@
         "github_url": "https://github.com/agavra/tuicr"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Claude-Command-Suite",
         "author": "qdhenry",
         "stars": "978",
@@ -889,7 +898,7 @@
         "github_url": "https://github.com/qdhenry/Claude-Command-Suite"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "ai-review",
         "author": "Nikita-Filonov",
         "stars": "476",
@@ -898,7 +907,7 @@
         "github_url": "https://github.com/Nikita-Filonov/ai-review"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "maestro-orchestrate",
         "author": "josstei",
         "stars": "432",
@@ -907,7 +916,7 @@
         "github_url": "https://github.com/josstei/maestro-orchestrate"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Gito",
         "author": "Nayjest",
         "stars": "375",
@@ -916,22 +925,13 @@
         "github_url": "https://github.com/Nayjest/Gito"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "claude-night-market",
         "author": "athola",
         "stars": "317",
         "meta": "Python Claude Skill",
         "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
         "github_url": "https://github.com/athola/claude-night-market"
-      },
-      {
-        "rank": 10,
-        "name": "open-code-review",
-        "author": "spencermarx",
-        "stars": "251",
-        "meta": "TypeScript Claude Skill",
-        "description": "AI-powered multi-agent code review. Simulates a customizable team of Engineers performing code review with built-in discourse.",
-        "github_url": "https://github.com/spencermarx/open-code-review"
       }
     ]
   },
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "71.8k",
+      "stars": "71.9k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "71.8k",
+        "stars": "71.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "9.3k",
+        "stars": "9.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
