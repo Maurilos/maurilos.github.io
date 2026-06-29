@@ -51,7 +51,7 @@
         "rank": 5,
         "name": "Clauge",
         "author": "ClaugeHQ",
-        "stars": "787",
+        "stars": "805",
         "meta": "Svelte Codex Skill",
         "description": "The AI-powered super-app for developers.",
         "github_url": "https://github.com/ClaugeHQ/Clauge"
@@ -456,21 +456,21 @@
       },
       {
         "rank": 4,
+        "name": "caura-memclaw",
+        "author": "caura-ai",
+        "stars": "167",
+        "meta": "Python MCP Server",
+        "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+        "github_url": "https://github.com/caura-ai/caura-memclaw"
+      },
+      {
+        "rank": 5,
         "name": "omega-memory",
         "author": "omega-memory",
         "stars": "170",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
-      },
-      {
-        "rank": 5,
-        "name": "caura-memclaw",
-        "author": "caura-ai",
-        "stars": "164",
-        "meta": "Python MCP Server",
-        "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
-        "github_url": "https://github.com/caura-ai/caura-memclaw"
       },
       {
         "rank": 6,
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode",
-      "stars": "868",
+      "stars": "871",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "868",
+        "stars": "871",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "72.3k",
+      "stars": "72.4k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "72.3k",
+        "stars": "72.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1023,7 +1023,7 @@
         "rank": 9,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "7.2k",
+        "stars": "7.4k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
