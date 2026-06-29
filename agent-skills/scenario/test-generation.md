@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/test-generation/
   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 - <a href="https://github.com/antiwork/shortest" target="_blank" rel="noopener"><strong>shortest</strong></a> by antiwork · ★ 5.6k · TypeScript Agent Tool
   - QA via natural language AI tests
+- <a href="https://github.com/callstack/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstack · ★ 3.0k · TypeScript MCP Server
+  - CLI to control iOS and Android devices for AI agents
 - <a href="https://github.com/httprunner/httprunner" target="_blank" rel="noopener"><strong>httprunner</strong></a> by httprunner · ★ 4.3k · Go MCP Server
   - HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
-- <a href="https://github.com/callstack/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstack · ★ 2.9k · TypeScript MCP Server
-  - CLI to control iOS and Android devices for AI agents

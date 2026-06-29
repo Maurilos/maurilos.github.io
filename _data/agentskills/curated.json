@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "44.6k",
+        "stars": "44.7k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -438,15 +438,6 @@
       },
       {
         "rank": 2,
-        "name": "memora",
-        "author": "agentic-box",
-        "stars": "407",
-        "meta": "Python MCP Server",
-        "description": "Give your AI agents persistent memory.",
-        "github_url": "https://github.com/agentic-box/memora"
-      },
-      {
-        "rank": 3,
         "name": "mcp-knowledge-graph",
         "author": "shaneholloman",
         "stars": "863",
@@ -455,16 +446,16 @@
         "github_url": "https://github.com/shaneholloman/mcp-knowledge-graph"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "172",
+        "stars": "173",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "omega-memory",
         "author": "omega-memory",
         "stars": "170",
@@ -473,7 +464,7 @@
         "github_url": "https://github.com/omega-memory/omega-memory"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "MemOS",
         "author": "MemTensor",
         "stars": "10.0k",
@@ -482,7 +473,7 @@
         "github_url": "https://github.com/MemTensor/MemOS"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "brain-mcp",
         "author": "mordechaipotash",
         "stars": "53",
@@ -491,16 +482,16 @@
         "github_url": "https://github.com/mordechaipotash/brain-mcp"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "YourMemory",
         "author": "sachitrafa",
-        "stars": "247",
+        "stars": "248",
         "meta": "Python MCP Server",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.",
         "github_url": "https://github.com/sachitrafa/YourMemory"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "mengram",
         "author": "alibaizhanov",
         "stars": "178",
@@ -509,13 +500,22 @@
         "github_url": "https://github.com/alibaizhanov/mengram"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "swarmvault",
         "author": "swarmclawai",
         "stars": "541",
         "meta": "TypeScript MCP Server",
         "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
         "github_url": "https://github.com/swarmclawai/swarmvault"
+      },
+      {
+        "rank": 10,
+        "name": "zettelforge",
+        "author": "rolandpg",
+        "stars": "50",
+        "meta": "Python MCP Server",
+        "description": "Agentic memory for CTI in Python — STIX knowledge graphs, threat-actor alias resolution, offline-first RAG, MCP server for Claude Code and LangChain agents",
+        "github_url": "https://github.com/rolandpg/zettelforge"
       }
     ]
   },
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode",
-      "stars": "871",
+      "stars": "872",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "871",
+        "stars": "872",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "3.3k",
+        "stars": "3.9k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "72.6k",
+      "stars": "72.8k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "72.6k",
+        "stars": "72.8k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "9.4k",
+        "stars": "9.5k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1023,7 +1023,7 @@
         "rank": 9,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "7.7k",
+        "stars": "7.8k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1125,21 +1125,21 @@
       },
       {
         "rank": 9,
+        "name": "agent-device",
+        "author": "callstack",
+        "stars": "3.0k",
+        "meta": "TypeScript MCP Server",
+        "description": "CLI to control iOS and Android devices for AI agents",
+        "github_url": "https://github.com/callstack/agent-device"
+      },
+      {
+        "rank": 10,
         "name": "httprunner",
         "author": "httprunner",
         "stars": "4.3k",
         "meta": "Go MCP Server",
         "description": "HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。",
         "github_url": "https://github.com/httprunner/httprunner"
-      },
-      {
-        "rank": 10,
-        "name": "agent-device",
-        "author": "callstack",
-        "stars": "2.9k",
-        "meta": "TypeScript MCP Server",
-        "description": "CLI to control iOS and Android devices for AI agents",
-        "github_url": "https://github.com/callstack/agent-device"
       }
     ]
   },
