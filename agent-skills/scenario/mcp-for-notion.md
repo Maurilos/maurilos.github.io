@@ -19,8 +19,8 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- <a href="https://github.com/borghei/Claude-Skills" target="_blank" rel="noopener"><strong>Claude-Skills</strong></a> by borghei · ★ 295 · HTML MCP Server
-  - 338 AI skills across 16 domains. PM is the deepest (66 skills - discovery, execution, strategy frameworks, GTM, Jira/Linear/Notion). Plus engineering, marketing, C-level (CAIO/CDO/CCO/GC/VPE), compliance + audit-prep, new research/ domain, vertical advisors. 74 expert agents, 784+ stdlib Python tools. 11 AI assistants.
+- <a href="https://github.com/borghei/Claude-Skills" target="_blank" rel="noopener"><strong>Claude-Skills</strong></a> by borghei · ★ 317 · HTML MCP Server
+  - 343 AI skills, 76 expert agents, and 835 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, and more. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.
 - <a href="https://github.com/danhilse/notion_mcp" target="_blank" rel="noopener"><strong>notion_mcp</strong></a> by danhilse · ★ 206 · Python MCP Server
   - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 72 · TypeScript MCP Server

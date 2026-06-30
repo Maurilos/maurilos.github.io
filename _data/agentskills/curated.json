@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "173",
+        "stars": "175",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -571,9 +571,9 @@
         "rank": 5,
         "name": "Claude-Skills",
         "author": "borghei",
-        "stars": "295",
+        "stars": "317",
         "meta": "HTML MCP Server",
-        "description": "338 AI skills across 16 domains. PM is the deepest (66 skills - discovery, execution, strategy frameworks, GTM, Jira/Linear/Notion). Plus engineering, marketing, C-level (CAIO/CDO/CCO/GC/VPE), compliance + audit-prep, new research/ domain, vertical advisors. 74 expert agents, 784+ stdlib Python tools. 11 AI assistants.",
+        "description": "343 AI skills, 76 expert agents, and 835 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, and more. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.",
         "github_url": "https://github.com/borghei/Claude-Skills"
       },
       {
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode",
-      "stars": "872",
+      "stars": "873",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "872",
+        "stars": "873",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -666,7 +666,7 @@
         "rank": 4,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
-        "stars": "14.1k",
+        "stars": "14.3k",
         "meta": "Python MCP Server",
         "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "994",
+        "stars": "1.0k",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "72.8k",
+      "stars": "72.9k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "72.8k",
+        "stars": "72.9k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "25.3k",
+        "stars": "28.6k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
@@ -1023,7 +1023,7 @@
         "rank": 9,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "7.8k",
+        "stars": "7.9k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "jumpstarter",
-      "stars": "194",
+      "stars": "195",
       "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
       "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "194",
+        "stars": "195",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1204,7 +1204,7 @@
         "rank": 6,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "376",
+        "stars": "377",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"
