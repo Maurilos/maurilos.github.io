@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-database/
   - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 80 · Go MCP Server
   - The agentic server framework.
-- <a href="https://github.com/ClaugeHQ/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ClaugeHQ · ★ 805 · Svelte Codex Skill
+- <a href="https://github.com/ClaugeHQ/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ClaugeHQ · ★ 806 · Svelte Codex Skill
   - The AI-powered super-app for developers.
 - <a href="https://github.com/ansxuman/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ansxuman · ★ 736 · Svelte Codex Skill
   - One window. Every dev tool.
