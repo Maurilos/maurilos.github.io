@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.
 - <a href="https://github.com/alibaizhanov/mengram" target="_blank" rel="noopener"><strong>mengram</strong></a> by alibaizhanov · ★ 178 · Python MCP Server
   - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
-- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 541 · TypeScript MCP Server
+- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 591 · TypeScript MCP Server
   - The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.

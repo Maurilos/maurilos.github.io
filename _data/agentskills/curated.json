@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "16.7k",
+        "stars": "16.9k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -370,21 +370,21 @@
       },
       {
         "rank": 6,
+        "name": "mcp2cli",
+        "author": "knowsuchagency",
+        "stars": "2.3k",
+        "meta": "Python MCP Server",
+        "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen Quick Start: ```bash # Run directly without installing uvx mcp2cli --help # Or install globally uv tool install mcp2cli ```",
+        "github_url": "https://github.com/knowsuchagency/mcp2cli"
+      },
+      {
+        "rank": 7,
         "name": "openapi-to-cli",
         "author": "EvilFreelancer",
         "stars": "240",
         "meta": "TypeScript Codex Skill",
         "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.",
         "github_url": "https://github.com/EvilFreelancer/openapi-to-cli"
-      },
-      {
-        "rank": 7,
-        "name": "mcp2cli",
-        "author": "knowsuchagency",
-        "stars": "2.2k",
-        "meta": "Python MCP Server",
-        "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen Quick Start: ```bash # Run directly without installing uvx mcp2cli --help # Or install globally uv tool install mcp2cli ```",
-        "github_url": "https://github.com/knowsuchagency/mcp2cli"
       },
       {
         "rank": 8,
@@ -512,7 +512,7 @@
         "rank": 10,
         "name": "swarmvault",
         "author": "swarmclawai",
-        "stars": "541",
+        "stars": "591",
         "meta": "TypeScript MCP Server",
         "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
         "github_url": "https://github.com/swarmclawai/swarmvault"
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode",
-      "stars": "873",
+      "stars": "872",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "873",
+        "stars": "872",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "agents-shipgate",
         "author": "ThreeMoonsLab",
-        "stars": "106",
+        "stars": "104",
         "meta": "Python MCP Server",
         "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
         "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "ggsrun",
         "author": "tanaikech",
-        "stars": "167",
+        "stars": "168",
         "meta": "Go MCP Server",
         "description": "High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, and manage Drive infrastructure.",
         "github_url": "https://github.com/tanaikech/ggsrun"
@@ -928,7 +928,7 @@
         "rank": 10,
         "name": "claude-night-market",
         "author": "athola",
-        "stars": "318",
+        "stars": "319",
         "meta": "Python Claude Skill",
         "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
         "github_url": "https://github.com/athola/claude-night-market"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "73.3k",
+      "stars": "73.4k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "73.3k",
+        "stars": "73.4k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1023,9 +1023,9 @@
         "rank": 9,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "8.3k",
+        "stars": "8.5k",
         "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
@@ -1204,7 +1204,7 @@
         "rank": 6,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "377",
+        "stars": "376",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"

@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/debugging/
   - An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.
 - <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 394 · TypeScript MCP Server
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
-- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 377 · C++ MCP Server
+- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 376 · C++ MCP Server
   - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - <a href="https://github.com/codexstar69/bug-hunter" target="_blank" rel="noopener"><strong>bug-hunter</strong></a> by codexstar69 · ★ 209 · JavaScript Claude Skill
   - Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.

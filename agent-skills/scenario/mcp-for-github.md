@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-for-github/
 # Best AI Agent Skills for MCP Tools for GitHub in 2026
 
 ## Quick Pick
-<a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> · ★ 873 · MCP server for semantic code research and context generation on real-time using
+<a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> · ★ 872 · MCP server for semantic code research and context generation on real-time using
 
 ## 工具列表
 
-- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 873 · TypeScript MCP Server
+- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 872 · TypeScript MCP Server
   - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
 - <a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> by bgauryy · ★ 838 · TypeScript MCP Server
   - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 418 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
-- <a href="https://github.com/ThreeMoonsLab/agents-shipgate" target="_blank" rel="noopener"><strong>agents-shipgate</strong></a> by ThreeMoonsLab · ★ 106 · Python MCP Server
+- <a href="https://github.com/ThreeMoonsLab/agents-shipgate" target="_blank" rel="noopener"><strong>agents-shipgate</strong></a> by ThreeMoonsLab · ★ 104 · Python MCP Server
   - The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.
 - <a href="https://github.com/garagon/aguara" target="_blank" rel="noopener"><strong>aguara</strong></a> by garagon · ★ 81 · Go MCP Server
   - Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.
