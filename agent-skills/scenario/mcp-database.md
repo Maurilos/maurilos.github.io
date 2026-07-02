@@ -14,7 +14,7 @@ permalink: /agent-skills/scenario/mcp-database/
 - <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 15.8k · Go MCP Server
   - MCP Toolbox for Databases is an open source MCP server for databases.
 - <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 3.5k · TypeScript MCP Server
-  - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 12+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
+  - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 3.1k · TypeScript MCP Server
   - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 80 · Go MCP Server
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-database/
   - phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- <a href="https://github.com/ystemsrx/sql_to_ER" target="_blank" rel="noopener"><strong>sql_to_ER</strong></a> by ystemsrx · ★ 174 · JavaScript Agent Tool
+- <a href="https://github.com/ystemsrx/sql_to_ER" target="_blank" rel="noopener"><strong>sql_to_ER</strong></a> by ystemsrx · ★ 175 · JavaScript Agent Tool
   - 【在线免费使用】 简单快速将SQL或DBML转换为美观的ER图（支持 Agent Skill）/ The best SQL to ER Diagram converter (Support Agent Skill).

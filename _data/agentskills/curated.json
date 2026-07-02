@@ -26,7 +26,7 @@
         "author": "TabularisDB",
         "stars": "3.5k",
         "meta": "TypeScript MCP Server",
-        "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 12+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
+        "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
         "github_url": "https://github.com/TabularisDB/tabularis"
       },
       {
@@ -96,7 +96,7 @@
         "rank": 10,
         "name": "sql_to_ER",
         "author": "ystemsrx",
-        "stars": "174",
+        "stars": "175",
         "meta": "JavaScript Agent Tool",
         "description": "【在线免费使用】 简单快速将SQL或DBML转换为美观的ER图（支持 Agent Skill）/ The best SQL to ER Diagram converter (Support Agent Skill).",
         "github_url": "https://github.com/ystemsrx/sql_to_ER"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "44.9k",
+        "stars": "45.0k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "225",
+        "stars": "228",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -526,7 +526,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
     "quick_pick": {
       "name": "notion-mcp-server",
-      "stars": "159",
+      "stars": "160",
       "tagline": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent",
       "github_url": "https://github.com/awkoy/notion-mcp-server"
     },
@@ -535,7 +535,7 @@
         "rank": 1,
         "name": "notion-mcp-server",
         "author": "awkoy",
-        "stars": "159",
+        "stars": "160",
         "meta": "TypeScript MCP Server",
         "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.",
         "github_url": "https://github.com/awkoy/notion-mcp-server"
@@ -919,7 +919,7 @@
         "rank": 9,
         "name": "Gito",
         "author": "Nayjest",
-        "stars": "375",
+        "stars": "378",
         "meta": "Python Agent Tool",
         "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
         "github_url": "https://github.com/Nayjest/Gito"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "74.0k",
+      "stars": "74.2k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "74.0k",
+        "stars": "74.2k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "9.9k",
+        "stars": "10.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1100,7 +1100,7 @@
         "rank": 6,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "22.8k",
+        "stars": "22.9k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
