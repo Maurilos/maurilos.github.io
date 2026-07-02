@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "phpMyFAQ",
         "author": "thorsten",
-        "stars": "619",
+        "stars": "620",
         "meta": "PHP MCP Server",
         "description": "phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases",
         "github_url": "https://github.com/thorsten/phpMyFAQ"
@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "17.2k",
+        "stars": "17.3k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "218",
+        "stars": "225",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "ratel",
         "author": "ratel-ai",
-        "stars": "143",
+        "stars": "151",
         "meta": "TypeScript MCP Server",
         "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 retrieval. No vector DB. No embeddings.",
         "github_url": "https://github.com/ratel-ai/ratel"
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode",
-      "stars": "872",
+      "stars": "873",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "872",
+        "stars": "873",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "4.6k",
+        "stars": "4.8k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "9.7k",
+        "stars": "9.8k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "open-design",
-      "stars": "73.7k",
+      "stars": "74.0k",
       "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
       "github_url": "https://github.com/nexu-io/open-design"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "open-design",
         "author": "nexu-io",
-        "stars": "73.7k",
+        "stars": "74.0k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "30.9k",
+        "stars": "31.3k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "18.4k",
+        "stars": "18.5k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "9.5k",
+        "stars": "9.9k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
