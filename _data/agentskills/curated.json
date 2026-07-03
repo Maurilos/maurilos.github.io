@@ -78,7 +78,7 @@
         "rank": 8,
         "name": "phpMyFAQ",
         "author": "thorsten",
-        "stars": "620",
+        "stars": "619",
         "meta": "PHP MCP Server",
         "description": "phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases",
         "github_url": "https://github.com/thorsten/phpMyFAQ"
@@ -96,7 +96,7 @@
         "rank": 10,
         "name": "sql_to_ER",
         "author": "ystemsrx",
-        "stars": "175",
+        "stars": "176",
         "meta": "JavaScript Agent Tool",
         "description": "【在线免费使用】 简单快速将SQL或DBML转换为美观的ER图（支持 Agent Skill）/ The best SQL to ER Diagram converter (Support Agent Skill).",
         "github_url": "https://github.com/ystemsrx/sql_to_ER"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "45.1k",
+        "stars": "45.4k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "17.4k",
+        "stars": "17.5k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -277,7 +277,7 @@
         "rank": 7,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
-        "stars": "127",
+        "stars": "131",
         "meta": "Python MCP Server",
         "description": "💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.",
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
@@ -399,7 +399,7 @@
         "rank": 9,
         "name": "kubb",
         "author": "kubb-labs",
-        "stars": "1.7k",
+        "stars": "1.8k",
         "meta": "TypeScript MCP Server",
         "description": "🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine. Quick Start: ```bash bun add kubb # or pnpm add kubb # or npm install kubb ```",
         "github_url": "https://github.com/kubb-labs/kubb"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "ratel",
         "author": "ratel-ai",
-        "stars": "151",
+        "stars": "156",
         "meta": "TypeScript MCP Server",
         "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 retrieval. No vector DB. No embeddings.",
         "github_url": "https://github.com/ratel-ai/ratel"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "4.8k",
+        "stars": "5.2k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "9.8k",
+        "stars": "9.9k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -941,32 +941,23 @@
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
-      "name": "open-design",
-      "stars": "74.3k",
-      "tagline": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡",
-      "github_url": "https://github.com/nexu-io/open-design"
+      "name": "OpenMontage",
+      "stars": "32.2k",
+      "tagline": "World's first open-source, agentic video production system. 12 pipelines, 52 too",
+      "github_url": "https://github.com/calesthio/OpenMontage"
     },
     "tools": [
       {
         "rank": 1,
-        "name": "open-design",
-        "author": "nexu-io",
-        "stars": "74.3k",
-        "meta": "TypeScript Codex Skill",
-        "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
-        "github_url": "https://github.com/nexu-io/open-design"
-      },
-      {
-        "rank": 2,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "31.7k",
+        "stars": "32.2k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "agentmemory",
         "author": "rohitg00",
         "stars": "24.3k",
@@ -975,7 +966,7 @@
         "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "mode",
         "author": "arunalabs",
         "stars": "71",
@@ -984,13 +975,22 @@
         "github_url": "https://github.com/arunalabs/mode"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "planning-with-files",
         "author": "OthmanAdi",
-        "stars": "23.4k",
+        "stars": "24.4k",
         "meta": "Python Claude Skill",
         "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
         "github_url": "https://github.com/OthmanAdi/planning-with-files"
+      },
+      {
+        "rank": 5,
+        "name": "9router",
+        "author": "decolua",
+        "stars": "19.6k",
+        "meta": "JavaScript Codex Skill",
+        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+        "github_url": "https://github.com/decolua/9router"
       },
       {
         "rank": 6,
@@ -1003,24 +1003,15 @@
       },
       {
         "rank": 7,
-        "name": "9router",
-        "author": "decolua",
-        "stars": "18.8k",
-        "meta": "JavaScript Codex Skill",
-        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-        "github_url": "https://github.com/decolua/9router"
-      },
-      {
-        "rank": 8,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "10.2k",
+        "stars": "10.6k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
         "stars": "9.7k",
@@ -1029,13 +1020,22 @@
         "github_url": "https://github.com/getpaseo/paseo"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "html-anything",
         "author": "nexu-io",
-        "stars": "6.9k",
+        "stars": "7.5k",
         "meta": "HTML Claude Skill",
         "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
         "github_url": "https://github.com/nexu-io/html-anything"
+      },
+      {
+        "rank": 10,
+        "name": "superpowers-zh",
+        "author": "jnMetaCode",
+        "stars": "5.8k",
+        "meta": "JavaScript MCP Server",
+        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
+        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
       }
     ]
   },
@@ -1091,7 +1091,7 @@
         "rank": 5,
         "name": "eval-view",
         "author": "hidai25",
-        "stars": "114",
+        "stars": "118",
         "meta": "Python MCP Server",
         "description": "Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.",
         "github_url": "https://github.com/hidai25/eval-view"
@@ -1109,7 +1109,7 @@
         "rank": 7,
         "name": "reverse-skill",
         "author": "zhaoxuya520",
-        "stars": "6.9k",
+        "stars": "7.2k",
         "meta": "PowerShell Agent Tool",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
         "github_url": "https://github.com/zhaoxuya520/reverse-skill"
@@ -1127,7 +1127,7 @@
         "rank": 9,
         "name": "agent-device",
         "author": "callstack",
-        "stars": "3.0k",
+        "stars": "3.1k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstack/agent-device"

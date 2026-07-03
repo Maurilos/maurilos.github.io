@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/code-review/
 
 - <a href="https://github.com/hyhmrright/brooks-lint" target="_blank" rel="noopener"><strong>brooks-lint</strong></a> by hyhmrright · ★ 1.2k · JavaScript Codex Skill
   - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
-- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 9.8k · Go Agent Tool
+- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 9.9k · Go Agent Tool
   - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - <a href="https://github.com/mattzcarey/shippie" target="_blank" rel="noopener"><strong>shippie</strong></a> by mattzcarey · ★ 2.4k · TypeScript MCP Server
   - extendable code review and QA agent 🚢
