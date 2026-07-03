@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/test-generation/
   - QA via natural language AI tests
 - <a href="https://github.com/callstack/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstack · ★ 3.0k · TypeScript MCP Server
   - CLI to control iOS and Android devices for AI agents
-- <a href="https://github.com/httprunner/httprunner" target="_blank" rel="noopener"><strong>httprunner</strong></a> by httprunner · ★ 4.3k · Go MCP Server
-  - HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+- <a href="https://github.com/addyosmani/web-quality-skills" target="_blank" rel="noopener"><strong>web-quality-skills</strong></a> by addyosmani · ★ 2.3k · Shell Claude Skill
+  - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.

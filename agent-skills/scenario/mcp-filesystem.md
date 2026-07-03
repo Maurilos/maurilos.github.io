@@ -17,10 +17,10 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.
 - <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 6.2k · TypeScript MCP Server
   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-- <a href="https://github.com/AnalyseDeCircuit/oxideterm" target="_blank" rel="noopener"><strong>oxideterm</strong></a> by AnalyseDeCircuit · ★ 629 · Rust MCP Server
-  - All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.
 - <a href="https://github.com/mark3labs/mcp-filesystem-server" target="_blank" rel="noopener"><strong>mcp-filesystem-server</strong></a> by mark3labs · ★ 613 · Go MCP Server
   - Go server implementing Model Context Protocol (MCP) for filesystem operations.
+- <a href="https://github.com/AnalyseDeCircuit/oxideterm" target="_blank" rel="noopener"><strong>oxideterm</strong></a> by AnalyseDeCircuit · ★ 629 · Rust MCP Server
+  - All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.
 - <a href="https://github.com/MorDavid/BloodHound-MCP-AI" target="_blank" rel="noopener"><strong>BloodHound-MCP-AI</strong></a> by MorDavid · ★ 340 · Python MCP Server
   - BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.
 - <a href="https://github.com/atom2ueki/mcp-server-synology" target="_blank" rel="noopener"><strong>mcp-server-synology</strong></a> by atom2ueki · ★ 127 · Python MCP Server

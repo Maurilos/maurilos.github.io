@@ -248,21 +248,21 @@
       },
       {
         "rank": 4,
-        "name": "oxideterm",
-        "author": "AnalyseDeCircuit",
-        "stars": "629",
-        "meta": "Rust MCP Server",
-        "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
-        "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
-      },
-      {
-        "rank": 5,
         "name": "mcp-filesystem-server",
         "author": "mark3labs",
         "stars": "613",
         "meta": "Go MCP Server",
         "description": "Go server implementing Model Context Protocol (MCP) for filesystem operations.",
         "github_url": "https://github.com/mark3labs/mcp-filesystem-server"
+      },
+      {
+        "rank": 5,
+        "name": "oxideterm",
+        "author": "AnalyseDeCircuit",
+        "stars": "629",
+        "meta": "Rust MCP Server",
+        "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
+        "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
       },
       {
         "rank": 6,
@@ -406,12 +406,12 @@
       },
       {
         "rank": 10,
-        "name": "open-trading-api",
-        "author": "koreainvestment",
-        "stars": "1.5k",
-        "meta": "Python MCP Server",
-        "description": "Korea Investment & Securities Open API Github",
-        "github_url": "https://github.com/koreainvestment/open-trading-api"
+        "name": "sourcey",
+        "author": "sourcey",
+        "stars": "1.3k",
+        "meta": "TypeScript MCP Server",
+        "description": "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.",
+        "github_url": "https://github.com/sourcey/sourcey"
       }
     ]
   },
@@ -958,15 +958,6 @@
       },
       {
         "rank": 2,
-        "name": "mode",
-        "author": "arunalabs",
-        "stars": "71",
-        "meta": "TypeScript Agent Tool",
-        "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
-        "github_url": "https://github.com/arunalabs/mode"
-      },
-      {
-        "rank": 3,
         "name": "OpenMontage",
         "author": "calesthio",
         "stars": "31.7k",
@@ -975,13 +966,22 @@
         "github_url": "https://github.com/calesthio/OpenMontage"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
         "stars": "24.3k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
+      },
+      {
+        "rank": 4,
+        "name": "mode",
+        "author": "arunalabs",
+        "stars": "71",
+        "meta": "TypeScript Agent Tool",
+        "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
+        "github_url": "https://github.com/arunalabs/mode"
       },
       {
         "rank": 5,
@@ -994,21 +994,21 @@
       },
       {
         "rank": 6,
-        "name": "9router",
-        "author": "decolua",
-        "stars": "18.8k",
-        "meta": "JavaScript Codex Skill",
-        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-        "github_url": "https://github.com/decolua/9router"
-      },
-      {
-        "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
         "stars": "18.5k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
+      },
+      {
+        "rank": 7,
+        "name": "9router",
+        "author": "decolua",
+        "stars": "18.8k",
+        "meta": "JavaScript Codex Skill",
+        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+        "github_url": "https://github.com/decolua/9router"
       },
       {
         "rank": 8,
@@ -1134,12 +1134,12 @@
       },
       {
         "rank": 10,
-        "name": "httprunner",
-        "author": "httprunner",
-        "stars": "4.3k",
-        "meta": "Go MCP Server",
-        "description": "HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。",
-        "github_url": "https://github.com/httprunner/httprunner"
+        "name": "web-quality-skills",
+        "author": "addyosmani",
+        "stars": "2.3k",
+        "meta": "Shell Claude Skill",
+        "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+        "github_url": "https://github.com/addyosmani/web-quality-skills"
       }
     ]
   },
