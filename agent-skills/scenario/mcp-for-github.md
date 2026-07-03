@@ -21,6 +21,8 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering</strong></a> by cobusgreyling · ★ 4.8k · JavaScript MCP Server
   - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
+- <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
+  - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 418 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
 - <a href="https://github.com/ThreeMoonsLab/agents-shipgate" target="_blank" rel="noopener"><strong>agents-shipgate</strong></a> by ThreeMoonsLab · ★ 104 · Python MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.
 - <a href="https://github.com/gethuman-sh/human" target="_blank" rel="noopener"><strong>human</strong></a> by gethuman-sh · ★ 54 · Go MCP Server
   - The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.
-- <a href="https://github.com/github/github-mcp-server" target="_blank" rel="noopener"><strong>github-mcp-server</strong></a> by github · ★ 31.1k · Go MCP Server
-  - GitHub's official MCP Server
