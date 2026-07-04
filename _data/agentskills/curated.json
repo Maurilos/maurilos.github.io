@@ -146,7 +146,7 @@
         "rank": 4,
         "name": "docker-stealthy-auto-browse",
         "author": "psyb0t",
-        "stars": "56",
+        "stars": "60",
         "meta": "Shell MCP Server",
         "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
         "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "5.2k",
+        "stars": "5.3k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OpenMontage",
-      "stars": "32.2k",
+      "stars": "32.7k",
       "tagline": "World's first open-source, agentic video production system. 12 pipelines, 52 too",
       "github_url": "https://github.com/calesthio/OpenMontage"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "32.2k",
+        "stars": "32.7k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "10.6k",
+        "stars": "11.0k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
