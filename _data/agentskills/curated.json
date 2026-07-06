@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "45.8k",
+        "stars": "46.0k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -295,7 +295,7 @@
         "rank": 9,
         "name": "conduit-mcp",
         "author": "steipete",
-        "stars": "71",
+        "stars": "72",
         "meta": "TypeScript MCP Server",
         "description": "MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.",
         "github_url": "https://github.com/steipete/conduit-mcp"
@@ -449,28 +449,28 @@
         "rank": 3,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "264",
+        "stars": "266",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
       },
       {
         "rank": 4,
+        "name": "ratel",
+        "author": "ratel-ai",
+        "stars": "174",
+        "meta": "Python MCP Server",
+        "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 retrieval. No vector DB. No embeddings.",
+        "github_url": "https://github.com/ratel-ai/ratel"
+      },
+      {
+        "rank": 5,
         "name": "omega-memory",
         "author": "omega-memory",
         "stars": "170",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
-      },
-      {
-        "rank": 5,
-        "name": "ratel",
-        "author": "ratel-ai",
-        "stars": "172",
-        "meta": "Python MCP Server",
-        "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 retrieval. No vector DB. No embeddings.",
-        "github_url": "https://github.com/ratel-ai/ratel"
       },
       {
         "rank": 6,
@@ -718,12 +718,12 @@
       },
       {
         "rank": 10,
-        "name": "human",
-        "author": "gethuman-sh",
-        "stars": "54",
+        "name": "github-mcp-server",
+        "author": "github",
+        "stars": "31.2k",
         "meta": "Go MCP Server",
-        "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
-        "github_url": "https://github.com/gethuman-sh/human"
+        "description": "GitHub's official MCP Server",
+        "github_url": "https://github.com/github/github-mcp-server"
       }
     ]
   },
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "9.9k",
+        "stars": "10.0k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -960,28 +960,28 @@
         "rank": 2,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "24.3k",
+        "stars": "24.6k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
         "rank": 3,
+        "name": "planning-with-files",
+        "author": "OthmanAdi",
+        "stars": "24.9k",
+        "meta": "Python Claude Skill",
+        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+        "github_url": "https://github.com/OthmanAdi/planning-with-files"
+      },
+      {
+        "rank": 4,
         "name": "mode",
         "author": "arunalabs",
         "stars": "71",
         "meta": "TypeScript Agent Tool",
         "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
         "github_url": "https://github.com/arunalabs/mode"
-      },
-      {
-        "rank": 4,
-        "name": "planning-with-files",
-        "author": "OthmanAdi",
-        "stars": "24.4k",
-        "meta": "Python Claude Skill",
-        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-        "github_url": "https://github.com/OthmanAdi/planning-with-files"
       },
       {
         "rank": 5,
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "11.9k",
+        "stars": "12.2k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1032,7 +1032,7 @@
         "rank": 10,
         "name": "superpowers-zh",
         "author": "jnMetaCode",
-        "stars": "5.8k",
+        "stars": "6.4k",
         "meta": "JavaScript MCP Server",
         "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
         "github_url": "https://github.com/jnMetaCode/superpowers-zh"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "jumpstarter",
-      "stars": "195",
+      "stars": "196",
       "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
       "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "195",
+        "stars": "196",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1100,7 +1100,7 @@
         "rank": 6,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "22.9k",
+        "stars": "23.0k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
