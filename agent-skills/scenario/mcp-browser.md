@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-browser/
 # Best AI Agent Skills for MCP Browser Automation in 2026
 
 ## Quick Pick
-<a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> · ★ 3.3k · Allow LLMs to control a browser with Browserbase and Stagehand
+<a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> · ★ 3.4k · Allow LLMs to control a browser with Browserbase and Stagehand
 
 ## 工具列表
 
-- <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.3k · TypeScript MCP Server
+- <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.4k · TypeScript MCP Server
   - Allow LLMs to control a browser with Browserbase and Stagehand
 - <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 46.0k · TypeScript MCP Server
   - Chrome DevTools for coding agents

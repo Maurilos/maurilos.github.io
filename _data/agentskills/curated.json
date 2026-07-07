@@ -110,7 +110,7 @@
     "local_url": "/agent-skills/scenario/mcp-browser/",
     "quick_pick": {
       "name": "mcp-server-browserbase",
-      "stars": "3.3k",
+      "stars": "3.4k",
       "tagline": "Allow LLMs to control a browser with Browserbase and Stagehand",
       "github_url": "https://github.com/browserbase/mcp-server-browserbase"
     },
@@ -119,7 +119,7 @@
         "rank": 1,
         "name": "mcp-server-browserbase",
         "author": "browserbase",
-        "stars": "3.3k",
+        "stars": "3.4k",
         "meta": "TypeScript MCP Server",
         "description": "Allow LLMs to control a browser with Browserbase and Stagehand",
         "github_url": "https://github.com/browserbase/mcp-server-browserbase"
@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "271",
+        "stars": "273",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "6.2k",
+        "stars": "6.3k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "10.0k",
+        "stars": "10.1k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OpenMontage",
-      "stars": "34.3k",
+      "stars": "34.6k",
       "tagline": "World's first open-source, agentic video production system. 12 pipelines, 52 too",
       "github_url": "https://github.com/calesthio/OpenMontage"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "34.3k",
+        "stars": "34.6k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "planning-with-files",
         "author": "OthmanAdi",
-        "stars": "24.9k",
+        "stars": "25.0k",
         "meta": "Python Claude Skill",
         "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
         "github_url": "https://github.com/OthmanAdi/planning-with-files"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "18.6k",
+        "stars": "18.7k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "12.6k",
+        "stars": "12.8k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "jumpstarter",
-      "stars": "196",
+      "stars": "197",
       "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
       "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "196",
+        "stars": "197",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1127,7 +1127,7 @@
         "rank": 9,
         "name": "agent-device",
         "author": "callstack",
-        "stars": "3.1k",
+        "stars": "3.2k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstack/agent-device"
