@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "46.0k",
+        "stars": "46.2k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -438,6 +438,15 @@
       },
       {
         "rank": 2,
+        "name": "pensyve",
+        "author": "major7apps",
+        "stars": "53",
+        "meta": "Rust MCP Server",
+        "description": "Universal memory runtime for AI agents",
+        "github_url": "https://github.com/major7apps/pensyve"
+      },
+      {
+        "rank": 3,
         "name": "mcp-knowledge-graph",
         "author": "shaneholloman",
         "stars": "863",
@@ -446,16 +455,16 @@
         "github_url": "https://github.com/shaneholloman/mcp-knowledge-graph"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "273",
+        "stars": "274",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "ratel",
         "author": "ratel-ai",
         "stars": "177",
@@ -464,7 +473,7 @@
         "github_url": "https://github.com/ratel-ai/ratel"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "omega-memory",
         "author": "omega-memory",
         "stars": "170",
@@ -473,7 +482,7 @@
         "github_url": "https://github.com/omega-memory/omega-memory"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "memory-vault",
         "author": "MihaiBuilds",
         "stars": "56",
@@ -482,7 +491,7 @@
         "github_url": "https://github.com/MihaiBuilds/memory-vault"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "MemOS",
         "author": "MemTensor",
         "stars": "10.1k",
@@ -491,7 +500,7 @@
         "github_url": "https://github.com/MemTensor/MemOS"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "brain-mcp",
         "author": "mordechaipotash",
         "stars": "53",
@@ -500,22 +509,13 @@
         "github_url": "https://github.com/mordechaipotash/brain-mcp"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "YourMemory",
         "author": "sachitrafa",
         "stars": "247",
         "meta": "Python MCP Server",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.",
         "github_url": "https://github.com/sachitrafa/YourMemory"
-      },
-      {
-        "rank": 10,
-        "name": "mengram",
-        "author": "alibaizhanov",
-        "stars": "178",
-        "meta": "Python MCP Server",
-        "description": "Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.",
-        "github_url": "https://github.com/alibaizhanov/mengram"
       }
     ]
   },
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "6.3k",
+        "stars": "6.4k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -734,7 +734,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-google/",
     "quick_pick": {
       "name": "google_workspace_mcp",
-      "stars": "2.7k",
+      "stars": "2.8k",
       "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search",
       "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
     },
@@ -743,7 +743,7 @@
         "rank": 1,
         "name": "google_workspace_mcp",
         "author": "taylorwilsdon",
-        "stars": "2.7k",
+        "stars": "2.8k",
         "meta": "Python MCP Server",
         "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool",
         "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
@@ -761,7 +761,7 @@
         "rank": 3,
         "name": "modular-context-obsidian-plugin",
         "author": "klemensgc",
-        "stars": "88",
+        "stars": "90",
         "meta": "TypeScript MCP Server",
         "description": "Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first",
         "github_url": "https://github.com/klemensgc/modular-context-obsidian-plugin"
@@ -967,15 +967,6 @@
       },
       {
         "rank": 3,
-        "name": "planning-with-files",
-        "author": "OthmanAdi",
-        "stars": "25.0k",
-        "meta": "Python Claude Skill",
-        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-        "github_url": "https://github.com/OthmanAdi/planning-with-files"
-      },
-      {
-        "rank": 4,
         "name": "mode",
         "author": "arunalabs",
         "stars": "71",
@@ -984,10 +975,19 @@
         "github_url": "https://github.com/arunalabs/mode"
       },
       {
+        "rank": 4,
+        "name": "planning-with-files",
+        "author": "OthmanAdi",
+        "stars": "25.0k",
+        "meta": "Python Claude Skill",
+        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+        "github_url": "https://github.com/OthmanAdi/planning-with-files"
+      },
+      {
         "rank": 5,
         "name": "9router",
         "author": "decolua",
-        "stars": "19.6k",
+        "stars": "20.6k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "12.8k",
+        "stars": "13.0k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "9.8k",
+        "stars": "10.0k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "180",
+        "stars": "186",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification. With smarter tool calling and leaner context.",
         "github_url": "https://github.com/mubaidr/gem-team"
