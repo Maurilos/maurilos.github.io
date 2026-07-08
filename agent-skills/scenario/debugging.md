@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/debugging/
 # Best AI Agent Skills for Debugging in 2026
 
 ## Quick Pick
-<a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> · ★ 2.0k · Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP app
+<a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> · ★ 2.1k · Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP app
 
 ## 工具列表
 
-- <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 2.0k · TypeScript MCP Server
+- <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 2.1k · TypeScript MCP Server
   - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
 - <a href="https://github.com/drhelius/Gearboy" target="_blank" rel="noopener"><strong>Gearboy</strong></a> by drhelius · ★ 1.2k · C++ MCP Server
   - Game Boy / Game Boy Color / Super Game Boy emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.

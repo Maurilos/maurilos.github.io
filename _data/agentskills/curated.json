@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "46.2k",
+        "stars": "46.3k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -162,6 +162,15 @@
       },
       {
         "rank": 6,
+        "name": "open-browser-use",
+        "author": "iFurySt",
+        "stars": "194",
+        "meta": "JavaScript MCP Server",
+        "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
+        "github_url": "https://github.com/iFurySt/open-browser-use"
+      },
+      {
+        "rank": 7,
         "name": "bluebox",
         "author": "VectorlyApp",
         "stars": "191",
@@ -170,22 +179,13 @@
         "github_url": "https://github.com/VectorlyApp/bluebox"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "nanobrowser",
         "author": "nanobrowser",
         "stars": "12.4k",
         "meta": "TypeScript Agent Tool",
         "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
         "github_url": "https://github.com/nanobrowser/nanobrowser"
-      },
-      {
-        "rank": 8,
-        "name": "open-browser-use",
-        "author": "iFurySt",
-        "stars": "104",
-        "meta": "JavaScript MCP Server",
-        "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
-        "github_url": "https://github.com/iFurySt/open-browser-use"
       },
       {
         "rank": 9,
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "274",
+        "stars": "277",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "ratel",
         "author": "ratel-ai",
-        "stars": "180",
+        "stars": "181",
         "meta": "Rust MCP Server",
         "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 retrieval. No vector DB. No embeddings.",
         "github_url": "https://github.com/ratel-ai/ratel"
@@ -512,7 +512,7 @@
         "rank": 10,
         "name": "YourMemory",
         "author": "sachitrafa",
-        "stars": "247",
+        "stars": "251",
         "meta": "Python MCP Server",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.",
         "github_url": "https://github.com/sachitrafa/YourMemory"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "6.4k",
+        "stars": "6.5k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "13.1k",
+        "stars": "13.4k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1098,6 +1098,15 @@
       },
       {
         "rank": 6,
+        "name": "misata",
+        "author": "rasinmuhammed",
+        "stars": "61",
+        "meta": "Python MCP Server",
+        "description": "High-performance open-source synthetic data engine. Uses LLMs for schema design and vectorized NumPy for deterministic, scalable generation.",
+        "github_url": "https://github.com/rasinmuhammed/misata"
+      },
+      {
+        "rank": 7,
         "name": "promptfoo",
         "author": "promptfoo",
         "stars": "23.0k",
@@ -1106,7 +1115,7 @@
         "github_url": "https://github.com/promptfoo/promptfoo"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "reverse-skill",
         "author": "zhaoxuya520",
         "stars": "7.5k",
@@ -1115,7 +1124,7 @@
         "github_url": "https://github.com/zhaoxuya520/reverse-skill"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "shortest",
         "author": "antiwork",
         "stars": "5.6k",
@@ -1124,22 +1133,13 @@
         "github_url": "https://github.com/antiwork/shortest"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "agent-device",
         "author": "callstack",
         "stars": "3.2k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstack/agent-device"
-      },
-      {
-        "rank": 10,
-        "name": "web-quality-skills",
-        "author": "addyosmani",
-        "stars": "2.3k",
-        "meta": "Shell Claude Skill",
-        "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
-        "github_url": "https://github.com/addyosmani/web-quality-skills"
       }
     ]
   },
@@ -1150,7 +1150,7 @@
     "local_url": "/agent-skills/scenario/debugging/",
     "quick_pick": {
       "name": "inspector",
-      "stars": "2.0k",
+      "stars": "2.1k",
       "tagline": "Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP app",
       "github_url": "https://github.com/MCPJam/inspector"
     },
@@ -1159,7 +1159,7 @@
         "rank": 1,
         "name": "inspector",
         "author": "MCPJam",
-        "stars": "2.0k",
+        "stars": "2.1k",
         "meta": "TypeScript MCP Server",
         "description": "Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.",
         "github_url": "https://github.com/MCPJam/inspector"
