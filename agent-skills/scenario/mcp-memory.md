@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
 - <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 274 · Python MCP Server
   - Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
-- <a href="https://github.com/ratel-ai/ratel" target="_blank" rel="noopener"><strong>ratel</strong></a> by ratel-ai · ★ 177 · Rust MCP Server
+- <a href="https://github.com/ratel-ai/ratel" target="_blank" rel="noopener"><strong>ratel</strong></a> by ratel-ai · ★ 180 · Rust MCP Server
   - Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 retrieval. No vector DB. No embeddings.
 - <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 170 · Python MCP Server
   - Persistent memory for AI coding agents
