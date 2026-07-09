@@ -241,7 +241,7 @@
         "rank": 3,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
-        "stars": "6.3k",
+        "stars": "6.4k",
         "meta": "TypeScript MCP Server",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "277",
+        "stars": "281",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "6.6k",
+        "stars": "6.7k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "ggsrun",
         "author": "tanaikech",
-        "stars": "168",
+        "stars": "169",
         "meta": "Go MCP Server",
         "description": "High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, and manage Drive infrastructure.",
         "github_url": "https://github.com/tanaikech/ggsrun"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "code-review-skill",
         "author": "awesome-skills",
-        "stars": "1.2k",
+        "stars": "1.3k",
         "meta": "HTML Claude Skill",
         "description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
         "github_url": "https://github.com/awesome-skills/code-review-skill"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OpenMontage",
-      "stars": "35.6k",
+      "stars": "35.9k",
       "tagline": "World's first open-source, agentic video production system. 12 pipelines, 52 too",
       "github_url": "https://github.com/calesthio/OpenMontage"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "35.6k",
+        "stars": "35.9k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "13.8k",
+        "stars": "14.0k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
