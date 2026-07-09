@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-database/
 
 - <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 15.9k · Go MCP Server
   - MCP Toolbox for Databases is an open source MCP server for databases.
-- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 3.6k · TypeScript MCP Server
+- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 3.7k · TypeScript MCP Server
   - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 3.1k · TypeScript MCP Server
   - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.

@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/test-generation/
   - Architecture-first skill lifecycle for AI agents. 5 modes: CREATE → EVAL → EDIT → REVIEW → PACKAGE. Integrates Anthropic's eval engine (grader/comparator/analyzer agents, blind A/B, benchmarks) with architecture patterns, TDD baseline, and 5-axis scoring. Not just testing - full design-to-distribution.
 - <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 118 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
-- <a href="https://github.com/rasinmuhammed/misata" target="_blank" rel="noopener"><strong>misata</strong></a> by rasinmuhammed · ★ 61 · Python MCP Server
+- <a href="https://github.com/rasinmuhammed/misata" target="_blank" rel="noopener"><strong>misata</strong></a> by rasinmuhammed · ★ 62 · Python MCP Server
   - High-performance open-source synthetic data engine. Uses LLMs for schema design and vectorized NumPy for deterministic, scalable generation.
 - <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 23.1k · TypeScript LLM Plugin
   - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
