@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-database/
   - phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
-- <a href="https://github.com/ystemsrx/sql_to_ER" target="_blank" rel="noopener"><strong>sql_to_ER</strong></a> by ystemsrx · ★ 176 · JavaScript Agent Tool
+- <a href="https://github.com/ystemsrx/sql_to_ER" target="_blank" rel="noopener"><strong>sql_to_ER</strong></a> by ystemsrx · ★ 177 · JavaScript Agent Tool
   - 【在线免费使用】 简单快速将SQL或DBML转换为美观的ER图（支持 Agent Skill）/ The best SQL to ER Diagram converter (Support Agent Skill).
