@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "18.3k",
+        "stars": "18.5k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -241,7 +241,7 @@
         "rank": 3,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
-        "stars": "6.5k",
+        "stars": "6.6k",
         "meta": "TypeScript MCP Server",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -465,15 +465,6 @@
       },
       {
         "rank": 5,
-        "name": "ratel",
-        "author": "ratel-ai",
-        "stars": "181",
-        "meta": "Rust MCP Server",
-        "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 retrieval. No vector DB. No embeddings.",
-        "github_url": "https://github.com/ratel-ai/ratel"
-      },
-      {
-        "rank": 6,
         "name": "omega-memory",
         "author": "omega-memory",
         "stars": "170",
@@ -482,7 +473,7 @@
         "github_url": "https://github.com/omega-memory/omega-memory"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "memory-vault",
         "author": "MihaiBuilds",
         "stars": "56",
@@ -491,16 +482,16 @@
         "github_url": "https://github.com/MihaiBuilds/memory-vault"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "MemOS",
         "author": "MemTensor",
-        "stars": "10.1k",
+        "stars": "10.2k",
         "meta": "TypeScript MCP Server",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
         "github_url": "https://github.com/MemTensor/MemOS"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "brain-mcp",
         "author": "mordechaipotash",
         "stars": "53",
@@ -509,13 +500,22 @@
         "github_url": "https://github.com/mordechaipotash/brain-mcp"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "YourMemory",
         "author": "sachitrafa",
         "stars": "251",
         "meta": "Python MCP Server",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.",
         "github_url": "https://github.com/sachitrafa/YourMemory"
+      },
+      {
+        "rank": 10,
+        "name": "mengram",
+        "author": "alibaizhanov",
+        "stars": "178",
+        "meta": "Python MCP Server",
+        "description": "Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.",
+        "github_url": "https://github.com/alibaizhanov/mengram"
       }
     ]
   },
@@ -589,7 +589,7 @@
         "rank": 7,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "72",
+        "stars": "89",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
@@ -598,7 +598,7 @@
         "rank": 8,
         "name": "human",
         "author": "gethuman-sh",
-        "stars": "54",
+        "stars": "55",
         "meta": "Go MCP Server",
         "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
         "github_url": "https://github.com/gethuman-sh/human"
@@ -718,12 +718,12 @@
       },
       {
         "rank": 10,
-        "name": "github-mcp-server",
-        "author": "github",
-        "stars": "31.3k",
+        "name": "human",
+        "author": "gethuman-sh",
+        "stars": "55",
         "meta": "Go MCP Server",
-        "description": "GitHub's official MCP Server",
-        "github_url": "https://github.com/github/github-mcp-server"
+        "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
+        "github_url": "https://github.com/gethuman-sh/human"
       }
     ]
   },
@@ -750,15 +750,6 @@
       },
       {
         "rank": 2,
-        "name": "ai-skills",
-        "author": "sanjay3290",
-        "stars": "335",
-        "meta": "Python MCP Server",
-        "description": "Collection of agent skills for AI coding assistants",
-        "github_url": "https://github.com/sanjay3290/ai-skills"
-      },
-      {
-        "rank": 3,
         "name": "modular-context-obsidian-plugin",
         "author": "klemensgc",
         "stars": "90",
@@ -767,7 +758,7 @@
         "github_url": "https://github.com/klemensgc/modular-context-obsidian-plugin"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "mcp-google-sheets",
         "author": "xing5",
         "stars": "859",
@@ -776,7 +767,7 @@
         "github_url": "https://github.com/xing5/mcp-google-sheets"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "mcp-gdrive",
         "author": "isaacphi",
         "stars": "270",
@@ -785,7 +776,7 @@
         "github_url": "https://github.com/isaacphi/mcp-gdrive"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "google-workspace-mcp",
         "author": "aaronsb",
         "stars": "149",
@@ -794,7 +785,7 @@
         "github_url": "https://github.com/aaronsb/google-workspace-mcp"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "ggsrun",
         "author": "tanaikech",
         "stars": "169",
@@ -803,16 +794,16 @@
         "github_url": "https://github.com/tanaikech/ggsrun"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "72",
+        "stars": "89",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "notebooklm-wiki-pipeline",
         "author": "capitalparser",
         "stars": "64",
@@ -821,13 +812,22 @@
         "github_url": "https://github.com/capitalparser/notebooklm-wiki-pipeline"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "google-docs-mcp",
         "author": "a-bonus",
         "stars": "591",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
+      },
+      {
+        "rank": 10,
+        "name": "cli",
+        "author": "googleworkspace",
+        "stars": "29.3k",
+        "meta": "Rust Agent Tool",
+        "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+        "github_url": "https://github.com/googleworkspace/cli"
       }
     ]
   },
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "18.7k",
+        "stars": "18.8k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "14.2k",
+        "stars": "14.3k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
