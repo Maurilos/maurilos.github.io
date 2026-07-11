@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets.
 - <a href="https://github.com/isaacphi/mcp-gdrive" target="_blank" rel="noopener"><strong>mcp-gdrive</strong></a> by isaacphi · ★ 270 · TypeScript MCP Server
   - Model Context Protocol (MCP) Server for reading from Google Drive and editing Google Sheets
-- <a href="https://github.com/aaronsb/google-workspace-mcp" target="_blank" rel="noopener"><strong>google-workspace-mcp</strong></a> by aaronsb · ★ 149 · TypeScript MCP Server
+- <a href="https://github.com/aaronsb/google-workspace-mcp" target="_blank" rel="noopener"><strong>google-workspace-mcp</strong></a> by aaronsb · ★ 161 · TypeScript MCP Server
   - A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality
 - <a href="https://github.com/tanaikech/ggsrun" target="_blank" rel="noopener"><strong>ggsrun</strong></a> by tanaikech · ★ 169 · Go MCP Server
   - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, and manage Drive infrastructure.
