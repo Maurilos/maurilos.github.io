@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "6.9k",
+        "stars": "7.0k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "10.3k",
+        "stars": "10.4k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OpenMontage",
-      "stars": "36.7k",
+      "stars": "36.9k",
       "tagline": "World's first open-source, agentic video production system. 12 pipelines, 52 too",
       "github_url": "https://github.com/calesthio/OpenMontage"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "36.7k",
+        "stars": "36.9k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"

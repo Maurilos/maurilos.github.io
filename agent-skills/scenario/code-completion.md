@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/code-completion/
 # Best AI Agent Skills for Code Completion & Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> · ★ 36.7k · World's first open-source, agentic video production system. 12 pipelines, 52 too
+<a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> · ★ 36.9k · World's first open-source, agentic video production system. 12 pipelines, 52 too
 
 ## 工具列表
 
-- <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 36.7k · Python Agent Tool
+- <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 36.9k · Python Agent Tool
   - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - <a href="https://github.com/rohitg00/agentmemory" target="_blank" rel="noopener"><strong>agentmemory</strong></a> by rohitg00 · ★ 24.6k · TypeScript Codex Skill
   - #1 Persistent memory for AI coding agents based on real-world benchmarks
