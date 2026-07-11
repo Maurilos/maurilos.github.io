@@ -241,7 +241,7 @@
         "rank": 3,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
-        "stars": "7.0k",
+        "stars": "7.3k",
         "meta": "TypeScript MCP Server",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -526,7 +526,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
     "quick_pick": {
       "name": "notion-mcp-server",
-      "stars": "160",
+      "stars": "159",
       "tagline": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent",
       "github_url": "https://github.com/awkoy/notion-mcp-server"
     },
@@ -535,7 +535,7 @@
         "rank": 1,
         "name": "notion-mcp-server",
         "author": "awkoy",
-        "stars": "160",
+        "stars": "159",
         "meta": "TypeScript MCP Server",
         "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.",
         "github_url": "https://github.com/awkoy/notion-mcp-server"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OpenMontage",
-      "stars": "36.1k",
+      "stars": "36.7k",
       "tagline": "World's first open-source, agentic video production system. 12 pipelines, 52 too",
       "github_url": "https://github.com/calesthio/OpenMontage"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "36.1k",
+        "stars": "36.7k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "14.9k",
+        "stars": "15.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
