@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "311",
+        "stars": "312",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -629,23 +629,14 @@
     "slug": "mcp-for-github",
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
-      "name": "octocode",
-      "stars": "881",
+      "name": "octocode-mcp",
+      "stars": "838",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
-      "github_url": "https://github.com/bgauryy/octocode"
+      "github_url": "https://github.com/bgauryy/octocode-mcp"
     },
     "tools": [
       {
         "rank": 1,
-        "name": "octocode",
-        "author": "bgauryy",
-        "stars": "881",
-        "meta": "TypeScript MCP Server",
-        "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
-        "github_url": "https://github.com/bgauryy/octocode"
-      },
-      {
-        "rank": 2,
         "name": "octocode-mcp",
         "author": "bgauryy",
         "stars": "838",
@@ -654,13 +645,22 @@
         "github_url": "https://github.com/bgauryy/octocode-mcp"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "template-repo",
         "author": "AndrewAltimit",
         "stars": "130",
         "meta": "Rust MCP Server",
         "description": "Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers",
         "github_url": "https://github.com/AndrewAltimit/template-repo"
+      },
+      {
+        "rank": 3,
+        "name": "octocode",
+        "author": "bgauryy",
+        "stars": "886",
+        "meta": "TypeScript MCP Server",
+        "description": "Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI",
+        "github_url": "https://github.com/bgauryy/octocode"
       },
       {
         "rank": 4,
@@ -919,7 +919,7 @@
         "rank": 9,
         "name": "Gito",
         "author": "Nayjest",
-        "stars": "380",
+        "stars": "381",
         "meta": "Python Agent Tool",
         "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
         "github_url": "https://github.com/Nayjest/Gito"
@@ -967,21 +967,21 @@
       },
       {
         "rank": 3,
+        "name": "planning-with-files",
+        "author": "OthmanAdi",
+        "stars": "25.2k",
+        "meta": "Python Claude Skill",
+        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+        "github_url": "https://github.com/OthmanAdi/planning-with-files"
+      },
+      {
+        "rank": 4,
         "name": "mode",
         "author": "arunalabs",
         "stars": "71",
         "meta": "TypeScript Agent Tool",
         "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
         "github_url": "https://github.com/arunalabs/mode"
-      },
-      {
-        "rank": 4,
-        "name": "planning-with-files",
-        "author": "OthmanAdi",
-        "stars": "25.1k",
-        "meta": "Python Claude Skill",
-        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-        "github_url": "https://github.com/OthmanAdi/planning-with-files"
       },
       {
         "rank": 5,
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "15.9k",
+        "stars": "16.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "10.2k",
+        "stars": "10.3k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"

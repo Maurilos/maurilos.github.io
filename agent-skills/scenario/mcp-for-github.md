@@ -7,16 +7,16 @@ permalink: /agent-skills/scenario/mcp-for-github/
 # Best AI Agent Skills for MCP Tools for GitHub in 2026
 
 ## Quick Pick
-<a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> · ★ 881 · MCP server for semantic code research and context generation on real-time using
+<a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> · ★ 838 · MCP server for semantic code research and context generation on real-time using
 
 ## 工具列表
 
-- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 881 · TypeScript MCP Server
-  - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
 - <a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> by bgauryy · ★ 838 · TypeScript MCP Server
   - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
 - <a href="https://github.com/AndrewAltimit/template-repo" target="_blank" rel="noopener"><strong>template-repo</strong></a> by AndrewAltimit · ★ 130 · Rust MCP Server
   - Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers
+- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 886 · TypeScript MCP Server
+  - Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI
 - <a href="https://github.com/yusufkaraaslan/Skill_Seekers" target="_blank" rel="noopener"><strong>Skill_Seekers</strong></a> by yusufkaraaslan · ★ 14.3k · Python MCP Server
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering</strong></a> by cobusgreyling · ★ 7.1k · JavaScript MCP Server
