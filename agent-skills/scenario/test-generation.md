@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/test-generation/
 # Best AI Agent Skills for Test Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> · ★ 198 · Hardware testing for the software world. Real or virtual, local or remote, human
+<a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> · ★ 199 · Hardware testing for the software world. Real or virtual, local or remote, human
 
 ## 工具列表
 
-- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 198 · Python MCP Server
+- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 199 · Python MCP Server
   - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
 - <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 186 · Agent Tool
   - Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification. With smarter tool calling and leaner context.
