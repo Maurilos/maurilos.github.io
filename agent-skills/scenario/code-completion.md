@@ -23,11 +23,11 @@ permalink: /agent-skills/scenario/code-completion/
   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 18.9k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 16.9k · TypeScript MCP Server
+- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 17.0k · TypeScript MCP Server
   - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 - <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 10.3k · TypeScript Codex Skill
   - Orchestrate multiple coding agents from desktop and mobile
-- <a href="https://github.com/nexu-io/html-anything" target="_blank" rel="noopener"><strong>html-anything</strong></a> by nexu-io · ★ 7.5k · HTML Claude Skill
+- <a href="https://github.com/nexu-io/html-anything" target="_blank" rel="noopener"><strong>html-anything</strong></a> by nexu-io · ★ 7.8k · HTML Claude Skill
   - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
-- <a href="https://github.com/jnMetaCode/superpowers-zh" target="_blank" rel="noopener"><strong>superpowers-zh</strong></a> by jnMetaCode · ★ 6.8k · JavaScript MCP Server
+- <a href="https://github.com/jnMetaCode/superpowers-zh" target="_blank" rel="noopener"><strong>superpowers-zh</strong></a> by jnMetaCode · ★ 6.9k · JavaScript MCP Server
   - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活

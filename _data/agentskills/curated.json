@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "mcp-toolbox",
-      "stars": "15.9k",
+      "stars": "16.0k",
       "tagline": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "github_url": "https://github.com/googleapis/mcp-toolbox"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "mcp-toolbox",
         "author": "googleapis",
-        "stars": "15.9k",
+        "stars": "16.0k",
         "meta": "Go MCP Server",
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "github_url": "https://github.com/googleapis/mcp-toolbox"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "46.8k",
+        "stars": "46.9k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -503,7 +503,7 @@
         "rank": 9,
         "name": "YourMemory",
         "author": "sachitrafa",
-        "stars": "253",
+        "stars": "254",
         "meta": "Python MCP Server",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.",
         "github_url": "https://github.com/sachitrafa/YourMemory"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "16.9k",
+        "stars": "17.0k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1023,7 +1023,7 @@
         "rank": 9,
         "name": "html-anything",
         "author": "nexu-io",
-        "stars": "7.5k",
+        "stars": "7.8k",
         "meta": "HTML Claude Skill",
         "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
         "github_url": "https://github.com/nexu-io/html-anything"
@@ -1032,7 +1032,7 @@
         "rank": 10,
         "name": "superpowers-zh",
         "author": "jnMetaCode",
-        "stars": "6.8k",
+        "stars": "6.9k",
         "meta": "JavaScript MCP Server",
         "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
         "github_url": "https://github.com/jnMetaCode/superpowers-zh"
