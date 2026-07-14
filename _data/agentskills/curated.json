@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "19.1k",
+        "stars": "19.2k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -250,7 +250,7 @@
         "rank": 4,
         "name": "Dark-Moon",
         "author": "ASCIT31",
-        "stars": "725",
+        "stars": "728",
         "meta": "Python MCP Server",
         "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (deterministic placeholders rehydrated locally), nothing leaves your perimeter.",
         "github_url": "https://github.com/ASCIT31/Dark-Moon"
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "888",
+        "stars": "889",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -666,7 +666,7 @@
         "rank": 4,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
-        "stars": "14.3k",
+        "stars": "14.5k",
         "meta": "Python MCP Server",
         "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "7.3k",
+        "stars": "7.7k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -928,7 +928,7 @@
         "rank": 10,
         "name": "claude-night-market",
         "author": "athola",
-        "stars": "320",
+        "stars": "323",
         "meta": "Python Claude Skill",
         "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
         "github_url": "https://github.com/athola/claude-night-market"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "17.0k",
+        "stars": "17.2k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "10.3k",
+        "stars": "10.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "187",
+        "stars": "189",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification. With smarter tool calling and leaner context.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1109,7 +1109,7 @@
         "rank": 7,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "23.2k",
+        "stars": "23.3k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"

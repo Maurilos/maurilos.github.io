@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/code-review/
   - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
 - <a href="https://github.com/Nayjest/Gito" target="_blank" rel="noopener"><strong>Gito</strong></a> by Nayjest · ★ 381 · Python Agent Tool
   - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.
-- <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 320 · Python Claude Skill
+- <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 323 · Python Claude Skill
   - 23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.
