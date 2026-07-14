@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/test-generation/
 
 - <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 199 · Python MCP Server
   - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
-- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 186 · Agent Tool
+- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 187 · Agent Tool
   - Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification. With smarter tool calling and leaner context.
 - <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 181 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/test-generation/
   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 - <a href="https://github.com/antiwork/shortest" target="_blank" rel="noopener"><strong>shortest</strong></a> by antiwork · ★ 5.6k · TypeScript Agent Tool
   - QA via natural language AI tests
-- <a href="https://github.com/callstack/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstack · ★ 3.2k · TypeScript MCP Server
+- <a href="https://github.com/callstack/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstack · ★ 3.3k · TypeScript MCP Server
   - CLI to control iOS and Android devices for AI agents
