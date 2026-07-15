@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - <a href="https://github.com/mordechaipotash/brain-mcp" target="_blank" rel="noopener"><strong>brain-mcp</strong></a> by mordechaipotash · ★ 53 · Python MCP Server
   - Your AI has amnesia. Persistent memory and cognitive context for AI. 25 MCP tools. 12ms recall.
-- <a href="https://github.com/sachitrafa/YourMemory" target="_blank" rel="noopener"><strong>YourMemory</strong></a> by sachitrafa · ★ 254 · Python MCP Server
+- <a href="https://github.com/sachitrafa/YourMemory" target="_blank" rel="noopener"><strong>YourMemory</strong></a> by sachitrafa · ★ 255 · Python MCP Server
   - Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.
 - <a href="https://github.com/alibaizhanov/mengram" target="_blank" rel="noopener"><strong>mengram</strong></a> by alibaizhanov · ★ 178 · Python MCP Server
   - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.

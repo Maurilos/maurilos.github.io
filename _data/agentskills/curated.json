@@ -503,7 +503,7 @@
         "rank": 9,
         "name": "YourMemory",
         "author": "sachitrafa",
-        "stars": "254",
+        "stars": "255",
         "meta": "Python MCP Server",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.",
         "github_url": "https://github.com/sachitrafa/YourMemory"
@@ -598,7 +598,7 @@
         "rank": 8,
         "name": "human",
         "author": "gethuman-sh",
-        "stars": "55",
+        "stars": "57",
         "meta": "Go MCP Server",
         "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
         "github_url": "https://github.com/gethuman-sh/human"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "7.7k",
+        "stars": "7.8k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -718,12 +718,12 @@
       },
       {
         "rank": 10,
-        "name": "human",
-        "author": "gethuman-sh",
-        "stars": "55",
+        "name": "github-mcp-server",
+        "author": "github",
+        "stars": "31.4k",
         "meta": "Go MCP Server",
-        "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
-        "github_url": "https://github.com/gethuman-sh/human"
+        "description": "GitHub's official MCP Server",
+        "github_url": "https://github.com/github/github-mcp-server"
       }
     ]
   },
@@ -901,7 +901,7 @@
         "rank": 7,
         "name": "ai-review",
         "author": "Nikita-Filonov",
-        "stars": "508",
+        "stars": "520",
         "meta": "Python Agent Tool",
         "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
         "github_url": "https://github.com/Nikita-Filonov/ai-review"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "17.2k",
+        "stars": "17.3k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "189",
+        "stars": "190",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification. With smarter tool calling and leaner context.",
         "github_url": "https://github.com/mubaidr/gem-team"
