@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "19.2k",
+        "stars": "19.3k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -598,7 +598,7 @@
         "rank": 8,
         "name": "human",
         "author": "gethuman-sh",
-        "stars": "57",
+        "stars": "58",
         "meta": "Go MCP Server",
         "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
         "github_url": "https://github.com/gethuman-sh/human"
@@ -702,7 +702,7 @@
         "rank": 8,
         "name": "agents-shipgate",
         "author": "ThreeMoonsLab",
-        "stars": "104",
+        "stars": "105",
         "meta": "Python MCP Server",
         "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
         "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "code-review-skill",
         "author": "awesome-skills",
-        "stars": "1.3k",
+        "stars": "1.4k",
         "meta": "HTML Claude Skill",
         "description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
         "github_url": "https://github.com/awesome-skills/code-review-skill"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "17.7k",
+        "stars": "17.9k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1166,21 +1166,21 @@
       },
       {
         "rank": 2,
+        "name": "cheatengine-mcp-bridge",
+        "author": "miscusi-peek",
+        "stars": "1.0k",
+        "meta": "Lua MCP Server",
+        "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
+        "github_url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge"
+      },
+      {
+        "rank": 3,
         "name": "Gearboy",
         "author": "drhelius",
         "stars": "1.2k",
         "meta": "C++ MCP Server",
         "description": "Game Boy / Game Boy Color / Super Game Boy emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearboy"
-      },
-      {
-        "rank": 3,
-        "name": "cheatengine-mcp-bridge",
-        "author": "miscusi-peek",
-        "stars": "760",
-        "meta": "Lua MCP Server",
-        "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
-        "github_url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge"
       },
       {
         "rank": 4,
