@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "47.0k",
+        "stars": "47.1k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "323",
+        "stars": "322",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -526,7 +526,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
     "quick_pick": {
       "name": "notion-mcp-server",
-      "stars": "159",
+      "stars": "160",
       "tagline": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent",
       "github_url": "https://github.com/awkoy/notion-mcp-server"
     },
@@ -535,7 +535,7 @@
         "rank": 1,
         "name": "notion-mcp-server",
         "author": "awkoy",
-        "stars": "159",
+        "stars": "160",
         "meta": "TypeScript MCP Server",
         "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.",
         "github_url": "https://github.com/awkoy/notion-mcp-server"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "8.0k",
+        "stars": "8.1k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -718,12 +718,12 @@
       },
       {
         "rank": 10,
-        "name": "github-mcp-server",
-        "author": "github",
-        "stars": "31.5k",
+        "name": "human",
+        "author": "gethuman-sh",
+        "stars": "58",
         "meta": "Go MCP Server",
-        "description": "GitHub's official MCP Server",
-        "github_url": "https://github.com/github/github-mcp-server"
+        "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
+        "github_url": "https://github.com/gethuman-sh/human"
       }
     ]
   },
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "9router",
         "author": "decolua",
-        "stars": "21.6k",
+        "stars": "22.4k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "17.9k",
+        "stars": "18.0k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1149,14 +1149,23 @@
     "slug": "debugging",
     "local_url": "/agent-skills/scenario/debugging/",
     "quick_pick": {
-      "name": "inspector",
-      "stars": "2.1k",
-      "tagline": "Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP app",
-      "github_url": "https://github.com/MCPJam/inspector"
+      "name": "embedded-debugger-mcp",
+      "stars": "124",
+      "tagline": "MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or Ope",
+      "github_url": "https://github.com/Adancurusul/embedded-debugger-mcp"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "embedded-debugger-mcp",
+        "author": "Adancurusul",
+        "stars": "124",
+        "meta": "Rust MCP Server",
+        "description": "MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis",
+        "github_url": "https://github.com/Adancurusul/embedded-debugger-mcp"
+      },
+      {
+        "rank": 2,
         "name": "inspector",
         "author": "MCPJam",
         "stars": "2.1k",
@@ -1165,7 +1174,7 @@
         "github_url": "https://github.com/MCPJam/inspector"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "cheatengine-mcp-bridge",
         "author": "miscusi-peek",
         "stars": "1.0k",
@@ -1174,7 +1183,7 @@
         "github_url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Gearboy",
         "author": "drhelius",
         "stars": "1.2k",
@@ -1183,7 +1192,7 @@
         "github_url": "https://github.com/drhelius/Gearboy"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "embeddedskills",
         "author": "zhinkgit",
         "stars": "430",
@@ -1192,16 +1201,16 @@
         "github_url": "https://github.com/zhinkgit/embeddedskills"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "DebugMCP",
         "author": "microsoft",
-        "stars": "394",
+        "stars": "426",
         "meta": "TypeScript MCP Server",
         "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
         "github_url": "https://github.com/microsoft/DebugMCP"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Gearsystem",
         "author": "drhelius",
         "stars": "377",
@@ -1210,7 +1219,7 @@
         "github_url": "https://github.com/drhelius/Gearsystem"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "x64dbg-mcp",
         "author": "SetsunaYukiOvO",
         "stars": "282",
@@ -1219,7 +1228,7 @@
         "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "bug-hunter",
         "author": "codexstar69",
         "stars": "209",
@@ -1228,22 +1237,13 @@
         "github_url": "https://github.com/codexstar69/bug-hunter"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "opentelemetry-mcp-server",
         "author": "traceloop",
         "stars": "192",
         "meta": "Python MCP Server",
         "description": "Unified MCP server for querying OpenTelemetry traces across multiple backends (Jaeger, Tempo, Traceloop, etc.), enabling AI agents to analyze distributed traces for automated debugging and observability.",
         "github_url": "https://github.com/traceloop/opentelemetry-mcp-server"
-      },
-      {
-        "rank": 10,
-        "name": "regenerator2000",
-        "author": "ricardoquesada",
-        "stars": "163",
-        "meta": "Rust MCP Server",
-        "description": "An interactive disassembler for the CPU 6502, focused on Commodore 8-bit computers. Features a TUI with modern features like x-ref, undo/redo, flow arrows, keyboard-driven, MCP server for auto analysis, VICE debugger and more!",
-        "github_url": "https://github.com/ricardoquesada/regenerator2000"
       }
     ]
   }
