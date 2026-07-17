@@ -734,7 +734,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-google/",
     "quick_pick": {
       "name": "google_workspace_mcp",
-      "stars": "2.8k",
+      "stars": "2.9k",
       "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search",
       "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
     },
@@ -743,7 +743,7 @@
         "rank": 1,
         "name": "google_workspace_mcp",
         "author": "taylorwilsdon",
-        "stars": "2.8k",
+        "stars": "2.9k",
         "meta": "Python MCP Server",
         "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool",
         "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
@@ -1213,7 +1213,7 @@
         "rank": 7,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "377",
+        "stars": "380",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"
