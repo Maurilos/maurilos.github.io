@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-for-google/
 
 - <a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> by taylorwilsdon · ★ 2.9k · Python MCP Server
   - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
-- <a href="https://github.com/klemensgc/modular-context-obsidian-plugin" target="_blank" rel="noopener"><strong>modular-context-obsidian-plugin</strong></a> by klemensgc · ★ 90 · TypeScript MCP Server
+- <a href="https://github.com/klemensgc/modular-context-obsidian-plugin" target="_blank" rel="noopener"><strong>modular-context-obsidian-plugin</strong></a> by klemensgc · ★ 93 · TypeScript MCP Server
   - Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first
 - <a href="https://github.com/xing5/mcp-google-sheets" target="_blank" rel="noopener"><strong>mcp-google-sheets</strong></a> by xing5 · ★ 859 · Python MCP Server
   - This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets.

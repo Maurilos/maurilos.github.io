@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "327",
+        "stars": "328",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -752,7 +752,7 @@
         "rank": 2,
         "name": "modular-context-obsidian-plugin",
         "author": "klemensgc",
-        "stars": "90",
+        "stars": "93",
         "meta": "TypeScript MCP Server",
         "description": "Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first",
         "github_url": "https://github.com/klemensgc/modular-context-obsidian-plugin"
@@ -854,6 +854,15 @@
       },
       {
         "rank": 2,
+        "name": "api-doctor",
+        "author": "qualtyco",
+        "stars": "52",
+        "meta": "TypeScript Agent Tool",
+        "description": "AI compiles hallucinated code that pass. This fixes it before accepting it. 100% Deterministic Quick Start: ```bash # Scan your project npx @api-doctor/cli . # Or install as an agent skill (Claude Code, Cursor, Windsurf) npx @api-doctor/cli install ```",
+        "github_url": "https://github.com/qualtyco/api-doctor"
+      },
+      {
+        "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
         "stars": "10.7k",
@@ -862,7 +871,7 @@
         "github_url": "https://github.com/alibaba/open-code-review"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "shippie",
         "author": "mattzcarey",
         "stars": "2.4k",
@@ -871,7 +880,7 @@
         "github_url": "https://github.com/mattzcarey/shippie"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "code-review-skill",
         "author": "awesome-skills",
         "stars": "1.4k",
@@ -880,7 +889,7 @@
         "github_url": "https://github.com/awesome-skills/code-review-skill"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "tuicr",
         "author": "agavra",
         "stars": "1.1k",
@@ -889,7 +898,7 @@
         "github_url": "https://github.com/agavra/tuicr"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "Claude-Command-Suite",
         "author": "qdhenry",
         "stars": "978",
@@ -898,7 +907,7 @@
         "github_url": "https://github.com/qdhenry/Claude-Command-Suite"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "ai-review",
         "author": "Nikita-Filonov",
         "stars": "521",
@@ -907,7 +916,7 @@
         "github_url": "https://github.com/Nikita-Filonov/ai-review"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "maestro-orchestrate",
         "author": "josstei",
         "stars": "432",
@@ -916,22 +925,13 @@
         "github_url": "https://github.com/josstei/maestro-orchestrate"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Gito",
         "author": "Nayjest",
         "stars": "381",
         "meta": "Python Agent Tool",
         "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
         "github_url": "https://github.com/Nayjest/Gito"
-      },
-      {
-        "rank": 10,
-        "name": "claude-night-market",
-        "author": "athola",
-        "stars": "323",
-        "meta": "Python Claude Skill",
-        "description": "23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.",
-        "github_url": "https://github.com/athola/claude-night-market"
       }
     ]
   },
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "18.3k",
+        "stars": "18.4k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "jumpstarter",
-      "stars": "201",
+      "stars": "202",
       "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
       "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "201",
+        "stars": "202",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "193",
+        "stars": "195",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification. With smarter tool calling and leaner context.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1118,7 +1118,7 @@
         "rank": 8,
         "name": "reverse-skill",
         "author": "zhaoxuya520",
-        "stars": "8.3k",
+        "stars": "8.4k",
         "meta": "PowerShell Agent Tool",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
         "github_url": "https://github.com/zhaoxuya520/reverse-skill"

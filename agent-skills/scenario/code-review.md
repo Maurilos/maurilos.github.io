@@ -13,6 +13,8 @@ permalink: /agent-skills/scenario/code-review/
 
 - <a href="https://github.com/hyhmrright/brooks-lint" target="_blank" rel="noopener"><strong>brooks-lint</strong></a> by hyhmrright · ★ 1.2k · JavaScript Codex Skill
   - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
+- <a href="https://github.com/qualtyco/api-doctor" target="_blank" rel="noopener"><strong>api-doctor</strong></a> by qualtyco · ★ 52 · TypeScript Agent Tool
+  - AI compiles hallucinated code that pass. This fixes it before accepting it. 100% Deterministic Quick Start: ```bash # Scan your project npx @api-doctor/cli . # Or install as an agent skill (Claude Code, Cursor, Windsurf) npx @api-doctor/cli install ```
 - <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 10.7k · Go Agent Tool
   - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - <a href="https://github.com/mattzcarey/shippie" target="_blank" rel="noopener"><strong>shippie</strong></a> by mattzcarey · ★ 2.4k · TypeScript MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/code-review/
   - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
 - <a href="https://github.com/Nayjest/Gito" target="_blank" rel="noopener"><strong>Gito</strong></a> by Nayjest · ★ 381 · Python Agent Tool
   - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.
-- <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 323 · Python Claude Skill
-  - 23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development, code review, project lifecycle, fix-from-error, maintenance automation, context optimization, research, and multi-LLM delegation. 186 skills, 128 commands, 54 agents.
