@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "87",
+        "stars": "88",
         "meta": "TypeScript MCP Server",
         "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -241,7 +241,7 @@
         "rank": 3,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
-        "stars": "8.4k",
+        "stars": "8.5k",
         "meta": "TypeScript MCP Server",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -286,7 +286,7 @@
         "rank": 8,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
-        "stars": "136",
+        "stars": "137",
         "meta": "Python MCP Server",
         "description": "💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.",
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
@@ -304,7 +304,7 @@
         "rank": 10,
         "name": "conduit-mcp",
         "author": "steipete",
-        "stars": "72",
+        "stars": "73",
         "meta": "TypeScript MCP Server",
         "description": "MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.",
         "github_url": "https://github.com/steipete/conduit-mcp"
@@ -440,7 +440,7 @@
         "rank": 2,
         "name": "pensyve",
         "author": "major7apps",
-        "stars": "55",
+        "stars": "58",
         "meta": "Rust MCP Server",
         "description": "Universal memory runtime for AI agents",
         "github_url": "https://github.com/major7apps/pensyve"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "328",
+        "stars": "335",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OpenMontage",
-      "stars": "39.6k",
+      "stars": "39.8k",
       "tagline": "World's first open-source, agentic video production system. 12 pipelines, 52 too",
       "github_url": "https://github.com/calesthio/OpenMontage"
     },
@@ -951,13 +951,22 @@
         "rank": 1,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "39.6k",
+        "stars": "39.8k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
       },
       {
         "rank": 2,
+        "name": "planning-with-files",
+        "author": "OthmanAdi",
+        "stars": "25.5k",
+        "meta": "Python Claude Skill",
+        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+        "github_url": "https://github.com/OthmanAdi/planning-with-files"
+      },
+      {
+        "rank": 3,
         "name": "mode",
         "author": "arunalabs",
         "stars": "71",
@@ -966,22 +975,13 @@
         "github_url": "https://github.com/arunalabs/mode"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "agentmemory",
         "author": "rohitg00",
         "stars": "25.1k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
-      },
-      {
-        "rank": 4,
-        "name": "planning-with-files",
-        "author": "OthmanAdi",
-        "stars": "25.3k",
-        "meta": "Python Claude Skill",
-        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-        "github_url": "https://github.com/OthmanAdi/planning-with-files"
       },
       {
         "rank": 5,
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "18.5k",
+        "stars": "18.9k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "10.6k",
+        "stars": "10.8k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "195",
+        "stars": "196",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification. With smarter tool calling and leaner context.",
         "github_url": "https://github.com/mubaidr/gem-team"
