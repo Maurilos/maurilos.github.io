@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "19.4k",
+        "stars": "19.5k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -788,7 +788,7 @@
         "rank": 6,
         "name": "ggsrun",
         "author": "tanaikech",
-        "stars": "169",
+        "stars": "170",
         "meta": "Go MCP Server",
         "description": "High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, and manage Drive infrastructure.",
         "github_url": "https://github.com/tanaikech/ggsrun"
@@ -967,21 +967,21 @@
       },
       {
         "rank": 3,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "25.4k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
-      },
-      {
-        "rank": 4,
         "name": "mode",
         "author": "arunalabs",
         "stars": "71",
         "meta": "TypeScript Agent Tool",
         "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
         "github_url": "https://github.com/arunalabs/mode"
+      },
+      {
+        "rank": 4,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "25.4k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
         "rank": 5,
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "20.2k",
+        "stars": "20.6k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
