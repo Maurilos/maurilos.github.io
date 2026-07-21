@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context
 - <a href="https://github.com/a-bonus/google-docs-mcp" target="_blank" rel="noopener"><strong>google-docs-mcp</strong></a> by a-bonus · ★ 591 · TypeScript MCP Server
   - The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.
-- <a href="https://github.com/googleworkspace/cli" target="_blank" rel="noopener"><strong>cli</strong></a> by googleworkspace · ★ 29.8k · Rust Agent Tool
+- <a href="https://github.com/googleworkspace/cli" target="_blank" rel="noopener"><strong>cli</strong></a> by googleworkspace · ★ 29.9k · Rust Agent Tool
   - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.

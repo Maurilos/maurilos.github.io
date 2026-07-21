@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "341",
+        "stars": "344",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -824,7 +824,7 @@
         "rank": 10,
         "name": "cli",
         "author": "googleworkspace",
-        "stars": "29.8k",
+        "stars": "29.9k",
         "meta": "Rust Agent Tool",
         "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
         "github_url": "https://github.com/googleworkspace/cli"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "21.2k",
+        "stars": "21.8k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
