@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "347",
+        "stars": "350",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "file-system-like-github",
         "author": "andylow92",
-        "stars": "229",
+        "stars": "296",
         "meta": "TypeScript MCP Server",
         "description": "Self-improving, AI-native markdown vault you hand to an AI agent. GitHub-style file tree + Notion editing, exposed to Claude/Cursor via a built-in MCP server (24 tools): semantic & hybrid search, RAG, cited answers. Learns your voice from your edits; human-approved review queue. Local-first .md.",
         "github_url": "https://github.com/andylow92/file-system-like-github"
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "895",
+        "stars": "896",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "8.9k",
+        "stars": "9.0k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OpenMontage",
-      "stars": "40.1k",
+      "stars": "40.9k",
       "tagline": "World's first open-source, agentic video production system. 12 pipelines, 52 too",
       "github_url": "https://github.com/calesthio/OpenMontage"
     },
@@ -951,22 +951,13 @@
         "rank": 1,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "40.1k",
+        "stars": "40.9k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
       },
       {
         "rank": 2,
-        "name": "planning-with-files",
-        "author": "OthmanAdi",
-        "stars": "25.5k",
-        "meta": "Python Claude Skill",
-        "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
-        "github_url": "https://github.com/OthmanAdi/planning-with-files"
-      },
-      {
-        "rank": 3,
         "name": "mode",
         "author": "arunalabs",
         "stars": "71",
@@ -975,7 +966,7 @@
         "github_url": "https://github.com/arunalabs/mode"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
         "stars": "25.4k",
@@ -984,7 +975,7 @@
         "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "9router",
         "author": "decolua",
         "stars": "22.8k",
@@ -993,16 +984,16 @@
         "github_url": "https://github.com/decolua/9router"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "23.1k",
+        "stars": "23.6k",
         "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
         "stars": "19.1k",
@@ -1011,7 +1002,7 @@
         "github_url": "https://github.com/mksglu/context-mode"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
         "stars": "11.0k",
@@ -1020,7 +1011,7 @@
         "github_url": "https://github.com/getpaseo/paseo"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "html-anything",
         "author": "nexu-io",
         "stars": "7.8k",
@@ -1029,13 +1020,22 @@
         "github_url": "https://github.com/nexu-io/html-anything"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "superpowers-zh",
         "author": "jnMetaCode",
         "stars": "7.0k",
         "meta": "JavaScript MCP Server",
         "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
         "github_url": "https://github.com/jnMetaCode/superpowers-zh"
+      },
+      {
+        "rank": 10,
+        "name": "codecompanion.nvim",
+        "author": "olimorris",
+        "stars": "6.8k",
+        "meta": "Lua Agent Tool",
+        "description": "✨ AI Coding, Vim Style",
+        "github_url": "https://github.com/olimorris/codecompanion.nvim"
       }
     ]
   },
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "agent-device",
         "author": "callstack",
-        "stars": "3.5k",
+        "stars": "3.6k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstack/agent-device"
