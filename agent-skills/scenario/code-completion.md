@@ -7,20 +7,20 @@ permalink: /agent-skills/scenario/code-completion/
 # Best AI Agent Skills for Code Completion & Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> · ★ 40.9k · World's first open-source, agentic video production system. 12 pipelines, 52 too
+<a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> · ★ 41.1k · World's first open-source, agentic video production system. 12 production pipeli
 
 ## 工具列表
 
-- <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 40.9k · Python Agent Tool
-  - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 41.1k · Python Agent Tool
+  - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
+- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 24.7k · TypeScript MCP Server
+  - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
 - <a href="https://github.com/rohitg00/agentmemory" target="_blank" rel="noopener"><strong>agentmemory</strong></a> by rohitg00 · ★ 25.4k · TypeScript Codex Skill
   - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - <a href="https://github.com/decolua/9router" target="_blank" rel="noopener"><strong>9router</strong></a> by decolua · ★ 22.8k · JavaScript Codex Skill
   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 24.1k · TypeScript MCP Server
-  - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
 - <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 19.2k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 - <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 11.1k · TypeScript Codex Skill
