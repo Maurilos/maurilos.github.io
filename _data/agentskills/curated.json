@@ -26,7 +26,7 @@
         "author": "TabularisDB",
         "stars": "3.8k",
         "meta": "TypeScript MCP Server",
-        "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
+        "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
         "github_url": "https://github.com/TabularisDB/tabularis"
       },
       {
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "896",
+        "stars": "897",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "api-doctor",
         "author": "qualtyco",
-        "stars": "52",
+        "stars": "62",
         "meta": "TypeScript Agent Tool",
         "description": "AI compiles hallucinated code that pass. This fixes it before accepting it. 100% Deterministic Quick Start: ```bash # Scan your project npx @api-doctor/cli . # Or install as an agent skill (Claude Code, Cursor, Windsurf) npx @api-doctor/cli install ```",
         "github_url": "https://github.com/qualtyco/api-doctor"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "10.9k",
+        "stars": "11.0k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "24.7k",
+        "stars": "25.2k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"

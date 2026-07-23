@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/code-completion/
   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
-- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 24.7k · TypeScript MCP Server
+- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 25.2k · TypeScript MCP Server
   - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
 - <a href="https://github.com/rohitg00/agentmemory" target="_blank" rel="noopener"><strong>agentmemory</strong></a> by rohitg00 · ★ 25.4k · TypeScript Codex Skill
   - #1 Persistent memory for AI coding agents based on real-world benchmarks
