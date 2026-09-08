@@ -354,7 +354,7 @@
         "rank": 4,
         "name": "uxc",
         "author": "holon-run",
-        "stars": "111",
+        "stars": "113",
         "meta": "Rust MCP Server",
         "description": "A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC",
         "github_url": "https://github.com/holon-run/uxc"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "487",
+        "stars": "488",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -503,7 +503,7 @@
         "rank": 9,
         "name": "metronix-memory",
         "author": "mtrnix",
-        "stars": "98",
+        "stars": "99",
         "meta": "Python MCP Server",
         "description": "Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context",
         "github_url": "https://github.com/mtrnix/metronix-memory"
@@ -664,6 +664,15 @@
       },
       {
         "rank": 4,
+        "name": "Aletheore",
+        "author": "Aletheore",
+        "stars": "121",
+        "meta": "Python MCP Server",
+        "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
+        "github_url": "https://github.com/Aletheore/Aletheore"
+      },
+      {
+        "rank": 5,
         "name": "octocode",
         "author": "bgauryy",
         "stars": "926",
@@ -672,7 +681,7 @@
         "github_url": "https://github.com/bgauryy/octocode"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
         "stars": "14.9k",
@@ -681,7 +690,7 @@
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "loop-engineering",
         "author": "cobusgreyling",
         "stars": "11.1k",
@@ -690,7 +699,7 @@
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "drawio-skill",
         "author": "Agents365-ai",
         "stars": "9.0k",
@@ -699,7 +708,7 @@
         "github_url": "https://github.com/Agents365-ai/drawio-skill"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
@@ -708,22 +717,13 @@
         "github_url": "https://github.com/julien040/anyquery"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "716",
+        "stars": "718",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
-      },
-      {
-        "rank": 10,
-        "name": "skylos",
-        "author": "duriantaco",
-        "stars": "521",
-        "meta": "Python MCP Server",
-        "description": "Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.",
-        "github_url": "https://github.com/duriantaco/skylos"
       }
     ]
   },
@@ -752,7 +752,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "105",
+        "stars": "106",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -941,29 +941,29 @@
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
-      "name": "OmniRoute",
-      "stars": "62.3k",
-      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
-      "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      "name": "OpenMontage",
+      "stars": "56.3k",
+      "tagline": "World's first open-source, agentic video production system. 12 production pipeli",
+      "github_url": "https://github.com/calesthio/OpenMontage"
     },
     "tools": [
       {
         "rank": 1,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "62.3k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
-      },
-      {
-        "rank": 2,
         "name": "OpenMontage",
         "author": "calesthio",
         "stars": "56.3k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "rank": 2,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "62.5k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "16.3k",
+        "stars": "16.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1177,7 +1177,7 @@
         "rank": 3,
         "name": "MemWhale",
         "author": "wuisabel-gif",
-        "stars": "61",
+        "stars": "62",
         "meta": "Rust MCP Server",
         "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
         "github_url": "https://github.com/wuisabel-gif/MemWhale"

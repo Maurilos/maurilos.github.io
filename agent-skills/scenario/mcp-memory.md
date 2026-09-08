@@ -21,13 +21,13 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Universal memory runtime for AI agents
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 882 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
-- <a href="https://github.com/caura-ai/caura" target="_blank" rel="noopener"><strong>caura</strong></a> by caura-ai · ★ 487 · Python MCP Server
+- <a href="https://github.com/caura-ai/caura" target="_blank" rel="noopener"><strong>caura</strong></a> by caura-ai · ★ 488 · Python MCP Server
   - Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 - <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 430 · Python MCP Server
   - Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 - <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 215 · Python MCP Server
   - Persistent memory for AI coding agents
-- <a href="https://github.com/mtrnix/metronix-memory" target="_blank" rel="noopener"><strong>metronix-memory</strong></a> by mtrnix · ★ 98 · Python MCP Server
+- <a href="https://github.com/mtrnix/metronix-memory" target="_blank" rel="noopener"><strong>metronix-memory</strong></a> by mtrnix · ★ 99 · Python MCP Server
   - Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context
 - <a href="https://github.com/MihaiBuilds/memory-vault" target="_blank" rel="noopener"><strong>memory-vault</strong></a> by MihaiBuilds · ★ 62 · Python MCP Server
   - A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.
