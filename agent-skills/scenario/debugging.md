@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/debugging/
   - Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence.
 - <a href="https://github.com/Adancurusul/embedded-debugger-mcp" target="_blank" rel="noopener"><strong>embedded-debugger-mcp</strong></a> by Adancurusul · ★ 141 · Rust MCP Server
   - MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis
-- <a href="https://github.com/wuisabel-gif/MemWhale" target="_blank" rel="noopener"><strong>MemWhale</strong></a> by wuisabel-gif · ★ 62 · Rust MCP Server
+- <a href="https://github.com/wuisabel-gif/MemWhale" target="_blank" rel="noopener"><strong>MemWhale</strong></a> by wuisabel-gif · ★ 72 · Rust MCP Server
   - Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.
 - <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 2.2k · TypeScript MCP Server
   - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
@@ -25,7 +25,7 @@ permalink: /agent-skills/scenario/debugging/
   - Game Boy / Game Boy Color / Super Game Boy emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - <a href="https://github.com/zhinkgit/embeddedskills" target="_blank" rel="noopener"><strong>embeddedskills</strong></a> by zhinkgit · ★ 619 · Python Claude Skill
   - An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.
-- <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 491 · TypeScript MCP Server
+- <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 496 · TypeScript MCP Server
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
 - <a href="https://github.com/codexstar69/bug-hunter" target="_blank" rel="noopener"><strong>bug-hunter</strong></a> by codexstar69 · ★ 487 · JavaScript Claude Skill
   - Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.
