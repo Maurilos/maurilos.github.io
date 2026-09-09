@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "18.3k",
+      "stars": "18.5k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "18.3k",
+        "stars": "18.5k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "51.3k",
+        "stars": "51.4k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -200,7 +200,7 @@
         "rank": 10,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "263",
+        "stars": "266",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -372,7 +372,7 @@
         "rank": 6,
         "name": "unraid-management-agent",
         "author": "ruaan-deysel",
-        "stars": "52",
+        "stars": "53",
         "meta": "Go MCP Server",
         "description": "Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.",
         "github_url": "https://github.com/ruaan-deysel/unraid-management-agent"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "488",
+        "stars": "490",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -501,21 +501,21 @@
       },
       {
         "rank": 9,
-        "name": "metronix-memory",
-        "author": "mtrnix",
-        "stars": "99",
-        "meta": "Python MCP Server",
-        "description": "Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context",
-        "github_url": "https://github.com/mtrnix/metronix-memory"
-      },
-      {
-        "rank": 10,
         "name": "memory-vault",
         "author": "MihaiBuilds",
         "stars": "62",
         "meta": "Python MCP Server",
         "description": "A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.",
         "github_url": "https://github.com/MihaiBuilds/memory-vault"
+      },
+      {
+        "rank": 10,
+        "name": "MemOS",
+        "author": "MemTensor",
+        "stars": "11.2k",
+        "meta": "TypeScript MCP Server",
+        "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+        "github_url": "https://github.com/MemTensor/MemOS"
       }
     ]
   },
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "118",
+        "stars": "124",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -655,21 +655,21 @@
       },
       {
         "rank": 3,
+        "name": "Aletheore",
+        "author": "Aletheore",
+        "stars": "157",
+        "meta": "Python MCP Server",
+        "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
+        "github_url": "https://github.com/Aletheore/Aletheore"
+      },
+      {
+        "rank": 4,
         "name": "coder_eval",
         "author": "UiPath",
         "stars": "122",
         "meta": "Python MCP Server",
         "description": "Playwright for coding agents. Benchmark Claude Code, Codex, Gemini, and OpenCode on your own tasks - and test that your skills, MCP servers, and CLIs work when an agent uses them. Sandboxed YAML suites, activation checks, A/B experiments, CI gates.",
         "github_url": "https://github.com/UiPath/coder_eval"
-      },
-      {
-        "rank": 4,
-        "name": "Aletheore",
-        "author": "Aletheore",
-        "stars": "121",
-        "meta": "Python MCP Server",
-        "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
-        "github_url": "https://github.com/Aletheore/Aletheore"
       },
       {
         "rank": 5,
@@ -682,6 +682,15 @@
       },
       {
         "rank": 6,
+        "name": "martin-loop",
+        "author": "Keesan12",
+        "stars": "50",
+        "meta": "TypeScript MCP Server",
+        "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failures, learn from loops, and prove ROI across every repo.",
+        "github_url": "https://github.com/Keesan12/martin-loop"
+      },
+      {
+        "rank": 7,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
         "stars": "14.9k",
@@ -690,7 +699,7 @@
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "loop-engineering",
         "author": "cobusgreyling",
         "stars": "11.1k",
@@ -699,7 +708,7 @@
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "drawio-skill",
         "author": "Agents365-ai",
         "stars": "9.0k",
@@ -708,22 +717,13 @@
         "github_url": "https://github.com/Agents365-ai/drawio-skill"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
         "meta": "Go MCP Server",
         "description": "One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.",
         "github_url": "https://github.com/julien040/anyquery"
-      },
-      {
-        "rank": 10,
-        "name": "aeon",
-        "author": "aeonfun",
-        "stars": "718",
-        "meta": "TypeScript MCP Server",
-        "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
-        "github_url": "https://github.com/aeonfun/aeon"
       }
     ]
   },
@@ -752,7 +752,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "118",
+        "stars": "124",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -910,7 +910,7 @@
         "rank": 8,
         "name": "code-review-skill",
         "author": "awesome-skills",
-        "stars": "1.8k",
+        "stars": "1.9k",
         "meta": "HTML Claude Skill",
         "description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
         "github_url": "https://github.com/awesome-skills/code-review-skill"
@@ -941,29 +941,29 @@
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
-      "name": "OmniRoute",
-      "stars": "62.8k",
-      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
-      "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      "name": "OpenMontage",
+      "stars": "56.3k",
+      "tagline": "World's first open-source, agentic video production system. 12 production pipeli",
+      "github_url": "https://github.com/calesthio/OpenMontage"
     },
     "tools": [
       {
         "rank": 1,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "62.8k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
-      },
-      {
-        "rank": 2,
         "name": "OpenMontage",
         "author": "calesthio",
         "stars": "56.3k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "rank": 2,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "63.0k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "16.5k",
+        "stars": "16.6k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1091,7 +1091,7 @@
         "rank": 5,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "216",
+        "stars": "217",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
