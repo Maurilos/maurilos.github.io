@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/test-generation/
   - AI agent skills for generating high-quality unit tests — Given-When-Then test cases, JUnit 5, Mockito, AssertJ. Works with Claude Code, Cursor, and any AGENTS.md-compatible agent.
 - <a href="https://github.com/buer2233/ai-api-test-skill" target="_blank" rel="noopener"><strong>ai-api-test-skill</strong></a> by buer2233 · ★ 121 · Python Codex Skill
   - AI接口自动化测试 Skill：面向 Python + pytest + requests，驱动 Codex / Claude Code 生成、维护和调试接口用例（AI API test automation skill for Python + pytest + requests）
-- <a href="https://github.com/tugkanboz/awesome-ai-testing" target="_blank" rel="noopener"><strong>awesome-ai-testing</strong></a> by tugkanboz · ★ 91 · MCP Server
+- <a href="https://github.com/tugkanboz/awesome-ai-testing" target="_blank" rel="noopener"><strong>awesome-ai-testing</strong></a> by tugkanboz · ★ 94 · MCP Server
   - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.
 - <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 218 · Agent Tool
   - Turn AI coding into an engineering process.

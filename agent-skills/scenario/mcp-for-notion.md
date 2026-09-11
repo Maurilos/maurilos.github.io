@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - Markdown-first Notion MCP server. ~6-7x fewer response tokens vs official Notion MCP. 43 tools.
 - <a href="https://github.com/macro-inc/macro" target="_blank" rel="noopener"><strong>macro</strong></a> by macro-inc · ★ 780 · TypeScript MCP Server
   - Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.
-- <a href="https://github.com/busabase/busabase" target="_blank" rel="noopener"><strong>busabase</strong></a> by busabase · ★ 163 · TypeScript MCP Server
+- <a href="https://github.com/busabase/busabase" target="_blank" rel="noopener"><strong>busabase</strong></a> by busabase · ★ 166 · TypeScript MCP Server
   - Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human-reviewed changes. Local-first and self-hostable.
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
