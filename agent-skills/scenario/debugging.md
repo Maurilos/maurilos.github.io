@@ -7,15 +7,15 @@ permalink: /agent-skills/scenario/debugging/
 # Best AI Agent Skills for Debugging in 2026
 
 ## Quick Pick
-<a href="https://github.com/rajudandigam/agent-inspect" target="_blank" rel="noopener"><strong>agent-inspect</strong></a> · ★ 592 · Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: in
+<a href="https://github.com/rajudandigam/agent-inspect" target="_blank" rel="noopener"><strong>agent-inspect</strong></a> · ★ 593 · Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: in
 
 ## 工具列表
 
-- <a href="https://github.com/rajudandigam/agent-inspect" target="_blank" rel="noopener"><strong>agent-inspect</strong></a> by rajudandigam · ★ 592 · TypeScript MCP Server
+- <a href="https://github.com/rajudandigam/agent-inspect" target="_blank" rel="noopener"><strong>agent-inspect</strong></a> by rajudandigam · ★ 593 · TypeScript MCP Server
   - Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence.
 - <a href="https://github.com/Adancurusul/embedded-debugger-mcp" target="_blank" rel="noopener"><strong>embedded-debugger-mcp</strong></a> by Adancurusul · ★ 141 · Rust MCP Server
   - MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis
-- <a href="https://github.com/wuisabel-gif/MemWhale" target="_blank" rel="noopener"><strong>MemWhale</strong></a> by wuisabel-gif · ★ 80 · Rust MCP Server
+- <a href="https://github.com/wuisabel-gif/MemWhale" target="_blank" rel="noopener"><strong>MemWhale</strong></a> by wuisabel-gif · ★ 92 · Rust MCP Server
   - Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.
 - <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 2.2k · TypeScript MCP Server
   - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.

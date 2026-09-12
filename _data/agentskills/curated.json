@@ -200,7 +200,7 @@
         "rank": 10,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "274",
+        "stars": "275",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -580,7 +580,7 @@
         "rank": 6,
         "name": "busabase",
         "author": "busabase",
-        "stars": "167",
+        "stars": "174",
         "meta": "TypeScript MCP Server",
         "description": "Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human-reviewed changes. Local-first and self-hostable.",
         "github_url": "https://github.com/busabase/busabase"
@@ -646,21 +646,21 @@
       },
       {
         "rank": 2,
-        "name": "Aletheore",
-        "author": "Aletheore",
-        "stars": "156",
-        "meta": "Python MCP Server",
-        "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
-        "github_url": "https://github.com/Aletheore/Aletheore"
-      },
-      {
-        "rank": 3,
         "name": "template-repo",
         "author": "AndrewAltimit",
         "stars": "131",
         "meta": "Rust MCP Server",
         "description": "Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers",
         "github_url": "https://github.com/AndrewAltimit/template-repo"
+      },
+      {
+        "rank": 3,
+        "name": "Aletheore",
+        "author": "Aletheore",
+        "stars": "156",
+        "meta": "Python MCP Server",
+        "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
+        "github_url": "https://github.com/Aletheore/Aletheore"
       },
       {
         "rank": 4,
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
-        "stars": "14.9k",
+        "stars": "15.0k",
         "meta": "Python MCP Server",
         "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "64.9k",
+      "stars": "65.1k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "64.9k",
+        "stars": "65.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "awesome-ai-testing",
         "author": "tugkanboz",
-        "stars": "94",
+        "stars": "95",
         "meta": "MCP Server",
         "description": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.",
         "github_url": "https://github.com/tugkanboz/awesome-ai-testing"
@@ -1150,7 +1150,7 @@
     "local_url": "/agent-skills/scenario/debugging/",
     "quick_pick": {
       "name": "agent-inspect",
-      "stars": "592",
+      "stars": "593",
       "tagline": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: in",
       "github_url": "https://github.com/rajudandigam/agent-inspect"
     },
@@ -1159,7 +1159,7 @@
         "rank": 1,
         "name": "agent-inspect",
         "author": "rajudandigam",
-        "stars": "592",
+        "stars": "593",
         "meta": "TypeScript MCP Server",
         "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence.",
         "github_url": "https://github.com/rajudandigam/agent-inspect"
@@ -1177,7 +1177,7 @@
         "rank": 3,
         "name": "MemWhale",
         "author": "wuisabel-gif",
-        "stars": "80",
+        "stars": "92",
         "meta": "Rust MCP Server",
         "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
         "github_url": "https://github.com/wuisabel-gif/MemWhale"

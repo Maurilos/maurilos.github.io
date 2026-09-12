@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - Markdown-first Notion MCP server. ~6-7x fewer response tokens vs official Notion MCP. 43 tools.
 - <a href="https://github.com/macro-inc/macro" target="_blank" rel="noopener"><strong>macro</strong></a> by macro-inc · ★ 780 · TypeScript MCP Server
   - Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.
-- <a href="https://github.com/busabase/busabase" target="_blank" rel="noopener"><strong>busabase</strong></a> by busabase · ★ 167 · TypeScript MCP Server
+- <a href="https://github.com/busabase/busabase" target="_blank" rel="noopener"><strong>busabase</strong></a> by busabase · ★ 174 · TypeScript MCP Server
   - Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human-reviewed changes. Local-first and self-hostable.
 - <a href="https://github.com/pipeshub-ai/pipeshub-ai" target="_blank" rel="noopener"><strong>pipeshub-ai</strong></a> by pipeshub-ai · ★ 3.7k · Python MCP Server
   - PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems.
