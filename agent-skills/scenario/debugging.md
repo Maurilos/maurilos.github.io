@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/debugging/
 # Best AI Agent Skills for Debugging in 2026
 
 ## Quick Pick
-<a href="https://github.com/rajudandigam/agent-inspect" target="_blank" rel="noopener"><strong>agent-inspect</strong></a> · ★ 505 · Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: in
+<a href="https://github.com/rajudandigam/agent-inspect" target="_blank" rel="noopener"><strong>agent-inspect</strong></a> · ★ 592 · Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: in
 
 ## 工具列表
 
-- <a href="https://github.com/rajudandigam/agent-inspect" target="_blank" rel="noopener"><strong>agent-inspect</strong></a> by rajudandigam · ★ 505 · TypeScript MCP Server
+- <a href="https://github.com/rajudandigam/agent-inspect" target="_blank" rel="noopener"><strong>agent-inspect</strong></a> by rajudandigam · ★ 592 · TypeScript MCP Server
   - Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence.
 - <a href="https://github.com/Adancurusul/embedded-debugger-mcp" target="_blank" rel="noopener"><strong>embedded-debugger-mcp</strong></a> by Adancurusul · ★ 141 · Rust MCP Server
   - MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis
