@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "19.2k",
+      "stars": "19.3k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "19.2k",
+        "stars": "19.3k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "51.7k",
+        "stars": "51.8k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "26.8k",
+        "stars": "26.9k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -164,7 +164,7 @@
         "rank": 6,
         "name": "docker-stealthy-auto-browse",
         "author": "psyb0t",
-        "stars": "72",
+        "stars": "77",
         "meta": "Python MCP Server",
         "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
         "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
@@ -447,21 +447,21 @@
       },
       {
         "rank": 3,
+        "name": "pensyve",
+        "author": "major7apps",
+        "stars": "80",
+        "meta": "Rust MCP Server",
+        "description": "Universal memory runtime for AI agents",
+        "github_url": "https://github.com/major7apps/pensyve"
+      },
+      {
+        "rank": 4,
         "name": "mind",
         "author": "Da7-Tech",
         "stars": "65",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents: automatic capture, explainable recall, knowledge consolidation, privacy controls, and portable offline storage. One Python file, zero dependencies.",
         "github_url": "https://github.com/Da7-Tech/mind"
-      },
-      {
-        "rank": 4,
-        "name": "pensyve",
-        "author": "major7apps",
-        "stars": "75",
-        "meta": "Rust MCP Server",
-        "description": "Universal memory runtime for AI agents",
-        "github_url": "https://github.com/major7apps/pensyve"
       },
       {
         "rank": 5,
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "498",
+        "stars": "501",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "146",
+        "stars": "162",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "932",
+        "stars": "933",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -752,7 +752,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "146",
+        "stars": "162",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "22.3k",
+        "stars": "22.7k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -941,29 +941,29 @@
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
-      "name": "OmniRoute",
-      "stars": "65.1k",
-      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
-      "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      "name": "OpenMontage",
+      "stars": "56.3k",
+      "tagline": "World's first open-source, agentic video production system. 12 production pipeli",
+      "github_url": "https://github.com/calesthio/OpenMontage"
     },
     "tools": [
       {
         "rank": 1,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "65.1k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
-      },
-      {
-        "rank": 2,
         "name": "OpenMontage",
         "author": "calesthio",
         "stars": "56.3k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "rank": 2,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "65.3k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "22.2k",
+        "stars": "22.4k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "25.0k",
+        "stars": "25.1k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1150,7 +1150,7 @@
     "local_url": "/agent-skills/scenario/debugging/",
     "quick_pick": {
       "name": "agent-inspect",
-      "stars": "593",
+      "stars": "594",
       "tagline": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: in",
       "github_url": "https://github.com/rajudandigam/agent-inspect"
     },
@@ -1159,7 +1159,7 @@
         "rank": 1,
         "name": "agent-inspect",
         "author": "rajudandigam",
-        "stars": "593",
+        "stars": "594",
         "meta": "TypeScript MCP Server",
         "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence.",
         "github_url": "https://github.com/rajudandigam/agent-inspect"
@@ -1177,7 +1177,7 @@
         "rank": 3,
         "name": "MemWhale",
         "author": "wuisabel-gif",
-        "stars": "92",
+        "stars": "96",
         "meta": "Rust MCP Server",
         "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
         "github_url": "https://github.com/wuisabel-gif/MemWhale"

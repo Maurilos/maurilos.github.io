@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - <a href="https://github.com/borghei/Claude-Skills" target="_blank" rel="noopener"><strong>Claude-Skills</strong></a> by borghei · ★ 475 · HTML MCP Server
   - 368 AI skills, 76 expert agents, and 859 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.
-- <a href="https://github.com/brekkylab/backlot" target="_blank" rel="noopener"><strong>backlot</strong></a> by brekkylab · ★ 146 · Python MCP Server
+- <a href="https://github.com/brekkylab/backlot" target="_blank" rel="noopener"><strong>backlot</strong></a> by brekkylab · ★ 162 · Python MCP Server
   - A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.

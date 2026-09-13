@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/code-review/
   - Automated quality checks that nudge AI coding agents toward better habits
 - <a href="https://github.com/qualtyco/api-doctor" target="_blank" rel="noopener"><strong>api-doctor</strong></a> by qualtyco · ★ 67 · TypeScript Agent Tool
   - AI compiles hallucinated code that pass. This fixes it before accepting it. 100% Deterministic Quick Start: ```bash # Scan your project npx @api-doctor/cli . # Or install as an agent skill (Claude Code, Cursor, Windsurf) npx @api-doctor/cli install ```
-- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 22.3k · Go Agent Tool
+- <a href="https://github.com/alibaba/open-code-review" target="_blank" rel="noopener"><strong>open-code-review</strong></a> by alibaba · ★ 22.7k · Go Agent Tool
   - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 3.1k · Rust Agent Tool
   - a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```

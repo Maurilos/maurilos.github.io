@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.
 - <a href="https://github.com/UiPath/coder_eval" target="_blank" rel="noopener"><strong>coder_eval</strong></a> by UiPath · ★ 128 · Python MCP Server
   - Playwright for coding agents. Benchmark Claude Code, Codex, Gemini, and OpenCode on your own tasks - and test that your skills, MCP servers, and CLIs work when an agent uses them. Sandboxed YAML suites, activation checks, A/B experiments, CI gates.
-- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 932 · TypeScript MCP Server
+- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 933 · TypeScript MCP Server
   - Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI
 - <a href="https://github.com/Keesan12/martin-loop" target="_blank" rel="noopener"><strong>martin-loop</strong></a> by Keesan12 · ★ 51 · TypeScript MCP Server
   - Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failures, learn from loops, and prove ROI across every repo.
