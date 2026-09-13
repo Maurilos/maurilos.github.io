@@ -200,7 +200,7 @@
         "rank": 10,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "275",
+        "stars": "276",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -259,7 +259,7 @@
         "rank": 5,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
-        "stars": "9.5k",
+        "stars": "9.6k",
         "meta": "TypeScript MCP Server",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "Aletheore",
         "author": "Aletheore",
-        "stars": "156",
+        "stars": "158",
         "meta": "Python MCP Server",
         "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
         "github_url": "https://github.com/Aletheore/Aletheore"
@@ -941,29 +941,29 @@
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
-      "name": "OpenMontage",
-      "stars": "56.3k",
-      "tagline": "World's first open-source, agentic video production system. 12 production pipeli",
-      "github_url": "https://github.com/calesthio/OpenMontage"
+      "name": "OmniRoute",
+      "stars": "65.5k",
+      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
+      "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "65.5k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      },
+      {
+        "rank": 2,
         "name": "OpenMontage",
         "author": "calesthio",
         "stars": "56.3k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
-      },
-      {
-        "rank": 2,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "65.3k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "22.4k",
+        "stars": "22.5k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"

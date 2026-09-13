@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - Blazing-fast, asynchronous MCP server for seamless filesystem operations.
 - <a href="https://github.com/efforthye/fast-filesystem-mcp" target="_blank" rel="noopener"><strong>fast-filesystem-mcp</strong></a> by efforthye · ★ 59 · TypeScript MCP Server
   - A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.
-- <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 9.5k · TypeScript MCP Server
+- <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 9.6k · TypeScript MCP Server
   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - <a href="https://github.com/AnalyseDeCircuit/oxideterm" target="_blank" rel="noopener"><strong>oxideterm</strong></a> by AnalyseDeCircuit · ★ 1.3k · Rust MCP Server
   - All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.
