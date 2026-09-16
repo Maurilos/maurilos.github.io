@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-api/
 # Best AI Agent Skills for MCP API Integration in 2026
 
 ## Quick Pick
-<a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> · ★ 122 · The open source, no-code MCP Server for AI-Native API Access
+<a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> · ★ 123 · The open source, no-code MCP Server for AI-Native API Access
 
 ## 工具列表
 
-- <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> by reshaprio · ★ 122 · Java MCP Server
+- <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> by reshaprio · ★ 123 · Java MCP Server
   - The open source, no-code MCP Server for AI-Native API Access
 - <a href="https://github.com/zaizaizhao/mcp-swagger-server" target="_blank" rel="noopener"><strong>mcp-swagger-server</strong></a> by zaizaizhao · ★ 74 · TypeScript MCP Server
   - MCP Swagger Server 将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式，让 AI 助手能够理解和调用您的 API。
@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-api/
   - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
 - <a href="https://github.com/spectral-mcp/spectral" target="_blank" rel="noopener"><strong>spectral</strong></a> by spectral-mcp · ★ 111 · Python MCP Server
   - Browse any app normally. Spectral captures the traffic, understands what each API call does, and generates MCP tools that AI agents can call directly.
-- <a href="https://github.com/ruaan-deysel/unraid-management-agent" target="_blank" rel="noopener"><strong>unraid-management-agent</strong></a> by ruaan-deysel · ★ 53 · Go MCP Server
+- <a href="https://github.com/ruaan-deysel/unraid-management-agent" target="_blank" rel="noopener"><strong>unraid-management-agent</strong></a> by ruaan-deysel · ★ 56 · Go MCP Server
   - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
 - <a href="https://github.com/EvilFreelancer/openapi-to-cli" target="_blank" rel="noopener"><strong>openapi-to-cli</strong></a> by EvilFreelancer · ★ 257 · TypeScript Codex Skill
   - Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.

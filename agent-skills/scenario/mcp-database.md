@@ -7,17 +7,17 @@ permalink: /agent-skills/scenario/mcp-database/
 # Best AI Agent Skills for MCP Database Tools in 2026
 
 ## Quick Pick
-<a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> · ★ 19.6k · 20 MB lightweight cross-platform database client for 90+ databases, including My
+<a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> · ★ 19.7k · 20 MB lightweight cross-platform database client for 90+ databases, including My
 
 ## 工具列表
 
-- <a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> by t8y2 · ★ 19.6k · Rust MCP Server
+- <a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> by t8y2 · ★ 19.7k · Rust MCP Server
   - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
 - <a href="https://github.com/dosco/graphjin" target="_blank" rel="noopener"><strong>graphjin</strong></a> by dosco · ★ 3.2k · Go MCP Server
   - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 16.4k · Go MCP Server
   - MCP Toolbox for Databases is an open source MCP server for databases.
-- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 4.9k · TypeScript MCP Server
+- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 5.0k · TypeScript MCP Server
   - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 3.5k · TypeScript MCP Server
   - Token conscious database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
