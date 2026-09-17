@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "937",
+        "stars": "938",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
