@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
 - <a href="https://github.com/Keesan12/martin-loop" target="_blank" rel="noopener"><strong>martin-loop</strong></a> by Keesan12 · ★ 209 · TypeScript MCP Server
   - Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failures, learn from loops, and prove ROI across every repo.
-- <a href="https://github.com/Aletheore/Aletheore" target="_blank" rel="noopener"><strong>Aletheore</strong></a> by Aletheore · ★ 195 · Python MCP Server
+- <a href="https://github.com/Aletheore/Aletheore" target="_blank" rel="noopener"><strong>Aletheore</strong></a> by Aletheore · ★ 198 · Python MCP Server
   - Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.
 - <a href="https://github.com/AndrewAltimit/template-repo" target="_blank" rel="noopener"><strong>template-repo</strong></a> by AndrewAltimit · ★ 131 · Rust MCP Server
   - Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers
