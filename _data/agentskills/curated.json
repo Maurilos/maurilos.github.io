@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "19.9k",
+      "stars": "20.0k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "19.9k",
+        "stars": "20.0k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -33,7 +33,7 @@
         "rank": 3,
         "name": "mcp-toolbox",
         "author": "googleapis",
-        "stars": "16.5k",
+        "stars": "16.4k",
         "meta": "Go MCP Server",
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "github_url": "https://github.com/googleapis/mcp-toolbox"
@@ -318,7 +318,7 @@
     "local_url": "/agent-skills/scenario/mcp-api/",
     "quick_pick": {
       "name": "reshapr",
-      "stars": "123",
+      "stars": "124",
       "tagline": "The open source, no-code MCP Server for AI-Native API Access",
       "github_url": "https://github.com/reshaprio/reshapr"
     },
@@ -327,7 +327,7 @@
         "rank": 1,
         "name": "reshapr",
         "author": "reshaprio",
-        "stars": "123",
+        "stars": "124",
         "meta": "Java MCP Server",
         "description": "The open source, no-code MCP Server for AI-Native API Access",
         "github_url": "https://github.com/reshaprio/reshapr"
@@ -476,13 +476,22 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "518",
+        "stars": "521",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
       },
       {
         "rank": 7,
+        "name": "montycat-mcp",
+        "author": "MontyGovernance",
+        "stars": "53",
+        "meta": "Python MCP Server",
+        "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Works with Claude, Cursor, Codex, and any MCP client.",
+        "github_url": "https://github.com/MontyGovernance/montycat-mcp"
+      },
+      {
+        "rank": 8,
         "name": "caura-memclaw",
         "author": "caura-ai",
         "stars": "430",
@@ -491,7 +500,7 @@
         "github_url": "https://github.com/caura-ai/caura-memclaw"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "omega-memory",
         "author": "omega-memory",
         "stars": "218",
@@ -500,22 +509,13 @@
         "github_url": "https://github.com/omega-memory/omega-memory"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "memory-vault",
         "author": "MihaiBuilds",
         "stars": "62",
         "meta": "Python MCP Server",
         "description": "A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.",
         "github_url": "https://github.com/MihaiBuilds/memory-vault"
-      },
-      {
-        "rank": 10,
-        "name": "MemOS",
-        "author": "MemTensor",
-        "stars": "11.5k",
-        "meta": "TypeScript MCP Server",
-        "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
-        "github_url": "https://github.com/MemTensor/MemOS"
       }
     ]
   },
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "197",
+        "stars": "203",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -646,6 +646,15 @@
       },
       {
         "rank": 2,
+        "name": "martin-loop",
+        "author": "Keesan12",
+        "stars": "209",
+        "meta": "TypeScript MCP Server",
+        "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failures, learn from loops, and prove ROI across every repo.",
+        "github_url": "https://github.com/Keesan12/martin-loop"
+      },
+      {
+        "rank": 3,
         "name": "Aletheore",
         "author": "Aletheore",
         "stars": "195",
@@ -654,7 +663,7 @@
         "github_url": "https://github.com/Aletheore/Aletheore"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "template-repo",
         "author": "AndrewAltimit",
         "stars": "131",
@@ -663,7 +672,7 @@
         "github_url": "https://github.com/AndrewAltimit/template-repo"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "coder_eval",
         "author": "UiPath",
         "stars": "131",
@@ -672,22 +681,13 @@
         "github_url": "https://github.com/UiPath/coder_eval"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "938",
+        "stars": "939",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
-      },
-      {
-        "rank": 6,
-        "name": "martin-loop",
-        "author": "Keesan12",
-        "stars": "52",
-        "meta": "TypeScript MCP Server",
-        "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failures, learn from loops, and prove ROI across every repo.",
-        "github_url": "https://github.com/Keesan12/martin-loop"
       },
       {
         "rank": 7,
@@ -752,7 +752,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "197",
+        "stars": "203",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "procoder",
         "author": "azrtydxb",
-        "stars": "202",
+        "stars": "209",
         "meta": "Go MCP Server",
         "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
         "github_url": "https://github.com/azrtydxb/procoder"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "habit-hooks",
         "author": "habit-hooks",
-        "stars": "160",
+        "stars": "174",
         "meta": "Python Agent Tool",
         "description": "Automated quality checks that nudge AI coding agents toward better habits",
         "github_url": "https://github.com/habit-hooks/habit-hooks"
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "33.7k",
+        "stars": "34.4k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -892,7 +892,7 @@
         "rank": 6,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "3.1k",
+        "stars": "3.2k",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
         "github_url": "https://github.com/agavra/tuicr"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "67.2k",
+      "stars": "67.5k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "67.2k",
+        "stars": "67.5k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -985,21 +985,21 @@
       },
       {
         "rank": 5,
-        "name": "context-mode",
-        "author": "mksglu",
-        "stars": "23.3k",
-        "meta": "TypeScript MCP Server",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "github_url": "https://github.com/mksglu/context-mode"
-      },
-      {
-        "rank": 6,
         "name": "mode",
         "author": "arunalabs",
         "stars": "69",
         "meta": "TypeScript Agent Tool",
         "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
         "github_url": "https://github.com/arunalabs/mode"
+      },
+      {
+        "rank": 6,
+        "name": "context-mode",
+        "author": "mksglu",
+        "stars": "23.4k",
+        "meta": "TypeScript MCP Server",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "github_url": "https://github.com/mksglu/context-mode"
       },
       {
         "rank": 7,
@@ -1091,8 +1091,8 @@
         "rank": 5,
         "name": "gap-trap NEW",
         "author": "pliablepixels",
-        "stars": "161",
-        "meta": "Shell Claude Skill",
+        "stars": "168",
+        "meta": "JavaScript Claude Skill",
         "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
         "github_url": "https://github.com/pliablepixels/gap-trap"
       },
@@ -1177,7 +1177,7 @@
         "rank": 3,
         "name": "MemWhale",
         "author": "wuisabel-gif",
-        "stars": "120",
+        "stars": "121",
         "meta": "Rust MCP Server",
         "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
         "github_url": "https://github.com/wuisabel-gif/MemWhale"

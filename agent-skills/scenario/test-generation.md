@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/test-generation/
   - Turn AI coding into an engineering process.
 - <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 219 · Python MCP Server
   - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
-- <a href="https://github.com/pliablepixels/gap-trap" target="_blank" rel="noopener"><strong>gap-trap NEW</strong></a> by pliablepixels · ★ 161 · Shell Claude Skill
+- <a href="https://github.com/pliablepixels/gap-trap" target="_blank" rel="noopener"><strong>gap-trap NEW</strong></a> by pliablepixels · ★ 168 · JavaScript Claude Skill
   - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.
 - <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 198 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
