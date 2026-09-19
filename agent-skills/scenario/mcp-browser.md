@@ -25,7 +25,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Model Context Protocol server for Playwright with Chrome DevTools Protocol support
 - <a href="https://github.com/psyb0t/docker-stealthy-auto-browse" target="_blank" rel="noopener"><strong>docker-stealthy-auto-browse</strong></a> by psyb0t · ★ 77 · Python MCP Server
   - Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.
-- <a href="https://github.com/browserbase/stagehand" target="_blank" rel="noopener"><strong>stagehand</strong></a> by browserbase · ★ 24.4k · TypeScript Codex Skill
+- <a href="https://github.com/browserbase/stagehand" target="_blank" rel="noopener"><strong>stagehand</strong></a> by browserbase · ★ 24.5k · TypeScript Codex Skill
   - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - <a href="https://github.com/atagon-GmbH/kogiqa-mcp" target="_blank" rel="noopener"><strong>kogiqa-mcp</strong></a> by atagon-GmbH · ★ 103 · JavaScript MCP Server
   - This web browser has been designed to help your agent debug and develop complex web applications. (MCP Server)

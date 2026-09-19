@@ -182,7 +182,7 @@
         "rank": 8,
         "name": "stagehand",
         "author": "browserbase",
-        "stars": "24.4k",
+        "stars": "24.5k",
         "meta": "TypeScript Codex Skill",
         "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
         "github_url": "https://github.com/browserbase/stagehand"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "522",
+        "stars": "526",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "200",
+        "stars": "204",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -646,21 +646,21 @@
       },
       {
         "rank": 2,
-        "name": "Aletheore",
-        "author": "Aletheore",
-        "stars": "179",
-        "meta": "Python MCP Server",
-        "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
-        "github_url": "https://github.com/Aletheore/Aletheore"
-      },
-      {
-        "rank": 3,
         "name": "martin-loop",
         "author": "Keesan12",
         "stars": "190",
         "meta": "TypeScript MCP Server",
         "description": "Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failures, learn from loops, and prove ROI across every repo.",
         "github_url": "https://github.com/Keesan12/martin-loop"
+      },
+      {
+        "rank": 3,
+        "name": "Aletheore",
+        "author": "Aletheore",
+        "stars": "179",
+        "meta": "Python MCP Server",
+        "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
+        "github_url": "https://github.com/Aletheore/Aletheore"
       },
       {
         "rank": 4,
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "coder_eval",
         "author": "UiPath",
-        "stars": "133",
+        "stars": "137",
         "meta": "Python MCP Server",
         "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI gates.",
         "github_url": "https://github.com/UiPath/coder_eval"
@@ -684,7 +684,7 @@
         "rank": 6,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "941",
+        "stars": "942",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -752,7 +752,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "200",
+        "stars": "204",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "ENZO",
         "author": "theguysudo",
-        "stars": "52",
+        "stars": "56",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
         "github_url": "https://github.com/theguysudo/ENZO"
@@ -872,6 +872,15 @@
       },
       {
         "rank": 4,
+        "name": "perch NEW",
+        "author": "lakeday-org",
+        "stars": "149",
+        "meta": "JavaScript AI Tool",
+        "description": "Semantic code linting with Jev",
+        "github_url": "https://github.com/lakeday-org/perch"
+      },
+      {
+        "rank": 5,
         "name": "api-doctor",
         "author": "qualtyco",
         "stars": "67",
@@ -880,19 +889,10 @@
         "github_url": "https://github.com/qualtyco/api-doctor"
       },
       {
-        "rank": 5,
-        "name": "perch NEW",
-        "author": "lakeday-org",
-        "stars": "72",
-        "meta": "JavaScript AI Tool",
-        "description": "Semantic code linting with Jev",
-        "github_url": "https://github.com/lakeday-org/perch"
-      },
-      {
         "rank": 6,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "36.7k",
+        "stars": "37.2k",
         "meta": "Go Agent Tool",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "67.9k",
+      "stars": "68.1k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "67.9k",
+        "stars": "68.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "23.5k",
+        "stars": "23.6k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1150,7 +1150,7 @@
     "local_url": "/agent-skills/scenario/debugging/",
     "quick_pick": {
       "name": "agent-inspect",
-      "stars": "603",
+      "stars": "606",
       "tagline": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: in",
       "github_url": "https://github.com/rajudandigam/agent-inspect"
     },
@@ -1159,7 +1159,7 @@
         "rank": 1,
         "name": "agent-inspect",
         "author": "rajudandigam",
-        "stars": "603",
+        "stars": "606",
         "meta": "TypeScript MCP Server",
         "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence.",
         "github_url": "https://github.com/rajudandigam/agent-inspect"
