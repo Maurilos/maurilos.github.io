@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/code-review/
   - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.
 - <a href="https://github.com/habit-hooks/habit-hooks" target="_blank" rel="noopener"><strong>habit-hooks</strong></a> by habit-hooks · ★ 176 · Python Agent Tool
   - Automated quality checks that nudge AI coding agents toward better habits
-- <a href="https://github.com/lakeday-org/perch" target="_blank" rel="noopener"><strong>perch NEW</strong></a> by lakeday-org · ★ 149 · JavaScript AI Tool
+- <a href="https://github.com/lakeday-org/perch" target="_blank" rel="noopener"><strong>perch NEW</strong></a> by lakeday-org · ★ 160 · JavaScript AI Tool
   - Semantic code linting with Jev
 - <a href="https://github.com/qualtyco/api-doctor" target="_blank" rel="noopener"><strong>api-doctor</strong></a> by qualtyco · ★ 67 · TypeScript Agent Tool
   - AI compiles hallucinated code that pass. This fixes it before accepting it. 100% Deterministic Quick Start: ```bash # Scan your project npx @api-doctor/cli . # Or install as an agent skill (Claude Code, Cursor, Windsurf) npx @api-doctor/cli install ```

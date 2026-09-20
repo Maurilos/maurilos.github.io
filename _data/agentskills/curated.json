@@ -53,7 +53,7 @@
         "author": "bytebase",
         "stars": "3.5k",
         "meta": "TypeScript MCP Server",
-        "description": "Token conscious database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.",
+        "description": "Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.",
         "github_url": "https://github.com/bytebase/dbhub"
       },
       {
@@ -110,7 +110,7 @@
     "local_url": "/agent-skills/scenario/mcp-browser/",
     "quick_pick": {
       "name": "oya-browser",
-      "stars": "109",
+      "stars": "147",
       "tagline": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St",
       "github_url": "https://github.com/OyadotAI/oya-browser"
     },
@@ -119,7 +119,7 @@
         "rank": 1,
         "name": "oya-browser",
         "author": "OyadotAI",
-        "stars": "109",
+        "stars": "147",
         "meta": "TypeScript MCP Server",
         "description": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.",
         "github_url": "https://github.com/OyadotAI/oya-browser"
@@ -182,7 +182,7 @@
         "rank": 8,
         "name": "stagehand",
         "author": "browserbase",
-        "stars": "24.5k",
+        "stars": "24.6k",
         "meta": "TypeScript Codex Skill",
         "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
         "github_url": "https://github.com/browserbase/stagehand"
@@ -259,7 +259,7 @@
         "rank": 5,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
-        "stars": "9.6k",
+        "stars": "9.7k",
         "meta": "TypeScript MCP Server",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "526",
+        "stars": "527",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -485,7 +485,7 @@
         "rank": 7,
         "name": "montycat-mcp",
         "author": "MontyGovernance",
-        "stars": "53",
+        "stars": "54",
         "meta": "Python MCP Server",
         "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Works with Claude, Cursor, Codex, and any MCP client.",
         "github_url": "https://github.com/MontyGovernance/montycat-mcp"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "ENZO",
         "author": "theguysudo",
-        "stars": "56",
+        "stars": "72",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
         "github_url": "https://github.com/theguysudo/ENZO"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "perch NEW",
         "author": "lakeday-org",
-        "stars": "149",
+        "stars": "160",
         "meta": "JavaScript AI Tool",
         "description": "Semantic code linting with Jev",
         "github_url": "https://github.com/lakeday-org/perch"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "68.1k",
+      "stars": "68.3k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "68.1k",
+        "stars": "68.3k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1177,7 +1177,7 @@
         "rank": 3,
         "name": "MemWhale",
         "author": "wuisabel-gif",
-        "stars": "121",
+        "stars": "119",
         "meta": "Rust MCP Server",
         "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
         "github_url": "https://github.com/wuisabel-gif/MemWhale"

@@ -20,7 +20,7 @@ permalink: /agent-skills/scenario/mcp-database/
 - <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 5.0k · TypeScript MCP Server
   - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 3.5k · TypeScript MCP Server
-  - Token conscious database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+  - Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.
 - <a href="https://github.com/Syngnat/GoNavi" target="_blank" rel="noopener"><strong>GoNavi</strong></a> by Syngnat · ★ 1.9k · TypeScript MCP Server
   - High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。
 - <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 84 · Go MCP Server
