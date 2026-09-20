@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-for-google/
 
 - <a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> by taylorwilsdon · ★ 3.2k · Python MCP Server
   - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
-- <a href="https://github.com/brekkylab/backlot" target="_blank" rel="noopener"><strong>backlot</strong></a> by brekkylab · ★ 204 · Python MCP Server
+- <a href="https://github.com/brekkylab/backlot" target="_blank" rel="noopener"><strong>backlot</strong></a> by brekkylab · ★ 216 · Python MCP Server
   - A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.
 - <a href="https://github.com/klemensgc/modular-context-obsidian-plugin" target="_blank" rel="noopener"><strong>modular-context-obsidian-plugin</strong></a> by klemensgc · ★ 97 · TypeScript MCP Server
   - Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first
@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - Model Context Protocol (MCP) Server for reading from Google Drive and editing Google Sheets
 - <a href="https://github.com/aaronsb/google-workspace-mcp" target="_blank" rel="noopener"><strong>google-workspace-mcp</strong></a> by aaronsb · ★ 171 · TypeScript MCP Server
   - A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality
-- <a href="https://github.com/theguysudo/ENZO" target="_blank" rel="noopener"><strong>ENZO</strong></a> by theguysudo · ★ 72 · TypeScript MCP Server
+- <a href="https://github.com/theguysudo/ENZO" target="_blank" rel="noopener"><strong>ENZO</strong></a> by theguysudo · ★ 80 · TypeScript MCP Server
   - Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.
 - <a href="https://github.com/tanaikech/ggsrun" target="_blank" rel="noopener"><strong>ggsrun</strong></a> by tanaikech · ★ 171 · Go MCP Server
   - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, and manage Drive infrastructure.
