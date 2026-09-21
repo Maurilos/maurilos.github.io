@@ -23,11 +23,11 @@ permalink: /agent-skills/scenario/mcp-api/
   - Browse any app normally. Spectral captures the traffic, understands what each API call does, and generates MCP tools that AI agents can call directly.
 - <a href="https://github.com/ruaan-deysel/unraid-management-agent" target="_blank" rel="noopener"><strong>unraid-management-agent</strong></a> by ruaan-deysel · ★ 56 · Go MCP Server
   - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
+- <a href="https://github.com/TykTechnologies/tyk" target="_blank" rel="noopener"><strong>tyk</strong></a> by TykTechnologies · ★ 10.8k · Go MCP Server
+  - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
 - <a href="https://github.com/EvilFreelancer/openapi-to-cli" target="_blank" rel="noopener"><strong>openapi-to-cli</strong></a> by EvilFreelancer · ★ 257 · TypeScript Codex Skill
   - Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.
 - <a href="https://github.com/knowsuchagency/mcp2cli" target="_blank" rel="noopener"><strong>mcp2cli</strong></a> by knowsuchagency · ★ 2.4k · Python MCP Server
   - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen Quick Start: ```bash # Run directly without installing uvx mcp2cli --help # Or install globally uv tool install mcp2cli ```
 - <a href="https://github.com/apioo/fusio" target="_blank" rel="noopener"><strong>fusio</strong></a> by apioo · ★ 2.1k · PHP MCP Server
   - Self-Hosted API Management for Builders
-- <a href="https://github.com/kubb-labs/kubb" target="_blank" rel="noopener"><strong>kubb</strong></a> by kubb-labs · ★ 1.8k · TypeScript MCP Server
-  - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine. Quick Start: ```bash bun add kubb # or pnpm add kubb # or npm install kubb ```
