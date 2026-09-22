@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 - <a href="https://github.com/MorDavid/BloodHound-MCP-AI" target="_blank" rel="noopener"><strong>BloodHound-MCP-AI</strong></a> by MorDavid · ★ 372 · Python MCP Server
   - BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.
-- <a href="https://github.com/atom2ueki/mcp-server-synology" target="_blank" rel="noopener"><strong>mcp-server-synology</strong></a> by atom2ueki · ★ 171 · Python MCP Server
+- <a href="https://github.com/atom2ueki/mcp-server-synology" target="_blank" rel="noopener"><strong>mcp-server-synology</strong></a> by atom2ueki · ★ 207 · Python MCP Server
   - 💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.
 - <a href="https://github.com/shariqriazz/vertex-ai-mcp-server" target="_blank" rel="noopener"><strong>vertex-ai-mcp-server</strong></a> by shariqriazz · ★ 87 · TypeScript MCP Server
   - MCP server for Vertex AI and Gemini tools, including grounded answers, documentation research, and filesystem workflows.

@@ -7,11 +7,15 @@ permalink: /agent-skills/scenario/mcp-api/
 # Best AI Agent Skills for MCP API Integration in 2026
 
 ## Quick Pick
-<a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> · ★ 124 · The open source, no-code MCP Server for AI-Native API Access
+<a href="https://github.com/cortex-docs/cortex" target="_blank" rel="noopener"><strong>cortex</strong></a> · ★ 3.2k · Cortex - Generate interactive docs and typed SDKs from OpenAPI, AsyncAPI, GraphQ
 
 ## 工具列表
 
-- <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> by reshaprio · ★ 124 · Java MCP Server
+- <a href="https://github.com/cortex-docs/cortex" target="_blank" rel="noopener"><strong>cortex</strong></a> by cortex-docs · ★ 3.2k · JavaScript MCP Server
+  - Cortex - Generate interactive docs and typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC and MCP servers enriched with custom Markdown.
+- <a href="https://github.com/cortex-docs-old/cortex" target="_blank" rel="noopener"><strong>cortex</strong></a> by cortex-docs-old · ★ 165 · TypeScript MCP Server
+  - Generate typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC—plus interactive docs and MCP servers enriched with custom Markdown.
+- <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> by reshaprio · ★ 126 · Java MCP Server
   - The open source, no-code MCP Server for AI-Native API Access
 - <a href="https://github.com/zaizaizhao/mcp-swagger-server" target="_blank" rel="noopener"><strong>mcp-swagger-server</strong></a> by zaizaizhao · ★ 74 · TypeScript MCP Server
   - MCP Swagger Server 将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式，让 AI 助手能够理解和调用您的 API。
@@ -25,9 +29,5 @@ permalink: /agent-skills/scenario/mcp-api/
   - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
 - <a href="https://github.com/TykTechnologies/tyk" target="_blank" rel="noopener"><strong>tyk</strong></a> by TykTechnologies · ★ 10.8k · Go MCP Server
   - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
-- <a href="https://github.com/EvilFreelancer/openapi-to-cli" target="_blank" rel="noopener"><strong>openapi-to-cli</strong></a> by EvilFreelancer · ★ 257 · TypeScript Codex Skill
+- <a href="https://github.com/EvilFreelancer/openapi-to-cli" target="_blank" rel="noopener"><strong>openapi-to-cli</strong></a> by EvilFreelancer · ★ 259 · TypeScript Codex Skill
   - Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.
-- <a href="https://github.com/knowsuchagency/mcp2cli" target="_blank" rel="noopener"><strong>mcp2cli</strong></a> by knowsuchagency · ★ 2.4k · Python MCP Server
-  - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen Quick Start: ```bash # Run directly without installing uvx mcp2cli --help # Or install globally uv tool install mcp2cli ```
-- <a href="https://github.com/apioo/fusio" target="_blank" rel="noopener"><strong>fusio</strong></a> by apioo · ★ 2.1k · PHP MCP Server
-  - Self-Hosted API Management for Builders
