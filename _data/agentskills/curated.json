@@ -110,7 +110,7 @@
     "local_url": "/agent-skills/scenario/mcp-browser/",
     "quick_pick": {
       "name": "oya-browser",
-      "stars": "237",
+      "stars": "252",
       "tagline": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St",
       "github_url": "https://github.com/OyadotAI/oya-browser"
     },
@@ -119,7 +119,7 @@
         "rank": 1,
         "name": "oya-browser",
         "author": "OyadotAI",
-        "stars": "237",
+        "stars": "252",
         "meta": "TypeScript MCP Server",
         "description": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.",
         "github_url": "https://github.com/OyadotAI/oya-browser"
@@ -189,21 +189,21 @@
       },
       {
         "rank": 9,
-        "name": "stagehand",
-        "author": "browserbase",
-        "stars": "25.1k",
-        "meta": "TypeScript Codex Skill",
-        "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
-        "github_url": "https://github.com/browserbase/stagehand"
+        "name": "invisible_playwright_mcp",
+        "author": "feder-cr",
+        "stars": "31.6k",
+        "meta": "Python MCP Server",
+        "description": "Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.",
+        "github_url": "https://github.com/feder-cr/invisible_playwright_mcp"
       },
       {
         "rank": 10,
-        "name": "kogiqa-mcp",
-        "author": "atagon-GmbH",
-        "stars": "103",
-        "meta": "JavaScript MCP Server",
-        "description": "This web browser has been designed to help your agent debug and develop complex web applications. (MCP Server)",
-        "github_url": "https://github.com/atagon-GmbH/kogiqa-mcp"
+        "name": "stagehand",
+        "author": "browserbase",
+        "stars": "25.2k",
+        "meta": "TypeScript Codex Skill",
+        "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+        "github_url": "https://github.com/browserbase/stagehand"
       }
     ]
   },
@@ -250,7 +250,7 @@
         "rank": 4,
         "name": "fast-filesystem-mcp",
         "author": "efforthye",
-        "stars": "59",
+        "stars": "62",
         "meta": "TypeScript MCP Server",
         "description": "A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.",
         "github_url": "https://github.com/efforthye/fast-filesystem-mcp"
@@ -284,21 +284,21 @@
       },
       {
         "rank": 8,
-        "name": "BloodHound-MCP-AI",
-        "author": "MorDavid",
-        "stars": "372",
-        "meta": "Python MCP Server",
-        "description": "BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.",
-        "github_url": "https://github.com/MorDavid/BloodHound-MCP-AI"
-      },
-      {
-        "rank": 9,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
         "stars": "207",
         "meta": "Python MCP Server",
         "description": "💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.",
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
+      },
+      {
+        "rank": 9,
+        "name": "BloodHound-MCP-AI",
+        "author": "MorDavid",
+        "stars": "372",
+        "meta": "Python MCP Server",
+        "description": "BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.",
+        "github_url": "https://github.com/MorDavid/BloodHound-MCP-AI"
       },
       {
         "rank": 10,
@@ -319,7 +319,7 @@
     "quick_pick": {
       "name": "cortex",
       "stars": "3.2k",
-      "tagline": "Cortex - Generate interactive docs and typed SDKs from OpenAPI, AsyncAPI, GraphQ",
+      "tagline": "Cortex - Generate interactive docs, typed SDKs from OpenAPI, AsyncAPI, GraphQL,",
       "github_url": "https://github.com/cortex-docs/cortex"
     },
     "tools": [
@@ -328,8 +328,8 @@
         "name": "cortex",
         "author": "cortex-docs",
         "stars": "3.2k",
-        "meta": "JavaScript MCP Server",
-        "description": "Cortex - Generate interactive docs and typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC and MCP servers enriched with custom Markdown.",
+        "meta": "TypeScript MCP Server",
+        "description": "Cortex - Generate interactive docs, typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC and MCP servers enriched with custom Markdown.",
         "github_url": "https://github.com/cortex-docs/cortex"
       },
       {
@@ -440,7 +440,7 @@
         "rank": 2,
         "name": "Dragon-Brain",
         "author": "iikarus",
-        "stars": "51",
+        "stars": "50",
         "meta": "Python MCP Server",
         "description": "Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context Protocol). Knowledge graph (FalkorDB) + vector search (Qdrant) + CUDA GPU embeddings. Works with Claude, Gemini CLI, Cursor, Windsurf, VS Code Copilot. 30 tools, 1121 tests.",
         "github_url": "https://github.com/iikarus/Dragon-Brain"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "529",
+        "stars": "530",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "228",
+        "stars": "229",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "coder_eval",
         "author": "UiPath",
-        "stars": "137",
+        "stars": "141",
         "meta": "Python MCP Server",
         "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI gates.",
         "github_url": "https://github.com/UiPath/coder_eval"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "942",
+        "stars": "943",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -752,7 +752,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "228",
+        "stars": "229",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "perch NEW",
         "author": "lakeday-org",
-        "stars": "169",
+        "stars": "170",
         "meta": "JavaScript AI Tool",
         "description": "Semantic code linting with Jev",
         "github_url": "https://github.com/lakeday-org/perch"
@@ -892,7 +892,7 @@
         "rank": 6,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "39.5k",
+        "stars": "39.8k",
         "meta": "Go Agent Tool",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "69.1k",
+      "stars": "69.3k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "69.1k",
+        "stars": "69.3k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "unit-tests-skills",
-      "stars": "53",
+      "stars": "54",
       "tagline": "AI agent skills for generating high-quality unit tests — Given-When-Then test ca",
       "github_url": "https://github.com/mavka-ai/unit-tests-skills"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "unit-tests-skills",
         "author": "mavka-ai",
-        "stars": "53",
+        "stars": "54",
         "meta": "Shell Agent Tool",
         "description": "AI agent skills for generating high-quality unit tests — Given-When-Then test cases, JUnit 5, Mockito, AssertJ. Works with Claude Code, Cursor, and any AGENTS.md-compatible agent.",
         "github_url": "https://github.com/mavka-ai/unit-tests-skills"
@@ -1150,7 +1150,7 @@
     "local_url": "/agent-skills/scenario/debugging/",
     "quick_pick": {
       "name": "agent-inspect",
-      "stars": "633",
+      "stars": "638",
       "tagline": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: in",
       "github_url": "https://github.com/rajudandigam/agent-inspect"
     },
@@ -1159,7 +1159,7 @@
         "rank": 1,
         "name": "agent-inspect",
         "author": "rajudandigam",
-        "stars": "633",
+        "stars": "638",
         "meta": "TypeScript MCP Server",
         "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence.",
         "github_url": "https://github.com/rajudandigam/agent-inspect"

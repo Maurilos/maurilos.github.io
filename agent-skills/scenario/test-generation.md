@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/test-generation/
 # Best AI Agent Skills for Test Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/mavka-ai/unit-tests-skills" target="_blank" rel="noopener"><strong>unit-tests-skills</strong></a> · ★ 53 · AI agent skills for generating high-quality unit tests — Given-When-Then test ca
+<a href="https://github.com/mavka-ai/unit-tests-skills" target="_blank" rel="noopener"><strong>unit-tests-skills</strong></a> · ★ 54 · AI agent skills for generating high-quality unit tests — Given-When-Then test ca
 
 ## 工具列表
 
-- <a href="https://github.com/mavka-ai/unit-tests-skills" target="_blank" rel="noopener"><strong>unit-tests-skills</strong></a> by mavka-ai · ★ 53 · Shell Agent Tool
+- <a href="https://github.com/mavka-ai/unit-tests-skills" target="_blank" rel="noopener"><strong>unit-tests-skills</strong></a> by mavka-ai · ★ 54 · Shell Agent Tool
   - AI agent skills for generating high-quality unit tests — Given-When-Then test cases, JUnit 5, Mockito, AssertJ. Works with Claude Code, Cursor, and any AGENTS.md-compatible agent.
 - <a href="https://github.com/buer2233/ai-api-test-skill" target="_blank" rel="noopener"><strong>ai-api-test-skill</strong></a> by buer2233 · ★ 152 · Python Codex Skill
   - AI接口自动化测试 Skill：面向 Python + pytest + requests，驱动 Codex / Claude Code 生成、维护和调试接口用例（AI API test automation skill for Python + pytest + requests）
