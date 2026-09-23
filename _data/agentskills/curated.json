@@ -867,7 +867,7 @@
         "author": "azrtydxb",
         "stars": "209",
         "meta": "Go MCP Server",
-        "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
+        "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents. Quick Start: That's Claude Code; Procoder also ships adapters for every agent — Cursor, Windsurf, Cline, Kilo Code, Roo, Kiro, Codex CLI, Copilot CLI, Gemini, Open... ``` /plugin marketplace add azrtydxb/procoder /plugin install procoder /procoder:init # installs the tools this repository needs ```",
         "github_url": "https://github.com/azrtydxb/procoder"
       },
       {
