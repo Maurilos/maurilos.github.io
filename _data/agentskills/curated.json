@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "52.5k",
+        "stars": "52.6k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -155,7 +155,7 @@
         "rank": 5,
         "name": "bladebro",
         "author": "dondai44423",
-        "stars": "200",
+        "stars": "203",
         "meta": "Rust MCP Server",
         "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
         "github_url": "https://github.com/dondai44423/bladebro"
@@ -200,7 +200,7 @@
         "rank": 10,
         "name": "stagehand",
         "author": "browserbase",
-        "stars": "25.3k",
+        "stars": "25.4k",
         "meta": "TypeScript Codex Skill",
         "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
         "github_url": "https://github.com/browserbase/stagehand"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "ENZO",
         "author": "theguysudo",
-        "stars": "92",
+        "stars": "98",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
         "github_url": "https://github.com/theguysudo/ENZO"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "habit-hooks",
         "author": "habit-hooks",
-        "stars": "178",
+        "stars": "180",
         "meta": "Python Agent Tool",
         "description": "Automated quality checks that nudge AI coding agents toward better habits",
         "github_url": "https://github.com/habit-hooks/habit-hooks"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "perch NEW",
         "author": "lakeday-org",
-        "stars": "173",
+        "stars": "174",
         "meta": "JavaScript AI Tool",
         "description": "Semantic code linting with Jev",
         "github_url": "https://github.com/lakeday-org/perch"
@@ -892,7 +892,7 @@
         "rank": 6,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "40.3k",
+        "stars": "40.5k",
         "meta": "Go Agent Tool",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "69.6k",
+      "stars": "69.8k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "69.6k",
+        "stars": "69.8k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -969,7 +969,7 @@
         "rank": 3,
         "name": "agentmemory",
         "author": "rohitg00",
-        "stars": "28.7k",
+        "stars": "28.8k",
         "meta": "TypeScript Codex Skill",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "github_url": "https://github.com/rohitg00/agentmemory"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "18.2k",
+        "stars": "18.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "awesome-ai-testing",
         "author": "tugkanboz",
-        "stars": "111",
+        "stars": "112",
         "meta": "MCP Server",
         "description": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.",
         "github_url": "https://github.com/tugkanboz/awesome-ai-testing"
