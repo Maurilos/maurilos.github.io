@@ -19,10 +19,10 @@ permalink: /agent-skills/scenario/code-completion/
   - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - <a href="https://github.com/decolua/9router" target="_blank" rel="noopener"><strong>9router</strong></a> by decolua · ★ 29.7k · JavaScript Codex Skill
   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+- <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 70 · TypeScript Agent Tool
+  - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 24.0k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-- <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 69 · TypeScript Agent Tool
-  - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 18.2k · TypeScript Codex Skill
   - Orchestrate multiple coding agents from desktop and mobile
 - <a href="https://github.com/github/copilot-cli" target="_blank" rel="noopener"><strong>copilot-cli</strong></a> by github · ★ 11.2k · Shell Agent Tool

@@ -985,21 +985,21 @@
       },
       {
         "rank": 5,
+        "name": "mode",
+        "author": "arunalabs",
+        "stars": "70",
+        "meta": "TypeScript Agent Tool",
+        "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
+        "github_url": "https://github.com/arunalabs/mode"
+      },
+      {
+        "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
         "stars": "24.0k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
-      },
-      {
-        "rank": 6,
-        "name": "mode",
-        "author": "arunalabs",
-        "stars": "69",
-        "meta": "TypeScript Agent Tool",
-        "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
-        "github_url": "https://github.com/arunalabs/mode"
       },
       {
         "rank": 7,
