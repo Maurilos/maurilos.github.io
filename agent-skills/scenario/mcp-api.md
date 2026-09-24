@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/mcp-api/
   - Cortex - Generate interactive docs, typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC and MCP servers enriched with custom Markdown.
 - <a href="https://github.com/cortex-docs-old/cortex" target="_blank" rel="noopener"><strong>cortex</strong></a> by cortex-docs-old · ★ 165 · TypeScript MCP Server
   - Generate typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC—plus interactive docs and MCP servers enriched with custom Markdown.
-- <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> by reshaprio · ★ 126 · Java MCP Server
+- <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> by reshaprio · ★ 127 · Java MCP Server
   - The open source, no-code MCP Server for AI-Native API Access
 - <a href="https://github.com/zaizaizhao/mcp-swagger-server" target="_blank" rel="noopener"><strong>mcp-swagger-server</strong></a> by zaizaizhao · ★ 74 · TypeScript MCP Server
   - MCP Swagger Server 将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式，让 AI 助手能够理解和调用您的 API。

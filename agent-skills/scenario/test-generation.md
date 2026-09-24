@@ -15,13 +15,13 @@ permalink: /agent-skills/scenario/test-generation/
   - AI agent skills for generating high-quality unit tests — Given-When-Then test cases, JUnit 5, Mockito, AssertJ. Works with Claude Code, Cursor, and any AGENTS.md-compatible agent.
 - <a href="https://github.com/buer2233/ai-api-test-skill" target="_blank" rel="noopener"><strong>ai-api-test-skill</strong></a> by buer2233 · ★ 152 · Python Codex Skill
   - AI接口自动化测试 Skill：面向 Python + pytest + requests，驱动 Codex / Claude Code 生成、维护和调试接口用例（AI API test automation skill for Python + pytest + requests）
-- <a href="https://github.com/tugkanboz/awesome-ai-testing" target="_blank" rel="noopener"><strong>awesome-ai-testing</strong></a> by tugkanboz · ★ 105 · MCP Server
+- <a href="https://github.com/tugkanboz/awesome-ai-testing" target="_blank" rel="noopener"><strong>awesome-ai-testing</strong></a> by tugkanboz · ★ 111 · MCP Server
   - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.
 - <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 223 · Agent Tool
   - Turn AI coding into an engineering process.
 - <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 221 · Python MCP Server
   - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
-- <a href="https://github.com/pliablepixels/gap-trap" target="_blank" rel="noopener"><strong>gap-trap NEW</strong></a> by pliablepixels · ★ 168 · JavaScript Claude Skill
+- <a href="https://github.com/pliablepixels/gap-trap" target="_blank" rel="noopener"><strong>gap-trap NEW</strong></a> by pliablepixels · ★ 177 · JavaScript Claude Skill
   - Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.
 - <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 198 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents

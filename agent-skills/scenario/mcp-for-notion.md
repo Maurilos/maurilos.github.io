@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - Markdown-first Notion MCP server. ~6-7x fewer response tokens vs official Notion MCP. 43 tools.
 - <a href="https://github.com/macro-inc/macro" target="_blank" rel="noopener"><strong>macro</strong></a> by macro-inc · ★ 780 · TypeScript MCP Server
   - Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.
-- <a href="https://github.com/busabase/busabase" target="_blank" rel="noopener"><strong>busabase</strong></a> by busabase · ★ 224 · TypeScript MCP Server
+- <a href="https://github.com/busabase/busabase" target="_blank" rel="noopener"><strong>busabase</strong></a> by busabase · ★ 230 · TypeScript MCP Server
   - Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes that matter. Local-first and self-hostable.
 - <a href="https://github.com/pipeshub-ai/pipeshub-ai" target="_blank" rel="noopener"><strong>pipeshub-ai</strong></a> by pipeshub-ai · ★ 3.8k · Python MCP Server
   - PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems.
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - <a href="https://github.com/borghei/Claude-Skills" target="_blank" rel="noopener"><strong>Claude-Skills</strong></a> by borghei · ★ 805 · HTML MCP Server
   - 372 AI skills, 76 expert agents, and 867 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.
-- <a href="https://github.com/brekkylab/backlot" target="_blank" rel="noopener"><strong>backlot</strong></a> by brekkylab · ★ 229 · Python MCP Server
+- <a href="https://github.com/brekkylab/backlot" target="_blank" rel="noopener"><strong>backlot</strong></a> by brekkylab · ★ 235 · Python MCP Server
   - A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.

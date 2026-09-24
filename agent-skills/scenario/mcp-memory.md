@@ -15,13 +15,13 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge graph, ANN recall via HNSW. Embeddable Rust library with Python bindings; powers yantrikdb-server (HTTP gateway, MCP server, openraft cluster). Apache-2.0.
 - <a href="https://github.com/iikarus/Dragon-Brain" target="_blank" rel="noopener"><strong>Dragon-Brain</strong></a> by iikarus · ★ 50 · Python MCP Server
   - Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context Protocol). Knowledge graph (FalkorDB) + vector search (Qdrant) + CUDA GPU embeddings. Works with Claude, Gemini CLI, Cursor, Windsurf, VS Code Copilot. 30 tools, 1121 tests.
-- <a href="https://github.com/major7apps/pensyve" target="_blank" rel="noopener"><strong>pensyve</strong></a> by major7apps · ★ 80 · Rust MCP Server
+- <a href="https://github.com/major7apps/pensyve" target="_blank" rel="noopener"><strong>pensyve</strong></a> by major7apps · ★ 85 · Rust MCP Server
   - Universal memory runtime for AI agents
 - <a href="https://github.com/Da7-Tech/mind" target="_blank" rel="noopener"><strong>mind</strong></a> by Da7-Tech · ★ 65 · Python MCP Server
   - Persistent memory for AI coding agents: automatic capture, explainable recall, knowledge consolidation, privacy controls, and portable offline storage. One Python file, zero dependencies.
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 889 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
-- <a href="https://github.com/caura-ai/caura" target="_blank" rel="noopener"><strong>caura</strong></a> by caura-ai · ★ 530 · Python MCP Server
+- <a href="https://github.com/caura-ai/caura" target="_blank" rel="noopener"><strong>caura</strong></a> by caura-ai · ★ 534 · Python MCP Server
   - Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 - <a href="https://github.com/MontyGovernance/montycat-mcp" target="_blank" rel="noopener"><strong>montycat-mcp</strong></a> by MontyGovernance · ★ 54 · Python MCP Server
   - Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Works with Claude, Cursor, Codex, and any MCP client.
