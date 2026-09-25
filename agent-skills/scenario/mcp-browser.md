@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-browser/
 # Best AI Agent Skills for MCP Browser Automation in 2026
 
 ## Quick Pick
-<a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> · ★ 263 · The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St
+<a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> · ★ 324 · The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St
 
 ## 工具列表
 
-- <a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> by OyadotAI · ★ 263 · TypeScript MCP Server
+- <a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> by OyadotAI · ★ 324 · TypeScript MCP Server
   - The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.
 - <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.4k · TypeScript MCP Server
   - Allow LLMs to control a browser with Browserbase and Stagehand

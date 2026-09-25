@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - <a href="https://github.com/AnalyseDeCircuit/oxideterm" target="_blank" rel="noopener"><strong>oxideterm</strong></a> by AnalyseDeCircuit · ★ 1.3k · Rust MCP Server
   - All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.
-- <a href="https://github.com/mark3labs/mcp-filesystem-server" target="_blank" rel="noopener"><strong>mcp-filesystem-server</strong></a> by mark3labs · ★ 675 · Go MCP Server
+- <a href="https://github.com/mark3labs/mcp-filesystem-server" target="_blank" rel="noopener"><strong>mcp-filesystem-server</strong></a> by mark3labs · ★ 692 · Go MCP Server
   - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 - <a href="https://github.com/atom2ueki/mcp-server-synology" target="_blank" rel="noopener"><strong>mcp-server-synology</strong></a> by atom2ueki · ★ 207 · Python MCP Server
   - 💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.
