@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI gates.
 - <a href="https://github.com/kunwarVivek/mcp-github-project-manager" target="_blank" rel="noopener"><strong>mcp-github-project-manager</strong></a> by kunwarVivek · ★ 100 · TypeScript MCP Server
   - MCP server for AI-powered GitHub project management — 20 tools, 169 actions, agent swarm orchestration, GitHub Actions/Releases/Branches, MCP Resources & Prompts, PRD-to-issues pipeline
-- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 943 · TypeScript MCP Server
+- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 944 · TypeScript MCP Server
   - Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI
 - <a href="https://github.com/yusufkaraaslan/Skill_Seekers" target="_blank" rel="noopener"><strong>Skill_Seekers</strong></a> by yusufkaraaslan · ★ 15.0k · Python MCP Server
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection

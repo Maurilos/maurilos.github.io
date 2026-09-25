@@ -15,11 +15,13 @@ permalink: /agent-skills/scenario/mcp-browser/
   - The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.
 - <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.4k · TypeScript MCP Server
   - Allow LLMs to control a browser with Browserbase and Stagehand
+- <a href="https://github.com/seleniumbase/SeleniumBase" target="_blank" rel="noopener"><strong>SeleniumBase</strong></a> by seleniumbase · ★ 13.0k · Python MCP Server
+  - Browser automation framework and MCP server for web-scraping and testing. CDP Mode makes Chrome stealthy for bypassing bot-detection.
 - <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 52.6k · TypeScript MCP Server
   - Chrome DevTools for coding agents
 - <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 27.8k · Rust Agent Tool
   - The headless browser for AI agents and web scraping
-- <a href="https://github.com/dondai44423/bladebro" target="_blank" rel="noopener"><strong>bladebro</strong></a> by dondai44423 · ★ 203 · Rust MCP Server
+- <a href="https://github.com/dondai44423/bladebro" target="_blank" rel="noopener"><strong>bladebro</strong></a> by dondai44423 · ★ 226 · Rust MCP Server
   - A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.
 - <a href="https://github.com/lars-hagen/mcp-playwright-cdp" target="_blank" rel="noopener"><strong>mcp-playwright-cdp</strong></a> by lars-hagen · ★ 52 · TypeScript MCP Server
   - Model Context Protocol server for Playwright with Chrome DevTools Protocol support
@@ -27,7 +29,5 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.
 - <a href="https://github.com/feder-cr/aihawk_mcp_server" target="_blank" rel="noopener"><strong>aihawk_mcp_server</strong></a> by feder-cr · ★ 31.6k · Python MCP Server
   - Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.
-- <a href="https://github.com/feder-cr/invisible_playwright_mcp" target="_blank" rel="noopener"><strong>invisible_playwright_mcp</strong></a> by feder-cr · ★ 31.6k · Python MCP Server
-  - Your AI agent browses the web without captchas: self-hosted Python MCP server on undetected anti-detect stealth Firefox, for browser automation, scraping, computer use.
-- <a href="https://github.com/browserbase/stagehand" target="_blank" rel="noopener"><strong>stagehand</strong></a> by browserbase · ★ 25.4k · TypeScript Codex Skill
-  - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
+- <a href="https://github.com/feder-cr/invisible_playwright_mcp" target="_blank" rel="noopener"><strong>invisible_playwright_mcp</strong></a> by feder-cr · ★ 31.7k · Python MCP Server
+  - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.

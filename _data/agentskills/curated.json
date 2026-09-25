@@ -7,7 +7,7 @@
     "quick_pick": {
       "name": "dbx",
       "stars": "20.7k",
-      "tagline": "25 MB lightweight cross-platform database client for 90+ databases, including My",
+      "tagline": "25 MB lightweight cross-platform database client for 100+ databases, including M",
       "github_url": "https://github.com/t8y2/dbx"
     },
     "tools": [
@@ -17,7 +17,7 @@
         "author": "t8y2",
         "stars": "20.7k",
         "meta": "Rust MCP Server",
-        "description": "25 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
         "github_url": "https://github.com/t8y2/dbx"
       },
       {
@@ -135,6 +135,15 @@
       },
       {
         "rank": 3,
+        "name": "SeleniumBase",
+        "author": "seleniumbase",
+        "stars": "13.0k",
+        "meta": "Python MCP Server",
+        "description": "Browser automation framework and MCP server for web-scraping and testing. CDP Mode makes Chrome stealthy for bypassing bot-detection.",
+        "github_url": "https://github.com/seleniumbase/SeleniumBase"
+      },
+      {
+        "rank": 4,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
         "stars": "52.6k",
@@ -143,7 +152,7 @@
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "obscura",
         "author": "h4ckf0r0day",
         "stars": "27.8k",
@@ -152,16 +161,16 @@
         "github_url": "https://github.com/h4ckf0r0day/obscura"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "bladebro",
         "author": "dondai44423",
-        "stars": "203",
+        "stars": "226",
         "meta": "Rust MCP Server",
         "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
         "github_url": "https://github.com/dondai44423/bladebro"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "mcp-playwright-cdp",
         "author": "lars-hagen",
         "stars": "52",
@@ -170,7 +179,7 @@
         "github_url": "https://github.com/lars-hagen/mcp-playwright-cdp"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "docker-stealthy-auto-browse",
         "author": "psyb0t",
         "stars": "85",
@@ -179,7 +188,7 @@
         "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "aihawk_mcp_server",
         "author": "feder-cr",
         "stars": "31.6k",
@@ -188,22 +197,13 @@
         "github_url": "https://github.com/feder-cr/aihawk_mcp_server"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "invisible_playwright_mcp",
         "author": "feder-cr",
-        "stars": "31.6k",
+        "stars": "31.7k",
         "meta": "Python MCP Server",
-        "description": "Your AI agent browses the web without captchas: self-hosted Python MCP server on undetected anti-detect stealth Firefox, for browser automation, scraping, computer use.",
+        "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
         "github_url": "https://github.com/feder-cr/invisible_playwright_mcp"
-      },
-      {
-        "rank": 10,
-        "name": "stagehand",
-        "author": "browserbase",
-        "stars": "25.4k",
-        "meta": "TypeScript Codex Skill",
-        "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
-        "github_url": "https://github.com/browserbase/stagehand"
       }
     ]
   },
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "535",
+        "stars": "534",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "943",
+        "stars": "944",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "habit-hooks",
         "author": "habit-hooks",
-        "stars": "181",
+        "stars": "182",
         "meta": "Python Agent Tool",
         "description": "Automated quality checks that nudge AI coding agents toward better habits",
         "github_url": "https://github.com/habit-hooks/habit-hooks"
@@ -874,7 +874,7 @@
         "rank": 4,
         "name": "perch NEW",
         "author": "lakeday-org",
-        "stars": "173",
+        "stars": "179",
         "meta": "JavaScript AI Tool",
         "description": "Semantic code linting with Jev",
         "github_url": "https://github.com/lakeday-org/perch"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "70.0k",
+      "stars": "70.1k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "70.0k",
+        "stars": "70.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "awesome-ai-testing",
         "author": "tugkanboz",
-        "stars": "112",
+        "stars": "116",
         "meta": "MCP Server",
         "description": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.",
         "github_url": "https://github.com/tugkanboz/awesome-ai-testing"
@@ -1082,7 +1082,7 @@
         "rank": 4,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "223",
+        "stars": "224",
         "meta": "Agent Tool",
         "description": "Turn AI coding into an engineering process.",
         "github_url": "https://github.com/mubaidr/gem-team"
