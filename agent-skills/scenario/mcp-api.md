@@ -7,12 +7,12 @@ permalink: /agent-skills/scenario/mcp-api/
 # Best AI Agent Skills for MCP API Integration in 2026
 
 ## Quick Pick
-<a href="https://github.com/cortex-docs/cortex" target="_blank" rel="noopener"><strong>cortex</strong></a> · ★ 3.2k · Cortex - Generate interactive docs, typed SDKs from OpenAPI, AsyncAPI, GraphQL,
+<a href="https://github.com/cortex-docs/cortex" target="_blank" rel="noopener"><strong>cortex</strong></a> · ★ 3.2k · Cortex - Generates interactive API documentation, typed SDKs, and MCP servers fr
 
 ## 工具列表
 
 - <a href="https://github.com/cortex-docs/cortex" target="_blank" rel="noopener"><strong>cortex</strong></a> by cortex-docs · ★ 3.2k · TypeScript MCP Server
-  - Cortex - Generate interactive docs, typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC and MCP servers enriched with custom Markdown.
+  - Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.
 - <a href="https://github.com/cortex-docs-old/cortex" target="_blank" rel="noopener"><strong>cortex</strong></a> by cortex-docs-old · ★ 165 · TypeScript MCP Server
   - Generate typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC—plus interactive docs and MCP servers enriched with custom Markdown.
 - <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>reshapr</strong></a> by reshaprio · ★ 127 · Java MCP Server
