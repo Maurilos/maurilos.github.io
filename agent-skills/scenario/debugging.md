@@ -17,6 +17,8 @@ permalink: /agent-skills/scenario/debugging/
   - MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis
 - <a href="https://github.com/wuisabel-gif/MemWhale" target="_blank" rel="noopener"><strong>MemWhale</strong></a> by wuisabel-gif · ★ 120 · Rust MCP Server
   - Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.
+- <a href="https://github.com/ngwg/ceasta" target="_blank" rel="noopener"><strong>ceasta</strong></a> by ngwg · ★ 90 · C++ MCP Server
+  - disassembler, decompiler and debugger in one, with a built-in mcp server: point an ai at a binary and it can debug it, not just read it. ida-style listing, pseudocode (f5), x64dbg-style debugger (windows and linux), binary diff, lua plugins. reads pe, elf and mach-o. runs on windows, linux and macos.
 - <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 2.2k · TypeScript MCP Server
   - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
 - <a href="https://github.com/miscusi-peek/cheatengine-mcp-bridge" target="_blank" rel="noopener"><strong>cheatengine-mcp-bridge</strong></a> by miscusi-peek · ★ 1.2k · Lua MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/debugging/
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
 - <a href="https://github.com/codexstar69/bug-hunter" target="_blank" rel="noopener"><strong>bug-hunter</strong></a> by codexstar69 · ★ 487 · JavaScript Claude Skill
   - Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.
-- <a href="https://github.com/SetsunaYukiOvO/x64dbg-mcp" target="_blank" rel="noopener"><strong>x64dbg-mcp</strong></a> by SetsunaYukiOvO · ★ 401 · C++ MCP Server
-  - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE

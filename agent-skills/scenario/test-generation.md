@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/test-generation/
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
 - <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 133 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
+- <a href="https://github.com/supercorp-ai/supercov" target="_blank" rel="noopener"><strong>supercov</strong></a> by supercorp-ai · ★ 122 · Rust Codex Skill
+  - Coverage, security and code quality for coding agents
 - <a href="https://github.com/rasinmuhammed/misata" target="_blank" rel="noopener"><strong>misata</strong></a> by rasinmuhammed · ★ 68 · Python MCP Server
   - Synthetic data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server. In simple terms, a powerful demo data generator for sales/demos/seed data.
-- <a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank" rel="noopener"><strong>reverse-skill</strong></a> by zhaoxuya520 · ★ 36.9k · PowerShell Agent Tool
-  - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
