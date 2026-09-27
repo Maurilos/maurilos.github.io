@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/code-completion/
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 24.1k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-- <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 18.6k · TypeScript Codex Skill
+- <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 18.7k · TypeScript Codex Skill
   - Orchestrate multiple coding agents from desktop and mobile
 - <a href="https://github.com/github/copilot-cli" target="_blank" rel="noopener"><strong>copilot-cli</strong></a> by github · ★ 11.2k · Shell Agent Tool
   - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.

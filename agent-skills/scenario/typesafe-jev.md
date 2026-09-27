@@ -7,6 +7,6 @@ permalink: /agent-skills/scenario/typesafe-jev/
 # Best AI Agent Skills for TypeSafe Jev in 2026
 
 ## Quick Pick
-**jev-ultrafast** · ★ 20.6k · Fastest and cheapest web agent
+**jev-ultrafast** · ★ 20.7k · Fastest and cheapest web agent
 
 暂无工具数据。

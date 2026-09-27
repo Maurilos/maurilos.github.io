@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-filesystem/
 
 - <a href="https://github.com/MarcusJellinghaus/mcp-workspace" target="_blank" rel="noopener"><strong>mcp-workspace</strong></a> by MarcusJellinghaus · ★ 50 · Python MCP Server
   - MCP Workspace Server: A secure Model Context Protocol server providing file, git, and GitHub tools for AI assistants within a sandboxed project directory.
-- <a href="https://github.com/KeibiSoft/KeibiDrop" target="_blank" rel="noopener"><strong>KeibiDrop</strong></a> by KeibiSoft · ★ 61 · Go MCP Server
+- <a href="https://github.com/KeibiSoft/KeibiDrop" target="_blank" rel="noopener"><strong>KeibiDrop</strong></a> by KeibiSoft · ★ 60 · Go MCP Server
   - Share files between devices on demand. They show up as a folder on your computer, available instantly while downloading.
 - <a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> by rust-mcp-stack · ★ 172 · Rust MCP Server
   - Blazing-fast, asynchronous MCP server for seamless filesystem operations.
