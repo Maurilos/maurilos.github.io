@@ -1,5 +1,15 @@
 [
   {
+    "slug": "opus-5-5-video",
+    "source_url": "https://agentskillshub.top/best/opus-5-5-video/",
+    "local_url": "/agent-skills/scenario/opus-5-5-video/"
+  },
+  {
+    "slug": "typesafe-jev",
+    "source_url": "https://agentskillshub.top/best/typesafe-jev/",
+    "local_url": "/agent-skills/scenario/typesafe-jev/"
+  },
+  {
     "slug": "mcp-database",
     "source_url": "https://agentskillshub.top/best/mcp-database/",
     "local_url": "/agent-skills/scenario/mcp-database/"
@@ -48,15 +58,5 @@
     "slug": "code-completion",
     "source_url": "https://agentskillshub.top/best/code-completion/",
     "local_url": "/agent-skills/scenario/code-completion/"
-  },
-  {
-    "slug": "test-generation",
-    "source_url": "https://agentskillshub.top/best/test-generation/",
-    "local_url": "/agent-skills/scenario/test-generation/"
-  },
-  {
-    "slug": "debugging",
-    "source_url": "https://agentskillshub.top/best/debugging/",
-    "local_url": "/agent-skills/scenario/debugging/"
   }
 ]
