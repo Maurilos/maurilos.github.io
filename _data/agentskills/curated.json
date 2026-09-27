@@ -1,12 +1,12 @@
 [
   {
     "title": "Best Video Skills for Claude Code & Opus 5.5 in 2026",
-    "source_url": "https://agentskillshub.top/best/opus-5-5-video/",
-    "slug": "opus-5-5-video",
-    "local_url": "/agent-skills/scenario/opus-5-5-video/",
+    "source_url": "https://agentskillshub.top/best/claude-video-skills/",
+    "slug": "claude-video-skills",
+    "local_url": "/agent-skills/scenario/claude-video-skills/",
     "quick_pick": {
       "name": "ClaudeAnimationBase",
-      "stars": "397",
+      "stars": "417",
       "tagline": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush,"
     },
     "tools": []
@@ -188,7 +188,7 @@
         "rank": 6,
         "name": "bladebro",
         "author": "dondai44423",
-        "stars": "264",
+        "stars": "267",
         "meta": "Rust MCP Server",
         "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
         "github_url": "https://github.com/dondai44423/bladebro"
@@ -550,7 +550,7 @@
         "rank": 6,
         "name": "busabase",
         "author": "busabase",
-        "stars": "241",
+        "stars": "247",
         "meta": "TypeScript MCP Server",
         "description": "Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes that matter. Local-first and self-hostable.",
         "github_url": "https://github.com/busabase/busabase"
@@ -767,7 +767,7 @@
         "rank": 7,
         "name": "ENZO",
         "author": "theguysudo",
-        "stars": "106",
+        "stars": "107",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
         "github_url": "https://github.com/theguysudo/ENZO"
@@ -824,6 +824,15 @@
       },
       {
         "rank": 2,
+        "name": "perch NEW",
+        "author": "lakeday-org",
+        "stars": "227",
+        "meta": "JavaScript AI Tool",
+        "description": "Semantic code linting with Jev",
+        "github_url": "https://github.com/lakeday-org/perch"
+      },
+      {
+        "rank": 3,
         "name": "procoder",
         "author": "azrtydxb",
         "stars": "210",
@@ -832,22 +841,13 @@
         "github_url": "https://github.com/azrtydxb/procoder"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "habit-hooks",
         "author": "habit-hooks",
         "stars": "185",
         "meta": "Python Agent Tool",
         "description": "Automated quality checks that nudge AI coding agents toward better habits",
         "github_url": "https://github.com/habit-hooks/habit-hooks"
-      },
-      {
-        "rank": 4,
-        "name": "perch NEW",
-        "author": "lakeday-org",
-        "stars": "206",
-        "meta": "JavaScript AI Tool",
-        "description": "Semantic code linting with Jev",
-        "github_url": "https://github.com/lakeday-org/perch"
       },
       {
         "rank": 5,
@@ -912,7 +912,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "70.5k",
+      "stars": "70.6k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -921,7 +921,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "70.5k",
+        "stars": "70.6k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
