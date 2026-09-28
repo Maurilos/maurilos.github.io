@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems.
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.8k · Go MCP Server
   - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
-- <a href="https://github.com/borghei/Claude-Skills" target="_blank" rel="noopener"><strong>Claude-Skills</strong></a> by borghei · ★ 805 · HTML MCP Server
+- <a href="https://github.com/borghei/Claude-Skills" target="_blank" rel="noopener"><strong>Claude-Skills</strong></a> by borghei · ★ 841 · HTML MCP Server
   - 372 AI skills, 76 expert agents, and 867 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.
-- <a href="https://github.com/brekkylab/backlot" target="_blank" rel="noopener"><strong>backlot</strong></a> by brekkylab · ★ 235 · Python MCP Server
+- <a href="https://github.com/brekkylab/backlot" target="_blank" rel="noopener"><strong>backlot</strong></a> by brekkylab · ★ 280 · Python MCP Server
   - A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.

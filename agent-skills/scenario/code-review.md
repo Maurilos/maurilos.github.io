@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/code-review/
 
 - <a href="https://github.com/hyhmrright/brooks-lint" target="_blank" rel="noopener"><strong>brooks-lint</strong></a> by hyhmrright · ★ 1.5k · HTML Codex Skill
   - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
-- <a href="https://github.com/lakeday-org/perch" target="_blank" rel="noopener"><strong>perch NEW</strong></a> by lakeday-org · ★ 249 · JavaScript AI Tool
+- <a href="https://github.com/lakeday-org/perch" target="_blank" rel="noopener"><strong>perch NEW</strong></a> by lakeday-org · ★ 299 · JavaScript AI Tool
   - Semantic code linting with Jev
 - <a href="https://github.com/azrtydxb/procoder" target="_blank" rel="noopener"><strong>procoder</strong></a> by azrtydxb · ★ 210 · Go MCP Server
   - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents. Quick Start: That's Claude Code; Procoder also ships adapters for every agent — Cursor, Windsurf, Cline, Kilo Code, Roo, Kiro, Codex CLI, Copilot CLI, Gemini, Open... ``` /plugin marketplace add azrtydxb/procoder /plugin install procoder /procoder:init # installs the tools this repository needs ```

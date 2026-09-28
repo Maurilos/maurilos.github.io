@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/claude-video-skills/",
     "quick_pick": {
       "name": "ClaudeAnimationBase",
-      "stars": "436",
+      "stars": "481",
       "tagline": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush,"
     },
     "tools": []
@@ -18,7 +18,7 @@
     "local_url": "/agent-skills/scenario/typesafe-jev/",
     "quick_pick": {
       "name": "jev-ultrafast",
-      "stars": "20.7k",
+      "stars": "20.9k",
       "tagline": "Fastest and cheapest web agent"
     },
     "tools": []
@@ -30,7 +30,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "20.9k",
+      "stars": "21.2k",
       "tagline": "25 MB lightweight cross-platform database client for 100+ databases, including M",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -39,7 +39,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "20.9k",
+        "stars": "21.2k",
         "meta": "Rust MCP Server",
         "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -134,7 +134,7 @@
     "local_url": "/agent-skills/scenario/mcp-browser/",
     "quick_pick": {
       "name": "oya-browser",
-      "stars": "325",
+      "stars": "327",
       "tagline": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St",
       "github_url": "https://github.com/OyadotAI/oya-browser"
     },
@@ -143,7 +143,7 @@
         "rank": 1,
         "name": "oya-browser",
         "author": "OyadotAI",
-        "stars": "325",
+        "stars": "327",
         "meta": "TypeScript MCP Server",
         "description": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.",
         "github_url": "https://github.com/OyadotAI/oya-browser"
@@ -179,7 +179,7 @@
         "rank": 5,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "28.0k",
+        "stars": "28.1k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -283,7 +283,7 @@
         "rank": 5,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
-        "stars": "9.7k",
+        "stars": "9.8k",
         "meta": "TypeScript MCP Server",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -446,7 +446,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "537",
+        "stars": "538",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -577,7 +577,7 @@
         "rank": 9,
         "name": "Claude-Skills",
         "author": "borghei",
-        "stars": "805",
+        "stars": "841",
         "meta": "HTML MCP Server",
         "description": "372 AI skills, 76 expert agents, and 867 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.",
         "github_url": "https://github.com/borghei/Claude-Skills"
@@ -586,7 +586,7 @@
         "rank": 10,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "235",
+        "stars": "280",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -618,7 +618,7 @@
         "rank": 2,
         "name": "martin-loop",
         "author": "Keesan12",
-        "stars": "353",
+        "stars": "410",
         "meta": "TypeScript MCP Server",
         "description": "Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Finally run your agents swarms overnight and get your time back.",
         "github_url": "https://github.com/Keesan12/martin-loop"
@@ -722,7 +722,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "235",
+        "stars": "280",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -767,7 +767,7 @@
         "rank": 7,
         "name": "ENZO",
         "author": "theguysudo",
-        "stars": "108",
+        "stars": "109",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
         "github_url": "https://github.com/theguysudo/ENZO"
@@ -826,7 +826,7 @@
         "rank": 2,
         "name": "perch NEW",
         "author": "lakeday-org",
-        "stars": "249",
+        "stars": "299",
         "meta": "JavaScript AI Tool",
         "description": "Semantic code linting with Jev",
         "github_url": "https://github.com/lakeday-org/perch"
@@ -912,7 +912,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "70.6k",
+      "stars": "70.8k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -921,7 +921,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "70.6k",
+        "stars": "70.8k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
