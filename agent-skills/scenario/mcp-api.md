@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-api/
 
 - <a href="https://github.com/cortex-docs/cortex" target="_blank" rel="noopener"><strong>spectral</strong></a> by spectral-mcp · ★ 111 · Python MCP Server
   - Browse any app normally. Spectral captures the traffic, understands what each API call does, and generates MCP tools that AI agents can call directly.
-- <a href="https://github.com/cortex-docs-old/cortex" target="_blank" rel="noopener"><strong>unraid-management-agent</strong></a> by ruaan-deysel · ★ 58 · Go MCP Server
+- <a href="https://github.com/cortex-docs-old/cortex" target="_blank" rel="noopener"><strong>unraid-management-agent</strong></a> by ruaan-deysel · ★ 59 · Go MCP Server
   - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
 - <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>tyk</strong></a> by TykTechnologies · ★ 10.8k · Go MCP Server
   - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
