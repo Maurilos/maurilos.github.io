@@ -19,15 +19,15 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.
 - <a href="https://github.com/AndrewAltimit/template-repo" target="_blank" rel="noopener"><strong>template-repo</strong></a> by AndrewAltimit · ★ 132 · Rust MCP Server
   - Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers
-- <a href="https://github.com/UiPath/coder_eval" target="_blank" rel="noopener"><strong>coder_eval</strong></a> by UiPath · ★ 141 · Python MCP Server
+- <a href="https://github.com/UiPath/coder_eval" target="_blank" rel="noopener"><strong>coder_eval</strong></a> by UiPath · ★ 143 · Python MCP Server
   - Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI gates.
 - <a href="https://github.com/kunwarVivek/mcp-github-project-manager" target="_blank" rel="noopener"><strong>mcp-github-project-manager</strong></a> by kunwarVivek · ★ 100 · TypeScript MCP Server
   - MCP server for AI-powered GitHub project management — 20 tools, 169 actions, agent swarm orchestration, GitHub Actions/Releases/Branches, MCP Resources & Prompts, PRD-to-issues pipeline
-- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 945 · TypeScript MCP Server
+- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 946 · TypeScript MCP Server
   - Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI
 - <a href="https://github.com/yusufkaraaslan/Skill_Seekers" target="_blank" rel="noopener"><strong>Skill_Seekers</strong></a> by yusufkaraaslan · ★ 15.0k · Python MCP Server
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering</strong></a> by cobusgreyling · ★ 11.3k · TypeScript MCP Server
+- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering</strong></a> by cobusgreyling · ★ 11.4k · TypeScript MCP Server
   - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 - <a href="https://github.com/Agents365-ai/drawio-skill" target="_blank" rel="noopener"><strong>drawio-skill</strong></a> by Agents365-ai · ★ 9.3k · Python MCP Server
   - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard derasterize, interactive HTML/PPTX/Mermaid exports.

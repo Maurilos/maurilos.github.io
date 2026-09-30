@@ -23,10 +23,10 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.
 - <a href="https://github.com/mark3labs/mcp-filesystem-server" target="_blank" rel="noopener"><strong>mcp-filesystem-server</strong></a> by mark3labs · ★ 692 · Go MCP Server
   - Go server implementing Model Context Protocol (MCP) for filesystem operations.
+- <a href="https://github.com/atom2ueki/mcp-server-synology" target="_blank" rel="noopener"><strong>mcp-server-synology</strong></a> by atom2ueki · ★ 213 · Python MCP Server
+  - 💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.
 - <a href="https://github.com/MorDavid/BloodHound-MCP-AI" target="_blank" rel="noopener"><strong>BloodHound-MCP-AI</strong></a> by MorDavid · ★ 376 · Python MCP Server
   - BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.
-- <a href="https://github.com/atom2ueki/mcp-server-synology" target="_blank" rel="noopener"><strong>mcp-server-synology</strong></a> by atom2ueki · ★ 212 · Python MCP Server
-  - 💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.
 - <a href="https://github.com/shariqriazz/vertex-ai-mcp-server" target="_blank" rel="noopener"><strong>vertex-ai-mcp-server</strong></a> by shariqriazz · ★ 87 · TypeScript MCP Server
   - MCP server for Vertex AI and Gemini tools, including grounded answers, documentation research, and filesystem workflows.
 - <a href="https://github.com/answerlink/MCP-Workspace-Server" target="_blank" rel="noopener"><strong>MCP-Workspace-Server</strong></a> by answerlink · ★ 133 · Python MCP Server
