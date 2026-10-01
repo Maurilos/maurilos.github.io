@@ -7,17 +7,17 @@ permalink: /agent-skills/scenario/mcp-filesystem/
 # Best AI Agent Skills for MCP Filesystem Tools in 2026
 
 ## Quick Pick
-<a href="https://github.com/KeibiSoft/KeibiDrop" target="_blank" rel="noopener"><strong>KeibiDrop</strong></a> · ★ 60 · Share files between devices on demand. They show up as a folder on your computer
+<a href="https://github.com/KeibiSoft/KeibiDrop" target="_blank" rel="noopener"><strong>KeibiDrop</strong></a> · ★ 61 · Share files between devices on demand. They show up as a folder on your computer
 
 ## 工具列表
 
-- <a href="https://github.com/KeibiSoft/KeibiDrop" target="_blank" rel="noopener"><strong>KeibiDrop</strong></a> by KeibiSoft · ★ 60 · Go MCP Server
+- <a href="https://github.com/KeibiSoft/KeibiDrop" target="_blank" rel="noopener"><strong>KeibiDrop</strong></a> by KeibiSoft · ★ 61 · Go MCP Server
   - Share files between devices on demand. They show up as a folder on your computer, available instantly while downloading.
 - <a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> by rust-mcp-stack · ★ 172 · Rust MCP Server
   - Blazing-fast, asynchronous MCP server for seamless filesystem operations.
 - <a href="https://github.com/efforthye/fast-filesystem-mcp" target="_blank" rel="noopener"><strong>fast-filesystem-mcp</strong></a> by efforthye · ★ 62 · TypeScript MCP Server
   - A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.
-- <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 9.8k · TypeScript MCP Server
+- <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 9.9k · TypeScript MCP Server
   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - <a href="https://github.com/AnalyseDeCircuit/oxideterm" target="_blank" rel="noopener"><strong>oxideterm</strong></a> by AnalyseDeCircuit · ★ 1.3k · Rust MCP Server
   - All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.

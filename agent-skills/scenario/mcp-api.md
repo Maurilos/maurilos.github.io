@@ -17,5 +17,3 @@ permalink: /agent-skills/scenario/mcp-api/
   - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
 - <a href="https://github.com/reshaprio/reshapr" target="_blank" rel="noopener"><strong>tyk</strong></a> by TykTechnologies · ★ 10.8k · Go MCP Server
   - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
-- <a href="https://github.com/zaizaizhao/mcp-swagger-server" target="_blank" rel="noopener"><strong>openapi-to-cli</strong></a> by EvilFreelancer · ★ 259 · TypeScript Codex Skill
-  - Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.
