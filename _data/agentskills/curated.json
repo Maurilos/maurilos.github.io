@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/claude-video-skills/",
     "quick_pick": {
       "name": "ClaudeAnimationBase",
-      "stars": "643",
+      "stars": "664",
       "tagline": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush,"
     },
     "tools": []
@@ -18,7 +18,7 @@
     "local_url": "/agent-skills/scenario/typesafe-jev/",
     "quick_pick": {
       "name": "jev-ultrafast",
-      "stars": "21.6k",
+      "stars": "21.7k",
       "tagline": "Fastest and cheapest web agent"
     },
     "tools": []
@@ -30,7 +30,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "23.3k",
+      "stars": "23.7k",
       "tagline": "25 MB lightweight cross-platform database client for 100+ databases, including M",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -39,7 +39,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "23.3k",
+        "stars": "23.7k",
         "meta": "Rust MCP Server",
         "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -159,15 +159,6 @@
       },
       {
         "rank": 3,
-        "name": "SeleniumBase",
-        "author": "seleniumbase",
-        "stars": "13.0k",
-        "meta": "Python MCP Server",
-        "description": "APIs for browser automation, testing, and bypassing bot-detection. Makes Chromium an anti-detect browser for handling CAPTCHAs. Supports MCP.",
-        "github_url": "https://github.com/seleniumbase/SeleniumBase"
-      },
-      {
-        "rank": 4,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
         "stars": "52.8k",
@@ -176,7 +167,7 @@
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "obscura",
         "author": "h4ckf0r0day",
         "stars": "28.2k",
@@ -185,13 +176,22 @@
         "github_url": "https://github.com/h4ckf0r0day/obscura"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "bladebro",
         "author": "dondai44423",
-        "stars": "283",
+        "stars": "290",
         "meta": "Rust MCP Server",
         "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
         "github_url": "https://github.com/dondai44423/bladebro"
+      },
+      {
+        "rank": 6,
+        "name": "SeleniumBase",
+        "author": "seleniumbase",
+        "stars": "13.0k",
+        "meta": "Python AI Tool",
+        "description": "Python APIs for browser automation, web scraping, and testing. CDP Mode provides a stealthy Chromium instance that works with Playwright.",
+        "github_url": "https://github.com/seleniumbase/SeleniumBase"
       },
       {
         "rank": 7,
@@ -548,15 +548,6 @@
       },
       {
         "rank": 7,
-        "name": "pipeshub-ai",
-        "author": "pipeshub-ai",
-        "stars": "3.8k",
-        "meta": "Python MCP Server",
-        "description": "PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems.",
-        "github_url": "https://github.com/pipeshub-ai/pipeshub-ai"
-      },
-      {
-        "rank": 8,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.8k",
@@ -565,7 +556,7 @@
         "github_url": "https://github.com/julien040/anyquery"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "Claude-Skills",
         "author": "borghei",
         "stars": "849",
@@ -574,13 +565,22 @@
         "github_url": "https://github.com/borghei/Claude-Skills"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "299",
+        "stars": "307",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
+      },
+      {
+        "rank": 10,
+        "name": "notion_mcp",
+        "author": "danhilse",
+        "stars": "208",
+        "meta": "Python MCP Server",
+        "description": "A simple MCP integration that allows Claude to read and manage a personal Notion todo list",
+        "github_url": "https://github.com/danhilse/notion_mcp"
       }
     ]
   },
@@ -609,7 +609,7 @@
         "rank": 2,
         "name": "martin-loop",
         "author": "Keesan12",
-        "stars": "411",
+        "stars": "409",
         "meta": "TypeScript MCP Server",
         "description": "Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Finally run your agents swarms overnight and get your time back.",
         "github_url": "https://github.com/Keesan12/martin-loop"
@@ -618,7 +618,7 @@
         "rank": 3,
         "name": "Aletheore",
         "author": "Aletheore",
-        "stars": "214",
+        "stars": "230",
         "meta": "Python MCP Server",
         "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
         "github_url": "https://github.com/Aletheore/Aletheore"
@@ -713,7 +713,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "299",
+        "stars": "307",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -749,7 +749,7 @@
         "rank": 6,
         "name": "google-workspace-mcp",
         "author": "aaronsb",
-        "stars": "171",
+        "stars": "189",
         "meta": "TypeScript MCP Server",
         "description": "A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality",
         "github_url": "https://github.com/aaronsb/google-workspace-mcp"
@@ -844,7 +844,7 @@
         "rank": 5,
         "name": "sloppy",
         "author": "Heyosseus",
-        "stars": "131",
+        "stars": "136",
         "meta": "PHP MCP Server",
         "description": "Static analysis for the debt AI agents leave in PHP: 25 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic, local, no LLM.",
         "github_url": "https://github.com/Heyosseus/sloppy"
@@ -903,7 +903,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "71.8k",
+      "stars": "72.0k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -912,7 +912,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "71.8k",
+        "stars": "72.0k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -948,7 +948,7 @@
         "rank": 5,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "24.5k",
+        "stars": "24.7k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -966,7 +966,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "19.1k",
+        "stars": "19.2k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
