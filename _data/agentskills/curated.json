@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/claude-video-skills/",
     "quick_pick": {
       "name": "ClaudeAnimationBase",
-      "stars": "684",
+      "stars": "701",
       "tagline": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush,"
     },
     "tools": []
@@ -18,7 +18,7 @@
     "local_url": "/agent-skills/scenario/typesafe-jev/",
     "quick_pick": {
       "name": "jev-ultrafast",
-      "stars": "21.7k",
+      "stars": "21.8k",
       "tagline": "Fastest and cheapest web agent"
     },
     "tools": []
@@ -30,7 +30,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "23.8k",
+      "stars": "23.9k",
       "tagline": "25 MB lightweight cross-platform database client for 100+ databases, including M",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -39,7 +39,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "23.8k",
+        "stars": "23.9k",
         "meta": "Rust MCP Server",
         "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -84,7 +84,7 @@
         "rank": 6,
         "name": "GoNavi",
         "author": "Syngnat",
-        "stars": "1.9k",
+        "stars": "2.0k",
         "meta": "TypeScript MCP Server",
         "description": "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。",
         "github_url": "https://github.com/Syngnat/GoNavi"
@@ -161,7 +161,7 @@
         "rank": 3,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "52.8k",
+        "stars": "52.9k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -186,15 +186,6 @@
       },
       {
         "rank": 6,
-        "name": "SeleniumBase",
-        "author": "seleniumbase",
-        "stars": "13.0k",
-        "meta": "Python AI Tool",
-        "description": "APIs for Browser Automation, Testing, and Web Scraping. CDP Mode bypasses bot-detection and supports Playwright. Over 75 million downloads.",
-        "github_url": "https://github.com/seleniumbase/SeleniumBase"
-      },
-      {
-        "rank": 7,
         "name": "mcp-playwright-cdp",
         "author": "lars-hagen",
         "stars": "52",
@@ -203,7 +194,7 @@
         "github_url": "https://github.com/lars-hagen/mcp-playwright-cdp"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "name": "docker-stealthy-auto-browse",
         "author": "psyb0t",
         "stars": "85",
@@ -212,7 +203,7 @@
         "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "name": "aihawk_mcp_server",
         "author": "feder-cr",
         "stars": "31.6k",
@@ -221,13 +212,22 @@
         "github_url": "https://github.com/feder-cr/aihawk_mcp_server"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "name": "invisible_playwright_mcp",
         "author": "feder-cr",
-        "stars": "31.7k",
+        "stars": "31.8k",
         "meta": "Python MCP Server",
         "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
         "github_url": "https://github.com/feder-cr/invisible_playwright_mcp"
+      },
+      {
+        "rank": 10,
+        "name": "stagehand",
+        "author": "browserbase",
+        "stars": "25.5k",
+        "meta": "TypeScript Codex Skill",
+        "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+        "github_url": "https://github.com/browserbase/stagehand"
       }
     ]
   },
@@ -383,7 +383,7 @@
     "local_url": "/agent-skills/scenario/mcp-memory/",
     "quick_pick": {
       "name": "yantrikdb",
-      "stars": "64",
+      "stars": "65",
       "tagline": "Cognitive memory engine for AI agents — temporal decay, contradiction detection,",
       "github_url": "https://github.com/yantrikos/yantrikdb"
     },
@@ -392,7 +392,7 @@
         "rank": 1,
         "name": "yantrikdb",
         "author": "yantrikos",
-        "stars": "64",
+        "stars": "65",
         "meta": "Rust MCP Server",
         "description": "Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge graph, ANN recall via HNSW. Embeddable Rust library with Python bindings; powers yantrikdb-server (HTTP gateway, MCP server, openraft cluster). Apache-2.0.",
         "github_url": "https://github.com/yantrikos/yantrikdb"
@@ -437,7 +437,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "544",
+        "stars": "545",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -568,7 +568,7 @@
         "rank": 9,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "307",
+        "stars": "316",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -618,7 +618,7 @@
         "rank": 3,
         "name": "Aletheore",
         "author": "Aletheore",
-        "stars": "232",
+        "stars": "233",
         "meta": "Python MCP Server",
         "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
         "github_url": "https://github.com/Aletheore/Aletheore"
@@ -670,21 +670,21 @@
       },
       {
         "rank": 9,
+        "name": "drawio-skill",
+        "author": "Agents365-ai",
+        "stars": "9.8k",
+        "meta": "Python MCP Server",
+        "description": "Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard derasterize, interactive HTML/PPTX/Mermaid exports.",
+        "github_url": "https://github.com/Agents365-ai/drawio-skill"
+      },
+      {
+        "rank": 10,
         "name": "loop-engineering",
         "author": "cobusgreyling",
         "stars": "11.4k",
         "meta": "TypeScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
-      },
-      {
-        "rank": 10,
-        "name": "drawio-skill",
-        "author": "Agents365-ai",
-        "stars": "9.3k",
-        "meta": "Python MCP Server",
-        "description": "Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard derasterize, interactive HTML/PPTX/Mermaid exports.",
-        "github_url": "https://github.com/Agents365-ai/drawio-skill"
       }
     ]
   },
@@ -713,7 +713,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "307",
+        "stars": "316",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -758,7 +758,7 @@
         "rank": 7,
         "name": "ENZO",
         "author": "theguysudo",
-        "stars": "110",
+        "stars": "111",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
         "github_url": "https://github.com/theguysudo/ENZO"
@@ -844,9 +844,9 @@
         "rank": 5,
         "name": "sloppy",
         "author": "Heyosseus",
-        "stars": "136",
+        "stars": "142",
         "meta": "PHP MCP Server",
-        "description": "Static analysis for the debt AI agents leave in PHP: 25 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic, local, no LLM.",
+        "description": "Static analysis for the debt AI agents leave in PHP: 26 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic, local, no LLM.",
         "github_url": "https://github.com/Heyosseus/sloppy"
       },
       {
@@ -903,7 +903,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "72.1k",
+      "stars": "72.3k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -912,7 +912,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "72.1k",
+        "stars": "72.3k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -928,6 +928,15 @@
       },
       {
         "rank": 3,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "29.1k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
+      },
+      {
+        "rank": 4,
         "name": "9router",
         "author": "decolua",
         "stars": "29.8k",
@@ -936,22 +945,13 @@
         "github_url": "https://github.com/decolua/9router"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "24.8k",
+        "stars": "24.9k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
-      },
-      {
-        "rank": 5,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "29.1k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
         "rank": 6,
@@ -966,7 +966,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "19.2k",
+        "stars": "19.3k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"

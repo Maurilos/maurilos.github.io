@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-database/
 # Best AI Agent Skills for MCP Database Tools in 2026
 
 ## Quick Pick
-<a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> · ★ 23.8k · 25 MB lightweight cross-platform database client for 100+ databases, including M
+<a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> · ★ 23.9k · 25 MB lightweight cross-platform database client for 100+ databases, including M
 
 ## 工具列表
 
-- <a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> by t8y2 · ★ 23.8k · Rust MCP Server
+- <a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> by t8y2 · ★ 23.9k · Rust MCP Server
   - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 - <a href="https://github.com/dosco/graphjin" target="_blank" rel="noopener"><strong>graphjin</strong></a> by dosco · ★ 3.2k · Go MCP Server
   - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-database/
   - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 3.6k · TypeScript MCP Server
   - Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.
-- <a href="https://github.com/Syngnat/GoNavi" target="_blank" rel="noopener"><strong>GoNavi</strong></a> by Syngnat · ★ 1.9k · TypeScript MCP Server
+- <a href="https://github.com/Syngnat/GoNavi" target="_blank" rel="noopener"><strong>GoNavi</strong></a> by Syngnat · ★ 2.0k · TypeScript MCP Server
   - High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。
 - <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 84 · Go MCP Server
   - The agentic server framework.
