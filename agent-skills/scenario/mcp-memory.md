@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-memory/
 # Best AI Agent Skills for MCP Memory & Knowledge in 2026
 
 ## Quick Pick
-<a href="https://github.com/yantrikos/yantrikdb" target="_blank" rel="noopener"><strong>yantrikdb</strong></a> · ★ 63 · Cognitive memory engine for AI agents — temporal decay, contradiction detection,
+<a href="https://github.com/yantrikos/yantrikdb" target="_blank" rel="noopener"><strong>yantrikdb</strong></a> · ★ 64 · Cognitive memory engine for AI agents — temporal decay, contradiction detection,
 
 ## 工具列表
 
-- <a href="https://github.com/yantrikos/yantrikdb" target="_blank" rel="noopener"><strong>yantrikdb</strong></a> by yantrikos · ★ 63 · Rust MCP Server
+- <a href="https://github.com/yantrikos/yantrikdb" target="_blank" rel="noopener"><strong>yantrikdb</strong></a> by yantrikos · ★ 64 · Rust MCP Server
   - Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge graph, ANN recall via HNSW. Embeddable Rust library with Python bindings; powers yantrikdb-server (HTTP gateway, MCP server, openraft cluster). Apache-2.0.
 - <a href="https://github.com/iikarus/Dragon-Brain" target="_blank" rel="noopener"><strong>Dragon-Brain</strong></a> by iikarus · ★ 51 · Python MCP Server
   - Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context Protocol). Knowledge graph (FalkorDB) + vector search (Qdrant) + CUDA GPU embeddings. Works with Claude, Gemini CLI, Cursor, Windsurf, VS Code Copilot. 30 tools, 1121 tests.
