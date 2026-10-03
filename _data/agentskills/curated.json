@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/claude-video-skills/",
     "quick_pick": {
       "name": "ClaudeAnimationBase",
-      "stars": "721",
+      "stars": "731",
       "tagline": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush,"
     },
     "tools": []
@@ -18,7 +18,7 @@
     "local_url": "/agent-skills/scenario/typesafe-jev/",
     "quick_pick": {
       "name": "jev-ultrafast",
-      "stars": "21.8k",
+      "stars": "21.9k",
       "tagline": "Fastest and cheapest web agent"
     },
     "tools": []
@@ -30,7 +30,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "24.0k",
+      "stars": "24.2k",
       "tagline": "25 MB lightweight cross-platform database client for 100+ databases, including M",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -39,7 +39,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "24.0k",
+        "stars": "24.2k",
         "meta": "Rust MCP Server",
         "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -84,7 +84,7 @@
         "rank": 6,
         "name": "GoNavi",
         "author": "Syngnat",
-        "stars": "2.0k",
+        "stars": "2.1k",
         "meta": "TypeScript MCP Server",
         "description": "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。",
         "github_url": "https://github.com/Syngnat/GoNavi"
@@ -437,7 +437,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "543",
+        "stars": "544",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -568,7 +568,7 @@
         "rank": 9,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "316",
+        "stars": "329",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -713,7 +713,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "316",
+        "stars": "329",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -798,103 +798,11 @@
     "slug": "code-review",
     "local_url": "/agent-skills/scenario/code-review/",
     "quick_pick": {
-      "name": "brooks-lint",
-      "stars": "1.5k",
-      "tagline": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostic",
-      "github_url": "https://github.com/hyhmrright/brooks-lint"
+      "name": "open-code-review",
+      "stars": "43.2k",
+      "tagline": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c"
     },
-    "tools": [
-      {
-        "rank": 1,
-        "name": "brooks-lint",
-        "author": "hyhmrright",
-        "stars": "1.5k",
-        "meta": "HTML Codex Skill",
-        "description": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
-        "github_url": "https://github.com/hyhmrright/brooks-lint"
-      },
-      {
-        "rank": 2,
-        "name": "perch",
-        "author": "lakeday-org",
-        "stars": "315",
-        "meta": "JavaScript AI Tool",
-        "description": "Semantic code linting with Jev",
-        "github_url": "https://github.com/lakeday-org/perch"
-      },
-      {
-        "rank": 3,
-        "name": "habit-hooks",
-        "author": "habit-hooks",
-        "stars": "196",
-        "meta": "Python Agent Tool",
-        "description": "Automated quality checks that nudge AI coding agents toward better habits",
-        "github_url": "https://github.com/habit-hooks/habit-hooks"
-      },
-      {
-        "rank": 4,
-        "name": "procoder",
-        "author": "azrtydxb",
-        "stars": "210",
-        "meta": "Go MCP Server",
-        "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents. Quick Start: That's Claude Code; Procoder also ships adapters for every agent — Cursor, Windsurf, Cline, Kilo Code, Roo, Kiro, Codex CLI, Copilot CLI, Gemini, Open... ``` /plugin marketplace add azrtydxb/procoder /plugin install procoder /procoder:init # installs the tools this repository needs ```",
-        "github_url": "https://github.com/azrtydxb/procoder"
-      },
-      {
-        "rank": 5,
-        "name": "sloppy",
-        "author": "Heyosseus",
-        "stars": "142",
-        "meta": "PHP MCP Server",
-        "description": "Static analysis for the debt AI agents leave in PHP: 26 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic, local, no LLM.",
-        "github_url": "https://github.com/Heyosseus/sloppy"
-      },
-      {
-        "rank": 6,
-        "name": "api-doctor",
-        "author": "qualtyco",
-        "stars": "67",
-        "meta": "TypeScript Agent Tool",
-        "description": "AI compiles hallucinated code that pass. This fixes it before accepting it. 100% Deterministic Quick Start: ```bash # Scan your project npx @api-doctor/cli . # Or install as an agent skill (Claude Code, Cursor, Windsurf) npx @api-doctor/cli install ```",
-        "github_url": "https://github.com/qualtyco/api-doctor"
-      },
-      {
-        "rank": 7,
-        "name": "open-code-review",
-        "author": "alibaba",
-        "stars": "43.2k",
-        "meta": "Go Agent Tool",
-        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "github_url": "https://github.com/alibaba/open-code-review"
-      },
-      {
-        "rank": 8,
-        "name": "tuicr",
-        "author": "agavra",
-        "stars": "3.2k",
-        "meta": "Rust Agent Tool",
-        "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
-        "github_url": "https://github.com/agavra/tuicr"
-      },
-      {
-        "rank": 9,
-        "name": "shippie",
-        "author": "mattzcarey",
-        "stars": "2.5k",
-        "meta": "TypeScript MCP Server",
-        "description": "extendable code review and QA agent 🚢",
-        "github_url": "https://github.com/mattzcarey/shippie"
-      },
-      {
-        "rank": 10,
-        "name": "code-review-skill",
-        "author": "awesome-skills",
-        "stars": "1.9k",
-        "meta": "HTML Claude Skill",
-        "description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
-        "github_url": "https://github.com/awesome-skills/code-review-skill"
-      }
-    ]
+    "tools": []
   },
   {
     "title": "Best AI Agent Skills for Code Completion & Generation in 2026",
@@ -903,7 +811,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "72.4k",
+      "stars": "72.5k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -912,7 +820,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "72.4k",
+        "stars": "72.5k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
