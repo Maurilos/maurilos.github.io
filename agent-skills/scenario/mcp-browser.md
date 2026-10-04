@@ -17,14 +17,14 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Allow LLMs to control a browser with Browserbase and Stagehand
 - <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 52.9k · TypeScript MCP Server
   - Chrome DevTools for coding agents
+- <a href="https://github.com/lightpanda-io/browser" target="_blank" rel="noopener"><strong>browser</strong></a> by lightpanda-io · ★ 35.9k · Zig AI Tool
+  - Lightpanda: the headless browser designed for AI and automation
 - <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 28.3k · Rust Agent Tool
   - The headless browser for AI agents and web scraping
 - <a href="https://github.com/dondai44423/bladebro" target="_blank" rel="noopener"><strong>bladebro</strong></a> by dondai44423 · ★ 291 · Rust MCP Server
   - A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.
-- <a href="https://github.com/seleniumbase/SeleniumBase" target="_blank" rel="noopener"><strong>SeleniumBase</strong></a> by seleniumbase · ★ 13.0k · Python AI Tool
+- <a href="https://github.com/seleniumbase/SeleniumBase" target="_blank" rel="noopener"><strong>SeleniumBase</strong></a> by seleniumbase · ★ 13.1k · Python AI Tool
   - Python APIs for Browser Automation, E2E Testing, and Web Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.
-- <a href="https://github.com/lightpanda-io/browser" target="_blank" rel="noopener"><strong>browser</strong></a> by lightpanda-io · ★ 35.9k · Zig AI Tool
-  - Lightpanda: the headless browser designed for AI and automation
 - <a href="https://github.com/lars-hagen/mcp-playwright-cdp" target="_blank" rel="noopener"><strong>mcp-playwright-cdp</strong></a> by lars-hagen · ★ 52 · TypeScript MCP Server
   - Model Context Protocol server for Playwright with Chrome DevTools Protocol support
 - <a href="https://github.com/antibrow/antibrow" target="_blank" rel="noopener"><strong>antibrow</strong></a> by antibrow · ★ 991 · TypeScript MCP Server
