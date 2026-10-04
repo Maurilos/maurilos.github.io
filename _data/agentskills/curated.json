@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/claude-video-skills/",
     "quick_pick": {
       "name": "ClaudeAnimationBase",
-      "stars": "731",
+      "stars": "735",
       "tagline": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush,"
     },
     "tools": []
@@ -30,7 +30,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "24.2k",
+      "stars": "24.3k",
       "tagline": "25 MB lightweight cross-platform database client for 100+ databases, including M",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -39,7 +39,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "24.2k",
+        "stars": "24.3k",
         "meta": "Rust MCP Server",
         "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -195,6 +195,15 @@
       },
       {
         "rank": 7,
+        "name": "browser",
+        "author": "lightpanda-io",
+        "stars": "35.9k",
+        "meta": "Zig AI Tool",
+        "description": "Lightpanda: the headless browser designed for AI and automation",
+        "github_url": "https://github.com/lightpanda-io/browser"
+      },
+      {
+        "rank": 8,
         "name": "mcp-playwright-cdp",
         "author": "lars-hagen",
         "stars": "52",
@@ -203,31 +212,22 @@
         "github_url": "https://github.com/lars-hagen/mcp-playwright-cdp"
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "name": "antibrow",
+        "author": "antibrow",
+        "stars": "991",
+        "meta": "TypeScript MCP Server",
+        "description": "Kernel-level antidetect browser with the Playwright API you already write. Python + Node SDKs, MCP-ready, unlimited local profiles. Linux x64 + arm64, macOS Intel + Apple Silicon, Windows x64.",
+        "github_url": "https://github.com/antibrow/antibrow"
+      },
+      {
+        "rank": 10,
         "name": "docker-stealthy-auto-browse",
         "author": "psyb0t",
         "stars": "85",
         "meta": "Python MCP Server",
         "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
         "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
-      },
-      {
-        "rank": 9,
-        "name": "aihawk_mcp_server",
-        "author": "feder-cr",
-        "stars": "31.6k",
-        "meta": "Python MCP Server",
-        "description": "Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.",
-        "github_url": "https://github.com/feder-cr/aihawk_mcp_server"
-      },
-      {
-        "rank": 10,
-        "name": "invisible_playwright_mcp",
-        "author": "feder-cr",
-        "stars": "31.8k",
-        "meta": "Python MCP Server",
-        "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
-        "github_url": "https://github.com/feder-cr/invisible_playwright_mcp"
       }
     ]
   },
@@ -568,7 +568,7 @@
         "rank": 9,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "329",
+        "stars": "335",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -618,7 +618,7 @@
         "rank": 3,
         "name": "Aletheore",
         "author": "Aletheore",
-        "stars": "233",
+        "stars": "238",
         "meta": "Python MCP Server",
         "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
         "github_url": "https://github.com/Aletheore/Aletheore"
@@ -713,7 +713,7 @@
         "rank": 2,
         "name": "backlot",
         "author": "brekkylab",
-        "stars": "329",
+        "stars": "335",
         "meta": "Python MCP Server",
         "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
         "github_url": "https://github.com/brekkylab/backlot"
@@ -810,29 +810,29 @@
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
-      "name": "OmniRoute",
-      "stars": "72.5k",
-      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
-      "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      "name": "OpenMontage",
+      "stars": "62.7k",
+      "tagline": "World's first open-source, agentic video production system. 12 production pipeli",
+      "github_url": "https://github.com/calesthio/OpenMontage"
     },
     "tools": [
       {
         "rank": 1,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "72.5k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
-      },
-      {
-        "rank": 2,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "56.3k",
+        "stars": "62.7k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "rank": 2,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "72.6k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
@@ -856,7 +856,7 @@
         "rank": 5,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "25.1k",
+        "stars": "25.2k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -874,7 +874,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "19.3k",
+        "stars": "19.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"

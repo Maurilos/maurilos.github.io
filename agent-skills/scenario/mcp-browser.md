@@ -23,11 +23,11 @@ permalink: /agent-skills/scenario/mcp-browser/
   - A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.
 - <a href="https://github.com/seleniumbase/SeleniumBase" target="_blank" rel="noopener"><strong>SeleniumBase</strong></a> by seleniumbase · ★ 13.0k · Python AI Tool
   - Python APIs for Browser Automation, E2E Testing, and Web Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.
+- <a href="https://github.com/lightpanda-io/browser" target="_blank" rel="noopener"><strong>browser</strong></a> by lightpanda-io · ★ 35.9k · Zig AI Tool
+  - Lightpanda: the headless browser designed for AI and automation
 - <a href="https://github.com/lars-hagen/mcp-playwright-cdp" target="_blank" rel="noopener"><strong>mcp-playwright-cdp</strong></a> by lars-hagen · ★ 52 · TypeScript MCP Server
   - Model Context Protocol server for Playwright with Chrome DevTools Protocol support
+- <a href="https://github.com/antibrow/antibrow" target="_blank" rel="noopener"><strong>antibrow</strong></a> by antibrow · ★ 991 · TypeScript MCP Server
+  - Kernel-level antidetect browser with the Playwright API you already write. Python + Node SDKs, MCP-ready, unlimited local profiles. Linux x64 + arm64, macOS Intel + Apple Silicon, Windows x64.
 - <a href="https://github.com/psyb0t/docker-stealthy-auto-browse" target="_blank" rel="noopener"><strong>docker-stealthy-auto-browse</strong></a> by psyb0t · ★ 85 · Python MCP Server
   - Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.
-- <a href="https://github.com/feder-cr/aihawk_mcp_server" target="_blank" rel="noopener"><strong>aihawk_mcp_server</strong></a> by feder-cr · ★ 31.6k · Python MCP Server
-  - Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.
-- <a href="https://github.com/feder-cr/invisible_playwright_mcp" target="_blank" rel="noopener"><strong>invisible_playwright_mcp</strong></a> by feder-cr · ★ 31.8k · Python MCP Server
-  - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
