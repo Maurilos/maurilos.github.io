@@ -19,6 +19,8 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.
 - <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 9.9k · TypeScript MCP Server
   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+- <a href="https://github.com/abcamus/obsidian-sync-vault-ce" target="_blank" rel="noopener"><strong>obsidian-sync-vault-ce</strong></a> by abcamus · ★ 136 · TypeScript MCP Server
+  - A cloud-first Obsidian vault: zero-space VFS keeps files in your cloud drive, local storage near zero, and 4K video streams on demand. Encrypted multi-device sync for Baidu/Aliyun/Quark/WebDAV/S3, with MCP for AI agents and P2P collaboration.
 - <a href="https://github.com/AnalyseDeCircuit/oxideterm" target="_blank" rel="noopener"><strong>oxideterm</strong></a> by AnalyseDeCircuit · ★ 1.3k · Rust MCP Server
   - All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.
 - <a href="https://github.com/mark3labs/mcp-filesystem-server" target="_blank" rel="noopener"><strong>mcp-filesystem-server</strong></a> by mark3labs · ★ 692 · Go MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.
 - <a href="https://github.com/shariqriazz/vertex-ai-mcp-server" target="_blank" rel="noopener"><strong>vertex-ai-mcp-server</strong></a> by shariqriazz · ★ 87 · TypeScript MCP Server
   - MCP server for Vertex AI and Gemini tools, including grounded answers, documentation research, and filesystem workflows.
-- <a href="https://github.com/answerlink/MCP-Workspace-Server" target="_blank" rel="noopener"><strong>MCP-Workspace-Server</strong></a> by answerlink · ★ 133 · Python MCP Server
-  - 🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio. 文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用

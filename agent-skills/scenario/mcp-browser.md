@@ -7,19 +7,19 @@ permalink: /agent-skills/scenario/mcp-browser/
 # Best AI Agent Skills for MCP Browser Automation in 2026
 
 ## Quick Pick
-<a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> · ★ 349 · The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St
+<a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> · ★ 350 · The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St
 
 ## 工具列表
 
-- <a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> by OyadotAI · ★ 349 · TypeScript MCP Server
+- <a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> by OyadotAI · ★ 350 · TypeScript MCP Server
   - The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.
 - <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.4k · TypeScript MCP Server
   - Allow LLMs to control a browser with Browserbase and Stagehand
-- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 52.9k · TypeScript MCP Server
+- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 53.0k · TypeScript MCP Server
   - Chrome DevTools for coding agents
-- <a href="https://github.com/lightpanda-io/browser" target="_blank" rel="noopener"><strong>browser</strong></a> by lightpanda-io · ★ 35.9k · Zig AI Tool
+- <a href="https://github.com/lightpanda-io/browser" target="_blank" rel="noopener"><strong>browser</strong></a> by lightpanda-io · ★ 36.0k · Zig AI Tool
   - Lightpanda: the headless browser designed for AI and automation
-- <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 28.3k · Rust Agent Tool
+- <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 28.4k · Rust Agent Tool
   - The headless browser for AI agents and web scraping
 - <a href="https://github.com/dondai44423/bladebro" target="_blank" rel="noopener"><strong>bladebro</strong></a> by dondai44423 · ★ 291 · Rust MCP Server
   - A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.
