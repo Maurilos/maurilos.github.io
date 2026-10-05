@@ -7,27 +7,6 @@ permalink: /agent-skills/scenario/mcp-for-github/
 # Best AI Agent Skills for MCP Tools for GitHub in 2026
 
 ## Quick Pick
-<a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> · ★ 838 · MCP server for semantic code research and context generation on real-time using
+**octocode-mcp** · ★ 838 · MCP server for semantic code research and context generation on real-time using
 
-## 工具列表
-
-- <a href="https://github.com/bgauryy/octocode-mcp" target="_blank" rel="noopener"><strong>octocode-mcp</strong></a> by bgauryy · ★ 838 · TypeScript MCP Server
-  - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
-- <a href="https://github.com/Keesan12/martin-loop" target="_blank" rel="noopener"><strong>martin-loop</strong></a> by Keesan12 · ★ 409 · TypeScript MCP Server
-  - Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Finally run your agents swarms overnight and get your time back.
-- <a href="https://github.com/Aletheore/Aletheore" target="_blank" rel="noopener"><strong>Aletheore</strong></a> by Aletheore · ★ 244 · Python MCP Server
-  - Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.
-- <a href="https://github.com/UiPath/coder_eval" target="_blank" rel="noopener"><strong>coder_eval</strong></a> by UiPath · ★ 148 · Python MCP Server
-  - Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI gates.
-- <a href="https://github.com/AndrewAltimit/template-repo" target="_blank" rel="noopener"><strong>template-repo</strong></a> by AndrewAltimit · ★ 132 · Rust MCP Server
-  - Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers
-- <a href="https://github.com/kunwarVivek/mcp-github-project-manager" target="_blank" rel="noopener"><strong>mcp-github-project-manager</strong></a> by kunwarVivek · ★ 100 · TypeScript MCP Server
-  - MCP server for AI-powered GitHub project management — 20 tools, 169 actions, agent swarm orchestration, GitHub Actions/Releases/Branches, MCP Resources & Prompts, PRD-to-issues pipeline
-- <a href="https://github.com/bgauryy/octocode" target="_blank" rel="noopener"><strong>octocode</strong></a> by bgauryy · ★ 947 · TypeScript MCP Server
-  - Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI
-- <a href="https://github.com/yusufkaraaslan/Skill_Seekers" target="_blank" rel="noopener"><strong>Skill_Seekers</strong></a> by yusufkaraaslan · ★ 15.1k · Python MCP Server
-  - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-- <a href="https://github.com/Agents365-ai/drawio-skill" target="_blank" rel="noopener"><strong>drawio-skill</strong></a> by Agents365-ai · ★ 9.8k · Python MCP Server
-  - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard derasterize, interactive HTML/PPTX/Mermaid exports.
-- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering</strong></a> by cobusgreyling · ★ 11.4k · TypeScript MCP Server
-  - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
+暂无工具数据。

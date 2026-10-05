@@ -7,27 +7,6 @@ permalink: /agent-skills/scenario/mcp-browser/
 # Best AI Agent Skills for MCP Browser Automation in 2026
 
 ## Quick Pick
-<a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> · ★ 350 · The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St
+**oya-browser** · ★ 350 · The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St
 
-## 工具列表
-
-- <a href="https://github.com/OyadotAI/oya-browser" target="_blank" rel="noopener"><strong>oya-browser</strong></a> by OyadotAI · ★ 350 · TypeScript MCP Server
-  - The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.
-- <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.4k · TypeScript MCP Server
-  - Allow LLMs to control a browser with Browserbase and Stagehand
-- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 53.0k · TypeScript MCP Server
-  - Chrome DevTools for coding agents
-- <a href="https://github.com/lightpanda-io/browser" target="_blank" rel="noopener"><strong>browser</strong></a> by lightpanda-io · ★ 36.0k · Zig AI Tool
-  - Lightpanda: the headless browser designed for AI and automation
-- <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 28.4k · Rust Agent Tool
-  - The headless browser for AI agents and web scraping
-- <a href="https://github.com/dondai44423/bladebro" target="_blank" rel="noopener"><strong>bladebro</strong></a> by dondai44423 · ★ 291 · Rust MCP Server
-  - A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.
-- <a href="https://github.com/seleniumbase/SeleniumBase" target="_blank" rel="noopener"><strong>SeleniumBase</strong></a> by seleniumbase · ★ 13.1k · Python AI Tool
-  - Python APIs for Browser Automation, E2E Testing, and Web Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.
-- <a href="https://github.com/lars-hagen/mcp-playwright-cdp" target="_blank" rel="noopener"><strong>mcp-playwright-cdp</strong></a> by lars-hagen · ★ 52 · TypeScript MCP Server
-  - Model Context Protocol server for Playwright with Chrome DevTools Protocol support
-- <a href="https://github.com/antibrow/antibrow" target="_blank" rel="noopener"><strong>antibrow</strong></a> by antibrow · ★ 991 · TypeScript MCP Server
-  - Kernel-level antidetect browser with the Playwright API you already write. Python + Node SDKs, MCP-ready, unlimited local profiles. Linux x64 + arm64, macOS Intel + Apple Silicon, Windows x64.
-- <a href="https://github.com/psyb0t/docker-stealthy-auto-browse" target="_blank" rel="noopener"><strong>docker-stealthy-auto-browse</strong></a> by psyb0t · ★ 85 · Python MCP Server
-  - Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.
+暂无工具数据。

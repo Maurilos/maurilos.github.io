@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/claude-video-skills/",
     "quick_pick": {
       "name": "ClaudeAnimationBase",
-      "stars": "756",
+      "stars": "771",
       "tagline": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush,"
     },
     "tools": []
@@ -29,103 +29,11 @@
     "slug": "mcp-database",
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
-      "name": "dbx",
-      "stars": "24.6k",
-      "tagline": "25 MB lightweight cross-platform database client for 100+ databases, including M",
-      "github_url": "https://github.com/t8y2/dbx"
+      "name": "OpenViking",
+      "stars": "39.2k",
+      "tagline": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG"
     },
-    "tools": [
-      {
-        "rank": 1,
-        "name": "dbx",
-        "author": "t8y2",
-        "stars": "24.6k",
-        "meta": "Rust MCP Server",
-        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-        "github_url": "https://github.com/t8y2/dbx"
-      },
-      {
-        "rank": 2,
-        "name": "graphjin",
-        "author": "dosco",
-        "stars": "3.2k",
-        "meta": "Go MCP Server",
-        "description": "One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code",
-        "github_url": "https://github.com/dosco/graphjin"
-      },
-      {
-        "rank": 3,
-        "name": "mcp-toolbox",
-        "author": "googleapis",
-        "stars": "16.6k",
-        "meta": "Go MCP Server",
-        "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
-        "github_url": "https://github.com/googleapis/mcp-toolbox"
-      },
-      {
-        "rank": 4,
-        "name": "tabularis",
-        "author": "TabularisDB",
-        "stars": "5.1k",
-        "meta": "TypeScript MCP Server",
-        "description": "Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-        "github_url": "https://github.com/TabularisDB/tabularis"
-      },
-      {
-        "rank": 5,
-        "name": "dbhub",
-        "author": "bytebase",
-        "stars": "3.6k",
-        "meta": "TypeScript MCP Server",
-        "description": "Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.",
-        "github_url": "https://github.com/bytebase/dbhub"
-      },
-      {
-        "rank": 6,
-        "name": "GoNavi",
-        "author": "Syngnat",
-        "stars": "2.1k",
-        "meta": "TypeScript MCP Server",
-        "description": "High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。",
-        "github_url": "https://github.com/Syngnat/GoNavi"
-      },
-      {
-        "rank": 7,
-        "name": "hyperterse",
-        "author": "hyperterse",
-        "stars": "84",
-        "meta": "Go MCP Server",
-        "description": "The agentic server framework.",
-        "github_url": "https://github.com/hyperterse/hyperterse"
-      },
-      {
-        "rank": 8,
-        "name": "alibabacloud-dms-mcp-server",
-        "author": "aliyun",
-        "stars": "52",
-        "meta": "Python MCP Server",
-        "description": "A universal multi-cloud data MCP Server supporting over 40 types of data source connections, providing secure, unified data access in a single platform. Supports full range of Alibaba Cloud services and Mainstream databases/data warehouses.",
-        "github_url": "https://github.com/aliyun/alibabacloud-dms-mcp-server"
-      },
-      {
-        "rank": 9,
-        "name": "Clauge",
-        "author": "ClaugeHQ",
-        "stars": "806",
-        "meta": "Svelte Codex Skill",
-        "description": "The AI-powered super-app for developers.",
-        "github_url": "https://github.com/ClaugeHQ/Clauge"
-      },
-      {
-        "rank": 10,
-        "name": "Clauge",
-        "author": "ansxuman",
-        "stars": "736",
-        "meta": "Svelte Codex Skill",
-        "description": "One window. Every dev tool.",
-        "github_url": "https://github.com/ansxuman/Clauge"
-      }
-    ]
+    "tools": []
   },
   {
     "title": "Best AI Agent Skills for MCP Browser Automation in 2026",
@@ -135,101 +43,9 @@
     "quick_pick": {
       "name": "oya-browser",
       "stars": "350",
-      "tagline": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St",
-      "github_url": "https://github.com/OyadotAI/oya-browser"
+      "tagline": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St"
     },
-    "tools": [
-      {
-        "rank": 1,
-        "name": "oya-browser",
-        "author": "OyadotAI",
-        "stars": "350",
-        "meta": "TypeScript MCP Server",
-        "description": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persistent personas, CAPTCHA and MFA handling, and live human takeover.",
-        "github_url": "https://github.com/OyadotAI/oya-browser"
-      },
-      {
-        "rank": 2,
-        "name": "mcp-server-browserbase",
-        "author": "browserbase",
-        "stars": "3.4k",
-        "meta": "TypeScript MCP Server",
-        "description": "Allow LLMs to control a browser with Browserbase and Stagehand",
-        "github_url": "https://github.com/browserbase/mcp-server-browserbase"
-      },
-      {
-        "rank": 3,
-        "name": "chrome-devtools-mcp",
-        "author": "ChromeDevTools",
-        "stars": "53.0k",
-        "meta": "TypeScript MCP Server",
-        "description": "Chrome DevTools for coding agents",
-        "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-      },
-      {
-        "rank": 4,
-        "name": "browser",
-        "author": "lightpanda-io",
-        "stars": "36.0k",
-        "meta": "Zig AI Tool",
-        "description": "Lightpanda: the headless browser designed for AI and automation",
-        "github_url": "https://github.com/lightpanda-io/browser"
-      },
-      {
-        "rank": 5,
-        "name": "obscura",
-        "author": "h4ckf0r0day",
-        "stars": "28.4k",
-        "meta": "Rust Agent Tool",
-        "description": "The headless browser for AI agents and web scraping",
-        "github_url": "https://github.com/h4ckf0r0day/obscura"
-      },
-      {
-        "rank": 6,
-        "name": "bladebro",
-        "author": "dondai44423",
-        "stars": "291",
-        "meta": "Rust MCP Server",
-        "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
-        "github_url": "https://github.com/dondai44423/bladebro"
-      },
-      {
-        "rank": 7,
-        "name": "SeleniumBase",
-        "author": "seleniumbase",
-        "stars": "13.1k",
-        "meta": "Python AI Tool",
-        "description": "Python APIs for Browser Automation, E2E Testing, and Web Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.",
-        "github_url": "https://github.com/seleniumbase/SeleniumBase"
-      },
-      {
-        "rank": 8,
-        "name": "mcp-playwright-cdp",
-        "author": "lars-hagen",
-        "stars": "52",
-        "meta": "TypeScript MCP Server",
-        "description": "Model Context Protocol server for Playwright with Chrome DevTools Protocol support",
-        "github_url": "https://github.com/lars-hagen/mcp-playwright-cdp"
-      },
-      {
-        "rank": 9,
-        "name": "antibrow",
-        "author": "antibrow",
-        "stars": "991",
-        "meta": "TypeScript MCP Server",
-        "description": "Kernel-level antidetect browser with the Playwright API you already write. Python + Node SDKs, MCP-ready, unlimited local profiles. Linux x64 + arm64, macOS Intel + Apple Silicon, Windows x64.",
-        "github_url": "https://github.com/antibrow/antibrow"
-      },
-      {
-        "rank": 10,
-        "name": "docker-stealthy-auto-browse",
-        "author": "psyb0t",
-        "stars": "85",
-        "meta": "Python MCP Server",
-        "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
-        "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
-      }
-    ]
+    "tools": []
   },
   {
     "title": "Best AI Agent Skills for MCP Filesystem Tools in 2026",
@@ -239,101 +55,9 @@
     "quick_pick": {
       "name": "KeibiDrop",
       "stars": "61",
-      "tagline": "Share files between devices on demand. They show up as a folder on your computer",
-      "github_url": "https://github.com/KeibiSoft/KeibiDrop"
+      "tagline": "Share files between devices on demand. They show up as a folder on your computer"
     },
-    "tools": [
-      {
-        "rank": 1,
-        "name": "KeibiDrop",
-        "author": "KeibiSoft",
-        "stars": "61",
-        "meta": "Go MCP Server",
-        "description": "Share files between devices on demand. They show up as a folder on your computer, available instantly while downloading.",
-        "github_url": "https://github.com/KeibiSoft/KeibiDrop"
-      },
-      {
-        "rank": 2,
-        "name": "rust-mcp-filesystem",
-        "author": "rust-mcp-stack",
-        "stars": "172",
-        "meta": "Rust MCP Server",
-        "description": "Blazing-fast, asynchronous MCP server for seamless filesystem operations.",
-        "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
-      },
-      {
-        "rank": 3,
-        "name": "fast-filesystem-mcp",
-        "author": "efforthye",
-        "stars": "62",
-        "meta": "TypeScript MCP Server",
-        "description": "A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.",
-        "github_url": "https://github.com/efforthye/fast-filesystem-mcp"
-      },
-      {
-        "rank": 4,
-        "name": "DesktopCommanderMCP",
-        "author": "wonderwhy-er",
-        "stars": "9.9k",
-        "meta": "TypeScript MCP Server",
-        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-        "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
-      },
-      {
-        "rank": 5,
-        "name": "obsidian-sync-vault-ce",
-        "author": "abcamus",
-        "stars": "136",
-        "meta": "TypeScript MCP Server",
-        "description": "A cloud-first Obsidian vault: zero-space VFS keeps files in your cloud drive, local storage near zero, and 4K video streams on demand. Encrypted multi-device sync for Baidu/Aliyun/Quark/WebDAV/S3, with MCP for AI agents and P2P collaboration.",
-        "github_url": "https://github.com/abcamus/obsidian-sync-vault-ce"
-      },
-      {
-        "rank": 6,
-        "name": "oxideterm",
-        "author": "AnalyseDeCircuit",
-        "stars": "1.3k",
-        "meta": "Rust MCP Server",
-        "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
-        "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
-      },
-      {
-        "rank": 7,
-        "name": "mcp-filesystem-server",
-        "author": "mark3labs",
-        "stars": "692",
-        "meta": "Go MCP Server",
-        "description": "Go server implementing Model Context Protocol (MCP) for filesystem operations.",
-        "github_url": "https://github.com/mark3labs/mcp-filesystem-server"
-      },
-      {
-        "rank": 8,
-        "name": "mcp-server-synology",
-        "author": "atom2ueki",
-        "stars": "213",
-        "meta": "Python MCP Server",
-        "description": "💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.",
-        "github_url": "https://github.com/atom2ueki/mcp-server-synology"
-      },
-      {
-        "rank": 9,
-        "name": "BloodHound-MCP-AI",
-        "author": "MorDavid",
-        "stars": "376",
-        "meta": "Python MCP Server",
-        "description": "BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.",
-        "github_url": "https://github.com/MorDavid/BloodHound-MCP-AI"
-      },
-      {
-        "rank": 10,
-        "name": "vertex-ai-mcp-server",
-        "author": "shariqriazz",
-        "stars": "87",
-        "meta": "TypeScript MCP Server",
-        "description": "MCP server for Vertex AI and Gemini tools, including grounded answers, documentation research, and filesystem workflows.",
-        "github_url": "https://github.com/shariqriazz/vertex-ai-mcp-server"
-      }
-    ]
+    "tools": []
   },
   {
     "title": "Best AI Agent Skills for MCP API Integration in 2026",
@@ -343,38 +67,9 @@
     "quick_pick": {
       "name": "cortex",
       "stars": "3.2k",
-      "tagline": "Cortex - Generates interactive API documentation, typed SDKs, and MCP servers fr",
-      "github_url": "https://github.com/cortex-docs/cortex"
+      "tagline": "Cortex - Generates interactive API documentation, typed SDKs, and MCP servers fr"
     },
-    "tools": [
-      {
-        "rank": 8,
-        "name": "spectral",
-        "author": "spectral-mcp",
-        "stars": "111",
-        "meta": "Python MCP Server",
-        "description": "Browse any app normally. Spectral captures the traffic, understands what each API call does, and generates MCP tools that AI agents can call directly.",
-        "github_url": "https://github.com/cortex-docs/cortex"
-      },
-      {
-        "rank": 9,
-        "name": "unraid-management-agent",
-        "author": "ruaan-deysel",
-        "stars": "59",
-        "meta": "Go MCP Server",
-        "description": "Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.",
-        "github_url": "https://github.com/cortex-docs-old/cortex"
-      },
-      {
-        "rank": 10,
-        "name": "tyk",
-        "author": "TykTechnologies",
-        "stars": "10.8k",
-        "meta": "Go MCP Server",
-        "description": "Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)",
-        "github_url": "https://github.com/reshaprio/reshapr"
-      }
-    ]
+    "tools": []
   },
   {
     "title": "Best AI Agent Skills for MCP Memory & Knowledge in 2026",
@@ -384,101 +79,9 @@
     "quick_pick": {
       "name": "yantrikdb",
       "stars": "65",
-      "tagline": "Cognitive memory engine for AI agents — temporal decay, contradiction detection,",
-      "github_url": "https://github.com/yantrikos/yantrikdb"
+      "tagline": "Cognitive memory engine for AI agents — temporal decay, contradiction detection,"
     },
-    "tools": [
-      {
-        "rank": 1,
-        "name": "yantrikdb",
-        "author": "yantrikos",
-        "stars": "65",
-        "meta": "Rust MCP Server",
-        "description": "Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge graph, ANN recall via HNSW. Embeddable Rust library with Python bindings; powers yantrikdb-server (HTTP gateway, MCP server, openraft cluster). Apache-2.0.",
-        "github_url": "https://github.com/yantrikos/yantrikdb"
-      },
-      {
-        "rank": 2,
-        "name": "Dragon-Brain",
-        "author": "iikarus",
-        "stars": "51",
-        "meta": "Python MCP Server",
-        "description": "Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context Protocol). Knowledge graph (FalkorDB) + vector search (Qdrant) + CUDA GPU embeddings. Works with Claude, Gemini CLI, Cursor, Windsurf, VS Code Copilot. 30 tools, 1121 tests.",
-        "github_url": "https://github.com/iikarus/Dragon-Brain"
-      },
-      {
-        "rank": 3,
-        "name": "pensyve",
-        "author": "major7apps",
-        "stars": "89",
-        "meta": "Rust MCP Server",
-        "description": "Universal memory runtime for AI agents",
-        "github_url": "https://github.com/major7apps/pensyve"
-      },
-      {
-        "rank": 4,
-        "name": "mind",
-        "author": "Da7-Tech",
-        "stars": "65",
-        "meta": "Python MCP Server",
-        "description": "Persistent memory for AI coding agents: automatic capture, explainable recall, knowledge consolidation, privacy controls, and portable offline storage. One Python file, zero dependencies.",
-        "github_url": "https://github.com/Da7-Tech/mind"
-      },
-      {
-        "rank": 5,
-        "name": "mcp-knowledge-graph",
-        "author": "shaneholloman",
-        "stars": "889",
-        "meta": "JavaScript MCP Server",
-        "description": "MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development",
-        "github_url": "https://github.com/shaneholloman/mcp-knowledge-graph"
-      },
-      {
-        "rank": 6,
-        "name": "caura",
-        "author": "caura-ai",
-        "stars": "544",
-        "meta": "Python MCP Server",
-        "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
-        "github_url": "https://github.com/caura-ai/caura"
-      },
-      {
-        "rank": 7,
-        "name": "montycat-mcp",
-        "author": "MontyGovernance",
-        "stars": "54",
-        "meta": "Python MCP Server",
-        "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Works with Claude, Cursor, Codex, and any MCP client.",
-        "github_url": "https://github.com/MontyGovernance/montycat-mcp"
-      },
-      {
-        "rank": 8,
-        "name": "caura-memclaw",
-        "author": "caura-ai",
-        "stars": "430",
-        "meta": "Python MCP Server",
-        "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
-        "github_url": "https://github.com/caura-ai/caura-memclaw"
-      },
-      {
-        "rank": 9,
-        "name": "omega-memory",
-        "author": "omega-memory",
-        "stars": "219",
-        "meta": "Python MCP Server",
-        "description": "Persistent memory for AI coding agents",
-        "github_url": "https://github.com/omega-memory/omega-memory"
-      },
-      {
-        "rank": 10,
-        "name": "memory-vault",
-        "author": "MihaiBuilds",
-        "stars": "65",
-        "meta": "Python MCP Server",
-        "description": "A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.",
-        "github_url": "https://github.com/MihaiBuilds/memory-vault"
-      }
-    ]
+    "tools": []
   },
   {
     "title": "Best AI Agent Skills for MCP Tools for Notion in 2026",
@@ -488,101 +91,9 @@
     "quick_pick": {
       "name": "notion-mcp-server",
       "stars": "173",
-      "tagline": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent",
-      "github_url": "https://github.com/awkoy/notion-mcp-server"
+      "tagline": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent"
     },
-    "tools": [
-      {
-        "rank": 1,
-        "name": "notion-mcp-server",
-        "author": "awkoy",
-        "stars": "173",
-        "meta": "TypeScript MCP Server",
-        "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.",
-        "github_url": "https://github.com/awkoy/notion-mcp-server"
-      },
-      {
-        "rank": 2,
-        "name": "mcp-notion-server",
-        "author": "suekou",
-        "stars": "919",
-        "meta": "TypeScript MCP Server",
-        "description": "A Model Context Protocol server for connecting Notion to MCP-compatible clients Quick Start: Add this server to an MCP host such as Claude Desktop: Restart your MCP host after saving the configuration. ```json { \"mcpServers\": { \"notion\": { \"command\": \"npx\", \"args\": [\"-y\", \"@suekou/mcp-notion-server\"], \"env\": { \"NOTION_API_TOKEN\": \"your-integration-token\" } } } } ```",
-        "github_url": "https://github.com/suekou/mcp-notion-server"
-      },
-      {
-        "rank": 3,
-        "name": "notion-cli-agent",
-        "author": "Balneario-de-Cofrentes",
-        "stars": "88",
-        "meta": "TypeScript MCP Server",
-        "description": "Notion CLI with AI agent support. Smart queries, Obsidian sync, batch ops, backups, validation and more.",
-        "github_url": "https://github.com/Balneario-de-Cofrentes/notion-cli-agent"
-      },
-      {
-        "rank": 4,
-        "name": "easy-notion-mcp",
-        "author": "Grey-Iris",
-        "stars": "50",
-        "meta": "TypeScript MCP Server",
-        "description": "Markdown-first Notion MCP server. ~6-7x fewer response tokens vs official Notion MCP. 43 tools.",
-        "github_url": "https://github.com/Grey-Iris/easy-notion-mcp"
-      },
-      {
-        "rank": 5,
-        "name": "macro",
-        "author": "macro-inc",
-        "stars": "780",
-        "meta": "TypeScript MCP Server",
-        "description": "Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.",
-        "github_url": "https://github.com/macro-inc/macro"
-      },
-      {
-        "rank": 6,
-        "name": "busabase",
-        "author": "busabase",
-        "stars": "264",
-        "meta": "TypeScript MCP Server",
-        "description": "Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes that matter. Local-first and self-hostable.",
-        "github_url": "https://github.com/busabase/busabase"
-      },
-      {
-        "rank": 7,
-        "name": "anyquery",
-        "author": "julien040",
-        "stars": "1.8k",
-        "meta": "Go MCP Server",
-        "description": "One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.",
-        "github_url": "https://github.com/julien040/anyquery"
-      },
-      {
-        "rank": 8,
-        "name": "Claude-Skills",
-        "author": "borghei",
-        "stars": "849",
-        "meta": "HTML MCP Server",
-        "description": "372 AI skills, 76 expert agents, and 867 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.",
-        "github_url": "https://github.com/borghei/Claude-Skills"
-      },
-      {
-        "rank": 9,
-        "name": "backlot",
-        "author": "brekkylab",
-        "stars": "362",
-        "meta": "Python MCP Server",
-        "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
-        "github_url": "https://github.com/brekkylab/backlot"
-      },
-      {
-        "rank": 10,
-        "name": "notion_mcp",
-        "author": "danhilse",
-        "stars": "208",
-        "meta": "Python MCP Server",
-        "description": "A simple MCP integration that allows Claude to read and manage a personal Notion todo list",
-        "github_url": "https://github.com/danhilse/notion_mcp"
-      }
-    ]
+    "tools": []
   },
   {
     "title": "Best AI Agent Skills for MCP Tools for GitHub in 2026",
@@ -592,101 +103,9 @@
     "quick_pick": {
       "name": "octocode-mcp",
       "stars": "838",
-      "tagline": "MCP server for semantic code research and context generation on real-time using",
-      "github_url": "https://github.com/bgauryy/octocode-mcp"
+      "tagline": "MCP server for semantic code research and context generation on real-time using"
     },
-    "tools": [
-      {
-        "rank": 1,
-        "name": "octocode-mcp",
-        "author": "bgauryy",
-        "stars": "838",
-        "meta": "TypeScript MCP Server",
-        "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
-        "github_url": "https://github.com/bgauryy/octocode-mcp"
-      },
-      {
-        "rank": 2,
-        "name": "martin-loop",
-        "author": "Keesan12",
-        "stars": "409",
-        "meta": "TypeScript MCP Server",
-        "description": "Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Finally run your agents swarms overnight and get your time back.",
-        "github_url": "https://github.com/Keesan12/martin-loop"
-      },
-      {
-        "rank": 3,
-        "name": "Aletheore",
-        "author": "Aletheore",
-        "stars": "244",
-        "meta": "Python MCP Server",
-        "description": "Evidence-grounded repository audit CLI - deterministic scanner, MCP server, live dashboard, and a GitHub Action that posts PR diffs.",
-        "github_url": "https://github.com/Aletheore/Aletheore"
-      },
-      {
-        "rank": 4,
-        "name": "coder_eval",
-        "author": "UiPath",
-        "stars": "148",
-        "meta": "Python MCP Server",
-        "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI gates.",
-        "github_url": "https://github.com/UiPath/coder_eval"
-      },
-      {
-        "rank": 5,
-        "name": "template-repo",
-        "author": "AndrewAltimit",
-        "stars": "132",
-        "meta": "Rust MCP Server",
-        "description": "Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers",
-        "github_url": "https://github.com/AndrewAltimit/template-repo"
-      },
-      {
-        "rank": 6,
-        "name": "mcp-github-project-manager",
-        "author": "kunwarVivek",
-        "stars": "100",
-        "meta": "TypeScript MCP Server",
-        "description": "MCP server for AI-powered GitHub project management — 20 tools, 169 actions, agent swarm orchestration, GitHub Actions/Releases/Branches, MCP Resources & Prompts, PRD-to-issues pipeline",
-        "github_url": "https://github.com/kunwarVivek/mcp-github-project-manager"
-      },
-      {
-        "rank": 7,
-        "name": "octocode",
-        "author": "bgauryy",
-        "stars": "947",
-        "meta": "TypeScript MCP Server",
-        "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
-        "github_url": "https://github.com/bgauryy/octocode"
-      },
-      {
-        "rank": 8,
-        "name": "Skill_Seekers",
-        "author": "yusufkaraaslan",
-        "stars": "15.1k",
-        "meta": "Python MCP Server",
-        "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-        "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
-      },
-      {
-        "rank": 9,
-        "name": "drawio-skill",
-        "author": "Agents365-ai",
-        "stars": "9.8k",
-        "meta": "Python MCP Server",
-        "description": "Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard derasterize, interactive HTML/PPTX/Mermaid exports.",
-        "github_url": "https://github.com/Agents365-ai/drawio-skill"
-      },
-      {
-        "rank": 10,
-        "name": "loop-engineering",
-        "author": "cobusgreyling",
-        "stars": "11.4k",
-        "meta": "TypeScript MCP Server",
-        "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-        "github_url": "https://github.com/cobusgreyling/loop-engineering"
-      }
-    ]
+    "tools": []
   },
   {
     "title": "Best AI Agent Skills for MCP Tools for Google Services in 2026",
@@ -696,101 +115,9 @@
     "quick_pick": {
       "name": "google_workspace_mcp",
       "stars": "3.3k",
-      "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search",
-      "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
+      "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search"
     },
-    "tools": [
-      {
-        "rank": 1,
-        "name": "google_workspace_mcp",
-        "author": "taylorwilsdon",
-        "stars": "3.3k",
-        "meta": "Python MCP Server",
-        "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool",
-        "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
-      },
-      {
-        "rank": 2,
-        "name": "backlot",
-        "author": "brekkylab",
-        "stars": "362",
-        "meta": "Python MCP Server",
-        "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
-        "github_url": "https://github.com/brekkylab/backlot"
-      },
-      {
-        "rank": 3,
-        "name": "modular-context-obsidian-plugin",
-        "author": "klemensgc",
-        "stars": "97",
-        "meta": "TypeScript MCP Server",
-        "description": "Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first",
-        "github_url": "https://github.com/klemensgc/modular-context-obsidian-plugin"
-      },
-      {
-        "rank": 4,
-        "name": "mcp-google-sheets",
-        "author": "xing5",
-        "stars": "1.0k",
-        "meta": "Python MCP Server",
-        "description": "This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets.",
-        "github_url": "https://github.com/xing5/mcp-google-sheets"
-      },
-      {
-        "rank": 5,
-        "name": "mcp-gdrive",
-        "author": "isaacphi",
-        "stars": "283",
-        "meta": "TypeScript MCP Server",
-        "description": "Model Context Protocol (MCP) Server for reading from Google Drive and editing Google Sheets",
-        "github_url": "https://github.com/isaacphi/mcp-gdrive"
-      },
-      {
-        "rank": 6,
-        "name": "google-workspace-mcp",
-        "author": "aaronsb",
-        "stars": "189",
-        "meta": "TypeScript MCP Server",
-        "description": "A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality",
-        "github_url": "https://github.com/aaronsb/google-workspace-mcp"
-      },
-      {
-        "rank": 7,
-        "name": "ENZO",
-        "author": "theguysudo",
-        "stars": "111",
-        "meta": "TypeScript MCP Server",
-        "description": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
-        "github_url": "https://github.com/theguysudo/ENZO"
-      },
-      {
-        "rank": 8,
-        "name": "ggsrun",
-        "author": "tanaikech",
-        "stars": "171",
-        "meta": "Go MCP Server",
-        "description": "High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, and manage Drive infrastructure.",
-        "github_url": "https://github.com/tanaikech/ggsrun"
-      },
-      {
-        "rank": 9,
-        "name": "OpenDocuments",
-        "author": "joungminsung",
-        "stars": "103",
-        "meta": "TypeScript MCP Server",
-        "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
-        "github_url": "https://github.com/joungminsung/OpenDocuments"
-      },
-      {
-        "rank": 10,
-        "name": "notebooklm-wiki-pipeline",
-        "author": "capitalparser",
-        "stars": "90",
-        "meta": "Python MCP Server",
-        "description": "Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context",
-        "github_url": "https://github.com/capitalparser/notebooklm-wiki-pipeline"
-      }
-    ]
+    "tools": []
   },
   {
     "title": "Best AI Agent Skills for Code Review in 2026",
@@ -811,101 +138,9 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "72.9k",
-      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),",
-      "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      "stars": "73.1k",
+      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),"
     },
-    "tools": [
-      {
-        "rank": 1,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "72.9k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
-      },
-      {
-        "rank": 2,
-        "name": "OpenMontage",
-        "author": "calesthio",
-        "stars": "63.1k",
-        "meta": "Python Agent Tool",
-        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-        "github_url": "https://github.com/calesthio/OpenMontage"
-      },
-      {
-        "rank": 3,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "29.1k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
-      },
-      {
-        "rank": 4,
-        "name": "9router",
-        "author": "decolua",
-        "stars": "29.8k",
-        "meta": "JavaScript Codex Skill",
-        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-        "github_url": "https://github.com/decolua/9router"
-      },
-      {
-        "rank": 5,
-        "name": "context-mode",
-        "author": "mksglu",
-        "stars": "25.4k",
-        "meta": "TypeScript MCP Server",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "github_url": "https://github.com/mksglu/context-mode"
-      },
-      {
-        "rank": 6,
-        "name": "mode",
-        "author": "arunalabs",
-        "stars": "70",
-        "meta": "TypeScript Agent Tool",
-        "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
-        "github_url": "https://github.com/arunalabs/mode"
-      },
-      {
-        "rank": 7,
-        "name": "paseo",
-        "author": "getpaseo",
-        "stars": "19.5k",
-        "meta": "TypeScript Codex Skill",
-        "description": "Orchestrate multiple coding agents from desktop and mobile",
-        "github_url": "https://github.com/getpaseo/paseo"
-      },
-      {
-        "rank": 8,
-        "name": "copilot-cli",
-        "author": "github",
-        "stars": "11.2k",
-        "meta": "Shell Agent Tool",
-        "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-        "github_url": "https://github.com/github/copilot-cli"
-      },
-      {
-        "rank": 9,
-        "name": "html-anything",
-        "author": "nexu-io",
-        "stars": "8.8k",
-        "meta": "HTML Claude Skill",
-        "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-        "github_url": "https://github.com/nexu-io/html-anything"
-      },
-      {
-        "rank": 10,
-        "name": "superpowers-zh",
-        "author": "jnMetaCode",
-        "stars": "8.2k",
-        "meta": "JavaScript MCP Server",
-        "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（250k+ ⭐）完整汉化 + 4 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI / Qoder 等 26 款 AI 编程工具真正会干活",
-        "github_url": "https://github.com/jnMetaCode/superpowers-zh"
-      }
-    ]
+    "tools": []
   }
 ]
