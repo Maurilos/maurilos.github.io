@@ -1,12 +1,9 @@
 ---
 layout: page
-title: "Best AI Agent Skills for TypeSafe Jev in 2026"
+title: "Best TypeSafe Jev Skills, Agents & MCP Servers in 2026"
 permalink: /agent-skills/scenario/typesafe-jev/
 ---
 
-# Best AI Agent Skills for TypeSafe Jev in 2026
-
-## Quick Pick
-**jev-ultrafast** · ★ 22.0k · Fastest and cheapest web agent
+# Best TypeSafe Jev Skills, Agents & MCP Servers in 2026
 
 暂无工具数据。

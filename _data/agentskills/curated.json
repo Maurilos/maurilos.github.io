@@ -1,38 +1,26 @@
 [
   {
-    "title": "Best Video Skills for Claude Code & Opus 5.5 in 2026",
+    "title": "Best Remotion Skills & Claude Code Video Tools in 2026",
     "source_url": "https://agentskillshub.top/best/claude-video-skills/",
     "slug": "claude-video-skills",
     "local_url": "/agent-skills/scenario/claude-video-skills/",
-    "quick_pick": {
-      "name": "ClaudeAnimationBase",
-      "stars": "771",
-      "tagline": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush,"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
-    "title": "Best AI Agent Skills for TypeSafe Jev in 2026",
+    "title": "Best TypeSafe Jev Skills, Agents & MCP Servers in 2026",
     "source_url": "https://agentskillshub.top/best/typesafe-jev/",
     "slug": "typesafe-jev",
     "local_url": "/agent-skills/scenario/typesafe-jev/",
-    "quick_pick": {
-      "name": "jev-ultrafast",
-      "stars": "22.0k",
-      "tagline": "Fastest and cheapest web agent"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
-    "title": "Best AI Agent Skills for MCP Database Tools in 2026",
+    "title": "Best Supabase MCP, Postgres MCP & DB MCP Servers in 2026",
     "source_url": "https://agentskillshub.top/best/mcp-database/",
     "slug": "mcp-database",
     "local_url": "/agent-skills/scenario/mcp-database/",
-    "quick_pick": {
-      "name": "OpenViking",
-      "stars": "39.2k",
-      "tagline": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -40,11 +28,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-browser/",
     "slug": "mcp-browser",
     "local_url": "/agent-skills/scenario/mcp-browser/",
-    "quick_pick": {
-      "name": "oya-browser",
-      "stars": "350",
-      "tagline": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, St"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -52,11 +36,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-filesystem/",
     "slug": "mcp-filesystem",
     "local_url": "/agent-skills/scenario/mcp-filesystem/",
-    "quick_pick": {
-      "name": "KeibiDrop",
-      "stars": "61",
-      "tagline": "Share files between devices on demand. They show up as a folder on your computer"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -64,11 +44,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-api/",
     "slug": "mcp-api",
     "local_url": "/agent-skills/scenario/mcp-api/",
-    "quick_pick": {
-      "name": "cortex",
-      "stars": "3.2k",
-      "tagline": "Cortex - Generates interactive API documentation, typed SDKs, and MCP servers fr"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -76,11 +52,7 @@
     "source_url": "https://agentskillshub.top/best/mcp-memory/",
     "slug": "mcp-memory",
     "local_url": "/agent-skills/scenario/mcp-memory/",
-    "quick_pick": {
-      "name": "yantrikdb",
-      "stars": "65",
-      "tagline": "Cognitive memory engine for AI agents — temporal decay, contradiction detection,"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -88,23 +60,15 @@
     "source_url": "https://agentskillshub.top/best/mcp-for-notion/",
     "slug": "mcp-for-notion",
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
-    "quick_pick": {
-      "name": "notion-mcp-server",
-      "stars": "173",
-      "tagline": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
-    "title": "Best AI Agent Skills for MCP Tools for GitHub in 2026",
+    "title": "Best GitHub MCP Servers & Tools in 2026",
     "source_url": "https://agentskillshub.top/best/mcp-for-github/",
     "slug": "mcp-for-github",
     "local_url": "/agent-skills/scenario/mcp-for-github/",
-    "quick_pick": {
-      "name": "octocode-mcp",
-      "stars": "838",
-      "tagline": "MCP server for semantic code research and context generation on real-time using"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -112,23 +76,15 @@
     "source_url": "https://agentskillshub.top/best/mcp-for-google/",
     "slug": "mcp-for-google",
     "local_url": "/agent-skills/scenario/mcp-for-google/",
-    "quick_pick": {
-      "name": "google_workspace_mcp",
-      "stars": "3.3k",
-      "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
-    "title": "Best AI Agent Skills for Code Review in 2026",
+    "title": "Best Claude Code Review Skills & Tools in 2026",
     "source_url": "https://agentskillshub.top/best/code-review/",
     "slug": "code-review",
     "local_url": "/agent-skills/scenario/code-review/",
-    "quick_pick": {
-      "name": "open-code-review",
-      "stars": "43.2k",
-      "tagline": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c"
-    },
+    "quick_pick": {},
     "tools": []
   },
   {
@@ -136,11 +92,7 @@
     "source_url": "https://agentskillshub.top/best/code-completion/",
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
-    "quick_pick": {
-      "name": "OmniRoute",
-      "stars": "73.1k",
-      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free),"
-    },
+    "quick_pick": {},
     "tools": []
   }
 ]

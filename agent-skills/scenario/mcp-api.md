@@ -6,7 +6,4 @@ permalink: /agent-skills/scenario/mcp-api/
 
 # Best AI Agent Skills for MCP API Integration in 2026
 
-## Quick Pick
-**cortex** · ★ 3.2k · Cortex - Generates interactive API documentation, typed SDKs, and MCP servers fr
-
 暂无工具数据。
