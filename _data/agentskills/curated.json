@@ -1,5 +1,13 @@
 [
   {
+    "title": "Best PPT Skills for Codex & Claude Code in 2026",
+    "source_url": "https://agentskillshub.top/best/ppt-presentation/",
+    "slug": "ppt-presentation",
+    "local_url": "/agent-skills/scenario/ppt-presentation/",
+    "quick_pick": {},
+    "tools": []
+  },
+  {
     "title": "Best Remotion Skills & Claude Code Video Tools in 2026",
     "source_url": "https://agentskillshub.top/best/claude-video-skills/",
     "slug": "claude-video-skills",
@@ -16,82 +24,74 @@
     "tools": []
   },
   {
+    "title": "Best Claude Code Hooks, Subagents & Statusline Tools in 2026",
+    "source_url": "https://agentskillshub.top/best/claude-code-hooks/",
+    "slug": "claude-code-hooks",
+    "local_url": "/agent-skills/scenario/claude-code-hooks/",
+    "quick_pick": {},
+    "tools": []
+  },
+  {
+    "title": "Best OpenAI Codex Skills in 2026",
+    "source_url": "https://agentskillshub.top/best/codex-skills/",
+    "slug": "codex-skills",
+    "local_url": "/agent-skills/scenario/codex-skills/",
+    "quick_pick": {},
+    "tools": []
+  },
+  {
+    "title": "Best Claude Design Skills for Frontend & UI in 2026",
+    "source_url": "https://agentskillshub.top/best/ai-design/",
+    "slug": "ai-design",
+    "local_url": "/agent-skills/scenario/ai-design/",
+    "quick_pick": {},
+    "tools": []
+  },
+  {
+    "title": "Best Image Generation Skills for Claude Code in 2026",
+    "source_url": "https://agentskillshub.top/best/image-generation/",
+    "slug": "image-generation",
+    "local_url": "/agent-skills/scenario/image-generation/",
+    "quick_pick": {},
+    "tools": []
+  },
+  {
+    "title": "Best LLM Wiki & AI Knowledge Base Tools in 2026",
+    "source_url": "https://agentskillshub.top/best/knowledge-base/",
+    "slug": "knowledge-base",
+    "local_url": "/agent-skills/scenario/knowledge-base/",
+    "quick_pick": {},
+    "tools": []
+  },
+  {
+    "title": "Best Obsidian MCP, Skills & AI Plugins for Claude in 2026",
+    "source_url": "https://agentskillshub.top/best/obsidian-second-brain/",
+    "slug": "obsidian-second-brain",
+    "local_url": "/agent-skills/scenario/obsidian-second-brain/",
+    "quick_pick": {},
+    "tools": []
+  },
+  {
+    "title": "Best Humanizer Skills & AI Slop Detectors in 2026",
+    "source_url": "https://agentskillshub.top/best/anti-slop/",
+    "slug": "anti-slop",
+    "local_url": "/agent-skills/scenario/anti-slop/",
+    "quick_pick": {},
+    "tools": []
+  },
+  {
+    "title": "Best Claude Skills Managers & CLIs in 2026",
+    "source_url": "https://agentskillshub.top/best/skill-management-tools/",
+    "slug": "skill-management-tools",
+    "local_url": "/agent-skills/scenario/skill-management-tools/",
+    "quick_pick": {},
+    "tools": []
+  },
+  {
     "title": "Best Supabase MCP, Postgres MCP & DB MCP Servers in 2026",
     "source_url": "https://agentskillshub.top/best/mcp-database/",
     "slug": "mcp-database",
     "local_url": "/agent-skills/scenario/mcp-database/",
-    "quick_pick": {},
-    "tools": []
-  },
-  {
-    "title": "Best AI Agent Skills for MCP Browser Automation in 2026",
-    "source_url": "https://agentskillshub.top/best/mcp-browser/",
-    "slug": "mcp-browser",
-    "local_url": "/agent-skills/scenario/mcp-browser/",
-    "quick_pick": {},
-    "tools": []
-  },
-  {
-    "title": "Best AI Agent Skills for MCP Filesystem Tools in 2026",
-    "source_url": "https://agentskillshub.top/best/mcp-filesystem/",
-    "slug": "mcp-filesystem",
-    "local_url": "/agent-skills/scenario/mcp-filesystem/",
-    "quick_pick": {},
-    "tools": []
-  },
-  {
-    "title": "Best AI Agent Skills for MCP API Integration in 2026",
-    "source_url": "https://agentskillshub.top/best/mcp-api/",
-    "slug": "mcp-api",
-    "local_url": "/agent-skills/scenario/mcp-api/",
-    "quick_pick": {},
-    "tools": []
-  },
-  {
-    "title": "Best AI Agent Skills for MCP Memory & Knowledge in 2026",
-    "source_url": "https://agentskillshub.top/best/mcp-memory/",
-    "slug": "mcp-memory",
-    "local_url": "/agent-skills/scenario/mcp-memory/",
-    "quick_pick": {},
-    "tools": []
-  },
-  {
-    "title": "Best AI Agent Skills for MCP Tools for Notion in 2026",
-    "source_url": "https://agentskillshub.top/best/mcp-for-notion/",
-    "slug": "mcp-for-notion",
-    "local_url": "/agent-skills/scenario/mcp-for-notion/",
-    "quick_pick": {},
-    "tools": []
-  },
-  {
-    "title": "Best GitHub MCP Servers & Tools in 2026",
-    "source_url": "https://agentskillshub.top/best/mcp-for-github/",
-    "slug": "mcp-for-github",
-    "local_url": "/agent-skills/scenario/mcp-for-github/",
-    "quick_pick": {},
-    "tools": []
-  },
-  {
-    "title": "Best AI Agent Skills for MCP Tools for Google Services in 2026",
-    "source_url": "https://agentskillshub.top/best/mcp-for-google/",
-    "slug": "mcp-for-google",
-    "local_url": "/agent-skills/scenario/mcp-for-google/",
-    "quick_pick": {},
-    "tools": []
-  },
-  {
-    "title": "Best Claude Code Review Skills & Tools in 2026",
-    "source_url": "https://agentskillshub.top/best/code-review/",
-    "slug": "code-review",
-    "local_url": "/agent-skills/scenario/code-review/",
-    "quick_pick": {},
-    "tools": []
-  },
-  {
-    "title": "Best AI Agent Skills for Code Completion & Generation in 2026",
-    "source_url": "https://agentskillshub.top/best/code-completion/",
-    "slug": "code-completion",
-    "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {},
     "tools": []
   }

@@ -1,5 +1,10 @@
 [
   {
+    "slug": "ppt-presentation",
+    "source_url": "https://agentskillshub.top/best/ppt-presentation/",
+    "local_url": "/agent-skills/scenario/ppt-presentation/"
+  },
+  {
     "slug": "claude-video-skills",
     "source_url": "https://agentskillshub.top/best/claude-video-skills/",
     "local_url": "/agent-skills/scenario/claude-video-skills/"
@@ -10,53 +15,48 @@
     "local_url": "/agent-skills/scenario/typesafe-jev/"
   },
   {
+    "slug": "claude-code-hooks",
+    "source_url": "https://agentskillshub.top/best/claude-code-hooks/",
+    "local_url": "/agent-skills/scenario/claude-code-hooks/"
+  },
+  {
+    "slug": "codex-skills",
+    "source_url": "https://agentskillshub.top/best/codex-skills/",
+    "local_url": "/agent-skills/scenario/codex-skills/"
+  },
+  {
+    "slug": "ai-design",
+    "source_url": "https://agentskillshub.top/best/ai-design/",
+    "local_url": "/agent-skills/scenario/ai-design/"
+  },
+  {
+    "slug": "image-generation",
+    "source_url": "https://agentskillshub.top/best/image-generation/",
+    "local_url": "/agent-skills/scenario/image-generation/"
+  },
+  {
+    "slug": "knowledge-base",
+    "source_url": "https://agentskillshub.top/best/knowledge-base/",
+    "local_url": "/agent-skills/scenario/knowledge-base/"
+  },
+  {
+    "slug": "obsidian-second-brain",
+    "source_url": "https://agentskillshub.top/best/obsidian-second-brain/",
+    "local_url": "/agent-skills/scenario/obsidian-second-brain/"
+  },
+  {
+    "slug": "anti-slop",
+    "source_url": "https://agentskillshub.top/best/anti-slop/",
+    "local_url": "/agent-skills/scenario/anti-slop/"
+  },
+  {
+    "slug": "skill-management-tools",
+    "source_url": "https://agentskillshub.top/best/skill-management-tools/",
+    "local_url": "/agent-skills/scenario/skill-management-tools/"
+  },
+  {
     "slug": "mcp-database",
     "source_url": "https://agentskillshub.top/best/mcp-database/",
     "local_url": "/agent-skills/scenario/mcp-database/"
-  },
-  {
-    "slug": "mcp-browser",
-    "source_url": "https://agentskillshub.top/best/mcp-browser/",
-    "local_url": "/agent-skills/scenario/mcp-browser/"
-  },
-  {
-    "slug": "mcp-filesystem",
-    "source_url": "https://agentskillshub.top/best/mcp-filesystem/",
-    "local_url": "/agent-skills/scenario/mcp-filesystem/"
-  },
-  {
-    "slug": "mcp-api",
-    "source_url": "https://agentskillshub.top/best/mcp-api/",
-    "local_url": "/agent-skills/scenario/mcp-api/"
-  },
-  {
-    "slug": "mcp-memory",
-    "source_url": "https://agentskillshub.top/best/mcp-memory/",
-    "local_url": "/agent-skills/scenario/mcp-memory/"
-  },
-  {
-    "slug": "mcp-for-notion",
-    "source_url": "https://agentskillshub.top/best/mcp-for-notion/",
-    "local_url": "/agent-skills/scenario/mcp-for-notion/"
-  },
-  {
-    "slug": "mcp-for-github",
-    "source_url": "https://agentskillshub.top/best/mcp-for-github/",
-    "local_url": "/agent-skills/scenario/mcp-for-github/"
-  },
-  {
-    "slug": "mcp-for-google",
-    "source_url": "https://agentskillshub.top/best/mcp-for-google/",
-    "local_url": "/agent-skills/scenario/mcp-for-google/"
-  },
-  {
-    "slug": "code-review",
-    "source_url": "https://agentskillshub.top/best/code-review/",
-    "local_url": "/agent-skills/scenario/code-review/"
-  },
-  {
-    "slug": "code-completion",
-    "source_url": "https://agentskillshub.top/best/code-completion/",
-    "local_url": "/agent-skills/scenario/code-completion/"
   }
 ]
