@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Best Claude Code Hooks, Subagents & Statusline Tools in 2026"
+title: "Claude Code Hooks"
 permalink: /agent-skills/scenario/claude-code-hooks/
 ---
 
-# Best Claude Code Hooks, Subagents & Statusline Tools in 2026
+# Claude Code Hooks
 
 暂无工具数据。

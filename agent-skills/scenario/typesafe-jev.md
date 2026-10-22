@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Best TypeSafe Jev Skills, Agents & MCP Servers in 2026"
+title: "Typesafe Jev"
 permalink: /agent-skills/scenario/typesafe-jev/
 ---
 
-# Best TypeSafe Jev Skills, Agents & MCP Servers in 2026
+# Typesafe Jev
 
 暂无工具数据。

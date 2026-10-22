@@ -8,52 +8,58 @@
     "tools": []
   },
   {
-    "title": "Best Remotion Skills & Claude Code Video Tools in 2026",
+    "title": "Claude Video Skills",
     "source_url": "https://agentskillshub.top/best/claude-video-skills/",
     "slug": "claude-video-skills",
     "local_url": "/agent-skills/scenario/claude-video-skills/",
     "quick_pick": {},
-    "tools": []
+    "tools": [],
+    "error": "HTTPSConnectionPool(host='agentskillshub.top', port=443): Max retries exceeded with url: /best/claude-video-skills/ (Caused by NameResolutionError(\"HTTPSConnection(host='agentskillshub.top', port=443): Failed to resolve 'agentskillshub.top' ([Errno -5] No address associated with hostname)\"))"
   },
   {
-    "title": "Best TypeSafe Jev Skills, Agents & MCP Servers in 2026",
+    "title": "Typesafe Jev",
     "source_url": "https://agentskillshub.top/best/typesafe-jev/",
     "slug": "typesafe-jev",
     "local_url": "/agent-skills/scenario/typesafe-jev/",
     "quick_pick": {},
-    "tools": []
+    "tools": [],
+    "error": "HTTPSConnectionPool(host='agentskillshub.top', port=443): Max retries exceeded with url: /best/typesafe-jev/ (Caused by NameResolutionError(\"HTTPSConnection(host='agentskillshub.top', port=443): Failed to resolve 'agentskillshub.top' ([Errno -5] No address associated with hostname)\"))"
   },
   {
-    "title": "Best Claude Code Hooks, Subagents & Statusline Tools in 2026",
+    "title": "Claude Code Hooks",
     "source_url": "https://agentskillshub.top/best/claude-code-hooks/",
     "slug": "claude-code-hooks",
     "local_url": "/agent-skills/scenario/claude-code-hooks/",
     "quick_pick": {},
-    "tools": []
+    "tools": [],
+    "error": "HTTPSConnectionPool(host='agentskillshub.top', port=443): Max retries exceeded with url: /best/claude-code-hooks/ (Caused by NameResolutionError(\"HTTPSConnection(host='agentskillshub.top', port=443): Failed to resolve 'agentskillshub.top' ([Errno -5] No address associated with hostname)\"))"
   },
   {
-    "title": "Best OpenAI Codex Skills in 2026",
+    "title": "Codex Skills",
     "source_url": "https://agentskillshub.top/best/codex-skills/",
     "slug": "codex-skills",
     "local_url": "/agent-skills/scenario/codex-skills/",
     "quick_pick": {},
-    "tools": []
+    "tools": [],
+    "error": "HTTPSConnectionPool(host='agentskillshub.top', port=443): Max retries exceeded with url: /best/codex-skills/ (Caused by NameResolutionError(\"HTTPSConnection(host='agentskillshub.top', port=443): Failed to resolve 'agentskillshub.top' ([Errno -5] No address associated with hostname)\"))"
   },
   {
-    "title": "Best Claude Design Skills for Frontend & UI in 2026",
+    "title": "Ai Design",
     "source_url": "https://agentskillshub.top/best/ai-design/",
     "slug": "ai-design",
     "local_url": "/agent-skills/scenario/ai-design/",
     "quick_pick": {},
-    "tools": []
+    "tools": [],
+    "error": "HTTPSConnectionPool(host='agentskillshub.top', port=443): Max retries exceeded with url: /best/ai-design/ (Caused by NameResolutionError(\"HTTPSConnection(host='agentskillshub.top', port=443): Failed to resolve 'agentskillshub.top' ([Errno -5] No address associated with hostname)\"))"
   },
   {
-    "title": "Best Image Generation Skills for Claude Code in 2026",
+    "title": "Image Generation",
     "source_url": "https://agentskillshub.top/best/image-generation/",
     "slug": "image-generation",
     "local_url": "/agent-skills/scenario/image-generation/",
     "quick_pick": {},
-    "tools": []
+    "tools": [],
+    "error": "HTTPSConnectionPool(host='agentskillshub.top', port=443): Max retries exceeded with url: /best/image-generation/ (Caused by NameResolutionError(\"HTTPSConnection(host='agentskillshub.top', port=443): Failed to resolve 'agentskillshub.top' ([Errno -5] No address associated with hostname)\"))"
   },
   {
     "title": "Best LLM Wiki & AI Knowledge Base Tools in 2026",

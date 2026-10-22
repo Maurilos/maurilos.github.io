@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Best Remotion Skills & Claude Code Video Tools in 2026"
+title: "Claude Video Skills"
 permalink: /agent-skills/scenario/claude-video-skills/
 ---
 
-# Best Remotion Skills & Claude Code Video Tools in 2026
+# Claude Video Skills
 
 暂无工具数据。

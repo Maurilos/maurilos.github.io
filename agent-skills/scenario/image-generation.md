@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Best Image Generation Skills for Claude Code in 2026"
+title: "Image Generation"
 permalink: /agent-skills/scenario/image-generation/
 ---
 
-# Best Image Generation Skills for Claude Code in 2026
+# Image Generation
 
 暂无工具数据。

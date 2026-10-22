@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Best Claude Design Skills for Frontend & UI in 2026"
+title: "Ai Design"
 permalink: /agent-skills/scenario/ai-design/
 ---
 
-# Best Claude Design Skills for Frontend & UI in 2026
+# Ai Design
 
 暂无工具数据。
